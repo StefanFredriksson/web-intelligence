@@ -5,6 +5,7 @@ const port = process.env.port || 3000
 const app = express()
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
+app.use('/', require('./router'))
 
 app.listen(port, () => {
   console.log('Server is running on port ' + port)
