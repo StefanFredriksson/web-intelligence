@@ -1,0 +1,23 @@
+#select-list li {
+  display: inline;
+  margin-left: 20px;
+}
+
+#select-list li div {
+  display: inline;
+}
+
+#select-results {
+  width: 40px;
+}
+
+button {
+  border-radius: 15px;
+  padding: 5px;
+  background-color: rgb(214, 214, 214);
+}
+
+button:hover {
+  background-color: rgb(153, 153, 153);
+  cursor: pointer;
+}
