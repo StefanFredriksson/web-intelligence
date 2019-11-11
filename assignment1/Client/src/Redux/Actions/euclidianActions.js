@@ -22,5 +22,5 @@ export const getRecommendedMovies = () => async dispatch => {
   )
   response = await response.json()
 
-  dispatch({ type: EUCLIDIAN_RECOMMENDED_MOVIES })
+  dispatch({ type: EUCLIDIAN_RECOMMENDED_MOVIES, data: response.message })
 }

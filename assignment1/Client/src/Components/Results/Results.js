@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import MatchingUsers from './MatchingUsers/MatchingUsers'
+import RecommendedMovies from './RecommendedMovies/RecommendedMovies'
 
 export class Results extends Component {
   constructor (props) {
@@ -16,6 +17,12 @@ export class Results extends Component {
         results: <MatchingUsers data={this.props.matchingUsers} />
       })
     }
+
+    if (this.props.recMovies !== prevProps.recMovies) {
+      this.setState({
+        results: <RecommendedMovies data={this.props.recMovies} />
+      })
+    }
   }
 
   render () {
@@ -24,7 +31,8 @@ export class Results extends Component {
 }
 
 const mapStateToProps = state => ({
-  matchingUsers: state.euclidian.matchingUsers
+  matchingUsers: state.euclidian.matchingUsers,
+  recMovies: state.euclidian.recMovies
 })
 
 export default connect(

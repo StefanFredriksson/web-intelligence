@@ -68,7 +68,7 @@ function setWeightedScore (similarities, data) {
   similarities.forEach(similarity => {
     data.ratings.forEach(rating => {
       if (similarity.userId === rating.userId) {
-        rating.weightedScore = similarity.distance.toFixed(2) * rating.rating
+        rating.weightedScore = similarity.distance * rating.rating
       }
     })
   })
@@ -88,7 +88,7 @@ function getWeightedSums (data, id) {
     weightedSums.push({
       title: movie.title,
       movieId: movie.movieId,
-      weightedSum: sum.toFixed(2)
+      weightedSum: sum
     })
   })
 
@@ -104,7 +104,7 @@ function getWeightedSimilarities (data, similarities) {
       if (rating.movieId === movie.movieId && rating.weightedScore) {
         similarities.forEach(sim => {
           if (sim.userId === rating.userId) {
-            sum += Number(sim.distance.toFixed(2))
+            sum += sim.distance
           }
         })
       }
@@ -113,7 +113,7 @@ function getWeightedSimilarities (data, similarities) {
     weightedSims.push({
       title: movie.title,
       movieId: movie.movieId,
-      weightedSim: sum.toFixed(2)
+      weightedSim: sum
     })
   })
 
@@ -126,7 +126,7 @@ function getFinalWeights (weightedScores, weightedSims) {
   weightedScores.forEach(score => {
     weightedSims.forEach(sim => {
       if (score.movieId === sim.movieId) {
-        let weight = Number((score.weightedSum / sim.weightedSim).toFixed(2))
+        let weight = score.weightedSum / sim.weightedSim
         finalWeights.push({
           title: score.title,
           movieId: score.movieId,
