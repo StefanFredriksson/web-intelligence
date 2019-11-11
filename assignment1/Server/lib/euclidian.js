@@ -52,10 +52,16 @@ function getRatingForUsers (data) {
   return users
 }
 
-function getRecommendedMovies (similarities, data) {
+function getRecommendedMovies (similarities, data, id) {
   setWeightedScore(similarities, data)
   let weightedSums = getWeightedSums(data)
   let weightedSims = getWeightedSimilarities(data, similarities)
+  let finalWeights = getFinalWeights(weightedSums, weightedSims)
+  removeAlreadyWatchedMovies(id, finalWeights, data)
+
+  return finalWeights.sort((a, b) => {
+    return b.weight - a.weight
+  })
 }
 
 function setWeightedScore (similarities, data) {
@@ -80,6 +86,7 @@ function getWeightedSums (data, id) {
     })
 
     weightedSums.push({
+      title: movie.title,
       movieId: movie.movieId,
       weightedSum: sum.toFixed(2)
     })
@@ -97,17 +104,49 @@ function getWeightedSimilarities (data, similarities) {
       if (rating.movieId === movie.movieId && rating.weightedScore) {
         similarities.forEach(sim => {
           if (sim.userId === rating.userId) {
-            let distance = Number(sim.distance.toFixed(2))
-            sum += distance
+            sum += Number(sim.distance.toFixed(2))
           }
         })
       }
     })
 
-    weightedSims.push({ movieId: movie.movieId, weightedSim: sum.toFixed(2) })
+    weightedSims.push({
+      title: movie.title,
+      movieId: movie.movieId,
+      weightedSim: sum.toFixed(2)
+    })
   })
 
   return weightedSims
+}
+
+function getFinalWeights (weightedScores, weightedSims) {
+  let finalWeights = []
+
+  weightedScores.forEach(score => {
+    weightedSims.forEach(sim => {
+      if (score.movieId === sim.movieId) {
+        let weight = Number((score.weightedSum / sim.weightedSim).toFixed(2))
+        finalWeights.push({
+          title: score.title,
+          movieId: score.movieId,
+          weight
+        })
+      }
+    })
+  })
+
+  return finalWeights
+}
+
+function removeAlreadyWatchedMovies (id, finalWeights, data) {
+  data.ratings.forEach(rating => {
+    for (let i = finalWeights.length - 1; i >= 0; i--) {
+      if (rating.userId === id && rating.movieId === finalWeights[i].movieId) {
+        finalWeights.splice(i, 1)
+      }
+    }
+  })
 }
 
 module.exports = {
