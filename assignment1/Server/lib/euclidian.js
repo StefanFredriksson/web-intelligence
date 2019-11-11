@@ -8,11 +8,13 @@ function getEuclidianDistance (userId, data) {
   users.forEach(user => {
     if (user.userId !== userId) {
       let distance = calcDistance(mainUser, user)
-      similarities.push({ userId: user.userId, distance })
+      similarities.push({ name: user.name, userId: user.userId, distance })
     }
   })
 
-  return similarities
+  return similarities.sort((a, b) => {
+    return b.distance - a.distance
+  })
 }
 
 function calcDistance (mainUser, user) {
@@ -23,7 +25,7 @@ function calcDistance (mainUser, user) {
     user.ratings.forEach(rating => {
       if (mainRating.movieId === rating.movieId) {
         similarity += Math.pow(
-          Number(mainRating.rating) + Number(rating.rating),
+          Number(mainRating.rating) - Number(rating.rating),
           2
         )
         count++
@@ -31,11 +33,7 @@ function calcDistance (mainUser, user) {
     })
   })
 
-  if (count === 0) {
-    return 0
-  }
-
-  return 1 / (1 + similarity)
+  return count === 0 ? 0 : 1 / (1 + similarity)
 }
 
 function getRatingForUsers (data) {
@@ -48,7 +46,7 @@ function getRatingForUsers (data) {
       }
     })
 
-    users.push({ userId: data.users[i].id, ratings })
+    users.push({ name: data.users[i].name, userId: data.users[i].id, ratings })
   }
 
   return users
