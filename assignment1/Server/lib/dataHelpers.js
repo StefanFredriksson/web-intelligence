@@ -1,6 +1,8 @@
 const fse = require('fs-extra')
+const path = require('path')
 
-async function getData (destination) {
+async function getData () {
+  let destination = path.join(__dirname, '..', 'data', 'movies_example')
   let data = await readFile(destination + '/users.csv')
   let users = getUsers(data)
   data = await readFile(destination + '/ratings.csv')

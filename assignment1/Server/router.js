@@ -1,12 +1,18 @@
 const router = require('express').Router()
-const path = require('path')
-const dataHelpers = require('./lib/dataHelpers')
 
-router.route('/getData').get(async (req, res) => {
-  console.log('called')
-  let destination = path.join(__dirname, 'data', 'movies_large')
-  let data = await dataHelpers.getData(destination)
+const dataHelpers = require('./lib/dataHelpers')
+const euclidian = require('./lib/euclidian')
+
+router.route('/getdata').get(async (req, res) => {
+  let data = await dataHelpers.getData()
   res.json({ message: data })
+})
+
+router.route('/findmovies/:userId').get(async (req, res) => {
+  let data = await dataHelpers.getData()
+  let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+  console.log(distance)
+  res.json({ message: 'hi' })
 })
 
 module.exports = router
