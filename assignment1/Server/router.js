@@ -14,4 +14,11 @@ router.route('/findmatchingusers/:userId&:count').get(async (req, res) => {
   res.json({ message: distance.slice(0, req.params.count) })
 })
 
+router.route('/findrecommendedmovies/:userId&:count').get(async (req, res) => {
+  let data = await dataHelpers.getData()
+  let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+  euclidian.getRecommendedMovies(distance, data)
+  res.json({ message: 'hi' })
+})
+
 module.exports = router

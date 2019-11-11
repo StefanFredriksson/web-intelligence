@@ -3,7 +3,8 @@ import './selection.css'
 import SelectUser from './User/selectUser'
 import SelectSimilarity from './Similarity/selectSimilarity'
 import SelectResults from './Results/selectResults'
-import Movies from './Buttons/Users'
+import Users from './Buttons/Users'
+import Movies from './Buttons/Movies'
 
 export default class selection extends Component {
   render () {
@@ -18,6 +19,9 @@ export default class selection extends Component {
           </li>
           <li>
             <SelectResults />
+          </li>
+          <li>
+            <Users />
           </li>
           <li>
             <Movies />
