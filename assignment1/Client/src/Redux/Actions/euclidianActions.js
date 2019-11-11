@@ -7,8 +7,9 @@ export const getMatchingUsers = () => async dispatch => {
     `http://localhost:4000/findmatchingusers/${userId}&${count}`
   )
   response = await response.json()
-  console.log(response)
+
   dispatch({
-    type: EUCLIDIAN_MATCHING_USERS
+    type: EUCLIDIAN_MATCHING_USERS,
+    data: response.message
   })
 }

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { getMatchingUsers } from '../../../Redux/Actions/euclidianActions'
 
-export class Movies extends Component {
+export class Users extends Component {
   constructor (props) {
     super(props)
 
@@ -16,7 +16,7 @@ export class Movies extends Component {
   render () {
     return (
       <div>
-        <button onClick={this.buttonClicked}>Find recommended movies</button>
+        <button onClick={this.buttonClicked}>Find top matching users</button>
       </div>
     )
   }
@@ -25,4 +25,4 @@ export class Movies extends Component {
 export default connect(
   null,
   { getMatchingUsers }
-)(Movies)
+)(Users)
