@@ -1,13 +1,16 @@
 import React, { Component } from 'react'
+import { connect } from 'react-redux'
+import { getMatchingUsers } from '../../../Redux/Actions/euclidianActions'
 
-export default class movies extends Component {
-  async buttonClicked (event) {
-    let userId = document.querySelector('#select-user').value
-    let count = document.querySelector('#select-results').value
-    let response = await window.fetch(
-      `http://localhost:4000/findmatchingusers/${userId}&${count}`
-    )
-    response = await response.json()
+export class Movies extends Component {
+  constructor (props) {
+    super(props)
+
+    this.buttonClicked = this.buttonClicked.bind(this)
+  }
+
+  buttonClicked (event) {
+    this.props.getMatchingUsers()
   }
 
   render () {
@@ -18,3 +21,8 @@ export default class movies extends Component {
     )
   }
 }
+
+export default connect(
+  null,
+  { getMatchingUsers }
+)(Movies)
