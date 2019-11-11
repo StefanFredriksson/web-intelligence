@@ -2,7 +2,7 @@ import React from 'react'
 import { Provider } from 'react-redux'
 import './App.css'
 import Selection from './Components/Selection/selection.js'
-import Results from './Components/Results/MatchingUsers/MatchingUsers'
+import Results from './Components/Results/Results'
 import store from './Redux/store'
 
 function App () {
