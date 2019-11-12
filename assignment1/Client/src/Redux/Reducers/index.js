@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux'
-import euclidianReducer from './euclidianReducer'
+import requestReducer from './requestReducer'
 
 export default combineReducers({
-  euclidian: euclidianReducer
+  requests: requestReducer
 })

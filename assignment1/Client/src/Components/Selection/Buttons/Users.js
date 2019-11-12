@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { getMatchingUsers } from '../../../Redux/Actions/euclidianActions'
+import { matchingUsers } from '../../../Redux/Actions/requestActions'
 
 export class Users extends Component {
   constructor (props) {
@@ -10,7 +10,7 @@ export class Users extends Component {
   }
 
   buttonClicked (event) {
-    this.props.getMatchingUsers()
+    this.props.matchingUsers()
   }
 
   render () {
@@ -24,5 +24,5 @@ export class Users extends Component {
 
 export default connect(
   null,
-  { getMatchingUsers }
+  { matchingUsers }
 )(Users)

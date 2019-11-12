@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { getRecommendedMovies } from '../../../Redux/Actions/euclidianActions'
+import { recommendedMovies } from '../../../Redux/Actions/requestActions'
 
 export class Movies extends Component {
   constructor (props) {
@@ -10,7 +10,7 @@ export class Movies extends Component {
   }
 
   buttonClicked (event) {
-    this.props.getRecommendedMovies()
+    this.props.recommendedMovies()
   }
 
   render () {
@@ -24,5 +24,5 @@ export class Movies extends Component {
 
 export default connect(
   null,
-  { getRecommendedMovies }
+  { recommendedMovies }
 )(Movies)

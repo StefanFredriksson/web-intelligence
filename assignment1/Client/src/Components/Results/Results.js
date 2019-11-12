@@ -36,8 +36,8 @@ export class Results extends Component {
 }
 
 const mapStateToProps = state => ({
-  matchingUsers: state.euclidian.matchingUsers,
-  recMovies: state.euclidian.recMovies
+  matchingUsers: state.requests.matchingUsers,
+  recMovies: state.requests.recMovies
 })
 
 export default connect(

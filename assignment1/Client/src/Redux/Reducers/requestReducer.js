@@ -1,14 +1,11 @@
-import {
-  EUCLIDIAN_MATCHING_USERS,
-  EUCLIDIAN_RECOMMENDED_MOVIES
-} from '../Actions/types'
+import { MATCHING_USERS, RECOMMENDED_MOVIES } from '../Actions/types'
 
 export default (state = {}, action) => {
   switch (action.type) {
-    case EUCLIDIAN_MATCHING_USERS:
+    case MATCHING_USERS:
       return { matchingUsers: action.data }
 
-    case EUCLIDIAN_RECOMMENDED_MOVIES:
+    case RECOMMENDED_MOVIES:
       return { recMovies: action.data }
 
     default:

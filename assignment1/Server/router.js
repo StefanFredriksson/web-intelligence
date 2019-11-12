@@ -8,31 +8,35 @@ router.route('/getdata').get(async (req, res) => {
   res.json({ message: data })
 })
 
-router.route('/findmatchingusers/:userId&:count').get(async (req, res) => {
-  let data = await dataHelpers.getData()
-  let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+router
+  .route('/euclidian/matchingusers/:userId&:count')
+  .get(async (req, res) => {
+    let data = await dataHelpers.getData()
+    let distance = euclidian.getEuclidianDistance(req.params.userId, data)
 
-  if (req.params.count < distance.length) {
-    distance = distance.slice(0, req.params.count)
-  }
+    if (req.params.count < distance.length) {
+      distance = distance.slice(0, req.params.count)
+    }
 
-  res.json({ message: distance })
-})
+    res.json({ message: distance })
+  })
 
-router.route('/findrecommendedmovies/:userId&:count').get(async (req, res) => {
-  let data = await dataHelpers.getData()
-  let distance = euclidian.getEuclidianDistance(req.params.userId, data)
-  let recMovies = euclidian.getRecommendedMovies(
-    distance,
-    data,
-    req.params.userId
-  )
+router
+  .route('/euclidian/recommendedmovies/:userId&:count')
+  .get(async (req, res) => {
+    let data = await dataHelpers.getData()
+    let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+    let recMovies = euclidian.getRecommendedMovies(
+      distance,
+      data,
+      req.params.userId
+    )
 
-  if (req.params.count < recMovies.length) {
-    recMovies = recMovies.slice(0, req.params.count)
-  }
+    if (req.params.count < recMovies.length) {
+      recMovies = recMovies.slice(0, req.params.count)
+    }
 
-  res.json({ message: recMovies })
-})
+    res.json({ message: recMovies })
+  })
 
 module.exports = router

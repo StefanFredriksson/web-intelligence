@@ -6,8 +6,9 @@ export default class selectSimilarity extends Component {
       <div>
         <label>
           Similarity:{' '}
-          <select>
-            <option>Euclidian</option>
+          <select id='select-similarity'>
+            <option value='euclidian'>Euclidian</option>
+            <option value='pearson'>Pearson</option>
           </select>
         </label>
       </div>
