@@ -1,7 +1,6 @@
 import React from 'react'
 import { Provider } from 'react-redux'
-import './App.css'
-import Selection from './Components/Selection/selection.js'
+import Selection from './Components/Selection/Selection.js'
 import Results from './Components/Results/Results'
 import store from './Redux/store'
 

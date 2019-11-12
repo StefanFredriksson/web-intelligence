@@ -13,13 +13,17 @@ export class Results extends Component {
   }
 
   componentDidUpdate (prevProps) {
-    if (this.props.matchingUsers !== prevProps.matchingUsers) {
+    if (
+      this.props.matchingUsers !== prevProps.matchingUsers &&
+      this.props.matchingUsers
+    ) {
+      console.log('sup')
       this.setState({
         results: <MatchingUsers data={this.props.matchingUsers} />
       })
     }
 
-    if (this.props.recMovies !== prevProps.recMovies) {
+    if (this.props.recMovies !== prevProps.recMovies && this.props.recMovies) {
       this.setState({
         results: <RecommendedMovies data={this.props.recMovies} />
       })

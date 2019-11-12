@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
-import './selection.css'
-import SelectUser from './User/selectUser'
-import SelectSimilarity from './Similarity/selectSimilarity'
-import SelectResults from './Results/selectResults'
+import './Selection.css'
+import SelectUser from './User/SelectUser'
+import SelectSimilarity from './Similarity/SelectSimilarity'
+import SelectResults from './Results/SelectResults'
 import Users from './Buttons/Users'
 import Movies from './Buttons/Movies'
 
-export default class selection extends Component {
+export default class Selection extends Component {
   render () {
     return (
-      <div>
+      <div id='selection-div'>
         <ul id='select-list'>
           <li>
             <SelectUser />

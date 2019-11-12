@@ -6,7 +6,7 @@ export default class RecommendedMovies extends Component {
   }
 
   componentDidUpdate (prevProps) {
-    if (this.props.data !== prevProps.data) {
+    if (this.props.data !== prevProps.data && this.props.data) {
       this.clearTable()
       this.renderTable(this.props.data)
     }
