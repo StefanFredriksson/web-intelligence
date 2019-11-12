@@ -1,9 +1,9 @@
-#select-list li {
+#select-list li, #results-list li {
   display: inline;
   margin-left: 20px;
 }
 
-#select-list li div {
+#select-list li div, #results-list li div {
   display: inline;
 }
 

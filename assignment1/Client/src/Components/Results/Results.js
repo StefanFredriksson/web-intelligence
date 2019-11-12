@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
+import './Results.css'
 import MatchingUsers from './MatchingUsers/MatchingUsers'
 import RecommendedMovies from './RecommendedMovies/RecommendedMovies'
 

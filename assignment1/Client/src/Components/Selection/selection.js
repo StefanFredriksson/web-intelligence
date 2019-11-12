@@ -20,6 +20,8 @@ export default class selection extends Component {
           <li>
             <SelectResults />
           </li>
+        </ul>
+        <ul id='results-list'>
           <li>
             <Users />
           </li>

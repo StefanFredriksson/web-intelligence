@@ -41,7 +41,7 @@ export default class MatchingUsers extends Component {
 
   render () {
     return (
-      <div>
+      <div className='results-table'>
         <table id='matching-users-table'>
           <thead>
             <tr>
