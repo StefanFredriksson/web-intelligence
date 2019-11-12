@@ -43,12 +43,30 @@ router
 router.route('/pearson/matchingusers/:userId&:count').get(async (req, res) => {
   let data = await dataHelpers.getData()
   let scores = pearson.getPearsonScores(req.params.userId, data)
-  console.log(scores)
+
   if (scores.length > req.params.count) {
     scores = scores.slice(0, req.params.count)
   }
 
   res.json({ message: scores })
 })
+
+router
+  .route('/pearson/recommendedmovies/:userId&:count')
+  .get(async (req, res) => {
+    let data = await dataHelpers.getData()
+    let scores = pearson.getPearsonScores(req.params.userId, data)
+    let recMovies = pearson.getRecommendedMovies(
+      scores,
+      data,
+      req.params.userId
+    )
+
+    if (req.params.count < recMovies.length) {
+      recMovies = recMovies.slice(0, req.params.count)
+    }
+
+    res.json({ message: recMovies })
+  })
 
 module.exports = router

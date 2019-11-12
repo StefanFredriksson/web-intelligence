@@ -1,8 +1,9 @@
-const helper = require('./dataHelpers')
+const dataHelper = require('./dataHelpers')
+const calcHelper = require('./calcHelpers')
 
 function getPearsonScores (userId, data) {
   let scores = []
-  let ratings = helper.getRatingForUsers(data)
+  let ratings = dataHelper.getRatingForUsers(data)
   let mainUser = ratings.find(user => {
     return user.userId === userId
   })
@@ -56,6 +57,19 @@ function calcPearsonScore (mainUser, user) {
   return num / den
 }
 
+function getRecommendedMovies (scores, data, id) {
+  calcHelper.setWeightedScore(scores, data, true)
+  let sums = calcHelper.getWeightedSums(data)
+  let sims = calcHelper.getWeightedSimilarities(data, scores)
+  let finalScores = calcHelper.getFinalWeights(sums, sims)
+  calcHelper.removeAlreadyWatchedMovies(id, finalScores, data)
+
+  return finalScores.sort((a, b) => {
+    return b.weight - a.weight
+  })
+}
+
 module.exports = {
-  getPearsonScores
+  getPearsonScores,
+  getRecommendedMovies
 }
