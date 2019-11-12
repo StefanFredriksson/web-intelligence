@@ -29,7 +29,7 @@ export default class RecommendedMovies extends Component {
       let id = document.createElement('td')
       let score = document.createElement('td')
 
-      movieTitle.innerText = movie.title
+      movieTitle.innerText = movie.title.replace(/"/g, '')
       id.innerText = movie.movieId
       score.innerText = movie.weight.toFixed(4)
       tableRow.appendChild(movieTitle)

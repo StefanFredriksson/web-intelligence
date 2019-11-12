@@ -62,7 +62,12 @@ function getFinalWeights (weightedScores, weightedSims) {
   weightedScores.forEach(score => {
     weightedSims.forEach(sim => {
       if (score.movieId === sim.movieId) {
-        let weight = score.weightedSum / sim.weightedSim
+        let weight = 0
+
+        if (sim.weightedSim !== 0) {
+          weight = score.weightedSum / sim.weightedSim
+        }
+
         finalWeights.push({
           title: score.title,
           movieId: score.movieId,
