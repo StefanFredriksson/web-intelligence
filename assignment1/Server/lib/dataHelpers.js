@@ -2,7 +2,7 @@ const fse = require('fs-extra')
 const path = require('path')
 
 async function getData () {
-  let destination = path.join(__dirname, '..', 'data', 'movies_large')
+  let destination = path.join(__dirname, '..', 'data', 'movies_example')
   let data = await readFile(destination + '/users.csv')
   let users = getUsers(data)
   data = await readFile(destination + '/ratings.csv')
@@ -82,6 +82,23 @@ function getMovies (data) {
   return movies
 }
 
+function getRatingForUsers (data) {
+  let users = []
+
+  for (let i = 0; i < data.users.length; i++) {
+    let ratings = data.ratings.filter(value => {
+      if (value.userId === data.users[i].id) {
+        return value
+      }
+    })
+
+    users.push({ name: data.users[i].name, userId: data.users[i].id, ratings })
+  }
+
+  return users
+}
+
 module.exports = {
-  getData
+  getData,
+  getRatingForUsers
 }

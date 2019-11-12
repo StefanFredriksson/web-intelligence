@@ -1,6 +1,8 @@
+const helper = require('./dataHelpers')
+
 function getEuclidianDistance (userId, data) {
   let similarities = []
-  let users = getRatingForUsers(data)
+  let users = helper.getRatingForUsers(data)
   let mainUser = users.find(user => {
     return user.userId === userId
   })
@@ -34,22 +36,6 @@ function calcDistance (mainUser, user) {
   })
 
   return count === 0 ? 0 : 1 / (1 + similarity)
-}
-
-function getRatingForUsers (data) {
-  let users = []
-
-  for (let i = 0; i < data.users.length; i++) {
-    let ratings = data.ratings.filter(value => {
-      if (value.userId === data.users[i].id) {
-        return value
-      }
-    })
-
-    users.push({ name: data.users[i].name, userId: data.users[i].id, ratings })
-  }
-
-  return users
 }
 
 function getRecommendedMovies (similarities, data, id) {

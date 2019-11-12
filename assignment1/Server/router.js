@@ -2,6 +2,7 @@ const router = require('express').Router()
 
 const dataHelpers = require('./lib/dataHelpers')
 const euclidian = require('./lib/euclidian')
+const pearson = require('./lib/pearson')
 
 router.route('/getdata').get(async (req, res) => {
   let data = await dataHelpers.getData()
@@ -38,5 +39,16 @@ router
 
     res.json({ message: recMovies })
   })
+
+router.route('/pearson/matchingusers/:userId&:count').get(async (req, res) => {
+  let data = await dataHelpers.getData()
+  let scores = pearson.getPearsonScores(req.params.userId, data)
+  console.log(scores)
+  if (scores.length > req.params.count) {
+    scores = scores.slice(0, req.params.count)
+  }
+
+  res.json({ message: scores })
+})
 
 module.exports = router
