@@ -1,4 +1,4 @@
-const dataHelper = require('./dataHelpers')
+const calcHelper = require('./calcHelpers')
 
 function getSimilarities (data, id) {
   let ratings = getRatingForMovies(data)
@@ -26,18 +26,49 @@ function getSimilarities (data, id) {
 
 function getRecommendedMovies (sims, data, id) {
   let recMovies = []
+  let sums = getSums(sims, data)
+
+  sums.forEach(sum => {
+    let finalScore = sum.scoreSum / sum.scoreSim
+
+    recMovies.push({
+      title: sum.title,
+      movieId: sum.movieId,
+      weight: finalScore
+    })
+  })
+
+  calcHelper.removeAlreadyWatchedMovies(id, recMovies, data)
+
+  return recMovies.sort((a, b) => {
+    return b.weight - a.weight
+  })
 }
 
-function setWeightedScores (sims, data) {
+function getSums (sims, data) {
+  let sums = []
+
   data.movies.forEach(movie => {
+    let scoreSum = 0
+    let scoreSim = 0
     sims.forEach(sim => {
       sim.similarities.forEach(similarity => {
         if (similarity.movieId === movie.movieId) {
-          similarity.wScore = sim.rating * similarity.distance
+          scoreSum += sim.rating * similarity.distance
+          scoreSim += similarity.distance
         }
       })
     })
+
+    sums.push({
+      title: movie.title,
+      movieId: movie.movieId,
+      scoreSum,
+      scoreSim
+    })
   })
+
+  return sums
 }
 
 function getRatingsForUsersMovies (user, ratings) {

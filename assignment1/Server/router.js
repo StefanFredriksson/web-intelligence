@@ -75,9 +75,17 @@ router
   .get(async (req, res) => {
     let data = await dataHelpers.getData()
     let sims = itemBased.getSimilarities(data, req.params.userId)
-    let recMovies = itemBased.getRecommendedMovies(sims, data, req.params.id)
+    let recMovies = itemBased.getRecommendedMovies(
+      sims,
+      data,
+      req.params.userId
+    )
 
-    res.json({ message: [] })
+    if (req.params.count < recMovies.length) {
+      recMovies = recMovies.slice(0, req.params.count)
+    }
+
+    res.json({ message: recMovies })
   })
 
 module.exports = router
