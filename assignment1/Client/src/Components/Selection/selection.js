@@ -5,6 +5,7 @@ import SelectSimilarity from './Similarity/SelectSimilarity'
 import SelectResults from './Results/SelectResults'
 import Users from './Buttons/Users'
 import Movies from './Buttons/Movies'
+import ItemBased from './Buttons/ItemBased'
 
 export default class Selection extends Component {
   render () {
@@ -27,6 +28,9 @@ export default class Selection extends Component {
           </li>
           <li>
             <Movies />
+          </li>
+          <li>
+            <ItemBased />
           </li>
         </ul>
       </div>

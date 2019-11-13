@@ -3,6 +3,7 @@ const router = require('express').Router()
 const dataHelpers = require('./lib/dataHelpers')
 const euclidian = require('./lib/euclidian')
 const pearson = require('./lib/pearson')
+const itemBased = require('./lib/itemBased')
 
 router.route('/getdata').get(async (req, res) => {
   let data = await dataHelpers.getData()
@@ -67,6 +68,16 @@ router
     }
 
     res.json({ message: recMovies })
+  })
+
+router
+  .route('/item-based/recommendedMovies/:userId&:count')
+  .get(async (req, res) => {
+    let data = await dataHelpers.getData()
+    let sims = itemBased.getSimilarities(data, req.params.userId)
+    let recMovies = itemBased.getRecommendedMovies(sims, data, req.params.id)
+
+    res.json({ message: [] })
   })
 
 module.exports = router
