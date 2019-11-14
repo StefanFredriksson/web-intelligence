@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#container {
+  height: 100vh;
+  position: relative;
+}
+
+#app {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background: linear-gradient(to bottom, white, black);
+  border-radius: 20px;
+  padding: 10px;
+}

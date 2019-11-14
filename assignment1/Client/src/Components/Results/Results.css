@@ -13,5 +13,6 @@ table tr td {
   text-align: left;
   padding: 3px;
   border: 1px solid black;
+  background: white;
   min-width: 50px;
 }

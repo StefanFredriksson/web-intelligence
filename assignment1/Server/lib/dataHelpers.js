@@ -5,7 +5,7 @@ const path = require('path')
  * Reads data from files and returns it as an object.
  */
 async function getData () {
-  let destination = path.join(__dirname, '..', 'data', 'movies_example')
+  let destination = path.join(__dirname, '..', 'data', 'movies_large')
 
   let data = await readFile(destination + '/users.csv')
   let users = getUsers(data)

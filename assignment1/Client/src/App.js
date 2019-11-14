@@ -7,9 +7,11 @@ import store from './Redux/store'
 function App () {
   return (
     <Provider store={store}>
-      <div className='App'>
-        <Selection />
-        <Results />
+      <div id='container'>
+        <div id='app'>
+          <Selection />
+          <Results />
+        </div>
       </div>
     </Provider>
   )
