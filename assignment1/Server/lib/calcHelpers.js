@@ -1,3 +1,10 @@
+/**
+ * Sets weighted scores (rating * similarity) for each user's ratings.
+ * Can be used for both euclidian and pearson calculations.
+ * @param {[{}]} similarities The similarity scores.
+ * @param {{}} data The data containing all the ratings.
+ * @param {Boolean} isPearson Checks to see which algorithm is being used.
+ */
 function setWeightedScore (similarities, data, isPearson) {
   similarities.forEach(similarity => {
     data.ratings.forEach(rating => {
@@ -10,6 +17,10 @@ function setWeightedScore (similarities, data, isPearson) {
   })
 }
 
+/**
+ * Calculates the sum of every movie's weighted score.
+ * @param {{}} data The data containing all the weighted scores.
+ */
 function getWeightedSums (data) {
   let weightedSums = []
   data.movies.forEach(movie => {
@@ -31,8 +42,13 @@ function getWeightedSums (data) {
   return weightedSums
 }
 
-function getWeightedSimilarities (data, similarities) {
-  let weightedSims = []
+/**
+ * Calculates the sum of similarities for each movie.
+ * @param {{}} data The data containing all the movies.
+ * @param {[{}]} similarities The data containing all the similarities.
+ */
+function getSimilaritiesSum (data, similarities) {
+  let simsSum = []
 
   data.movies.forEach(movie => {
     let sum = 0
@@ -46,45 +62,56 @@ function getWeightedSimilarities (data, similarities) {
       }
     })
 
-    weightedSims.push({
+    simsSum.push({
       title: movie.title,
       movieId: movie.movieId,
-      weightedSim: sum
+      simSum: sum
     })
   })
 
-  return weightedSims
+  return simsSum
 }
 
-function getFinalWeights (weightedScores, weightedSims) {
-  let finalWeights = []
+/**
+ * Calculates the final score used when determining which movie to recommend.
+ * @param {[{}]} weightedScores Data containing all the weighted score sums.
+ * @param {[{}]} simsSum Data containing the sum of all the similarities for each movie.
+ */
+function getFinalScores (weightedScores, simsSum) {
+  let finalScores = []
 
   weightedScores.forEach(score => {
-    weightedSims.forEach(sim => {
+    simsSum.forEach(sim => {
       if (score.movieId === sim.movieId) {
-        let weight = 0
+        let finalScore = 0
 
         if (sim.weightedSim !== 0) {
-          weight = score.weightedSum / sim.weightedSim
+          finalScore = score.weightedSum / sim.simSum
         }
 
-        finalWeights.push({
+        finalScores.push({
           title: score.title,
           movieId: score.movieId,
-          weight
+          score: finalScore
         })
       }
     })
   })
 
-  return finalWeights
+  return finalScores
 }
 
-function removeAlreadyWatchedMovies (id, finalWeights, data) {
+/**
+ * Removes movies from the recommended list if the user has already watched them.
+ * @param {String} id The id of the user.
+ * @param {[{}]} finalScores The list of recommended movies.
+ * @param {{}} data Data containing which movies the user has watched/rated.
+ */
+function removeAlreadyWatchedMovies (id, finalScores, data) {
   data.ratings.forEach(rating => {
-    for (let i = finalWeights.length - 1; i >= 0; i--) {
-      if (rating.userId === id && rating.movieId === finalWeights[i].movieId) {
-        finalWeights.splice(i, 1)
+    for (let i = finalScores.length - 1; i >= 0; i--) {
+      if (rating.userId === id && rating.movieId === finalScores[i].movieId) {
+        finalScores.splice(i, 1)
       }
     }
   })
@@ -92,8 +119,8 @@ function removeAlreadyWatchedMovies (id, finalWeights, data) {
 
 module.exports = {
   getWeightedSums,
-  getWeightedSimilarities,
-  getFinalWeights,
+  getSimilaritiesSum,
+  getFinalScores,
   removeAlreadyWatchedMovies,
   setWeightedScore
 }

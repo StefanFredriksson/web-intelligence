@@ -14,13 +14,10 @@ router
   .route('/euclidian/matchingusers/:userId&:count')
   .get(async (req, res) => {
     let data = await dataHelpers.getData()
-    let similarity = euclidian.getEuclidianSimilarity(req.params.userId, data)
+    let sims = euclidian.getEuclidianSimilarity(req.params.userId, data)
+    sims = dataHelpers.trimList(sims, req.params.count)
 
-    if (req.params.count < similarity.length) {
-      similarity = similarity.slice(0, req.params.count)
-    }
-
-    res.json({ message: similarity })
+    res.json({ message: sims })
   })
 
 router
@@ -33,39 +30,26 @@ router
       data,
       req.params.userId
     )
-
-    if (req.params.count < recMovies.length) {
-      recMovies = recMovies.slice(0, req.params.count)
-    }
+    recMovies = dataHelpers.trimList(recMovies, req.params.count)
 
     res.json({ message: recMovies })
   })
 
 router.route('/pearson/matchingusers/:userId&:count').get(async (req, res) => {
   let data = await dataHelpers.getData()
-  let scores = pearson.getPearsonScores(req.params.userId, data)
+  let sims = pearson.getPearsonSimilarity(req.params.userId, data)
+  sims = dataHelpers.trimList(sims, req.params.count)
 
-  if (scores.length > req.params.count) {
-    scores = scores.slice(0, req.params.count)
-  }
-
-  res.json({ message: scores })
+  res.json({ message: sims })
 })
 
 router
   .route('/pearson/recommendedmovies/:userId&:count')
   .get(async (req, res) => {
     let data = await dataHelpers.getData()
-    let scores = pearson.getPearsonScores(req.params.userId, data)
-    let recMovies = pearson.getRecommendedMovies(
-      scores,
-      data,
-      req.params.userId
-    )
-
-    if (req.params.count < recMovies.length) {
-      recMovies = recMovies.slice(0, req.params.count)
-    }
+    let sims = pearson.getPearsonSimilarity(req.params.userId, data)
+    let recMovies = pearson.getRecommendedMovies(sims, data, req.params.userId)
+    recMovies = dataHelpers.trimList(recMovies, req.params.count)
 
     res.json({ message: recMovies })
   })
@@ -80,10 +64,7 @@ router
       data,
       req.params.userId
     )
-
-    if (req.params.count < recMovies.length) {
-      recMovies = recMovies.slice(0, req.params.count)
-    }
+    recMovies = dataHelpers.trimList(recMovies, req.params.count)
 
     res.json({ message: recMovies })
   })

@@ -1,8 +1,12 @@
 const fse = require('fs-extra')
 const path = require('path')
 
+/**
+ * Reads data from files and returns it as an object.
+ */
 async function getData () {
   let destination = path.join(__dirname, '..', 'data', 'movies_example')
+
   let data = await readFile(destination + '/users.csv')
   let users = getUsers(data)
   data = await readFile(destination + '/ratings.csv')
@@ -13,6 +17,10 @@ async function getData () {
   return { users, ratings, movies }
 }
 
+/**
+ * Reads text from a file and returns it.
+ * @param {String} destination Path to the file.
+ */
 async function readFile (destination) {
   return new Promise((resolve, reject) => {
     fse.readFile(destination, (err, data) => {
@@ -25,6 +33,10 @@ async function readFile (destination) {
   })
 }
 
+/**
+ * Extracts users from a string object.
+ * @param {String} data String containing all the users.
+ */
 function getUsers (data) {
   data = data.split('\n')
   let users = []
@@ -42,6 +54,10 @@ function getUsers (data) {
   return users
 }
 
+/**
+ * Extracts ratings from a string.
+ * @param {String} data The data containing all the ratings.
+ */
 function getRatings (data) {
   data = data.split('\n')
   let ratings = []
@@ -62,6 +78,10 @@ function getRatings (data) {
   return ratings
 }
 
+/**
+ * Extracts movies from a string.
+ * @param {String} data String containing all the movies.
+ */
 function getMovies (data) {
   data = data.split('\n')
   let movies = []
@@ -81,6 +101,10 @@ function getMovies (data) {
   return movies
 }
 
+/**
+ * Gets all the ratings each user has made.
+ * @param {{}} data The data containing all the users and ratings.
+ */
 function getRatingForUsers (data) {
   let users = []
 
@@ -97,7 +121,21 @@ function getRatingForUsers (data) {
   return users
 }
 
+/**
+ * Removes elements in a list up to but not including the specified index.
+ * @param {[]} list The list to trim.
+ * @param {Number} count Number of elements to remove.
+ */
+function trimList (list, count) {
+  if (count < list.length && count >= 0) {
+    list = list.slice(0, count)
+  }
+
+  return list
+}
+
 module.exports = {
   getData,
-  getRatingForUsers
+  getRatingForUsers,
+  trimList
 }

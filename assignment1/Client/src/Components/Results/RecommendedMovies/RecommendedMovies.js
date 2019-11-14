@@ -31,7 +31,7 @@ export default class RecommendedMovies extends Component {
 
       movieTitle.innerText = movie.title.replace(/"/g, '')
       id.innerText = movie.movieId
-      score.innerText = movie.weight.toFixed(4)
+      score.innerText = movie.score.toFixed(4)
       tableRow.appendChild(movieTitle)
       tableRow.appendChild(id)
       tableRow.appendChild(score)

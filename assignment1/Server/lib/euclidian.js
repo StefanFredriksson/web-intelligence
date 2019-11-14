@@ -1,6 +1,11 @@
 const dataHelper = require('./dataHelpers')
 const calcHelper = require('./calcHelpers')
 
+/**
+ * Gets the similarities between users based on the euclidian algorithm.
+ * @param {String} userId The user to compare other users too.
+ * @param {{}} data Data containing all the users, ratings and movies.
+ */
 function getEuclidianSimilarity (userId, data) {
   let similarities = []
   let users = dataHelper.getRatingForUsers(data)
@@ -20,6 +25,11 @@ function getEuclidianSimilarity (userId, data) {
   })
 }
 
+/**
+ * Calculates the similarity between two users using the euclidian algorithm.
+ * @param {{}} mainUser The user which was chosen on the client.
+ * @param {{}} user User to compare to the main user.
+ */
 function calcSimilarity (mainUser, user) {
   let similarity = 0
   let count = 0
@@ -39,15 +49,22 @@ function calcSimilarity (mainUser, user) {
   return count === 0 ? 0 : 1 / (1 + similarity)
 }
 
+/**
+ * Finds and returns a list of recommended movies for a certain user.
+ * The list will be in descending order based on the scores.
+ * @param {[{}]} similarities The similarities between users.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ * @param {String} id The id of the chosen user.
+ */
 function getRecommendedMovies (similarities, data, id) {
   calcHelper.setWeightedScore(similarities, data, false)
   let weightedSums = calcHelper.getWeightedSums(data)
-  let weightedSims = calcHelper.getWeightedSimilarities(data, similarities)
-  let finalWeights = calcHelper.getFinalWeights(weightedSums, weightedSims)
+  let weightedSims = calcHelper.getSimilaritiesSum(data, similarities)
+  let finalWeights = calcHelper.getFinalScores(weightedSums, weightedSims)
   calcHelper.removeAlreadyWatchedMovies(id, finalWeights, data)
 
   return finalWeights.sort((a, b) => {
-    return b.weight - a.weight
+    return b.score - a.score
   })
 }
 

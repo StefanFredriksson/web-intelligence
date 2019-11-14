@@ -1,5 +1,11 @@
 const calcHelper = require('./calcHelpers')
 
+/**
+ * Finds the similarities between movies which the chosen
+ * user has watched and the rest of the movies.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ * @param {String} id Id of the chosen user.
+ */
 function getSimilarities (data, id) {
   let ratings = getRatingForMovies(data)
   let user = getMoviesWatched(data, id)
@@ -24,6 +30,12 @@ function getSimilarities (data, id) {
   return user
 }
 
+/**
+ * Retrieves the recommended movies for a given user.
+ * @param {[{}]} sims Similarities between movies.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ * @param {String} id Id of the chosen user.
+ */
 function getRecommendedMovies (sims, data, id) {
   let recMovies = []
   let sums = getSums(sims, data)
@@ -34,17 +46,22 @@ function getRecommendedMovies (sims, data, id) {
     recMovies.push({
       title: sum.title,
       movieId: sum.movieId,
-      weight: finalScore
+      score: finalScore
     })
   })
 
   calcHelper.removeAlreadyWatchedMovies(id, recMovies, data)
 
   return recMovies.sort((a, b) => {
-    return b.weight - a.weight
+    return b.score - a.score
   })
 }
 
+/**
+ * Calculates the weighted score sum as well as the similarity sum for each movie.
+ * @param {[{}]} sims Similarities between movies.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ */
 function getSums (sims, data) {
   let sums = []
 
@@ -71,6 +88,11 @@ function getSums (sims, data) {
   return sums
 }
 
+/**
+ * Gets the ratings from every user for each movie which the chosen user has watched/rated.
+ * @param {[{}]} user The ratings which the chosen user has made.
+ * @param {[{}]} ratings The ratings made by every user for each movie.
+ */
 function getRatingsForUsersMovies (user, ratings) {
   let tempUser = []
 
@@ -90,6 +112,10 @@ function getRatingsForUsersMovies (user, ratings) {
   return tempUser
 }
 
+/**
+ * Finds the ratings made by every user for each movie.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ */
 function getRatingForMovies (data) {
   let movies = []
 
@@ -106,6 +132,11 @@ function getRatingForMovies (data) {
   return movies
 }
 
+/**
+ * Gets the movies rated/watched by the given user.
+ * @param {{}} data Data containing all the users, movies and ratings.
+ * @param {String} id Id of the chosen user.
+ */
 function getMoviesWatched (data, id) {
   return data.ratings.filter(value => {
     if (value.userId === id) {
@@ -114,6 +145,11 @@ function getMoviesWatched (data, id) {
   })
 }
 
+/**
+ * Calculates the similarities between movies using the euclidian algorithm.
+ * @param {{}} userRating One of the movies the chosen user has watched/rated.
+ * @param {{}} movieRating Movie to compare with.
+ */
 function calcSimilarity (userRating, movieRating) {
   let similarity = 0
   let count = 0
