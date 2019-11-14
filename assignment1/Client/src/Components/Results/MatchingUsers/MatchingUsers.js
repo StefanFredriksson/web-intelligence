@@ -31,7 +31,7 @@ export default class MatchingUsers extends Component {
 
       name.innerText = user.name
       id.innerText = user.userId
-      score.innerText = Number(user.distance).toFixed(4)
+      score.innerText = Number(user.similarity).toFixed(4)
       tableRow.appendChild(name)
       tableRow.appendChild(id)
       tableRow.appendChild(score)

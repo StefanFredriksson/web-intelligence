@@ -13,7 +13,7 @@ function getSimilarities (data, id) {
         sims.push({
           title: movieRating.title,
           movieId: movieRating.movieId,
-          distance: sim
+          similarity: sim
         })
       }
     })
@@ -54,8 +54,8 @@ function getSums (sims, data) {
     sims.forEach(sim => {
       sim.similarities.forEach(similarity => {
         if (similarity.movieId === movie.movieId) {
-          scoreSum += sim.rating * similarity.distance
-          scoreSim += similarity.distance
+          scoreSum += sim.rating * similarity.similarity
+          scoreSim += similarity.similarity
         }
       })
     })

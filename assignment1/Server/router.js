@@ -14,22 +14,22 @@ router
   .route('/euclidian/matchingusers/:userId&:count')
   .get(async (req, res) => {
     let data = await dataHelpers.getData()
-    let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+    let similarity = euclidian.getEuclidianSimilarity(req.params.userId, data)
 
-    if (req.params.count < distance.length) {
-      distance = distance.slice(0, req.params.count)
+    if (req.params.count < similarity.length) {
+      similarity = similarity.slice(0, req.params.count)
     }
 
-    res.json({ message: distance })
+    res.json({ message: similarity })
   })
 
 router
   .route('/euclidian/recommendedmovies/:userId&:count')
   .get(async (req, res) => {
     let data = await dataHelpers.getData()
-    let distance = euclidian.getEuclidianDistance(req.params.userId, data)
+    let similarity = euclidian.getEuclidianSimilarity(req.params.userId, data)
     let recMovies = euclidian.getRecommendedMovies(
-      distance,
+      similarity,
       data,
       req.params.userId
     )

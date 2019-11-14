@@ -2,8 +2,8 @@ function setWeightedScore (similarities, data, isPearson) {
   similarities.forEach(similarity => {
     data.ratings.forEach(rating => {
       if (similarity.userId === rating.userId) {
-        if (!isPearson || (isPearson && similarity.distance >= 0)) {
-          rating.weightedScore = similarity.distance * rating.rating
+        if (!isPearson || (isPearson && similarity.similarity >= 0)) {
+          rating.weightedScore = similarity.similarity * rating.rating
         }
       }
     })
@@ -40,7 +40,7 @@ function getWeightedSimilarities (data, similarities) {
       if (rating.movieId === movie.movieId && rating.weightedScore) {
         similarities.forEach(sim => {
           if (sim.userId === rating.userId) {
-            sum += sim.distance
+            sum += sim.similarity
           }
         })
       }

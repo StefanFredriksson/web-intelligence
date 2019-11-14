@@ -71,10 +71,9 @@ function getMovies (data) {
       let info = data[i].split(';')
       let movieId = info[0]
       let title = info[1]
-      let year = info[2]
 
       if (!isNaN(movieId)) {
-        movies.push({ movieId, title, year })
+        movies.push({ movieId, title })
       }
     }
   }

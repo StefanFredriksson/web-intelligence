@@ -11,12 +11,16 @@ function getPearsonScores (userId, data) {
   ratings.forEach(rating => {
     if (rating.userId !== userId) {
       let score = calcPearsonScore(mainUser, rating)
-      scores.push({ name: rating.name, userId: rating.userId, distance: score })
+      scores.push({
+        name: rating.name,
+        userId: rating.userId,
+        similarity: score
+      })
     }
   })
 
   return scores.sort((a, b) => {
-    return b.distance - a.distance
+    return b.similarity - a.similarity
   })
 }
 

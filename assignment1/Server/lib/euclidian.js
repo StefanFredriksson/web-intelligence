@@ -1,7 +1,7 @@
 const dataHelper = require('./dataHelpers')
 const calcHelper = require('./calcHelpers')
 
-function getEuclidianDistance (userId, data) {
+function getEuclidianSimilarity (userId, data) {
   let similarities = []
   let users = dataHelper.getRatingForUsers(data)
   let mainUser = users.find(user => {
@@ -10,17 +10,17 @@ function getEuclidianDistance (userId, data) {
 
   users.forEach(user => {
     if (user.userId !== userId) {
-      let distance = calcDistance(mainUser, user)
-      similarities.push({ name: user.name, userId: user.userId, distance })
+      let similarity = calcSimilarity(mainUser, user)
+      similarities.push({ name: user.name, userId: user.userId, similarity })
     }
   })
 
   return similarities.sort((a, b) => {
-    return b.distance - a.distance
+    return b.similarity - a.similarity
   })
 }
 
-function calcDistance (mainUser, user) {
+function calcSimilarity (mainUser, user) {
   let similarity = 0
   let count = 0
 
@@ -52,6 +52,6 @@ function getRecommendedMovies (similarities, data, id) {
 }
 
 module.exports = {
-  getEuclidianDistance,
+  getEuclidianSimilarity,
   getRecommendedMovies
 }
