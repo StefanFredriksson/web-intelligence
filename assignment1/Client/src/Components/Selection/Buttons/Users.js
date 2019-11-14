@@ -2,6 +2,9 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { matchingUsers } from '../../../Redux/Actions/requestActions'
 
+/**
+ * Renders a button for matching users.
+ */
 export class Users extends Component {
   constructor (props) {
     super(props)

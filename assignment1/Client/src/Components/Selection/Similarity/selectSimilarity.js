@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 
+/**
+ * Renders a dropdown input field where the user picks which algorithm to use.
+ */
 export default class selectSimilarity extends Component {
   render () {
     return (

@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 
+/**
+ * Renders a table containing the matching users.
+ */
 export default class MatchingUsers extends Component {
   componentDidMount () {
     this.renderTable(this.props.data)

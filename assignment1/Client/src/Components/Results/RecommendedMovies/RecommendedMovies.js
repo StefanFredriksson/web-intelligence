@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 
+/**
+ * Renders a table containing the recommended movies.
+ */
 export default class RecommendedMovies extends Component {
   componentDidMount () {
     this.renderTable(this.props.data)

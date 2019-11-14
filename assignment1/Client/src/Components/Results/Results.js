@@ -4,6 +4,9 @@ import './Results.css'
 import MatchingUsers from './MatchingUsers/MatchingUsers'
 import RecommendedMovies from './RecommendedMovies/RecommendedMovies'
 
+/**
+ * Decides which table to render.
+ */
 export class Results extends Component {
   constructor (props) {
     super(props)
@@ -17,7 +20,6 @@ export class Results extends Component {
       this.props.matchingUsers !== prevProps.matchingUsers &&
       this.props.matchingUsers
     ) {
-      console.log('sup')
       this.setState({
         results: <MatchingUsers data={this.props.matchingUsers} />
       })

@@ -6,7 +6,9 @@ import SelectResults from './Results/SelectResults'
 import Users from './Buttons/Users'
 import Movies from './Buttons/Movies'
 import ItemBased from './Buttons/ItemBased'
-
+/**
+ * Renders all the selection components.
+ */
 export default class Selection extends Component {
   render () {
     return (

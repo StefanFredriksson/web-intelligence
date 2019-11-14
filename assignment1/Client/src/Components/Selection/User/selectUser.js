@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 
+/**
+ * Renders a dropdown where the user chooses which user to recommend movies too.
+ */
 export default class selection extends Component {
   componentDidMount () {
     this.getUsers()

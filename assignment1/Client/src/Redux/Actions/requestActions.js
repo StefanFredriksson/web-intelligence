@@ -1,6 +1,9 @@
 import { MATCHING_USERS, RECOMMENDED_MOVIES } from './types'
 import requests from '../../Utils/requests'
 
+/**
+ * Dispatches an action to retrieve the matching users.
+ */
 export const matchingUsers = () => async dispatch => {
   let similarity = document.querySelector('#select-similarity').value
   let data = await requests.getRecommendedData(
@@ -13,6 +16,10 @@ export const matchingUsers = () => async dispatch => {
   })
 }
 
+/**
+ * Dispatches an action to retrieve the recommended movies.
+ * @param {Boolean} isItemBased Determines whether to use item-based filtering or not.
+ */
 export const recommendedMovies = isItemBased => async dispatch => {
   let data = []
   if (!isItemBased) {

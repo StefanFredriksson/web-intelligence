@@ -2,6 +2,9 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { recommendedMovies } from '../../../Redux/Actions/requestActions'
 
+/**
+ * Renders a button for using item-based filtering when recommending movies.
+ */
 export class ItemBased extends Component {
   constructor (props) {
     super(props)
