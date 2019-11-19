@@ -1,0 +1,14 @@
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\bin\Debug\ClusterOfBlogs.exe.config
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\bin\Debug\ClusterOfBlogs.exe
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\bin\Debug\ClusterOfBlogs.pdb
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\MainWindow.g.cs
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\App.g.cs
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs_MarkupCompile.cache
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs_MarkupCompile.lref
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\MainWindow.baml
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.g.resources
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.Properties.Resources.resources
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.csproj.GenerateResource.cache
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.csproj.CoreCompileInputs.cache
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.exe
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.pdb
