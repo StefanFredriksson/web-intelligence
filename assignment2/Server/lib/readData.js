@@ -21,6 +21,22 @@ function readFile (path) {
 
 function extractBlogs (data) {
   const lines = data.split('\n')
+  const blogs = []
+  const words = lines[0].split('\t')
+  lines.splice(0, 1)
+
+  lines.forEach(line => {
+    const lineData = line.split('\t')
+    const obj = { blog: lineData[0], wordCount: [] }
+
+    for (let i = 1; i < lineData.length; i++) {
+      obj.wordCount.push({ word: words[i], count: lineData[i] })
+    }
+
+    blogs.push(obj)
+  })
+
+  return blogs
 }
 
 module.exports = {

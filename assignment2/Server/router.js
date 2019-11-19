@@ -4,7 +4,7 @@ const dataFuncs = require('./lib/readData')
 router.get('/getdata', async (req, res) => {
   const data = await dataFuncs.getData()
   const blogs = dataFuncs.extractBlogs(data)
-  res.json({ message: 'OK' })
+  res.json({ message: blogs })
 })
 
 module.exports = router

@@ -9,7 +9,7 @@
     <Grid>
         <TreeView x:Name="treeView" HorizontalAlignment="Left" Height="133" Margin="132,113,0,0" VerticalAlignment="Top" Width="128"/>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="195,321,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="524,301,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="108" Margin="524,301,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="212"/>
 
     </Grid>
 </Window>

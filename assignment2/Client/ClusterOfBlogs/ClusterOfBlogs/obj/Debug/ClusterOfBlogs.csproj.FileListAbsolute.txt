@@ -12,3 +12,4 @@ I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\C
 I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.csproj.CoreCompileInputs.cache
 I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.exe
 I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.pdb
+I:\Documents\2dv515\Assignment2\Client\ClusterOfBlogs\ClusterOfBlogs\obj\Debug\ClusterOfBlogs.csprojAssemblyReference.cache
