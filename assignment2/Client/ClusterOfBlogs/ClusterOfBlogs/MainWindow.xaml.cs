@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -41,7 +42,10 @@ namespace ClusterOfBlogs
         {
             HttpClient client = new HttpClient();
             HttpResponseMessage response = await client.GetAsync("http://localhost:3000/getdata");
-            textBox.Text = response.ToString();
+            string data = await response.Content.ReadAsStringAsync();
+            JavaScriptSerializer JSSerializer = new JavaScriptSerializer();
+            List<Blog> blogs = JSSerializer.Deserialize<List<Blog>>(data);
+            textBox.Text = blogs[0].wordCount[4].count + "";
         }
     }
 }
