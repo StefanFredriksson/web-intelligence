@@ -45,7 +45,7 @@ namespace ClusterOfBlogs
             string data = await response.Content.ReadAsStringAsync();
             JavaScriptSerializer JSSerializer = new JavaScriptSerializer();
             List<Blog> blogs = JSSerializer.Deserialize<List<Blog>>(data);
-            textBox.Text = blogs[0].wordCount[4].count + "";
+            List<Centroid> centroids = Logic.GetClusters(blogs);
         }
     }
 }

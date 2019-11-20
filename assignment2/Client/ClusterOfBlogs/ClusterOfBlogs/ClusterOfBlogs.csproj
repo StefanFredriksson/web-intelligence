@@ -56,7 +56,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Centroid.cs" />
+    <Compile Include="Logic.cs" />
     <Compile Include="WordCount.cs" />
+    <Compile Include="WordFrequency.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
