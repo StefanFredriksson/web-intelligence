@@ -26,7 +26,7 @@ namespace ClusterOfBlogs
                 centroids.Add(cen);
             }
 
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 ClearAssignments(centroids);
 
@@ -49,7 +49,7 @@ namespace ClusterOfBlogs
                     best.blogs.Add(blog);
                 }
 
-                foreach (Centroid cen in centroids)
+                /*foreach (Centroid cen in centroids)
                 {
                     for (int j = 0; j < nrWords; j++)
                     {
@@ -63,7 +63,7 @@ namespace ClusterOfBlogs
 
                         cen.count[j] = avg;
                     }
-                }
+                }*/
             }
 
             return centroids;
@@ -96,7 +96,7 @@ namespace ClusterOfBlogs
             double num = pSum - (blogSum * cenSum / nrWords);
             double den = Math.Sqrt((blogSqSum * Math.Pow(blogSum, 2) / nrWords) * (cenSqSum * Math.Pow(cenSqSum, 2) / nrWords));
 
-            return 1.0 - num/den;
+            return 1.0 - num / den;
         }
 
         private static WordFrequency[] GetWordFrequencies(List<Blog> blogs)

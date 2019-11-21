@@ -25,7 +25,6 @@ namespace ClusterOfBlogs
         public MainWindow()
         {
             InitializeComponent();
-            InitializeTree();
         }
 
         private void InitializeTree()
@@ -40,12 +39,36 @@ namespace ClusterOfBlogs
 
         private async void button_Click(object sender, RoutedEventArgs e)
         {
+            treeView.Items.Clear();
             HttpClient client = new HttpClient();
             HttpResponseMessage response = await client.GetAsync("http://localhost:3000/getdata");
             string data = await response.Content.ReadAsStringAsync();
             JavaScriptSerializer JSSerializer = new JavaScriptSerializer();
             List<Blog> blogs = JSSerializer.Deserialize<List<Blog>>(data);
             List<Centroid> centroids = Logic.GetClusters(blogs);
+            PopulateTree(centroids);
+        }
+
+        private void PopulateTree (List<Centroid> centroids)
+        {
+            int count = 0;
+            int blogCount = 0;
+            foreach (Centroid centroid in centroids)
+            {
+                TreeViewItem folder = new TreeViewItem();
+                
+
+                foreach (Blog blog in centroid.blogs)
+                {
+                    TreeViewItem child = new TreeViewItem();
+                    child.Header = blog.blog;
+                    folder.Items.Add(child);
+                    blogCount++;
+                }
+                folder.Header = "Cluster " + ++count + " (" + blogCount + ")";
+                treeView.Items.Add(folder);
+                blogCount = 0;
+            }
         }
     }
 }
