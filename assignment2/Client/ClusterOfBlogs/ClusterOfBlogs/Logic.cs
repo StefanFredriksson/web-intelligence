@@ -15,7 +15,7 @@ namespace ClusterOfBlogs
             int nrWords = blogs[0].wordCount.Count;
             Random rnd = new Random();
 
-            for (int i = 1; i <= 5; i++)
+            for (int i = 1; i <= 4; i++)
             {
                 Centroid cen = new Centroid();
 
@@ -49,7 +49,7 @@ namespace ClusterOfBlogs
                     best.blogs.Add(blog);
                 }
 
-                /*foreach (Centroid cen in centroids)
+                foreach (Centroid cen in centroids)
                 {
                     for (int j = 0; j < nrWords; j++)
                     {
@@ -58,12 +58,12 @@ namespace ClusterOfBlogs
                         foreach (Blog blog in cen.blogs)
                         {
                             avg += blog.wordCount[j].count;
-                            avg /= cen.blogs.Count;
                         }
 
+                        avg /= cen.blogs.Count;
                         cen.count[j] = avg;
                     }
-                }*/
+                }
             }
 
             return centroids;
@@ -94,7 +94,7 @@ namespace ClusterOfBlogs
             }
 
             double num = pSum - (blogSum * cenSum / nrWords);
-            double den = Math.Sqrt((blogSqSum * Math.Pow(blogSum, 2) / nrWords) * (cenSqSum * Math.Pow(cenSqSum, 2) / nrWords));
+            double den = Math.Sqrt((blogSqSum * Math.Pow(blogSum, 2) / nrWords) * (cenSqSum * Math.Pow(cenSum, 2) / nrWords));
 
             return 1.0 - num / den;
         }
