@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
-    class WordFrequency
+    public class WordFrequency
     {
         public string word;
-        public int max = int.MinValue, min = int.MaxValue;
+        public double max = Double.MinValue, min = Double.MaxValue;
 
         public WordFrequency (string word)
         {

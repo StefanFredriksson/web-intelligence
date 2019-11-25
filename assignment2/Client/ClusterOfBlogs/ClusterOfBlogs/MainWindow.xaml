@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ClusterOfBlogs"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="732" Width="1247">
     <Grid>
-        <TreeView x:Name="treeView" HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="444"/>
-        <Button x:Name="button" Content="Load new tree" HorizontalAlignment="Left" Margin="621,211,0,0" VerticalAlignment="Top" Width="115" Click="button_Click"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="108" Margin="524,301,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="212"/>
+        <TreeView x:Name="treeView" HorizontalAlignment="Left" Height="656" Margin="10,10,0,0" VerticalAlignment="Top" Width="1219"/>
+        <Button x:Name="button" Content="Generate K-Means" HorizontalAlignment="Left" Margin="10,671,0,0" VerticalAlignment="Top" Width="115" Click="button_Click"/>
+        <Button x:Name="button1" Content="Generate hierarchical" HorizontalAlignment="Left" Margin="130,671,0,0" VerticalAlignment="Top" Width="115" Click="button1_Click"/>
 
     </Grid>
 </Window>

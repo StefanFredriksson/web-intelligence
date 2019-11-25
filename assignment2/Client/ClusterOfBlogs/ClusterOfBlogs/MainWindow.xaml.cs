@@ -27,41 +27,37 @@ namespace ClusterOfBlogs
             InitializeComponent();
         }
 
-        private void InitializeTree()
+        private async Task<List<Blog>> GetBlogs()
         {
-            TreeViewItem item = new TreeViewItem();
-            item.Header = "Testing";
-            TreeViewItem item2 = new TreeViewItem();
-            item2.Header = "1 2 3";
-            item.Items.Add(item2);
-            treeView.Items.Add(item);
-        }
-
-        private async void button_Click(object sender, RoutedEventArgs e)
-        {
-            treeView.Items.Clear();
             HttpClient client = new HttpClient();
             HttpResponseMessage response = await client.GetAsync("http://localhost:3000/getdata");
             string data = await response.Content.ReadAsStringAsync();
             JavaScriptSerializer JSSerializer = new JavaScriptSerializer();
-            List<Blog> blogs = JSSerializer.Deserialize<List<Blog>>(data);
-            List<Centroid> centroids = Logic.GetClusters(blogs);
-            PopulateTree(centroids);
+            return JSSerializer.Deserialize<List<Blog>>(data);
         }
 
-        private void PopulateTree (List<Centroid> centroids)
+        public async void button_Click(object sender, RoutedEventArgs e)
+        {
+            List<Blog> blogs = await GetBlogs();
+            List<Centroid> centroids = KMeans.GetClusters(blogs);
+            PrintKMeans(centroids);
+        }
+
+        public void PrintKMeans (List<Centroid> centroids)
         {
             int count = 0;
             int blogCount = 0;
+
+            treeView.Items.Clear();
+
             foreach (Centroid centroid in centroids)
             {
                 TreeViewItem folder = new TreeViewItem();
                 
-
                 foreach (Blog blog in centroid.blogs)
                 {
                     TreeViewItem child = new TreeViewItem();
-                    child.Header = blog.blog;
+                    child.Header = blog.title;
                     folder.Items.Add(child);
                     blogCount++;
                 }
@@ -69,6 +65,37 @@ namespace ClusterOfBlogs
                 treeView.Items.Add(folder);
                 blogCount = 0;
             }
+        }
+
+        public async void button1_Click(object sender, RoutedEventArgs e)
+        {
+            List<Blog> blogs = await GetBlogs();
+            Cluster root = Hierarchical.GetRootCluster(blogs);
+            treeView.Items.Clear();
+            treeView.Items.Add(Traverse(root));
+        }
+
+        private TreeViewItem Traverse(Cluster root)
+        {
+            TreeViewItem folder = new TreeViewItem();
+            folder.IsExpanded = true;
+
+            if (root.left != null)
+            {
+                folder.Items.Add(Traverse(root.left));
+            }
+
+            if (root.right != null)
+            {
+                folder.Items.Add(Traverse(root.right));
+            }
+
+            if (root.distance == 0)
+            {
+                folder.Header = root.blog.title;
+            }
+
+            return folder;
         }
     }
 }

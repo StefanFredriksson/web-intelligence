@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
-    static class Logic
+    static class KMeans
     {
+        private const int NUMBER_OF_CENTROIDS = 4;
+
         public static List<Centroid> GetClusters(List<Blog> blogs)
         {
             WordFrequency[] wFreq = GetWordFrequencies(blogs);
@@ -15,18 +18,18 @@ namespace ClusterOfBlogs
             int nrWords = blogs[0].wordCount.Count;
             Random rnd = new Random();
 
-            for (int i = 1; i <= 4; i++)
+            for (int i = 1; i <= NUMBER_OF_CENTROIDS; i++)
             {
                 Centroid cen = new Centroid();
 
                 foreach (WordFrequency freq in wFreq)
                 {
-                    cen.count.Add(rnd.Next(freq.min, freq.max + 1));
+                    cen.count.Add(rnd.Next((int)freq.min, (int)freq.max + 1));
                 }
                 centroids.Add(cen);
             }
 
-            for (int i = 0; i < 10; i++)
+            while (true)
             {
                 ClearAssignments(centroids);
 
@@ -64,6 +67,11 @@ namespace ClusterOfBlogs
                         cen.count[j] = avg;
                     }
                 }
+
+                if (ShouldExit(centroids))
+                {
+                    break;
+                }
             }
 
             return centroids;
@@ -73,6 +81,7 @@ namespace ClusterOfBlogs
         {
             foreach (Centroid cen in centroids)
             {
+                cen.prevBlogs = new List<Blog>(cen.blogs);
                 cen.blogs.Clear();
             }
         }
@@ -84,8 +93,8 @@ namespace ClusterOfBlogs
 
             for (int i = 0; i < nrWords; i++)
             {
-                int blogCnt = blog.wordCount[i].count;
-                int cenCnt = (int)centroid.count[i];
+                double blogCnt = blog.wordCount[i].count;
+                double cenCnt = centroid.count[i];
                 blogSum += blogCnt;
                 cenSum += cenCnt;
                 blogSqSum += Math.Pow(blogCnt, 2);
@@ -112,7 +121,7 @@ namespace ClusterOfBlogs
             {
                 for (int i = 0; i < blog.wordCount.Count; i++)
                 {
-                    int count = blog.wordCount[i].count;
+                    double count = blog.wordCount[i].count;
 
                     if (count > wFreq[i].max)
                     {
@@ -127,6 +136,28 @@ namespace ClusterOfBlogs
             }
 
             return wFreq;
+        }
+
+        private static bool ShouldExit(List<Centroid> centroids)
+        {
+            bool firstIteration = true;
+
+            foreach (Centroid cen in centroids)
+            {
+                if (cen.blogs.Count == cen.prevBlogs.Count)
+                {
+                    firstIteration = false;
+                    for (int i = 0; i < cen.blogs.Count; i++)
+                    {
+                        if (cen.blogs[i].title != cen.prevBlogs[i].title)
+                        {
+                            return false;
+                        }
+                    }
+                }
+            }
+
+            return firstIteration ? false : true;
         }
     }
 }

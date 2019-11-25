@@ -6,9 +6,17 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
-    class WordCount
+    public class WordCount
     {
         public string word;
-        public int count;
+        public double count;
+
+        public WordCount() { }
+
+        public WordCount(string word, double count)
+        {
+            this.word = word;
+            this.count = count;
+        }
     }
 }

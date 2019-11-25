@@ -57,7 +57,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Centroid.cs" />
-    <Compile Include="Logic.cs" />
+    <Compile Include="Cluster.cs" />
+    <Compile Include="Hierarchical.cs" />
+    <Compile Include="KMeans.cs" />
     <Compile Include="WordCount.cs" />
     <Compile Include="WordFrequency.cs" />
     <Page Include="MainWindow.xaml">

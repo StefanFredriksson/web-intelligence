@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
-    class Blog
+    public class Blog
     {
-        public string blog;
-        public List<WordCount> wordCount;
+        public string title;
+        public List<WordCount> wordCount = new List<WordCount>();
     }
 }
