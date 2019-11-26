@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     * Represents the amount of times a word is mentioned in a blog.
+     */
     public class WordCount
     {
         public string word;

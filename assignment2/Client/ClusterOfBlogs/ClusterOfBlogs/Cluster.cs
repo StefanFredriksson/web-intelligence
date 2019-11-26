@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     *  Class representing a cluster.
+     */
     class Cluster
     {
-        public Cluster left, right, parent;
+        public Cluster left, right;
         public Blog blog;
         public double distance;
 

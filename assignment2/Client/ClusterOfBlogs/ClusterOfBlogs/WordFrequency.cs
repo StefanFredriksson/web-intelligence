@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     * Represents the frequency of a word for every blog. 
+     */
     public class WordFrequency
     {
         public string word;

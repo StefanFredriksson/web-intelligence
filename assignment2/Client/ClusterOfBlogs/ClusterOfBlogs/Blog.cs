@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     *  Class representing a blog.
+     */
     public class Blog
     {
         public string title;

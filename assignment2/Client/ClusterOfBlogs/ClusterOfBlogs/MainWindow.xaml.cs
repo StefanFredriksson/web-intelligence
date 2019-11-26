@@ -27,6 +27,9 @@ namespace ClusterOfBlogs
             InitializeComponent();
         }
 
+        /**
+         * Retrieves blogs from server.
+         */
         private async Task<List<Blog>> GetBlogs()
         {
             HttpClient client = new HttpClient();
@@ -36,13 +39,19 @@ namespace ClusterOfBlogs
             return JSSerializer.Deserialize<List<Blog>>(data);
         }
 
-        public async void button_Click(object sender, RoutedEventArgs e)
+        /**
+         * Event listener for K-Means.
+         */
+        public async void KMeansEvent(object sender, RoutedEventArgs e)
         {
             List<Blog> blogs = await GetBlogs();
-            List<Centroid> centroids = KMeans.GetClusters(blogs);
+            List<Centroid> centroids = KMeans.GetCentroids(blogs);
             PrintKMeans(centroids);
         }
 
+        /**
+         * Prints the K-Means tree.
+         */
         public void PrintKMeans (List<Centroid> centroids)
         {
             int count = 0;
@@ -67,7 +76,10 @@ namespace ClusterOfBlogs
             }
         }
 
-        public async void button1_Click(object sender, RoutedEventArgs e)
+        /**
+         * Event listener for Hierarchical.
+         */
+        public async void HierarchicalEvent(object sender, RoutedEventArgs e)
         {
             List<Blog> blogs = await GetBlogs();
             Cluster root = Hierarchical.GetRootCluster(blogs);
@@ -75,6 +87,9 @@ namespace ClusterOfBlogs
             treeView.Items.Add(Traverse(root));
         }
 
+        /**
+         * Creates the Hierarchical tree using a recursive method.
+         */
         private TreeViewItem Traverse(Cluster root)
         {
             TreeViewItem folder = new TreeViewItem();

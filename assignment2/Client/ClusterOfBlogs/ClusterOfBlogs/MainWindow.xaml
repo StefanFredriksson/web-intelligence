@@ -8,8 +8,8 @@
         Title="MainWindow" Height="732" Width="1247">
     <Grid>
         <TreeView x:Name="treeView" HorizontalAlignment="Left" Height="656" Margin="10,10,0,0" VerticalAlignment="Top" Width="1219"/>
-        <Button x:Name="button" Content="Generate K-Means" HorizontalAlignment="Left" Margin="10,671,0,0" VerticalAlignment="Top" Width="115" Click="button_Click"/>
-        <Button x:Name="button1" Content="Generate hierarchical" HorizontalAlignment="Left" Margin="130,671,0,0" VerticalAlignment="Top" Width="115" Click="button1_Click"/>
+        <Button x:Name="button" Content="Generate K-Means" HorizontalAlignment="Left" Margin="10,671,0,0" VerticalAlignment="Top" Width="115" Click="KMeansEvent"/>
+        <Button x:Name="button1" Content="Generate hierarchical" HorizontalAlignment="Left" Margin="130,671,0,0" VerticalAlignment="Top" Width="115" Click="HierarchicalEvent"/>
 
     </Grid>
 </Window>

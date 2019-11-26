@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     *  Logic for generating the Hierarchical cluster.
+     */
     static class Hierarchical
     {
+        /**
+         *  Main loop of the algorithm.
+         */
         public static Cluster GetRootCluster(List<Blog> blogs)
         {
             List<Cluster> clusters = InitializeClusters(blogs);
@@ -41,6 +47,9 @@ namespace ClusterOfBlogs
             return clusters[0];
         }
 
+        /**
+         *  Creates a cluster for each blog.
+         */
         private static List<Cluster> InitializeClusters(List<Blog> blogs)
         {
             List<Cluster> clusters = new List<Cluster>();
@@ -53,6 +62,9 @@ namespace ClusterOfBlogs
             return clusters;
         }
 
+        /**
+         *  Calculates the Pearson similarity between two blogs.
+         */
         private static double Pearson(Blog blogA, Blog blogB)
         {
             double blogASum = 0, blogBSum = 0, blogASqSum = 0, blogBSqSum = 0, pSum = 0;
@@ -75,15 +87,16 @@ namespace ClusterOfBlogs
             return 1.0 - num / den;
         }
 
+        /**
+         *  Merges two clusters together.
+         */
         private static Cluster Merge(Cluster clusterA, Cluster clusterB, double distance)
         {
             int nrWords = clusterA.blog.wordCount.Count;
 
             Cluster newCluster = new Cluster();
             newCluster.left = clusterA;
-            clusterA.parent = newCluster;
             newCluster.right = clusterB;
-            clusterB.parent = newCluster;
 
             Blog newBlog = new Blog();
 

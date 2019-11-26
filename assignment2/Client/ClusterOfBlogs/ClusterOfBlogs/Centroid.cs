@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     *  Class representing a centroid.
+     */
     public class Centroid
     {
         public List<double> count = new List<double>();

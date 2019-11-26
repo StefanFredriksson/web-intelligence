@@ -7,11 +7,17 @@ using System.Threading.Tasks;
 
 namespace ClusterOfBlogs
 {
+    /**
+     * Logic for K-Means algorithm. 
+     */
     static class KMeans
     {
         private const int NUMBER_OF_CENTROIDS = 4;
 
-        public static List<Centroid> GetClusters(List<Blog> blogs)
+        /**
+         * Main loop of the algorithm. 
+         */
+        public static List<Centroid> GetCentroids(List<Blog> blogs)
         {
             WordFrequency[] wFreq = GetWordFrequencies(blogs);
             List<Centroid> centroids = new List<Centroid>();
@@ -77,6 +83,9 @@ namespace ClusterOfBlogs
             return centroids;
         }
 
+        /**
+         * Removes blogs in all centroids. 
+         */
         private static void ClearAssignments (List<Centroid> centroids)
         {
             foreach (Centroid cen in centroids)
@@ -86,6 +95,9 @@ namespace ClusterOfBlogs
             }
         }
 
+        /**
+         *  Calculates the Pearson similarity between a blog and a centroid.
+         */
         private static double Pearson(Blog blog, Centroid centroid)
         {
             double blogSum = 0, cenSum = 0, blogSqSum = 0, cenSqSum = 0, pSum = 0;
@@ -108,6 +120,9 @@ namespace ClusterOfBlogs
             return 1.0 - num / den;
         }
 
+        /**
+         * Get the frequencies of every word. 
+         */
         private static WordFrequency[] GetWordFrequencies(List<Blog> blogs)
         {
             WordFrequency[] wFreq = new WordFrequency[blogs[0].wordCount.Count];
@@ -138,6 +153,9 @@ namespace ClusterOfBlogs
             return wFreq;
         }
 
+        /**
+         * Determines whether the main loop should finish or continue. 
+         */
         private static bool ShouldExit(List<Centroid> centroids)
         {
             bool firstIteration = true;
