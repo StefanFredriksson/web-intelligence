@@ -44,7 +44,7 @@ public class DataLogic {
 	}
 	
 	private static void SetPages (List<String> games, List<String> progs) {
-		DB.pages.clear();
+
 		for (String game : games) {
 			if (!UrlExists(game)) {
 				String data = ReadFile(wordDestination + "/Games/" + game);

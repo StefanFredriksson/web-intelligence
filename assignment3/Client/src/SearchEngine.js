@@ -23,7 +23,7 @@ export default class SearchEngine extends Component {
     const json = await response.json()
 
     this.renderTable(json.results)
-    label.textContent = `Found ${json.recCount} results.`
+    label.textContent = `Found ${json.recCount} results in ${json.time.toFixed(3)} seconds.`
   }
 
   renderTable (data) {

@@ -3,6 +3,7 @@ package SearchEngine;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import com.google.gson.Gson;
 import com.sun.net.httpserver.*;
@@ -11,10 +12,15 @@ public class BadRouter implements HttpHandler {
 
 	@Override
 	public void handle(HttpExchange he) throws IOException {
+		long start = System.nanoTime();
 		String query = he.getRequestURI().getQuery();
-		DataLogic.SetPages();
+		if (DB.pages.size() == 0) {
+			DataLogic.SetPages();
+		}
 		List<Result> recs = QueryLogic.GetBadRecommendations(query.toUpperCase());
-		Response res = new Response(DataLogic.GetSubList(recs), recs.size());
+		long end = System.nanoTime();
+		long duration = TimeUnit.MILLISECONDS.convert(end - start, TimeUnit.NANOSECONDS);
+		Response res = new Response(DataLogic.GetSubList(recs), recs.size(), duration / 1000.0);
 		Gson json = new Gson();
 		String jsonString = json.toJson(res);
 

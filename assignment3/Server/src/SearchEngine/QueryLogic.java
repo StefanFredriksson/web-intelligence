@@ -12,7 +12,6 @@ public class QueryLogic {
 		
 		for (Page page : DB.pages) {
 			score.content.add(GetFrequencyScore(query, page));
-			score.location.add(0.0);
 		}
 		
 		Normalize(score.content, false);
@@ -22,7 +21,7 @@ public class QueryLogic {
 
 			if (score.content.get(i) > 0) {
 				double finalScore = score.content.get(i);
-				results.add(new Result(p.url, finalScore, score.content.get(i), score.location.get(i), p.pageRank));
+				results.add(new Result(p.url, finalScore, score.content.get(i), 0.0, 0.0));
 			}
 		}
 		
