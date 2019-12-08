@@ -8,8 +8,6 @@ import com.sun.net.httpserver.*;
 public class SearchEngine {
 
 	public static void main(String[] args) {
-		/*List<Page> pages = DataLogic.GetPages();
-		QueryLogic.GetRecommendations(pages);*/
 		InitServer();
 	}
 	
@@ -20,6 +18,7 @@ public class SearchEngine {
 			server = HttpServer.create(new InetSocketAddress(port), 0);
 			System.out.println("server started at " + port);
 			server.createContext("/", new Router());
+			server.createContext("/bad", new BadRouter());
 			server.setExecutor(null);
 			server.start();
 		} catch (IOException e) {

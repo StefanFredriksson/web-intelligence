@@ -7,13 +7,13 @@ import java.util.List;
 import com.google.gson.Gson;
 import com.sun.net.httpserver.*;
 
-public class Router implements HttpHandler {
+public class BadRouter implements HttpHandler {
 
 	@Override
 	public void handle(HttpExchange he) throws IOException {
 		String query = he.getRequestURI().getQuery();
 		DataLogic.SetPages();
-		List<Result> recs = QueryLogic.GetRecommendations(query.toUpperCase());
+		List<Result> recs = QueryLogic.GetBadRecommendations(query.toUpperCase());
 		Response res = new Response(DataLogic.GetSubList(recs), recs.size());
 		Gson json = new Gson();
 		String jsonString = json.toJson(res);

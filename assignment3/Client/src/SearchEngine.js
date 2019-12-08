@@ -8,14 +8,23 @@ export default class SearchEngine extends Component {
     this.badSearch = this.badSearch.bind(this)
   }
   async search (event) {
-    const query = document.querySelector('#search-input').value
-
-    const response = await window.fetch('http://localhost:5000?' + query)
-    const json = await response.json()
-    console.log(json)
-    this.renderTable(json)
+    await this.handleSearch('http://localhost:5000?')
   }
-  async badSearch (event) {}
+  async badSearch (event) {
+    await this.handleSearch('http://localhost:5000/bad?')
+  }
+
+  async handleSearch (url) {
+    let query = document.querySelector('#search-input').value
+    query = encodeURIComponent(query)
+    const label = document.querySelector('#rec-count')
+
+    const response = await window.fetch(url + query)
+    const json = await response.json()
+
+    this.renderTable(json.results)
+    label.textContent = `Found ${json.recCount} results.`
+  }
 
   renderTable (data) {
     const table = document.querySelector('#result-table')
@@ -27,7 +36,10 @@ export default class SearchEngine extends Component {
     for (let i = 0; i < data.length; i++) {
       const tr = document.createElement('tr')
       const link = document.createElement('td')
-      link.textContent = data[i].url
+      const a = document.createElement('a')
+      a.textContent = decodeURIComponent(data[i].url)
+      a.href = `https://en.wikipedia.org/wiki/${data[i].url}`
+      link.appendChild(a)
       const score = document.createElement('td')
       score.textContent = data[i].score.toFixed(2)
       const content = document.createElement('td')
@@ -54,7 +66,7 @@ export default class SearchEngine extends Component {
         <table id='result-table'>
           <thead>
             <tr>
-              <th>URL</th>
+              <th>Link</th>
               <th>Score</th>
               <th>Content</th>
               <th>Location</th>
@@ -62,6 +74,7 @@ export default class SearchEngine extends Component {
             </tr>
           </thead>
         </table>
+        <label id='rec-count' />
       </div>
     )
   }

@@ -6,15 +6,42 @@ import java.util.List;
 
 public class QueryLogic {
 
+	public static List<Result> GetBadRecommendations (String query) {
+		Score score = new Score();
+		List<Result> results = new ArrayList<Result>();
+		
+		for (Page page : DB.pages) {
+			score.content.add(GetFrequencyScore(query, page));
+			score.location.add(0.0);
+		}
+		
+		Normalize(score.content, false);
+		
+		for (int i = 0; i < DB.pages.size(); i++) {
+			Page p = DB.pages.get(i);
+
+			if (score.content.get(i) > 0) {
+				double finalScore = score.content.get(i);
+				results.add(new Result(p.url, finalScore, score.content.get(i), score.location.get(i), p.pageRank));
+			}
+		}
+		
+		Collections.sort(results);
+		Collections.reverse(results);
+		
+		return results;
+	}
+	
 	public static List<Result> GetRecommendations (String query) {
 		Score score = new Score();
 		List<Result> results = new ArrayList<Result>();
-
+		
 		for (Page page : DB.pages) {
 			score.content.add(GetFrequencyScore(query, page));
 			score.location.add(GetLocationScore(query, page));
 		}
-		
+
+		CalculatePageRank();
 		Normalize(score.content, false);
 		Normalize(score.location, true);
 		
@@ -22,8 +49,8 @@ public class QueryLogic {
 			Page p = DB.pages.get(i);
 			
 			if (score.content.get(i) > 0) {
-				double finalScore = score.content.get(i) + 0.8 * score.location.get(i);
-				results.add(new Result(p.url, finalScore, score.content.get(i), score.location.get(i)));
+				double finalScore = score.content.get(i) + 0.8 * score.location.get(i) + 0.5 * p.pageRank;
+				results.add(new Result(p.url, finalScore, score.content.get(i), score.location.get(i), p.pageRank));
 			}
 		}
 		
@@ -111,5 +138,45 @@ public class QueryLogic {
 		}
 		
 		return max;
+	}
+	
+	private static void CalculatePageRank() {
+		int MAX_ITERATIONS = 20;
+		
+		for (int i = 0; i < MAX_ITERATIONS; i++) {
+			List<Double> ranks = new ArrayList<Double>();
+			
+			for (Page p : DB.pages) {
+				ranks.add(IteratePageRank(p));
+			}
+			
+			for (int j = 0; j < ranks.size(); j++) {
+				DB.pages.get(j).pageRank = ranks.get(j);
+			}
+		}
+		
+		List<Double> ranks = new ArrayList<Double>();
+		
+		for (Page p : DB.pages) {
+			ranks.add(p.pageRank);
+		}
+		
+		Normalize(ranks, false);
+		
+		for (int i = 0; i < ranks.size(); i++) {
+			DB.pages.get(i).pageRank = ranks.get(i);
+		}
+	}
+	
+	private static double IteratePageRank (Page p) {
+		double rank = 0;
+		
+		for (Page page : DB.pages) {
+			if (page.HasLinkTo(p)) {
+				rank += page.pageRank / page.links.size();
+			}
+		}
+		
+		return 0.85 * rank + 0.15;
 	}
 }
