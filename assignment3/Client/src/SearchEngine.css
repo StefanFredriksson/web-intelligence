@@ -17,6 +17,23 @@ table tr td {
   min-width: 50px;
 }
 
+input[type=text] {
+  padding: 5px;
+  border-radius: 10px;
+  font-style: italic;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+button {
+  background: linear-gradient(to bottom, grey, white);
+  border-radius: 10px;
+  padding: 5px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
 button:hover {
+  background: linear-gradient(to bottom, white, grey);
   cursor: pointer;
 }
