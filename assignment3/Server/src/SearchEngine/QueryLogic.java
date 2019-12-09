@@ -6,6 +6,11 @@ import java.util.List;
 
 public class QueryLogic {
 
+	/**
+	 * Only takes the word frequency into consideration when creating recommendations.
+	 * @param query The search query from the client.
+	 * @return The recommendations.
+	 */
 	public static List<Result> GetBadRecommendations (String query) {
 		Score score = new Score();
 		List<Result> results = new ArrayList<Result>();
@@ -31,6 +36,11 @@ public class QueryLogic {
 		return results;
 	}
 	
+	/**
+	 * Uses all metrics when calculating its recommendations.
+	 * @param query Search query from the client.
+	 * @return The recommendations.
+	 */
 	public static List<Result> GetRecommendations (String query) {
 		Score score = new Score();
 		List<Result> results = new ArrayList<Result>();
@@ -40,7 +50,7 @@ public class QueryLogic {
 			score.location.add(GetLocationScore(query, page));
 		}
 
-		CalculatePageRank();
+		//CalculatePageRank();
 		Normalize(score.content, false);
 		Normalize(score.location, true);
 		
@@ -59,6 +69,12 @@ public class QueryLogic {
 		return results;
 	}
 	
+	/**
+	 * Calculates the number of times each word in the query appears on the specified page.
+	 * @param query The search query from the client.
+	 * @param page The page to check.
+	 * @return Number of times the search query appears on the page.
+	 */
 	private static double GetFrequencyScore(String query, Page page) {
 		String[] qws = query.split(" ");
 		double score = 0;
@@ -75,6 +91,12 @@ public class QueryLogic {
 		return score;
 	}
 	
+	/**
+	 * Calculates how early on the specified page the search query appears.
+	 * @param query The search query from the client.
+	 * @param page The page to check.
+	 * @return A value representing how early the search query appears on the page.
+	 */
 	private static double GetLocationScore (String query, Page page) {
 		String[] qws = query.split(" ");
 		double score = 0;
@@ -98,6 +120,11 @@ public class QueryLogic {
 		return score;
 	}
 	
+	/**
+	 * Converts values so they are all inside the range 0 <= value <= 1.
+	 * @param scores The scores to normalize.
+	 * @param smallIsBetter Decides if small values are better than large values before the normalization.
+	 */
 	private static void Normalize (List<Double> scores, boolean smallIsBetter) {
 		if (smallIsBetter) {
 			double min = Min(scores);
@@ -115,6 +142,11 @@ public class QueryLogic {
 		}
 	}
 	
+	/**
+	 * Finds the minimum value of the list.
+	 * @param scores List containing all the values.
+	 * @return The minimum value.
+	 */
 	private static double Min (List<Double> scores) {
 		double min = Double.MAX_VALUE;
 		
@@ -127,6 +159,11 @@ public class QueryLogic {
 		return min;
 	}
 	
+	/**
+	 * Finds the maximum value of the list.
+	 * @param scores List containing all the values.
+	 * @return The maximum value.
+	 */
 	private static double Max (List<Double> scores) {
 		double max = Double.MIN_VALUE;
 		
@@ -139,7 +176,10 @@ public class QueryLogic {
 		return max;
 	}
 	
-	private static void CalculatePageRank() {
+	/**
+	 * Calculates the pageRank based on how many other pages link to a page.
+	 */
+	public static void CalculatePageRank() {
 		int MAX_ITERATIONS = 20;
 		
 		for (int i = 0; i < MAX_ITERATIONS; i++) {
@@ -167,6 +207,11 @@ public class QueryLogic {
 		}
 	}
 	
+	/**
+	 * Calculates the page rank of the specified page.
+	 * @param p Page to calculates page rank of.
+	 * @return The page's page rank.
+	 */
 	private static double IteratePageRank (Page p) {
 		double rank = 0;
 		

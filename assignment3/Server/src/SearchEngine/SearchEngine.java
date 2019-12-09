@@ -19,7 +19,6 @@ public class SearchEngine {
 			System.out.println("server started at " + port);
 			server.createContext("/", new Router());
 			server.createContext("/bad", new BadRouter());
-			server.setExecutor(null);
 			server.start();
 		} catch (IOException e) {
 			e.printStackTrace();

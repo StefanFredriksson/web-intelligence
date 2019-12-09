@@ -12,6 +12,9 @@ public class DataLogic {
 	private static String wordDestination = rootDir + "/Data/Words";
 	private static String linkDestination = rootDir + "/Data/Links";
 
+	/**
+	 * Generates the pages for the simulated database.
+	 */
 	public static void SetPages () {
 		List<String> games = GetFiles(wordDestination + "/Games");
 		List<String> progs = GetFiles(wordDestination + "/Programming");
@@ -19,14 +22,14 @@ public class DataLogic {
 		List<String> pLinks = GetFiles(linkDestination + "/Programming");
 		SetPages(games, progs);
 		SetLinks(gLinks, pLinks);
-		
-		for (Page p : DB.pages) {
-			if (p.links.size() == 0) {
-				System.out.println(p.url);
-			}
-		}
+		QueryLogic.CalculatePageRank();
 	}
 	
+	/**
+	 * Gets all the files in the specified folder.
+	 * @param path Path to the folder.
+	 * @return The files in the folder.
+	 */
 	private static List<String> GetFiles (String path) {
 		File folder = new File(path);
 		List<String> files = new ArrayList<String>();
@@ -38,11 +41,21 @@ public class DataLogic {
 		return files;
 	}
 	
+	/**
+	 * Removes the path from the file name.
+	 * @param file The file to remove the path from.
+	 * @return The name of the file.
+	 */
 	private static String BreakOutName (String file) {
 		int index = file.lastIndexOf("\\");
 		return file.substring(index + 1);
 	}
 	
+	/**
+	 * Adds a page to the simulated database for every file name in the lists.
+	 * @param games Game file names.
+	 * @param progs Programming file names.
+	 */
 	private static void SetPages (List<String> games, List<String> progs) {
 
 		for (String game : games) {
@@ -74,6 +87,11 @@ public class DataLogic {
 		}
 	}
 	
+	/**
+	 * Checks if a page with the same url already exists in the database.
+	 * @param url The url to check.
+	 * @return True if url exists, false if it doesn't.
+	 */
 	private static boolean UrlExists (String url) {
 		for (Page p : DB.pages) {
 			if (p.url.equals(url)) {
@@ -84,6 +102,11 @@ public class DataLogic {
 		return false;
 	}
 	
+	/**
+	 * Sets the links for every page in the simulated database.
+	 * @param games Game file names.
+	 * @param progs Programming file names.
+	 */
 	private static void SetLinks (List<String> games, List<String> progs) {
 		for (String game : games) {
 			String data = ReadFile(linkDestination + "/Games/" + game);
@@ -126,6 +149,11 @@ public class DataLogic {
 		}
 	}
 	
+	/**
+	 * Reads the data of the specified file.
+	 * @param path Path to the file.
+	 * @return Data contained inside the file.
+	 */
 	private static String ReadFile (String path) {
 		File file = new File(path);
 		Scanner reader = null;
@@ -145,6 +173,11 @@ public class DataLogic {
 		return data;
 	}
 	
+	/**
+	 * Returns the first few elements of the specified list.
+	 * @param results The whole list.
+	 * @return The sub list.
+	 */
 	public static List<Result> GetSubList (List<Result> results) {
 		int MAX_RESULTS = 5;
 		return results.size() >= MAX_RESULTS ? results.subList(0, MAX_RESULTS) : results.subList(0, results.size());

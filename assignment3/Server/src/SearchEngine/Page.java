@@ -8,7 +8,7 @@ public class Page {
 	public String url;
 	public List<Integer> words;
 	public HashSet<String> links = new LinkedHashSet<String>();
-	public double pageRank = 0;
+	public double pageRank = 1.0;
 	
 	public Page(String url, List<Integer> words) {
 		this.url = url;
