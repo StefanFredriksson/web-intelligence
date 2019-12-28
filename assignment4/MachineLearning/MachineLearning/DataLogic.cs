@@ -79,5 +79,25 @@ namespace MachineLearning
 
             return text.ToArray();
         }
+
+        public static List<string> GetFiles()
+        {
+            string dest = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\Data"));
+            List<string> fileNames = new List<string>();
+            if (Directory.Exists(dest))
+            {
+                string[] files = Directory.GetFiles(dest);
+
+                foreach (string file in files)
+                {
+                    int start = file.LastIndexOf('\\');
+                    int end = file.LastIndexOf('.');
+                    int length = end - (start + 1);
+                    fileNames.Add(file.Substring(start + 1, length));
+                }
+            }
+
+            return fileNames;
+        }
     }
 }

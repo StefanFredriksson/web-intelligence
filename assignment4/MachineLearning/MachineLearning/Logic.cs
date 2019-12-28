@@ -114,5 +114,47 @@ namespace MachineLearning
                 y[rndIndex2] = tempLabel;
             }
         }
+
+        public static float AccuracyScore(int[] preds, int[] y)
+        {
+            int count = 0;
+
+            for (int i = 0; i < y.Length; i++)
+            {
+                if (preds[i] == y[i])
+                {
+                    count++;
+                }
+            }
+
+            return count / (float)y.Length;
+        }
+
+        public static int[][] ConfusionMatrix(int[] preds, int[] y)
+        {
+            int count = 0;
+
+            foreach (int label in y)
+            {
+                if (label == count)
+                {
+                    count++;
+                }
+            }
+
+            int[][] matrix = new int[count][];
+
+            for (int i = 0; i < count; i++)
+            {
+                matrix[i] = new int[count];
+            }
+
+            for (int i = 0; i < y.Length; i++)
+            {
+                matrix[y[i]][preds[i]]++;
+            }
+
+            return matrix;
+        }
     }
 }

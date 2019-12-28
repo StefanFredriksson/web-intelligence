@@ -7,8 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="217" Margin="85,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="294"/>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="559,347,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="73" Margin="79,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="138"/>
+        <Button x:Name="button" Content="Start" HorizontalAlignment="Left" Margin="559,277,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <ComboBox x:Name="fileSelection" HorizontalAlignment="Left" Margin="559,24,0,0" VerticalAlignment="Top" Width="203"/>
+        <CheckBox x:Name="randSelection" Content="Randomize" HorizontalAlignment="Left" Margin="691,280,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="table" HorizontalAlignment="Left" Height="161" Margin="130,207,0,0" VerticalAlignment="Top" Width="230"/>
 
     </Grid>
 </Window>
