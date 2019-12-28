@@ -156,5 +156,20 @@ namespace MachineLearning
 
             return matrix;
         }
+
+        public static int GetNrOfCorrectPredictions(int[] preds, int[] actual)
+        {
+            int sum = 0;
+
+            for (int i = 0; i < preds.Length; i++)
+            {
+                if (preds[i] == actual[i])
+                {
+                    sum++;
+                }
+            }
+
+            return sum;
+        }
     }
 }

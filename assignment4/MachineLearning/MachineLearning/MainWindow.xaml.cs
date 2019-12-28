@@ -17,9 +17,6 @@ using System.Data;
 
 namespace MachineLearning
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -44,6 +41,7 @@ namespace MachineLearning
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+            foldTable.ItemsSource = null;
             ComboBoxItem item = (ComboBoxItem)fileSelection.SelectedItem;
             string file = (string)item.Content + ".csv";
             float[][] data = DataLogic.GetData(file);
@@ -57,9 +55,97 @@ namespace MachineLearning
             NaiveBayes.Fit(data, labels);
             int[] predictions = NaiveBayes.Predict(data);
             float accuracy = Logic.AccuracyScore(predictions, labels);
+            accuracy = (float)Math.Round(accuracy * 100, 2);
             int[][] matrix = Logic.ConfusionMatrix(predictions, labels);
-            textBox.Text = accuracy + "";
+            int correctPreds = Logic.GetNrOfCorrectPredictions(predictions, labels);
+            textBox.Text = "Accuracy: " + accuracy + "% (" + correctPreds + "/" + labels.Length + " correctly classified)";
             PrintTable(matrix);
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            ComboBoxItem item = (ComboBoxItem)fileSelection.SelectedItem;
+            string file = (string)item.Content + ".csv";
+            float[][] data = DataLogic.GetData(file);
+            int[] labels = DataLogic.GetLabels(file);
+            ComboBoxItem foldItem = (ComboBoxItem)foldSelection.SelectedItem;
+            int folds = int.Parse((string)foldItem.Content);
+
+            if ((bool)randSelection.IsChecked)
+            {
+                Logic.Randomize(data, labels);
+            }
+
+            int[] predictions = CrossValPredict(data, labels, folds);
+            float accuracy = Logic.AccuracyScore(predictions, labels);
+            accuracy = (float)Math.Round(accuracy * 100, 2);
+            int[][] matrix = Logic.ConfusionMatrix(predictions, labels);
+            int correctPreds = Logic.GetNrOfCorrectPredictions(predictions, labels);
+            textBox.Text = "Total accuracy: " + accuracy + "% (" + correctPreds + "/" + labels.Length + " correctly classified)";
+            PrintTable(matrix);
+        }
+
+        private int[] CrossValPredict(float[][] X, int[] y, int folds)
+        {
+            List<int> bestPreds = new List<int>();
+            int numOfRows = X.Length / folds;
+            int rest = X.Length % folds;
+            DataTable dt = new DataTable();
+
+            for (int i = 0; i < folds; i++)
+            {
+                DataColumn col = new DataColumn();
+                col.ColumnName = "fold " + (i + 1);
+                dt.Columns.Add(col);
+            }
+
+            DataRow dr = dt.NewRow();
+
+            for (int i = 0; i < folds; i++)
+            {
+                List<float[]> validation = new List<float[]>();
+                List<float[]> training = new List<float[]>();
+                List<int> labels = new List<int>();
+
+                int fill = 0;
+
+                if (rest > 0)
+                {
+                    fill = 1;
+                    rest--;
+                }
+
+                for (int j = 0; j < X.Length; j++)
+                {
+                    if (j >= numOfRows * i && j < (numOfRows * (i + 1)) + fill)
+                    {
+                        validation.Add(X[j]);
+                        labels.Add(y[j]);
+                    }
+                    else
+                    {
+                        training.Add(X[j]);
+                    }
+                }
+
+                NaiveBayes.Fit(training.ToArray(), y);
+                int[] preds = NaiveBayes.Predict(validation.ToArray());
+
+                foreach (int pred in preds)
+                {
+                    bestPreds.Add(pred);
+                }
+
+                DataColumn col = dt.Columns[i];
+                float acc = Logic.AccuracyScore(preds, labels.ToArray());
+
+                dr.SetField(col, Math.Round(acc * 100, 2) + "%");
+            }
+            dt.Rows.Add(dr);
+            DataView dv = new DataView(dt);
+            foldTable.ItemsSource = dv;
+
+            return bestPreds.ToArray();
         }
 
         private void PrintTable(int[][] matrix)
