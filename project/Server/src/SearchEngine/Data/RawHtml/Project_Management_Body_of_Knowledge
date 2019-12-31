@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Project Management Body of Knowledge - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgHmPwpAICEAAGVGZTYAAACQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Project_Management_Body_of_Knowledge","wgTitle":"Project Management Body of Knowledge","wgCurRevisionId":922713571,"wgRevisionId":922713571,"wgArticleId":203637,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1987 documents","1996 books","2013 books","2017 books","Project management","Bodies of knowledge"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Project_Management_Body_of_Knowledge","wgRelevantArticleId":203637,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1135909","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/6/67/PMBOK.jpg"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Project_Management_Body_of_Knowledge"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Project_Management_Body_of_Knowledge rootpage-Project_Management_Body_of_Knowledge skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Project Management Body of Knowledge
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+              <tbody>
+                <tr>
+                  <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+                    <a href="/wiki/Software_development" title="Software development">
+                      Software development
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Core activities
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_development_process" title="Software development process">
+                          Processes
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Requirements_analysis" title="Requirements analysis">
+                          Requirements
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_design" title="Software design">
+                          Design
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_engineering" title="Software engineering">
+                          Engineering
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_construction" title="Software construction">
+                          Construction
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_testing" title="Software testing">
+                          Testing
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugging" title="Debugging">
+                          Debugging
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_deployment" title="Software deployment">
+                          Deployment
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_maintenance" title="Software maintenance">
+                          Maintenance
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Paradigms and models
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Agile_software_development" title="Agile software development">
+                          Agile
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Cleanroom_software_engineering" title="Cleanroom software engineering">
+                          Cleanroom
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Incremental_build_model" title="Incremental build model">
+                          Incremental
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_prototyping" title="Software prototyping">
+                          Prototyping
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Spiral_model" title="Spiral model">
+                          Spiral
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">
+                          V model
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Waterfall_model" title="Waterfall model">
+                          Waterfall
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Software_development_methodology" class="mw-redirect" title="Software development methodology">
+                      Methodologies
+                    </a>
+                     and frameworks
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Adaptive_software_development" title="Adaptive software development">
+                          ASD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/DevOps" title="DevOps">
+                          DevOps
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                          DAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Dynamic_systems_development_method" title="Dynamic systems development method">
+                          DSDM
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Feature-driven_development" title="Feature-driven development">
+                          FDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">
+                          IID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Kanban_(development)" title="Kanban (development)">
+                          Kanban
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Lean_software_development" title="Lean software development">
+                          Lean SD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)#Large-scale_Scrum" title="Scrum (software development)">
+                          LeSS
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Model-driven_development" class="mw-redirect" title="Model-driven development">
+                          MDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Microsoft_Solutions_Framework" title="Microsoft Solutions Framework">
+                          MSF
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Personal_software_process" title="Personal software process">
+                          PSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rapid_application_development" title="Rapid application development">
+                          RAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rational_Unified_Process" title="Rational Unified Process">
+                          RUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scaled_agile_framework" title="Scaled agile framework">
+                          SAFe
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">
+                          Scrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/SEMAT" title="SEMAT">
+                          SEMAT
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Team_software_process" title="Team software process">
+                          TSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/OpenUP" title="OpenUP">
+                          OpenUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Unified_Process" title="Unified Process">
+                          UP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming" title="Extreme programming">
+                          XP
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Supporting disciplines
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_configuration_management" title="Software configuration management">
+                          Configuration management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_documentation" title="Software documentation">
+                          Documentation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_quality_assurance" title="Software quality assurance">
+                          Software quality assurance (SQA)
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_project_management" title="Software project management">
+                          Project management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/User_experience" title="User experience">
+                          User experience
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Practices
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Acceptance_test%E2%80%93driven_development" title="Acceptance test–driven development">
+                          ATDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Behavior-driven_development" title="Behavior-driven development">
+                          BDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming_practices#Collective_code_ownership" title="Extreme programming practices">
+                          CCO
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_integration" title="Continuous integration">
+                          CI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_delivery" title="Continuous delivery">
+                          CD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Domain-driven_design" title="Domain-driven design">
+                          DDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Pair_programming" title="Pair programming">
+                          PP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Specification_by_example" title="Specification by example">
+                          SBE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Stand-up_meeting" title="Stand-up meeting">
+                          Stand-up
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Test-driven_development" title="Test-driven development">
+                          TDD
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Programming_tool" title="Programming tool">
+                      Tools
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Compiler" title="Compiler">
+                          Compiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugger" title="Debugger">
+                          Debugger
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">
+                          Profiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Graphical_user_interface_builder" title="Graphical user interface builder">
+                          GUI designer
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/UML_tool" title="UML tool">
+                          Modeling
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Integrated_development_environment" title="Integrated development environment">
+                          IDE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Build_automation" title="Build automation">
+                          Build automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Application-release_automation" title="Application-release automation">
+                          Release automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">
+                          Infrastructure as code
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Category:Software_testing_tools" title="Category:Software testing tools">
+                          Testing
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Standards and Bodies of Knowledge
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge" title="A Guide to the Business Analysis Body of Knowledge">
+                          BABOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">
+                          CMMI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/IEEE_Standards_Association" title="IEEE Standards Association">
+                          IEEE standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO_9001" class="mw-redirect" title="ISO 9001">
+                          ISO 9001
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">
+                          ISO/IEC standards
+                        </a>
+                      </li>
+                      <li>
+                        <a class="mw-selflink selflink">
+                          PMBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_Engineering_Body_of_Knowledge" title="Software Engineering Body of Knowledge">
+                          SWEBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ITIL" title="ITIL">
+                          ITIL
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Glossaries
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Glossary_of_artificial_intelligence" title="Glossary of artificial intelligence">
+                          Artificial intelligence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">
+                          Computer science
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_electrical_and_electronics_engineering" title="Glossary of electrical and electronics engineering">
+                          Electrical and electronics engineering
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right;font-size:115%">
+                    <div class="plainlinks hlist navbar mini">
+                      <ul>
+                        <li class="nv-view">
+                          <a href="/wiki/Template:Software_development_process" title="Template:Software development process">
+                            <abbr title="View this template">
+                              v
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-talk">
+                          <a href="/wiki/Template_talk:Software_development_process" title="Template talk:Software development process">
+                            <abbr title="Discuss this template">
+                              t
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-edit">
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Software_development_process&amp;action=edit">
+                            <abbr title="Edit this template">
+                              e
+                            </abbr>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="infobox vcard" style="width:22em">
+              <caption style="font-style:italic;padding-bottom:0.2em;">
+                A Guide to the Project Management Body of Knowledge (the PMBOK Guide) 
+                <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+the+Project+Management+Body+of+Knowledge+%28the+PMBOK+Guide%29&amp;rft.author=%5B%5BProject+Management+Institute%5D%5D&amp;rft.pages=592+%27%27%28sixth+edition%29%27%27">
+                </span>
+              </caption>
+              <tbody>
+                <tr>
+                  <td colspan="2" style="text-align:center">
+                    <a href="/wiki/File:PMBOK.jpg" class="image">
+                      <img alt="PMBOK.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/67/PMBOK.jpg/220px-PMBOK.jpg" decoding="async" width="220" height="285" srcset="//upload.wikimedia.org/wikipedia/en/6/67/PMBOK.jpg 1.5x" data-file-width="277" data-file-height="359"/>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    Author
+                  </th>
+                  <td>
+                    <a href="/wiki/Project_Management_Institute" title="Project Management Institute">
+                      Project Management Institute
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    Genre
+                  </th>
+                  <td>
+                    Business
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    Published
+                  </th>
+                  <td>
+                    2017 (
+                    <a href="/wiki/Project_Management_Institute" title="Project Management Institute">
+                      Project Management Institute
+                    </a>
+                    )
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    Pages
+                  </th>
+                  <td>
+                    592 
+                    <i>
+                      (sixth edition)
+                    </i>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                      ISBN
+                    </a>
+                  </th>
+                  <td>
+                    <style data-mw-deduplicate="TemplateStyles:r886058088">
+                      .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                    </style>
+                    <a href="/wiki/Special:BookSources/978-1-62825-184-5" title="Special:BookSources/978-1-62825-184-5">
+                      978-1-62825-184-5
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              The 
+              <b>
+                Project Management Body of Knowledge
+              </b>
+                is a set of standard terminology and guidelines (a 
+              <a href="/wiki/Body_of_knowledge" title="Body of knowledge">
+                body of knowledge
+              </a>
+              ) for 
+              <a href="/wiki/Project_management" title="Project management">
+                project management
+              </a>
+              . The body of knowledge evolves over time and is presented in 
+              <i>
+                A Guide to the Project Management Body of Knowledge
+              </i>
+               (the 
+              <i>
+                Guide to the PMBOK
+              </i>
+               or the Guide), a book whose sixth edition was released in 2017. The Guide is a document resulting from work overseen by the 
+              <a href="/wiki/Project_Management_Institute" title="Project Management Institute">
+                Project Management Institute
+              </a>
+               (PMI), which offers the 
+              <a href="/wiki/Certified_Associate_in_Project_Management" title="Certified Associate in Project Management">
+                CAPM
+              </a>
+               and 
+              <a href="/wiki/Project_Management_Professional" title="Project Management Professional">
+                PMP
+              </a>
+               certifications.
+
+            </p>
+            <p>
+              Much of 
+              <i>
+                the PMBOK Guide
+              </i>
+               is unique to project management such as 
+              <a href="/wiki/Critical_path_method" title="Critical path method">
+                critical path method
+              </a>
+               and 
+              <a href="/wiki/Work_breakdown_structure" title="Work breakdown structure">
+                work breakdown structure
+              </a>
+               (WBS). 
+              <i>
+                The PMBOK Guide
+              </i>
+               also overlaps with 
+              <a href="/wiki/General_management" class="mw-redirect" title="General management">
+                general management
+              </a>
+               regarding planning, organising, staffing, executing and controlling the operations of an organisation. Other management disciplines which overlap with the PMBOK Guide include 
+              <a href="/wiki/Financial_forecasting" class="mw-redirect" title="Financial forecasting">
+                financial forecasting
+              </a>
+              , 
+              <a href="/wiki/Organisational_behaviour" class="mw-redirect" title="Organisational behaviour">
+                organisational behaviour
+              </a>
+              , 
+              <a href="/wiki/Management_science" title="Management science">
+                management science
+              </a>
+              , 
+              <a href="/wiki/Budgeting" class="mw-redirect" title="Budgeting">
+                budgeting
+              </a>
+               and other planning methods.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#History">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      History
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Purpose">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Purpose
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Contents">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Contents
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Process_groups">
+                        <span class="tocnumber">
+                          3.1
+                        </span>
+                        <span class="toctext">
+                          Process groups
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-5">
+                      <a href="#Knowledge_areas">
+                        <span class="tocnumber">
+                          3.2
+                        </span>
+                        <span class="toctext">
+                          Knowledge areas
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-6">
+                  <a href="#Extensions">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Extensions
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-7">
+                  <a href="#Criticism_and_alternatives">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Criticism and alternatives
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-8">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-9">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      8
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="History">
+                History
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=1" title="Edit section: History">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Earlier versions of the 
+              <i>
+                PMBOK Guide
+              </i>
+               were recognized as standards by the 
+              <a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">
+                American National Standards Institute
+              </a>
+               (ANSI) which assigns standards in the United States (ANSI/PMI 99-001-2008) and the 
+              <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">
+                Institute of Electrical and Electronics Engineers
+              </a>
+               (IEEE 1490-2011).
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+            </p>
+            <p>
+              The evolution of the 
+              <i>
+                PMBOK Guide
+              </i>
+               is reflected in editions of the Guide.  The Guide was first published by the 
+              <a href="/wiki/Project_Management_Institute" title="Project Management Institute">
+                Project Management Institute
+              </a>
+               (PMI) in 1996. That document was to some extent based on earlier work that began with a 
+              <a href="/wiki/White_paper" title="White paper">
+                white paper
+              </a>
+               published in 1983 called the "Ethics, Standards, and Accreditation Committee Final Report." The second edition was published in 2000.
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+            </p>
+            <p>
+              In 2004, the 
+              <i>
+                PMBOK Guide — Third Edition
+              </i>
+               was published with major changes from the previous editions. The 
+              <i>
+                Fourth edition
+              </i>
+               was published in 2008. The 
+              <i>
+                Fifth Edition
+              </i>
+               was released in 2013.
+
+            </p>
+            <p>
+              The latest English-language version of 
+              <i>
+                The PMBOK Guide — The Sixth Edition was released in September 2017.
+                <sup id="cite_ref-3" class="reference">
+                  <a href="#cite_note-3">
+                    [3]
+                  </a>
+                </sup>
+              </i>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Purpose">
+                Purpose
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=2" title="Edit section: Purpose">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              <i>
+                The PMBOK Guide
+              </i>
+               is intended to be a "subset of the project management body of knowledge that is generally recognized as a good practice. 'Generally recognized' means the knowledge and practices described are applicable to most projects most of the time and there is a consensus about their value and usefulness. 'Good practice' means there is a general agreement that the application of the knowledge, skills, tools, and techniques can enhance the chance of success over many projects."
+              <sup id="cite_ref-PMBOK2012_4-0" class="reference">
+                <a href="#cite_note-PMBOK2012-4">
+                  [4]
+                </a>
+              </sup>
+               This means that sometimes the "latest" project management trends, often promoted by consultants, may not be part of the latest version of 
+              <i>
+                The PMBOK Guide
+              </i>
+              .
+
+            </p>
+            <p>
+              However, the 6th Edition of the PMBOK Guide now includes an "Agile Practice Guide"
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Contents">
+                Contents
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=3" title="Edit section: Contents">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              <i>
+                The PMBOK Guide
+              </i>
+               is process-based, meaning it describes work as being accomplished by processes. This approach is consistent with other management standards such as 
+              <a href="/wiki/ISO_9000" title="ISO 9000">
+                ISO 9000
+              </a>
+               and the 
+              <a href="/wiki/Software_Engineering_Institute" title="Software Engineering Institute">
+                Software Engineering Institute
+              </a>
+              's 
+              <a href="/wiki/CMMI" class="mw-redirect" title="CMMI">
+                CMMI
+              </a>
+              . Processes overlap and interact throughout a project or its various phases.
+
+            </p>
+            <ul>
+              <li>
+                Inputs (documents, plans, designs, etc.)
+              </li>
+              <li>
+                Tools and Techniques (mechanisms applied to inputs)
+              </li>
+              <li>
+                Outputs (documents, plans, designs, etc.)
+              </li>
+            </ul>
+            <p>
+              A Guide to the Project Management Body of Knowledge — Sixth Edition provides guidelines for managing individual projects and defines project management related concepts. It also describes the project management life cycle and its related processes, as well as the project life cycle.
+              <sup id="cite_ref-PMBOK2012_4-1" class="reference">
+                <a href="#cite_note-PMBOK2012-4">
+                  [4]
+                </a>
+              </sup>
+               and for the first time it includes an "Agile Practice Guide".
+
+            </p>
+            <p>
+              The PMBOK as described in the Guide recognizes 49 processes that fall into five basic process groups and ten knowledge areas that are typical of most projects, most of the time.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Process_groups">
+                Process groups
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=4" title="Edit section: Process groups">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              The five 
+              <i>
+                process groups
+              </i>
+               are:
+
+            </p>
+            <ol>
+              <li>
+                <b>
+                  Initiating
+                </b>
+                : processes performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase.
+              </li>
+              <li>
+                <b>
+                  Planning
+                </b>
+                : Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
+              </li>
+              <li>
+                <b>
+                  Executing
+                </b>
+                : Those processes performed to complete the work defined in the project management plan to satisfy the project specifications
+              </li>
+              <li>
+                <b>
+                  Monitoring and Controlling
+                </b>
+                : Those processes required to track, review, and regulate the progress and performance of the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes.
+              </li>
+              <li>
+                <b>
+                  Closing
+                </b>
+                : Those processes performed to finalize all activities across all Process Groups to formally close the project or phase.
+              </li>
+            </ol>
+            <h3>
+              <span class="mw-headline" id="Knowledge_areas">
+                Knowledge areas
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=5" title="Edit section: Knowledge areas">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              The ten 
+              <i>
+                knowledge areas
+              </i>
+              , each of which contains some or all of the project management processes, are:
+
+            </p>
+            <ol>
+              <li>
+                <a href="/w/index.php?title=Project_Integration_Management&amp;action=edit&amp;redlink=1" class="new" title="Project Integration Management (page does not exist)">
+                  Project Integration Management
+                </a>
+                 : the processes and activities needed to identify, define, combine, unify, and coordinate the various processes and project management activities within the 
+                <a href="/wiki/Project_management_process_groups" class="mw-redirect" title="Project management process groups">
+                  project management process groups
+                </a>
+                .
+              </li>
+              <li>
+                Project 
+                <a href="/wiki/Scope_(project_management)" title="Scope (project management)">
+                  Scope
+                </a>
+                 management : the processes required to ensure that the project includes all the work required, and only the work required, to complete the project successfully.
+              </li>
+              <li>
+                <a href="/w/index.php?title=Project_Schedule_Management&amp;action=edit&amp;redlink=1" class="new" title="Project Schedule Management (page does not exist)">
+                  Project Schedule Management
+                </a>
+                 : the processes required to manage the timely completion of the project. Until the 6th edition of the PMBOK Guide this was called "Project Time Management"
+              </li>
+              <li>
+                <a href="/wiki/Project_cost_management" title="Project cost management">
+                  Project Cost Management
+                </a>
+                 : the processes involved in planning, estimating, budgeting, financing, funding, managing, and controlling costs so that the project can be completed within the approved budget.
+              </li>
+              <li>
+                Project 
+                <a href="/wiki/Quality_Management" class="mw-redirect" title="Quality Management">
+                  Quality Management
+                </a>
+                 : the processes and activities of the performing organization that determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken.
+              </li>
+              <li>
+                Project 
+                <a href="/wiki/Resource_Management" class="mw-redirect" title="Resource Management">
+                  Resource Management
+                </a>
+                 : the processes that organize, manage, and lead the project team. Until the 6th edition of the PMBOK Guide this was called "Project Human Resource Management"
+              </li>
+              <li>
+                Project 
+                <a href="/wiki/Communications_Management" class="mw-redirect" title="Communications Management">
+                  Communications Management
+                </a>
+                 : the processes that are required to ensure timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and the ultimate disposition of project information.
+              </li>
+              <li>
+                <a href="/wiki/Project_Risk_Management" class="mw-redirect" title="Project Risk Management">
+                  Project Risk Management
+                </a>
+                 : the processes of conducting risk management planning, identification, analysis, response planning, and controlling risk on a project.
+              </li>
+              <li>
+                <a href="/w/index.php?title=Project_Procurement_Management&amp;action=edit&amp;redlink=1" class="new" title="Project Procurement Management (page does not exist)">
+                  Project Procurement Management
+                </a>
+                 : the processes necessary to purchase or acquire products, services, or results needed from outside the project team.  Processes in this area include Procurement Planning, Solicitation Planning, Solicitation, Source Selection, Contract Administration, and Contract Closeout.
+              </li>
+              <li>
+                Project 
+                <a href="/wiki/Stakeholder_management" title="Stakeholder management">
+                  Stakeholder Management
+                </a>
+                 : the processes required to identify all people or organizations impacted by the project, analyzing stakeholder expectations and impact on the project, and developing appropriate management strategies for effectively engaging stakeholders in project decisions and execution.
+              </li>
+            </ol>
+            <p>
+              Each of the ten knowledge areas contains the processes that need to be accomplished within its discipline in order to achieve effective project management.  Each of these processes also falls into one of the five process groups, creating a matrix structure such that every process can be related to one knowledge area and one process group.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Extensions">
+                Extensions
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=6" title="Edit section: Extensions">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              While the 
+              <i>
+                PMBOK Guide
+              </i>
+               is meant to offer a general guide to manage most projects most of the time, there are currently three official extensions: 
+
+            </p>
+            <ul>
+              <li>
+                <i>
+                  Software Extension to the PMBOK Guide
+                </i>
+              </li>
+              <li>
+                <i>
+                  Construction Extension to the PMBOK Guide
+                </i>
+              </li>
+              <li>
+                <i>
+                  Government Extension to the PMBOK Guide
+                </i>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="Criticism_and_alternatives">
+                Criticism and alternatives
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=7" title="Edit section: Criticism and alternatives">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The PMBOK is a widely accepted standard in project management, however there are alternatives to the PMBOK standard, and PMBOK does have its critics.  One thrust of critique has come from the 
+              <a href="/wiki/Critical_chain" class="mw-redirect" title="Critical chain">
+                critical chain
+              </a>
+               developers and followers (e.g. 
+              <a href="/wiki/Eliyahu_M._Goldratt" title="Eliyahu M. Goldratt">
+                Eliyahu M. Goldratt
+              </a>
+               and 
+              <a href="/w/index.php?title=Lawrence_P._Leach&amp;action=edit&amp;redlink=1" class="new" title="Lawrence P. Leach (page does not exist)">
+                Lawrence P. Leach
+              </a>
+              ),
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+               as opposed to 
+              <a href="/wiki/Critical_path_method" title="Critical path method">
+                critical path method
+              </a>
+               adherents. The PMBOK Guide section on Project Time Management does indicate Critical Chain as an alternative method to Critical Path. 
+
+            </p>
+            <p>
+              A second strand of criticism originates in 
+              <a href="/wiki/Lean_Construction" class="mw-redirect" title="Lean Construction">
+                Lean Construction
+              </a>
+              . This approach emphasises the lack of two way communication in the PMBOK model and offers an alternative which emphasises a 
+              <a href="/wiki/Language/action_perspective" title="Language/action perspective">
+                language/action perspective
+              </a>
+               and 
+              <a href="/wiki/Continual_improvement" class="mw-redirect" title="Continual improvement">
+                continual improvement
+              </a>
+               in the planning process.
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=8" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/ISO_10006" title="ISO 10006">
+                  ISO 10006
+                </a>
+                 for Quality Management on Projects
+              </li>
+              <li>
+                <a href="/wiki/ISO_21500" title="ISO 21500">
+                  ISO 21500
+                </a>
+                 for Project Management
+              </li>
+              <li>
+                <a href="/wiki/ISO_31000" title="ISO 31000">
+                  ISO 31000
+                </a>
+                 for Risk Management
+              </li>
+              <li>
+                <a href="/wiki/Pmhub" title="Pmhub">
+                  Pmhub
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Project_Management_Professional" title="Project Management Professional">
+                  PMP
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/PRINCE2" title="PRINCE2">
+                  PRINCE2
+                </a>
+                .
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=9" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite id="CITEREFIEEE2011" class="citation">
+                        IEEE (2011), 
+                        <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/servlet/opac?punumber=6086683">
+                          <i>
+                            IEEE Guide--Adoption of the Project Management Institute (PMI(R)) Standard A Guide to the Project Management Body of Knowledge (PMBOK(R) Guide)--Fourth Edition
+                          </i>
+                        </a>
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IEEE+Guide--Adoption+of+the+Project+Management+Institute+%28PMI%28R%29%29+Standard+A+Guide+to+the+Project+Management+Body+of+Knowledge+%28PMBOK%28R%29+Guide%29--Fourth+Edition&amp;rft.date=2011&amp;rft.au=IEEE&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fservlet%2Fopac%3Fpunumber%3D6086683&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProject+Management+Body+of+Knowledge" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-2">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      A Guide to the Project Management Body of Knowledge, copyright page, edition 2 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/1-880410-12-5" title="Special:BookSources/1-880410-12-5">
+                        1-880410-12-5
+                      </a>
+                      , and edition 3 2004 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/978-1-930699-45-8" title="Special:BookSources/978-1-930699-45-8">
+                        978-1-930699-45-8
+                      </a>
+                      , and edition 4 2008 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/1-933890-51-7" title="Special:BookSources/1-933890-51-7">
+                        1-933890-51-7
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-3">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external autonumber" href="https://www.pmi.org/certifications/types/project-management-pmp/update">
+                        [1]
+                      </a>
+                       Project Management Institute], retrieved 11 July 2017
+                    </span>
+                  </li>
+                  <li id="cite_note-PMBOK2012-4">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-PMBOK2012_4-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-PMBOK2012_4-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      Project Management Institute, 
+                      <b>
+                        A Guide to the Project Management Body of Knowledge
+                      </b>
+                       – Fifth Edition, Project Management Institute Inc., 2013, Page 2.
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a href="/wiki/Eliyahu_M._Goldratt" title="Eliyahu M. Goldratt">
+                        Eliyahu M. Goldratt
+                      </a>
+                       . 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/0884271536" title="Special:BookSources/0884271536">
+                        0884271536
+                      </a>
+                       and Lawrence P. Leach. (Artech House Professional Development Library). 
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/1580530745" title="Special:BookSources/1580530745">
+                        1580530745
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-6">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Koskela, L. &amp; Howell, G. (2002) 'The underlying theory of project management is obsolete', Proceedings of the PMI Research Conference 2002, 293-302. 
+                      <a rel="nofollow" class="external autonumber" href="https://usir.salford.ac.uk/9400/1/2002_The_underlying_theory_of_project_management_is_obsolete.pdf">
+                        [2]
+                      </a>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit&amp;section=10" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.pmi.org/">
+                  PMI's website
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://johnmuldoon.ie/wp-content/uploads/2014/08/PMBOK-Summarized.pdf">
+                  PMBOK Summarized - A remarkbly concise guide to the PMBOK (PDF)
+                </a>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20191223214258
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.380 seconds
+Real time usage: 0.687 seconds
+Preprocessor visited node count: 1935/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22755/2097152 bytes
+Template argument size: 3507/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17345/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  609.463      1 -total
+ 59.70%  363.828      1 Template:Infobox_book
+ 49.99%  304.674      1 Template:Infobox
+ 36.59%  223.022      1 Template:ISBNT
+ 25.74%  156.862      1 Template:Reflist
+ 15.50%   94.449      6 Template:Catalog_lookup_link
+ 12.88%   78.514      1 Template:Software_development_process
+ 12.64%   77.010      6 Template:Error-small
+ 11.74%   71.550      1 Template:Citation
+  9.06%   55.239      6 Template:Small
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:203637-0!canonical and timestamp 20191223214257 and revision id 922713571
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Project_Management_Body_of_Knowledge&amp;oldid=922713571">
+            https://en.wikipedia.org/w/index.php?title=Project_Management_Body_of_Knowledge&amp;oldid=922713571
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:1987_documents" title="Category:1987 documents">
+                  1987 documents
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:1996_books" title="Category:1996 books">
+                  1996 books
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:2013_books" title="Category:2013 books">
+                  2013 books
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:2017_books" title="Category:2017 books">
+                  2017 books
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Project_management" title="Category:Project management">
+                  Project management
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Bodies_of_knowledge" title="Category:Bodies of knowledge">
+                  Bodies of knowledge
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Project+Management+Body+of+Knowledge" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Project+Management+Body+of+Knowledge" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Project_Management_Body_of_Knowledge" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Project_Management_Body_of_Knowledge" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Project_Management_Body_of_Knowledge">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Project_Management_Body_of_Knowledge" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Project_Management_Body_of_Knowledge" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;oldid=922713571" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1135909" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Project_Management_Body_of_Knowledge&amp;id=922713571" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Project+Management+Body+of+Knowledge">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Project+Management+Body+of+Knowledge&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Project_Management_Body_of_Knowledge&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D9%8A_%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9" title="الدليل المعرفي لإدارة المشاريع – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">
+                  العربية
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="https://cs.wikipedia.org/wiki/PMBOK_Guide" title="PMBOK Guide – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">
+                  Čeština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge" title="A Guide to the Project Management Body of Knowledge – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Gu%C3%ADa_de_los_fundamentos_para_la_direcci%C3%B3n_de_proyectos" title="Guía de los fundamentos para la dirección de proyectos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D9%BE%D9%85%E2%80%8C%D8%A8%D8%A7%DA%A9" title="پم‌باک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gl">
+                <a href="https://gl.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">
+                  Galego
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B4%80%EB%A6%AC_%EC%A7%80%EC%8B%9D_%EC%B2%B4%EA%B3%84" title="프로젝트 관리 지식 체계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-id">
+                <a href="https://id.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="https://nl.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/PMBOK" title="PMBOK – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="https://pl.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B4_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8" title="Свод знаний по управлению проектами – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Project_management_body_of_knowledge" title="Project management body of knowledge – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tr">
+                <a href="https://tr.wikipedia.org/wiki/Proje_Y%C3%B6netimi_Bilgi_Taban%C4%B1" title="Proje Yönetimi Bilgi Tabanı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">
+                  Türkçe
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/PMBOK" title="PMBOK – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="https://vi.wikipedia.org/wiki/H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_v%E1%BB%81_nh%E1%BB%AFng_ki%E1%BA%BFn_th%E1%BB%A9c_c%E1%BB%91t_l%C3%B5i_trong_Qu%E1%BA%A3n_l%C3%BD_d%E1%BB%B1_%C3%A1n" title="Hướng dẫn về những kiến thức cốt lõi trong Quản lý dự án – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">
+                  Tiếng Việt
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AD%98%E9%AB%94%E7%B3%BB%E6%8C%87%E5%8D%97" title="專案管理知識體系指南 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1135909#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 23 October 2019, at 20:43
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Project_Management_Body_of_Knowledge&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.687","ppvisitednodes":{"value":1935,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22755,"limit":2097152},"templateargumentsize":{"value":3507,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17345,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  609.463      1 -total"," 59.70%  363.828      1 Template:Infobox_book"," 49.99%  304.674      1 Template:Infobox"," 36.59%  223.022      1 Template:ISBNT"," 25.74%  156.862      1 Template:Reflist"," 15.50%   94.449      6 Template:Catalog_lookup_link"," 12.88%   78.514      1 Template:Software_development_process"," 12.64%   77.010      6 Template:Error-small"," 11.74%   71.550      1 Template:Citation","  9.06%   55.239      6 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"10.000"},"limitreport-memusage":{"value":2990138,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191223214258","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Project Management Body of Knowledge","url":"https:\/\/en.wikipedia.org\/wiki\/Project_Management_Body_of_Knowledge","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1135909","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1135909","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-30T22:27:12Z","dateModified":"2019-10-23T20:43:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/67\/PMBOK.jpg","headline":"book"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1331"});});
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Off-by-one error - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgspogpAMFEAAG4UMKsAAAAP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Off-by-one_error","wgTitle":"Off-by-one error","wgCurRevisionId":933344962,"wgRevisionId":933344962,"wgArticleId":271723,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2011","Articles with example C code","Software bugs","Computer security exploits"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Off-by-one_error","wgRelevantArticleId":271723,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1439356","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.pygments":"ready",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Off-by-one_error"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Off-by-one_error&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Off-by-one_error&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Off-by-one_error"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Off-by-one_error rootpage-Off-by-one_error skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Off-by-one error
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <p>
+              An 
+              <b>
+                off-by-one error
+              </b>
+               (
+              <b>
+                OBOE
+              </b>
+              ), or 
+              <b>
+                OBOB
+              </b>
+               (
+              <b>
+                off-by-one bug
+              </b>
+              ), or 
+              <b>
+                OB1 error
+              </b>
+               is a 
+              <a href="/wiki/Logic_error" title="Logic error">
+                logic error
+              </a>
+               involving the discrete equivalent of a 
+              <a href="/wiki/Boundary_condition" class="mw-redirect" title="Boundary condition">
+                boundary condition
+              </a>
+              .  It often occurs in 
+              <a href="/wiki/Computer_programming" title="Computer programming">
+                computer programming
+              </a>
+               when an 
+              <a href="/wiki/Control_flow#Loops" title="Control flow">
+                iterative loop
+              </a>
+               iterates one time too many or too few. This problem could arise when a programmer makes mistakes such as using "is less than or equal to" where "is less than" should have been used in a comparison, or fails to take into account that a sequence starts at zero rather than one (as with array indices in many languages). This can also occur in a 
+              <a href="/wiki/Mathematics" title="Mathematics">
+                mathematical
+              </a>
+               context.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Looping_over_arrays">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Looping over arrays
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Fencepost_error">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Fencepost error
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Security_implications">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Security implications
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Looping_over_arrays">
+                Looping over arrays
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit&amp;section=1" title="Edit section: Looping over arrays">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Consider an 
+              <a href="/wiki/Array_data_type" title="Array data type">
+                array
+              </a>
+               of items, and items 
+              <i>
+                m
+              </i>
+               through 
+              <i>
+                n
+              </i>
+               (inclusive) are to be processed. How many items are there? An intuitive answer may be 
+              <i>
+                n
+              </i>
+               − 
+              <i>
+                m
+              </i>
+              , but that is off by one, exhibiting a 
+              <a href="#Fencepost_error">
+                fencepost error
+              </a>
+              ; the correct answer is 
+(
+              <i>
+                n
+              </i>
+               – 
+              <i>
+                m
+              </i>
+              ) + 1.
+
+            </p>
+            <p>
+              For this reason, ranges in computing are often represented by 
+              <a href="/wiki/Half-open_interval" class="mw-redirect" title="Half-open interval">
+                half-open intervals
+              </a>
+              ; the range from 
+              <i>
+                m
+              </i>
+               to 
+              <i>
+                n
+              </i>
+               (inclusive) is represented by the range from 
+              <i>
+                m
+              </i>
+               (inclusive) to 
+              <i>
+                n
+              </i>
+               + 1 (exclusive) to avoid fencepost errors. For example, a 
+              <a href="/wiki/Program_loop" class="mw-redirect" title="Program loop">
+                loop
+              </a>
+               that iterates five times (from 0 to 4 inclusive) can be written as a half-open interval from 0 to 5:
+
+            </p>
+            <div class="mw-highlight mw-content-ltr" dir="ltr">
+              <pre>
+                <span>
+                </span>
+                <span class="k">
+                  for
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="n">
+                  index
+                </span>
+                <span class="o">
+                  =
+                </span>
+                <span class="mi">
+                  0
+                </span>
+                <span class="p">
+                  ;
+                </span>
+                <span class="n">
+                  index
+                </span>
+                <span class="o">
+                  &lt;
+                </span>
+                <span class="mi">
+                  5
+                </span>
+                <span class="p">
+                  ;
+                </span>
+                <span class="o">
+                  ++
+                </span>
+                <span class="n">
+                  index
+                </span>
+                <span class="p">
+                  )
+                </span>
+                <span class="p">
+                  {
+                </span>
+                <span class="cm">
+                  /* Body of the loop */
+                </span>
+                <span class="p">
+                  }
+                </span>
+              </pre>
+            </div>
+            <p>
+              The loop body is executed first of all with 
+              <tt>
+                index
+              </tt>
+               equal to 0; 
+              <tt>
+                i
+              </tt>
+               then becomes 1, 2, 3, and finally 4 on successive iterations. At that point, 
+              <tt>
+                index
+              </tt>
+               becomes 5, so 
+              <tt>
+                index &lt; 5
+              </tt>
+               is false and the loop ends. However, if the comparison used were 
+              <tt>
+                &lt;=
+              </tt>
+               (less than or equal to), the loop would be carried out six times: 
+              <tt>
+                index
+              </tt>
+               takes the values 0, 1, 2, 3, 4, and 5. Likewise, if 
+              <tt>
+                index
+              </tt>
+               were initialized to 1 rather than 0, there would only be four iterations: 
+              <tt>
+                index
+              </tt>
+               takes the values 1, 2, 3, and 4. Both of these alternatives can cause off-by-one errors.
+
+            </p>
+            <p>
+              Another such error can occur if a 
+              <a href="/wiki/Do-while_loop" class="mw-redirect" title="Do-while loop">
+                do-while loop
+              </a>
+               is used in place of a 
+              <a href="/wiki/While_loop" title="While loop">
+                while loop
+              </a>
+               (or vice versa.) A do-while loop is guaranteed to run at least once.
+
+            </p>
+            <p>
+              Array-related confusion may also result from differences in programming languages. Numbering from 0 is most common, but some languages start array numbering with 1. 
+              <a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">
+                Pascal
+              </a>
+               has arrays with user-defined indices. This makes it possible to model the array indices after the problem domain.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Fencepost_error">
+                Fencepost error
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit&amp;section=2" title="Edit section: Fencepost error">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:252px;">
+                <a href="/wiki/File:Fencepost_error.svg" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fencepost_error.svg/250px-Fencepost_error.svg.png" decoding="async" width="250" height="59" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fencepost_error.svg/375px-Fencepost_error.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fencepost_error.svg/500px-Fencepost_error.svg.png 2x" data-file-width="598" data-file-height="142"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Fencepost_error.svg" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  A straight fence with 
+                  <i>
+                    n
+                  </i>
+                   sections has 
+                  <i>
+                    n+1
+                  </i>
+                   posts.
+                </div>
+              </div>
+            </div>
+            <p>
+              A 
+              <b>
+                fencepost error
+              </b>
+               (occasionally called a 
+              <b>
+                telegraph pole,
+              </b>
+              <b>
+                lamp-post,
+              </b>
+               or 
+              <b>
+                picket fence error
+              </b>
+              ) is a specific type of off-by-one error. An early description of this error appears in the works of 
+              <a href="/wiki/Vitruvius" title="Vitruvius">
+                Vitruvius
+              </a>
+              .
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+               The following problem illustrates the error:
+
+            </p>
+            <style data-mw-deduplicate="TemplateStyles:r886047036">
+              .mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}
+            </style>
+            <blockquote class="templatequote">
+              <p>
+                If you build a straight fence 30 meters long with posts spaced 3 meters apart, how many posts do you need?
+
+              </p>
+            </blockquote>
+            <p>
+              The naive answer 10 is wrong. The fence has 10 sections, but 11 posts.
+
+            </p>
+            <p>
+              The reverse error occurs when the number of posts is known and the number of sections is assumed to be the same. The actual number of sections is one less than the number of posts.
+
+            </p>
+            <p>
+              More generally, the problem can be stated as follows:
+
+            </p>
+            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/>
+            <blockquote class="templatequote">
+              <p>
+                If you have 
+                <i>
+                  n
+                </i>
+                 posts, how many sections are there between them?
+
+              </p>
+            </blockquote>
+            <p>
+              The correct answer may be 
+              <span class="nowrap">
+                <i>
+                  n
+                </i>
+                 − 1
+              </span>
+               if the line of posts is open-ended, 
+              <i>
+                n
+              </i>
+               if they form a loop, or 
+              <span class="nowrap">
+                <i>
+                  n
+                </i>
+                 + 1
+              </span>
+               if the posts do not occur at the end of the fence (for instance if the fence runs between two walls). The precise problem definition must be carefully considered, as the setup for one situation may give the wrong answer for other situations.  Fencepost errors come from counting things rather than the spaces between them, or vice versa, or by neglecting to consider whether one should count one or both ends of a row.
+
+            </p>
+            <p>
+              Fencepost errors can also occur in units other than length. For example, the 
+              <a href="/wiki/Time_Pyramid" class="mw-redirect" title="Time Pyramid">
+                Time Pyramid
+              </a>
+              , consisting of 120 blocks placed at 10-year intervals between blocks, is scheduled to take 1,190 years to build (not 1,200), from the installation of the first block to the last block. One of the earliest fencepost errors involved time, where the 
+              <a href="/wiki/Julian_calendar" title="Julian calendar">
+                Julian calendar
+              </a>
+               originally 
+              <a href="/wiki/Julian_calendar#Leap_year_error" title="Julian calendar">
+                calculated leap years incorrectly
+              </a>
+              , due to counting inclusively rather than exclusively, yielding a leap year every three years rather than every four.
+
+            </p>
+            <p>
+              "Fencepost error" can
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (March 2011)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+              , in rare occasions, refer to an error induced by unexpected regularities in input values, which can (for instance) completely thwart a theoretically efficient 
+              <a href="/wiki/Binary_tree" title="Binary tree">
+                binary tree
+              </a>
+               or 
+              <a href="/wiki/Hash_function" title="Hash function">
+                hash function
+              </a>
+               implementation. This error involves the difference between expected and worst case behaviours of an 
+              <a href="/wiki/Algorithm" title="Algorithm">
+                algorithm
+              </a>
+              .
+
+            </p>
+            <p>
+              In larger numbers, being off by one is often not a major issue. In smaller numbers, however, and specific cases where accuracy is paramount committing an off-by-one error can be disastrous. Sometimes such an issue will also be repeated and, therefore, worsened, by someone passing on an incorrect calculation if the following person makes the same kind of mistake again (of course, the error might also be reversed).
+
+            </p>
+            <p>
+              An example of this error can occur in the computational language 
+              <a href="/wiki/MATLAB" title="MATLAB">
+                MATLAB
+              </a>
+               with the 
+              <code>
+                linspace()
+              </code>
+              <a href="/wiki/Linear_interpolation" title="Linear interpolation">
+                linear interpolation
+              </a>
+               function, whose parameters are 
+              <code>
+                (
+                <i>
+                  lower value
+                </i>
+                , 
+                <i>
+                  upper value
+                </i>
+                , 
+                <i>
+                  number of values
+                </i>
+                )
+              </code>
+               and not 
+              <code>
+                (
+                <i>
+                  lower value
+                </i>
+                , 
+                <i>
+                  upper value
+                </i>
+                , 
+                <i>
+                  number of increments
+                </i>
+                )
+              </code>
+              . A programmer who misunderstands the third parameter to be the number of increments might hope that 
+              <code>
+                linspace(0,10,5)
+              </code>
+               would  achieve a sequence 
+              <span class="nowrap">
+                <code>
+                  [0, 2, 4, 6, 8, 10]
+                </code>
+              </span>
+               but instead would get 
+              <span class="nowrap">
+                <code>
+                  [0, 2.5, 5, 7.5, 10]
+                </code>
+              </span>
+              .
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Security_implications">
+                Security implications
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit&amp;section=3" title="Edit section: Security implications">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              A common off-by-one error which results in a security-related bug is caused by misuse of the 
+              <a href="/wiki/C_standard_library" title="C standard library">
+                C standard library
+              </a>
+              <code>
+                <a href="/wiki/Strcat#Bounds_checking_variants" class="mw-redirect" title="Strcat">
+                  strncat
+                </a>
+              </code>
+               routine.  A common misconception with 
+              <code>
+                strncat
+              </code>
+               is that the guaranteed null termination will not write beyond the maximum length.  In reality it will write a terminating null character one byte beyond the maximum length specified.  The following code contains such a bug:
+
+            </p>
+            <div class="mw-highlight mw-content-ltr" dir="ltr">
+              <pre>
+                <span>
+                </span>
+                <span class="kt">
+                  void
+                </span>
+                <span class="nf">
+                  foo
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="kt">
+                  char
+                </span>
+                <span class="o">
+                  *
+                </span>
+                <span class="n">
+                  s
+                </span>
+                <span class="p">
+                  )
+                </span>
+                <span class="p">
+                  {
+                </span>
+                <span class="kt">
+                  char
+                </span>
+                <span class="n">
+                  buf
+                </span>
+                <span class="p">
+                  [
+                </span>
+                <span class="mi">
+                  15
+                </span>
+                <span class="p">
+                  ];
+                </span>
+                <span class="n">
+                  memset
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="n">
+                  buf
+                </span>
+                <span class="p">
+                  ,
+                </span>
+                <span class="mi">
+                  0
+                </span>
+                <span class="p">
+                  ,
+                </span>
+                <span class="k">
+                  sizeof
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="n">
+                  buf
+                </span>
+                <span class="p">
+                  ));
+                </span>
+                <span class="n">
+                  strncat
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="n">
+                  buf
+                </span>
+                <span class="p">
+                  ,
+                </span>
+                <span class="n">
+                  s
+                </span>
+                <span class="p">
+                  ,
+                </span>
+                <span class="k">
+                  sizeof
+                </span>
+                <span class="p">
+                  (
+                </span>
+                <span class="n">
+                  buf
+                </span>
+                <span class="p">
+                  ));
+                </span>
+                <span class="c1">
+                  // Final parameter should be: sizeof(buf)-1
+                </span>
+                <span class="p">
+                  }
+                </span>
+              </pre>
+            </div>
+            <p>
+              Off-by-one errors are common in using the C library because it is not consistent with respect to whether one needs to subtract 1 byte – functions like 
+              <code>
+                fgets()
+              </code>
+               and 
+              <code>
+                strncpy
+              </code>
+               will never write past the length given them (
+              <code>
+                fgets()
+              </code>
+               subtracts 1 itself, and only retrieves (length − 1) bytes), whereas others, like 
+              <code>
+                strncat
+              </code>
+               will write past the length given them. So the programmer has to remember for which functions they need to subtract 1.
+
+            </p>
+            <p>
+              On some systems (
+              <a href="/wiki/Endianness" title="Endianness">
+                little endian
+              </a>
+               architectures in particular) this can result in the overwriting of the least significant byte of the 
+              <a href="/wiki/Frame_pointer" class="mw-redirect" title="Frame pointer">
+                frame pointer
+              </a>
+              .  This can cause an exploitable condition where an attacker can hijack the local variables for the calling routine.
+
+            </p>
+            <p>
+              One approach that often helps avoid such problems is to use variants of these functions that calculate how much to write based on the total length of the buffer, rather than the maximum number of characters to write. Such functions include 
+              <code>
+                strlcat
+              </code>
+               and 
+              <code>
+                strlcpy
+              </code>
+              , and are often considered "safer" because they make it easier to avoid accidentally writing past the end of a buffer. (In the code example above, calling 
+              <code>
+                strlcat(buf, s, sizeof(buf))
+              </code>
+               instead would remove the bug.)
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit&amp;section=4" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Boundary-value_analysis" title="Boundary-value analysis">
+                  Boundary-value analysis
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Pigeonhole_principle" title="Pigeonhole principle">
+                  Pigeonhole principle
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Rounding_error" class="mw-redirect" title="Rounding error">
+                  Rounding error
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Zero-based_numbering" title="Zero-based numbering">
+                  Zero-based numbering
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit&amp;section=5" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite id="CITEREFMoniot" class="citation">
+                        Moniot, Robert K., 
+                        <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305221341/http://www.dsm.fordham.edu/~moniot/Opinions/fencepost-error-history.shtml">
+                          <i>
+                            Who first described the "fence-post error?"
+                          </i>
+                        </a>
+                        , 
+                        <a href="/wiki/Fordham_University" title="Fordham University">
+                          Fordham University
+                        </a>
+                        , archived from 
+                        <a rel="nofollow" class="external text" href="http://www.dsm.fordham.edu/~moniot/Opinions/fencepost-error-history.shtml">
+                          the original
+                        </a>
+                         on 2016-03-05
+                        <span class="reference-accessdate">
+                          , retrieved 
+                          <span class="nowrap">
+                            2016-07-07
+                          </span>
+                        </span>
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Who+first+described+the+%22fence-post+error%3F%22&amp;rft.pub=Fordham+University&amp;rft.aulast=Moniot&amp;rft.aufirst=Robert+K.&amp;rft_id=http%3A%2F%2Fwww.dsm.fordham.edu%2F~moniot%2FOpinions%2Ffencepost-error-history.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOff-by-one+error" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r886058088">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                      .
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <i>
+                  An earlier version of this article was based on 
+                  <a rel="nofollow" class="external text" href="http://foldoc.org/fencepost%20error">
+                    fencepost error
+                  </a>
+                   at 
+                  <a rel="nofollow" class="external text" href="http://foldoc.org">
+                    FOLDOC
+                  </a>
+                  , used with 
+                  <a href="/wiki/Wikipedia:Foldoc_license" title="Wikipedia:Foldoc license">
+                    permission
+                  </a>
+                  .
+                </i>
+              </li>
+              <li>
+                <cite class="citation web">
+                  Dijkstra, Edsger Wybe (May 2, 2008). 
+                  <a rel="nofollow" class="external text" href="http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html">
+                    "Why numbering should start at zero (EWD 831)"
+                  </a>
+                  . 
+                  <i>
+                    E. W. Dijkstra Archive
+                  </i>
+                  . 
+                  <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">
+                    University of Texas at Austin
+                  </a>
+                  <span class="reference-accessdate">
+                    . Retrieved 
+                    <span class="nowrap">
+                      2011-03-16
+                    </span>
+                  </span>
+                  .
+                </cite>
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=E.+W.+Dijkstra+Archive&amp;rft.atitle=Why+numbering+should+start+at+zero+%28EWD+831%29&amp;rft.date=2008-05-02&amp;rft.aulast=Dijkstra&amp;rft.aufirst=Edsger+Wybe&amp;rft_id=http%3A%2F%2Fwww.cs.utexas.edu%2Fusers%2FEWD%2Ftranscriptions%2FEWD08xx%2FEWD831.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOff-by-one+error" class="Z3988">
+                </span>
+                <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1282
+Cached time: 20191231105609
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.160 seconds
+Real time usage: 0.233 seconds
+Preprocessor visited node count: 533/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6914/2097152 bytes
+Template argument size: 1153/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7330/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.37 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  189.333      1 -total
+ 38.06%   72.064      1 Template:Reflist
+ 34.67%   65.636      1 Template:Citation
+ 32.94%   62.371      1 Template:Citation_needed
+ 28.66%   54.266      1 Template:Fix
+ 22.77%   43.120      2 Template:Quote
+ 20.73%   39.253      2 Template:Category_handler
+  8.66%   16.387      2 Template:Trim_quotes
+  5.76%   10.914      1 Template:Delink
+  3.92%    7.423      1 Template:Cite_web
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:271723-0!canonical and timestamp 20191231105608 and revision id 933344962
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Off-by-one_error&amp;oldid=933344962">
+            https://en.wikipedia.org/w/index.php?title=Off-by-one_error&amp;oldid=933344962
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Software_bugs" title="Category:Software bugs">
+                  Software bugs
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Computer_security_exploits" title="Category:Computer security exploits">
+                  Computer security exploits
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+                  All articles with unsourced statements
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">
+                  Articles with unsourced statements from March 2011
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_example_C_code" title="Category:Articles with example C code">
+                  Articles with example C code
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Off-by-one+error" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Off-by-one+error" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Off-by-one_error" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Off-by-one_error" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Off-by-one_error">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Off-by-one_error" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Off-by-one_error" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Off-by-one_error&amp;oldid=933344962" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Off-by-one_error&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1439356" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Off-by-one_error&amp;id=933344962" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Off-by-one+error">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Off-by-one+error&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Off-by-one_error&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-az">
+                <a href="https://az.wikipedia.org/wiki/%E2%80%9CBir_vahid%E2%80%9D_x%C9%99tas%C4%B1" title="“Bir vahid” xətası – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">
+                  Azərbaycanca
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Off-by-one-Error" title="Off-by-one-Error – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Off-by-one_error" title="Off-by-one error – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D8%AE%D8%B7%D8%A7%DB%8C_off-by-one" title="خطای off-by-one – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Erreur_off-by-one" title="Erreur off-by-one – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Off-by-one_error" title="Off-by-one error – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/Off-by-one%E3%82%A8%E3%83%A9%E3%83%BC" title="Off-by-oneエラー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="https://pl.wikipedia.org/wiki/Off_by_one" title="Off by one – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D1%83" title="Ошибка на единицу – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-simple">
+                <a href="https://simple.wikipedia.org/wiki/Off-by-one_error" title="Off-by-one error – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">
+                  Simple English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sr">
+                <a href="https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%88%D0%BA%D0%B0_%D0%B7%D0%B0_%D1%98%D0%B5%D0%B4%D0%B0%D0%BD" title="Грешка за један – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">
+                  Српски / srpski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-th">
+                <a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87" title="ความผิดพลาดโดยการคลาดเคลื่อนไปหนึ่ง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">
+                  ไทย
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="https://vi.wikipedia.org/wiki/L%E1%BB%97i_Off-by-one" title="Lỗi Off-by-one – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">
+                  Tiếng Việt
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E5%B7%AE%E4%B8%80%E9%94%99%E8%AF%AF" title="差一错误 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1439356#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 31 December 2019, at 10:56
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Off-by-one_error&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.233","ppvisitednodes":{"value":533,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6914,"limit":2097152},"templateargumentsize":{"value":1153,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7330,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  189.333      1 -total"," 38.06%   72.064      1 Template:Reflist"," 34.67%   65.636      1 Template:Citation"," 32.94%   62.371      1 Template:Citation_needed"," 28.66%   54.266      1 Template:Fix"," 22.77%   43.120      2 Template:Quote"," 20.73%   39.253      2 Template:Category_handler","  8.66%   16.387      2 Template:Trim_quotes","  5.76%   10.914      1 Template:Delink","  3.92%    7.423      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2489238,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20191231105609","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Off-by-one error","url":"https:\/\/en.wikipedia.org\/wiki\/Off-by-one_error","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1439356","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1439356","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-01-19T22:04:44Z","dateModified":"2019-12-31T10:56:03Z","headline":"type of numerical or counting error"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1246"});});
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      SEMAT - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XggrEgpAME4AAHCZoXsAAACF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"SEMAT","wgTitle":"SEMAT","wgCurRevisionId":912314722,"wgRevisionId":912314722,"wgArticleId":25451462,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with possible conflicts of interest from January 2019","All articles with unsourced statements","Articles with unsourced statements from November 2013","Official website not in Wikidata",
+"Software engineering organizations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"SEMAT","wgRelevantArticleId":25451462,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7389723","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/SEMAT"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SEMAT&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=SEMAT&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/SEMAT"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-SEMAT rootpage-SEMAT skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        SEMAT
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="box-COI plainlinks metadata ambox ambox-content ambox-COI" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" decoding="async" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354"/>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      <b>
+                         A major contributor to this article appears to have a 
+                        <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">
+                          close connection
+                        </a>
+                         with its subject.
+                      </b>
+                      <span class="hide-when-compact">
+                         It may require 
+                        <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">
+                          cleanup
+                        </a>
+                         to comply with Wikipedia's content policies, particularly 
+                        <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">
+                          neutral point of view
+                        </a>
+                        . Please discuss further on the 
+                        <a href="/wiki/Talk:SEMAT" title="Talk:SEMAT">
+                          talk page
+                        </a>
+                        .
+                      </span>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            January 2019
+                          </span>
+                          )
+                        </i>
+                      </small>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              <b>
+                SEMAT
+              </b>
+               (
+              <b>
+                Software Engineering Method and Theory
+              </b>
+              ) is an initiative to reshape 
+              <a href="/wiki/Software_engineering" title="Software engineering">
+                software engineering
+              </a>
+               such that software engineering qualifies as a rigorous discipline. The initiative was launched in December 2009  by 
+              <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">
+                Ivar Jacobson
+              </a>
+              , 
+              <a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">
+                Bertrand Meyer
+              </a>
+              , and 
+              <a href="/wiki/Richard_Soley" title="Richard Soley">
+                Richard Soley
+              </a>
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+               with a call for action statement
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+               and a vision statement.
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+               The initiative was envisioned as a multi-year effort for bridging the gap between the developer community and the academic community and for creating a community giving value to the whole software community.
+
+            </p>
+            <p>
+              The work is now structured in four different, but strongly related areas: The Practice area, The Education area, the Theory area and the Community area.
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (November 2013)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+               The Practice area primarily addresses practices. The Education area is concerned with all issues related to training for both the developers and the academics including students. The Theory area is primarily addressing the search for a General Theory in Software Engineering. Finally the Community area works with setting up legal entities, creating websites and community growth.  It was expected that the Practice area, the Education area and the Theory area would at some point in time integrate in a way of value to all of them: the Practice area would be a "customer" of the Theory area, and direct the research to useful results for the developer community.  The Theory area would give a solid and practical platform for the Practice area.  And, the Education area would communicate the results in proper ways.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Practice_area">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Practice area
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Education_area">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Education area
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Theory_area">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Theory area
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="#Organization_structure">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Organization structure
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-5">
+                      <a href="#Main_organization">
+                        <span class="tocnumber">
+                          4.1
+                        </span>
+                        <span class="toctext">
+                          Main organization
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-6">
+                      <a href="#Japan_Chapter">
+                        <span class="tocnumber">
+                          4.2
+                        </span>
+                        <span class="toctext">
+                          Japan Chapter
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-7">
+                      <a href="#Korea_Chapter">
+                        <span class="tocnumber">
+                          4.3
+                        </span>
+                        <span class="toctext">
+                          Korea Chapter
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-8">
+                      <a href="#Latin_American_Chapter">
+                        <span class="tocnumber">
+                          4.4
+                        </span>
+                        <span class="toctext">
+                          Latin American Chapter
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-9">
+                      <a href="#Russia_Chapter">
+                        <span class="tocnumber">
+                          4.5
+                        </span>
+                        <span class="toctext">
+                          Russia Chapter
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#Practical_Applications_of_SEMAT">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Practical Applications of SEMAT
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#Tools_supporting_SEMAT">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      Tools supporting SEMAT
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-13">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      8
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Practice_area">
+                Practice area
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=1" title="Edit section: Practice area">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The first step was here to develop a common ground or a kernel including the essence of software engineering – things we always have, always do, always produce when developing software.  The second step was envisioned to add value on top of this kernel in the form of a library of practices to be composed to become specific methods, specific for all kinds of reasons such as the preferences of the team using it, kind of software being built, etc.
+The first step is as of this writing just about to be concluded.  The results are a kernel including universal elements for software development – called the Essence Kernel, and a language – called the Essence Language - to describe these elements (and elements built on top of the kernel (practices, methods, and more).  Essence, including both the kernel and language, has been published as an 
+              <a href="/wiki/Object_Management_Group" title="Object Management Group">
+                OMG
+              </a>
+               standard in beta status in July 2013
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+               and is expected to become a formally adopted standard in early 2014.
+
+            </p>
+            <p>
+              The second step has just started, and the Practice area will be divided into a number of separate but interconnected tracks: the practice (library track), the tool track are so far identified and work has started or is about to get started.
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (November 2013)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+               The practice track is currently working on a Users Guide.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Education_area">
+                Education area
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=2" title="Edit section: Education area">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The area focuses on leveraging the work of SEMAT in software engineering education, both within academia and industry. It promotes global education based on a common ground called Essence. The area’s target groups are instructors such as university professors and industrial coaches as well as their students and learning practitioners.
+
+            </p>
+            <p>
+              The goal of the area is to create educational courses and course materials that are internationally viable, identify pedagogical approaches that are appropriate and effective for specific target groups and disseminate experience and lessons learned.
+
+            </p>
+            <p>
+              The area includes members from a number of universities and institutes worldwide.
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (November 2013)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+               Most members have already been involved in leveraging aspects of SEMAT in the context of their software engineering courses. They are gathering their resources and starting a common venture towards defining a new generation of SEMAT-powered software engineering curricula.
+
+            </p>
+            <p>
+              As of 2018, some studies of utilizing Essence in educational settings exist. One example of the use of Essence in university education was a software engineering course carried out in Norwegian University of Science and Technology. A study
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+               was conducted by introducing Essence into a project-based software engineering course, with the aim of understanding what difficulties the students faced in using Essence, and whether they considered it to have been useful. The results indicated that Essence could also be useful for novice software engineers by (1) encouraging them to look up and study new practices and methods in order to create their own, (2) encouraging them to adjust their way-of-working reflectively and in a situation-specific manner, (3) helping them structure their way of working. The findings of another study introducing students to Essence through a digital game supported these findings: the students felt that Essence will be useful to them in future, real-world projects, and that they wish to utilize it in them.
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Theory_area">
+                Theory area
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=3" title="Edit section: Theory area">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              An important part of SEMAT is that a general theory of software engineering is planned to emerge with significant benefits.
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <p>
+              A series of workshops held under the title SEMAT Workshop on a General Theory of Software Engineering (GTSE) are a key component in awareness building around general theories.
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+            </p>
+            <p>
+              In addition to community awareness building, SEMAT also aims to contribute with a specific general theory of software engineering. This theory should be solidly based on the SEMAT Essence language and kernel, and should support software engineering practitioner’s’ goal-oriented decision making. As argued elsewhere, such support is predicated on the predictive capabilities of the theory. Thus, the SEMAT Essence should be augmented to allow the prediction of critical software engineering phenomena. Sample questions that the theory aims to answer including the following:
+
+            </p>
+            <p>
+              a.	How will project success be affected by changing the way of working?
+
+            </p>
+            <p>
+              b.	How will project success be affected by changing the team structure and characteristics?
+
+            </p>
+            <p>
+              c.	How will project success be affected by changing the content and form of the requirements?
+
+            </p>
+            <p>
+              d.	How will project success be affected by changing ...?
+
+            </p>
+            <p>
+              The GTSE workshop series assists in the development of the SEMAT general software engineering theory by engaging a larger community in the search for, development of, and evaluation of promising theories, which may be used as a base for the SEMAT theory.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Organization_structure">
+                Organization structure
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=4" title="Edit section: Organization structure">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <h3>
+              <span class="mw-headline" id="Main_organization">
+                Main organization
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=5" title="Edit section: Main organization">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              SEMAT is chaired by Sumeet S. Malhotra of Tata Consultancy Services.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+               The CEO of the organization is Ste Nadin of Fujitsu. The Executive Management Committee of SEMAT consists of Ivar Jacobson, Ste Nadin, Sumeet S. Malhotra, Paul E. McMahon, Michael Goedicke and Cecile Peraire.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Japan_Chapter">
+                Japan Chapter
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=6" title="Edit section: Japan Chapter">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Japan Chapter was established in April 2013, and it has more than 250 members as of November 2013. Member activities include carrying out seminars about SEMAT, considering utilization of SEMAT Essence for integrating different requirements engineering techniques and body of knowledges (BoKs), and translating articles into Japanese.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Korea_Chapter">
+                Korea Chapter
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=7" title="Edit section: Korea Chapter">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              The chapter was inaugurated with about 50 members in October 2013.  Member activities include: 2e Consulting started rewriting their IT service engagement methods using the Essence kernel, and uEngine Solutions started developing a tool to orchestrate Essence-kernel based practices into a project method. Korean government supported KAIST to conduct research in Essence.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Latin_American_Chapter">
+                Latin American Chapter
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=8" title="Edit section: Latin American Chapter">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Semat Latin American Chapter was created in August 2011 in Medellin (Colombia) by Ivar Jacobson during the Latin American Software Engineering Symposium. This Chapter has 9 Executive Committee members coming from Colombia, Venezuela, Peru, Brazil, Argentina, Chile, and Mexico, chaired by Dr. Carlos Zapata from Colombia. More than 80 people signed the initial declaration of the Chapter and nowadays the Chapter members are in charge of disseminating the Semat ideas in all Latin America. Chapter members have participated in various Latin American conferences, including the Latin American Conference on Informatics (CLEI),
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+               the Ibero American Software Engineering and Knowledge Engineering Journeys (JIISIC),
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+               the Colombian Computing Conference (CCC),
+              <sup id="cite_ref-12" class="reference">
+                <a href="#cite_note-12">
+                  [12]
+                </a>
+              </sup>
+               and the Chilean Computing Meeting (ECC). The Chapter contributed in the submission sent in response to the OMG call for proposals and currently studies didactical strategies for teaching the Semat kernel by games, theoretical studies about some kernel elements, and practical representations of several software development and quality methods by using the Semat kernel. Some of the members also translated the Essence book and some other Semat materials and papers into Spanish.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Russia_Chapter">
+                Russia Chapter
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=9" title="Edit section: Russia Chapter">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Russian Chapter has about 20 members. A few universities have incorporated SEMAT in their training courses
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (November 2013)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+              , including 
+              <a href="/wiki/Moscow_State_University" title="Moscow State University">
+                Moscow State University
+              </a>
+              , 
+              <a href="/wiki/Moscow_Institute_of_Physics_and_Technology" title="Moscow Institute of Physics and Technology">
+                Moscow Institute of Physics and Technology
+              </a>
+              , 
+              <a href="/wiki/Higher_School_of_Economics" title="Higher School of Economics">
+                Higher School of Economics
+              </a>
+              , 
+              <a href="/wiki/Moscow_State_University_of_Economics,_Statistics,_and_Informatics" title="Moscow State University of Economics, Statistics, and Informatics">
+                Moscow State University of Economics, Statistics, and Informatics
+              </a>
+              .  The chapter and some commercial companies are carrying out seminars about SEMAT.  
+              <a href="/wiki/INCOSE" class="mw-redirect" title="INCOSE">
+                INCOSE
+              </a>
+               Russian Chapter is working on an extension of SEMAT to 
+              <a href="/wiki/Systems_Engineering" class="mw-redirect" title="Systems Engineering">
+                Systems Engineering
+              </a>
+              . EC-leasing is working on an extension of the Kernel for Software Life Cycle. Russian Chapter attended in two conferences: Actual Problems of System and Software Engineering and SECR with SEMAT section and articles.
+              <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                    <span title="This claim needs references to reliable sources. (November 2013)">
+                      citation needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+               Translation of the Essence book into Russian is in progress.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Practical_Applications_of_SEMAT">
+                Practical Applications of SEMAT
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=10" title="Edit section: Practical Applications of SEMAT">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Ideas developed by the SEMAT community have been applied by both industry and academia. Notable examples include:
+
+            </p>
+            <ul>
+              <li>
+                Reinsurance company 
+                <a href="/wiki/Munich_Re" title="Munich Re">
+                  Munich Re
+                </a>
+                 have assembled a family of "collaboration models" to cover the whole spectrum of software and application work. Four collaboration models — exploratory, standard, maintenance, and support — have been built on the same kernel from the same set of 12 practices.
+                <sup id="cite_ref-13" class="reference">
+                  <a href="#cite_note-13">
+                    [13]
+                  </a>
+                </sup>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="Tools_supporting_SEMAT">
+                Tools supporting SEMAT
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=11" title="Edit section: Tools supporting SEMAT">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The first tool that supported the authoring and development of SEMAT practices based on a kernel was the EssWork Practice Workbench
+              <sup id="cite_ref-14" class="reference">
+                <a href="#cite_note-14">
+                  [14]
+                </a>
+              </sup>
+               tool provided by 
+              <a href="/w/index.php?title=Ivar_Jacobson_International&amp;action=edit&amp;redlink=1" class="new" title="Ivar Jacobson International (page does not exist)">
+                Ivar Jacobson International
+              </a>
+              . The Practice Workbench tool was made available to the SEMAT community in June 2012 and is now publicly available and free to use. The Practice Workbench is an Integrated Practice Development Environment with support for collaborative practice and method development. Key features of the Practice Workbench include:
+
+            </p>
+            <ul>
+              <li>
+                Interactive presentation of the Essence Kernel
+              </li>
+              <li>
+                Practice authoring and extension using the Essence Language
+              </li>
+              <li>
+                Method composition
+              </li>
+              <li>
+                Innovative card-based representation
+              </li>
+              <li>
+                Publication of methods, practices and kernels as card-based HTML web-sites
+              </li>
+              <li>
+                Export to the EssWork deployment environment
+              </li>
+            </ul>
+            <p>
+              Other publicly available tools supporting SEMAT's Essence include:
+
+            </p>
+            <ul>
+              <li>
+                SematAcc,
+                <sup id="cite_ref-15" class="reference">
+                  <a href="#cite_note-15">
+                    [15]
+                  </a>
+                </sup>
+                <sup id="cite_ref-16" class="reference">
+                  <a href="#cite_note-16">
+                    [16]
+                  </a>
+                </sup>
+                 the Essence Accelerator System, designed to speed up the learning of Essence Theory in Software Engineering and to easily test it with any software project
+              </li>
+              <li>
+                The Essence Board Game,
+                <sup id="cite_ref-17" class="reference">
+                  <a href="#cite_note-17">
+                    [17]
+                  </a>
+                </sup>
+                 intended to teach the basics of Essence in a fun fashion
+              </li>
+              <li>
+                Essencery,
+                <sup id="cite_ref-18" class="reference">
+                  <a href="#cite_note-18">
+                    [18]
+                  </a>
+                </sup>
+                <sup id="cite_ref-19" class="reference">
+                  <a href="#cite_note-19">
+                    [19]
+                  </a>
+                </sup>
+                 an Open Source alternative for composing methods using the Essence graphical language syntax
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=12" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap mw-references-columns">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.semat.org">
+                        http://www.semat.org
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-2">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.drdobbs.com/architecture-and-design/222001342">
+                        http://www.drdobbs.com/architecture-and-design/222001342
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-3">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://semat.org/documents/20181/27952/SEMAT-vision.pdf">
+                        http://semat.org/documents/20181/27952/SEMAT-vision.pdf
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-4">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-4">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.omg.org/spec/Essence/1.0/PDF">
+                        http://www.omg.org/spec/Essence/1.0/PDF
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Kemell, K., Nguyen-Duc, A., Wang, X., Risku, J., and Abrahamsson, P. (2018). The Essence Theory of Software Engineering - Large-Scale Classroom Experiences from 450+ Software Engineering BSc Students. In Proceedings of the 2018 International Conference on Product-Focused Process Improvement (PROFES2018). 
+                      <a rel="nofollow" class="external free" href="https://arxiv.org/abs/1809.08827">
+                        https://arxiv.org/abs/1809.08827
+                      </a>
+                      .
+                    </span>
+                  </li>
+                  <li id="cite_note-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-6">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Pieper, J., Lueth, O., Goedicke, M., and Forbrig, P. (2017). A Case Study of Software Engineering Methods Education Supported By Digital Game-Based Learning - Applying the SEMAT Essence Kernel in Games and Course Projects. In Proceedings of the 2017 IEEE Global Engineering Education Conference (EDUCON), pp. 1689-1698.
+                    </span>
+                  </li>
+                  <li id="cite_note-7">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-7">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://semat.org/wp-content/uploads/2012/02/IEEESoftware_SepOct_2012.pdf">
+                        http://semat.org/wp-content/uploads/2012/02/IEEESoftware_SepOct_2012.pdf
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-8">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://semat.org/?page_id=632">
+                        http://semat.org/?page_id=632
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.semat.org/web/guest/news/-/asset_publisher/eaHEtyeuE9wP/content/dr-sumeet-malhotra-has-been-elected-chairman-of-the-board-of-directors-of-semat-inc-?inheritRedirect=false&amp;redirect=http%3A%2F%2Fwww.semat.org%2Fweb%2Fguest%2Fnews%3Fp_p_id%3D101_INSTANCE_eaHEtyeuE9wP%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1">
+                        http://www.semat.org/web/guest/news/-/asset_publisher/eaHEtyeuE9wP/content/dr-sumeet-malhotra-has-been-elected-chairman-of-the-board-of-directors-of-semat-inc-?inheritRedirect=false&amp;redirect=http%3A%2F%2Fwww.semat.org%2Fweb%2Fguest%2Fnews%3Fp_p_id%3D101_INSTANCE_eaHEtyeuE9wP%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://clei2013.org.ve/tutoriales/">
+                        http://clei2013.org.ve/tutoriales/
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-11">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-11">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.udem.edu.co/images/ACADEMICO/FacultadIngenierias/IngenieriaSistemas/Documentos/Programacion.pdf">
+                        http://www.udem.edu.co/images/ACADEMICO/FacultadIngenierias/IngenieriaSistemas/Documentos/Programacion.pdf
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-12">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-12">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://semat.org/wp-content/uploads/2013/10/Tutorial-8ccc.pdf">
+                        http://semat.org/wp-content/uploads/2013/10/Tutorial-8ccc.pdf
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-13">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-13">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.slideshare.net/junesungpark/applying-semat-at-munich-reberlin-burkhard">
+                        http://www.slideshare.net/junesungpark/applying-semat-at-munich-reberlin-burkhard
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-14">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-14">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.ivarjacobson.com/EssWork_Practice_Workbench/">
+                        http://www.ivarjacobson.com/EssWork_Practice_Workbench/
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-15">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-15">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Graziotin, Daniel; Abrahamsson, Pekka (2 September 2013). "A Web-based modeling tool for the SEMAT Essence theory of software engineering". 
+                        <i>
+                          Journal of Open Research Software
+                        </i>
+                        . 
+                        <b>
+                          1
+                        </b>
+                         (1): E4. 
+                        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                          doi
+                        </a>
+                        :
+                        <a rel="nofollow" class="external text" href="//doi.org/10.5334%2Fjors.ad">
+                          10.5334/jors.ad
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Open+Research+Software&amp;rft.atitle=A+Web-based+modeling+tool+for+the+SEMAT+Essence+theory+of+software+engineering&amp;rft.volume=1&amp;rft.issue=1&amp;rft.pages=E4&amp;rft.date=2013-09-02&amp;rft_id=info%3Adoi%2F10.5334%2Fjors.ad&amp;rft.aulast=Graziotin&amp;rft.aufirst=Daniel&amp;rft.au=Abrahamsson%2C+Pekka&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASEMAT" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r886058088">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                    </span>
+                  </li>
+                  <li id="cite_note-16">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-16">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://sematacc.herokuapp.com/">
+                        http://sematacc.herokuapp.com/
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-17">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-17">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Kemell, K., Risku, J., Evensen, A., Abrahamsson, P., Dahl, A. M., Grytten, L. H., Jedryszek, A., Rostrup, P., and Nguyen-Duc, A. (2018). Gamifying the Escape from the Engineering Method Prison. In Proceedings of the 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). DOI:10.1109/ICE.2018.8436340./
+                    </span>
+                  </li>
+                  <li id="cite_note-18">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-18">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://www.essencery.com">
+                        http://www.essencery.com
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-19">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-19">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Evensen, A., Kemell, K., Wang, X., Risku, J., and Abrahamsson, P. (2018). Essencery - A Tool for Essentializing Software Engineering Practices. 
+                      <a rel="nofollow" class="external free" href="https://arxiv.org/abs/1808.02723">
+                        https://arxiv.org/abs/1808.02723
+                      </a>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=SEMAT&amp;action=edit&amp;section=13" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <span class="official-website">
+                  <span class="url">
+                    <a rel="nofollow" class="external text" href="http://www.semat.org/">
+                      Official website
+                    </a>
+                  </span>
+                </span>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.ddj.com/architect/222001342">
+                  The SEMAT Initiative: A Call for Action
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.ddj.com/architect/220300840">
+                  Why We Need a Theory for Software Engineering
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.ddj.com/architect/219100242">
+                  Methods Need Theory
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.infoq.com/news/2010/04/semat">
+                  SEMAT - Software Engineering Method and Theory
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://queue.acm.org/detail.cfm?id=2389616">
+                  The Essence of Software Engineering: The SEMAT Kernel
+                </a>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20191209081904
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.256 seconds
+Real time usage: 0.359 seconds
+Preprocessor visited node count: 1053/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15754/2097152 bytes
+Template argument size: 2629/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11257/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 2.77 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  315.616      1 -total
+ 44.40%  140.128      1 Template:Reflist
+ 37.90%  119.607      1 Template:Cite_journal
+ 29.09%   91.800      1 Template:COI
+ 21.15%   66.757      1 Template:Ambox
+ 17.67%   55.781      5 Template:Citation_needed
+ 15.06%   47.521      5 Template:Fix
+  6.99%   22.052      5 Template:Delink
+  5.92%   18.674     10 Template:Category_handler
+  4.70%   14.846      1 Template:Official_website
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:25451462-0!canonical and timestamp 20191209081904 and revision id 912314722
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SEMAT&amp;oldid=912314722">
+            https://en.wikipedia.org/w/index.php?title=SEMAT&amp;oldid=912314722
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Software_engineering_organizations" title="Category:Software engineering organizations">
+                  Software engineering organizations
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_January_2019" title="Category:Wikipedia articles with possible conflicts of interest from January 2019">
+                  Wikipedia articles with possible conflicts of interest from January 2019
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+                  All articles with unsourced statements
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2013" title="Category:Articles with unsourced statements from November 2013">
+                  Articles with unsourced statements from November 2013
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Official_website_not_in_Wikidata" title="Category:Official website not in Wikidata">
+                  Official website not in Wikidata
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SEMAT" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=SEMAT" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/SEMAT" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:SEMAT" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/SEMAT">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=SEMAT&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=SEMAT&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/SEMAT" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/SEMAT" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=SEMAT&amp;oldid=912314722" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=SEMAT&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7389723" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=SEMAT&amp;id=912314722" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SEMAT">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=SEMAT&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=SEMAT&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Software_Engineering_Method_and_Theory" title="Software Engineering Method and Theory – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/SEMAT" title="SEMAT – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7389723#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 24 August 2019, at 17:55
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=SEMAT&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.359","ppvisitednodes":{"value":1053,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15754,"limit":2097152},"templateargumentsize":{"value":2629,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11257,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  315.616      1 -total"," 44.40%  140.128      1 Template:Reflist"," 37.90%  119.607      1 Template:Cite_journal"," 29.09%   91.800      1 Template:COI"," 21.15%   66.757      1 Template:Ambox"," 17.67%   55.781      5 Template:Citation_needed"," 15.06%   47.521      5 Template:Fix","  6.99%   22.052      5 Template:Delink","  5.92%   18.674     10 Template:Category_handler","  4.70%   14.846      1 Template:Official_website"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":2907115,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20191209081904","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"SEMAT","url":"https:\/\/en.wikipedia.org\/wiki\/SEMAT","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7389723","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7389723","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-12-16T04:08:32Z","dateModified":"2019-08-24T17:55:23Z"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1243"});});
+//]]>
+    </script>
+  </body>
+</html>

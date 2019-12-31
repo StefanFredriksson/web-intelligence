@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Pair programming - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgl4@wpAAD8AAJXV630AAAEJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Pair_programming","wgTitle":"Pair programming","wgCurRevisionId":924994179,"wgRevisionId":924994179,"wgArticleId":24400,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with self-published sources","Articles with self-published sources from April 2016","Agile software development","Extreme programming","Software review"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Pair_programming","wgRelevantArticleId":24400,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q607013","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pair_programming_1.jpg/1200px-Pair_programming_1.jpg"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pair_programming"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pair_programming&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Pair_programming&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Pair_programming"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Pair_programming rootpage-Pair_programming skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Pair programming
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:332px;">
+                <a href="/wiki/File:Pair_programming_1.jpg" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pair_programming_1.jpg/330px-Pair_programming_1.jpg" decoding="async" width="330" height="248" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pair_programming_1.jpg/495px-Pair_programming_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pair_programming_1.jpg/660px-Pair_programming_1.jpg 2x" data-file-width="2048" data-file-height="1536"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Pair_programming_1.jpg" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Two co-workers pair programming, 2007
+                </div>
+              </div>
+            </div>
+            <p>
+              <b>
+                Pair programming
+              </b>
+               is an 
+              <a href="/wiki/Agile_software_development" title="Agile software development">
+                agile software development
+              </a>
+               technique in which two 
+              <a href="/wiki/Computer_programmer" class="mw-redirect" title="Computer programmer">
+                programmers
+              </a>
+               work together at one workstation. One, the 
+              <i>
+                driver
+              </i>
+              , writes 
+              <a href="/wiki/Source_code" title="Source code">
+                code
+              </a>
+               while the other, the 
+              <i>
+                observer
+              </i>
+               or 
+              <i>
+                navigator
+              </i>
+              ,
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+              <a href="/wiki/Code_review" title="Code review">
+                reviews
+              </a>
+               each line of code as it is typed in. The two programmers switch roles frequently.
+
+            </p>
+            <p>
+              While reviewing, the observer also considers the "strategic" direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the "tactical" aspects of completing the current task, using the observer as a safety net and guide.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Economics">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Economics
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Design_quality">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Design quality
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Satisfaction">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Satisfaction
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="#Learning">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Learning
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#Team-building_and_communication">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Team-building and communication
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-6">
+                  <a href="#Studies">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      Studies
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-7">
+                  <a href="#Indicators_of_non-performance">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      Indicators of non-performance
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-8">
+                  <a href="#Pairing_variations">
+                    <span class="tocnumber">
+                      8
+                    </span>
+                    <span class="toctext">
+                      Pairing variations
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-9">
+                  <a href="#Remote_pair_programming">
+                    <span class="tocnumber">
+                      9
+                    </span>
+                    <span class="toctext">
+                      Remote pair programming
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      10
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      11
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      12
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Economics">
+                Economics
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=1" title="Edit section: Economics">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Pair programming increases the 
+              <a href="/wiki/Man-hour" title="Man-hour">
+                man-hours
+              </a>
+               required to deliver code compared to programmers working individually. Experiments yielded diverse results, suggesting increases of between 15% and 100%.
+              <sup id="cite_ref-ijhcs_2-0" class="reference">
+                <a href="#cite_note-ijhcs-2">
+                  [2]
+                </a>
+              </sup>
+               However, the resulting code has about 15% fewer defects.
+              <sup id="cite_ref-costs-benefits_3-0" class="reference">
+                <a href="#cite_note-costs-benefits-3">
+                  [3]
+                </a>
+              </sup>
+               Along with code development time, other factors like field support costs and quality assurance also figure in to the return on investment. Pair programming might theoretically offset these expenses by reducing defects in the programs.
+              <sup id="cite_ref-costs-benefits_3-1" class="reference">
+                <a href="#cite_note-costs-benefits-3">
+                  [3]
+                </a>
+              </sup>
+            </p>
+            <p>
+              In addition to preventing mistakes as they are made, other intangible benefits may exist.  For example, the courtesy of rejecting phone calls or other distractions while working together, taking fewer breaks at agreed-upon intervals, or shared breaks to return phone calls (but returning to work quickly since someone is waiting).  One member of the team might have more focus and help drive or awaken the other if they lose focus, and that role might periodically change.  One member might have knowledge of a topic or technique which the other does not, which might eliminate delays to find or test a solution, or allow for a better solution, thus effectively expanding the skill set, knowledge, and experience of a programmer as compared to working alone.  Each of these intangible benefits, and many more, may be hard to accurately measure, but can contribute to more efficient working hours.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Design_quality">
+                Design quality
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=2" title="Edit section: Design quality">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              A system with two programmers possesses greater potential for the generation of more diverse solutions to problems for three reasons:
+
+            </p>
+            <ol>
+              <li>
+                the programmers bring different prior experiences to the task;
+              </li>
+              <li>
+                they may assess information relevant to the task in different ways;
+              </li>
+              <li>
+                they stand in different relationships to the problem by virtue of their functional roles.
+              </li>
+            </ol>
+            <p>
+              In an attempt to share goals and plans, the programmers must overtly negotiate a shared course of action when a conflict arises between them. In doing so, they consider a larger number of ways of solving the problem than a single programmer alone might do. This significantly improves the design quality of the program as it reduces the chances of selecting a poor method.
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Satisfaction">
+                Satisfaction
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=3" title="Edit section: Satisfaction">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              In an online survey of pair programmers from 2000, 96% of them stated that they enjoyed their work more than when they programmed alone and 95% said that they were more confident in their solutions when they pair programmed.
+              <sup id="cite_ref-strengthening_5-0" class="reference">
+                <a href="#cite_note-strengthening-5">
+                  [5]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Learning">
+                Learning
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=4" title="Edit section: Learning">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Knowledge is constantly shared between pair programmers, whether in the industry or in a classroom. Many sources suggest that students show higher confidence when programming in pairs,
+              <sup id="cite_ref-strengthening_5-1" class="reference">
+                <a href="#cite_note-strengthening-5">
+                  [5]
+                </a>
+              </sup>
+               and many learn whether it be from tips on programming language rules to overall design skill.
+              <sup id="cite_ref-support_6-0" class="reference">
+                <a href="#cite_note-support-6">
+                  [6]
+                </a>
+              </sup>
+               In "promiscuous pairing", each programmer communicates and works with all the other programmers on the team rather than pairing only with one partner, which causes knowledge of the system to spread throughout the whole team.
+              <sup id="cite_ref-costs-benefits_3-2" class="reference">
+                <a href="#cite_note-costs-benefits-3">
+                  [3]
+                </a>
+              </sup>
+               Pair programming allows programmers to examine their partner's code and provide feedback, which is necessary to increase their own ability to develop monitoring mechanisms for their own learning activities.
+              <sup id="cite_ref-support_6-1" class="reference">
+                <a href="#cite_note-support-6">
+                  [6]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Team-building_and_communication">
+                Team-building and communication
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=5" title="Edit section: Team-building and communication">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Pair programming allows team members to share problems and solutions quickly making them less likely to have hidden agendas from each other. This helps pair programmers to learn to communicate more easily. “This raises the communication bandwidth and frequency within the project, increasing overall information flow within the team.”
+              <sup id="cite_ref-costs-benefits_3-3" class="reference">
+                <a href="#cite_note-costs-benefits-3">
+                  [3]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Studies">
+                Studies
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=6" title="Edit section: Studies">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              There are both empirical studies and meta-analyses of pair programming. The empirical studies tend to examine the level of productivity and the quality of the code, while meta-analyses may focus on biases introduced by the process of testing and publishing.
+
+            </p>
+            <p>
+              A 
+              <a href="/wiki/Meta-analysis" title="Meta-analysis">
+                meta-analysis
+              </a>
+               found pairs typically consider more design alternatives than programmers working alone, arrive at simpler more maintainable designs, and catch design defects earlier. However, it raised concerns that its findings may have been influenced by "signs of 
+              <a href="/wiki/Publication_bias" title="Publication bias">
+                publication bias
+              </a>
+               among published studies on pair programming". It concluded that "pair programming is not uniformly beneficial or effective".
+              <sup id="cite_ref-hannay-meta_7-0" class="reference">
+                <a href="#cite_note-hannay-meta-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <p>
+              Although pair programmers may complete a task faster than a solo programmer, the total number of 
+              <a href="/wiki/Man-hour" title="Man-hour">
+                man-hours
+              </a>
+               increases.
+              <sup id="cite_ref-ijhcs_2-1" class="reference">
+                <a href="#cite_note-ijhcs-2">
+                  [2]
+                </a>
+              </sup>
+               A manager would have to balance faster completion of the work and reduced testing and debugging time against the higher cost of coding. The relative weight of these factors can vary by project and task.
+
+            </p>
+            <p>
+              The benefit of pairing is greatest on tasks that the programmers do not fully understand before they begin: that is, challenging tasks that call for creativity and sophistication, and for novices as compared to experts.
+              <sup id="cite_ref-ijhcs_2-2" class="reference">
+                <a href="#cite_note-ijhcs-2">
+                  [2]
+                </a>
+              </sup>
+               Pair programming could be helpful for attaining high quality and correctness on complex programming tasks, but it would also increase the development effort (cost) significantly.
+              <sup id="cite_ref-hannay-meta_7-1" class="reference">
+                <a href="#cite_note-hannay-meta-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <p>
+              On simple tasks, which the pair already fully understands, pairing results in a net drop in productivity.
+              <sup id="cite_ref-ijhcs_2-3" class="reference">
+                <a href="#cite_note-ijhcs-2">
+                  [2]
+                </a>
+              </sup>
+              <sup id="cite_ref-Arisholm_2007_65–86_8-0" class="reference">
+                <a href="#cite_note-Arisholm_2007_65–86-8">
+                  [8]
+                </a>
+              </sup>
+               It may reduce the code development time but also risks reducing the quality of the program.
+              <sup id="cite_ref-hannay-meta_7-2" class="reference">
+                <a href="#cite_note-hannay-meta-7">
+                  [7]
+                </a>
+              </sup>
+               Productivity can also drop when novice–novice pairing is used without sufficient availability of a mentor to coach them.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Indicators_of_non-performance">
+                Indicators of non-performance
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=7" title="Edit section: Indicators of non-performance">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              There are indicators that a pair is not performing well:
+
+            </p>
+            <ul>
+              <li>
+                <i>
+                  Disengagement
+                </i>
+                 may present as one of the members physically withdraws away from the keyboard, accesses email, or even falls asleep.
+              </li>
+              <li>
+                The 
+                <i>
+                  "Watch the Master"
+                </i>
+                 phenomenon can arise if one member is more experienced than the other. In this situation, the junior member may take the observer role, deferring to the senior member of the pair for the majority of coding activity. This can easily lead to disengagement.
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="Pairing_variations">
+                Pairing variations
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=8" title="Edit section: Pairing variations">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <dl>
+              <dt>
+                Expert–expert
+              </dt>
+              <dd>
+                Expert–expert pairing may seem to be the obvious choice for the highest productivity and can produce great results, but it often yields little insight into new ways to solve problems, as both parties are unlikely to question established practices.
+                <sup id="cite_ref-ijhcs_2-4" class="reference">
+                  <a href="#cite_note-ijhcs-2">
+                    [2]
+                  </a>
+                </sup>
+              </dd>
+              <dt>
+                Expert–novice
+              </dt>
+              <dd>
+                Expert–novice pairing creates many opportunities for the expert to mentor the novice. This pairing can also introduce new ideas, as the novice is more likely to question established practices. The expert, now required to explain established practices, is also more likely to question them. However, in this pairing, an intimidated novice may passively "watch the master" and hesitate to participate meaningfully. Also, some experts may not have the patience needed to allow constructive novice participation.
+                <sup id="cite_ref-10" class="reference">
+                  <a href="#cite_note-10">
+                    [10]
+                  </a>
+                </sup>
+              </dd>
+              <dt>
+                Novice–novice
+              </dt>
+              <dd>
+                Novice–novice pairing can produce results significantly better than two novices working independently, although this practice is generally discouraged because it is harder for novices to develop good habits without a proper role model.
+                <sup id="cite_ref-costs-benefits_3-4" class="reference">
+                  <a href="#cite_note-costs-benefits-3">
+                    [3]
+                  </a>
+                </sup>
+              </dd>
+            </dl>
+            <h2>
+              <span class="mw-headline" id="Remote_pair_programming">
+                Remote pair programming
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=9" title="Edit section: Remote pair programming">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              <b>
+                Remote pair programming
+              </b>
+              , also known as 
+              <b>
+                virtual pair programming
+              </b>
+               or 
+              <b>
+                distributed pair programming
+              </b>
+              , is pair programming in which the two programmers are in different locations,
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+               working via a 
+              <a href="/wiki/Collaborative_real-time_editor" title="Collaborative real-time editor">
+                collaborative real-time editor
+              </a>
+              , shared desktop, or a remote pair programming 
+              <a href="/wiki/Integrated_development_environment" title="Integrated development environment">
+                IDE
+              </a>
+               plugin. Remote pairing introduces difficulties not present in face-to-face pairing, such as extra delays for coordination, depending more on "heavyweight" task-tracking tools instead of "lightweight" ones like index cards, and loss of verbal communication resulting in confusion and conflicts over such things as who "has the keyboard".
+              <sup id="cite_ref-jucs_12-0" class="reference">
+                <a href="#cite_note-jucs-12">
+                  [12]
+                </a>
+              </sup>
+            </p>
+            <p>
+              Tool support could be provided by:
+
+            </p>
+            <ul>
+              <li>
+                Whole-screen sharing software
+                <sup id="cite_ref-13" class="reference">
+                  <a href="#cite_note-13">
+                    [13]
+                  </a>
+                </sup>
+                <sup id="cite_ref-14" class="reference">
+                  <a href="#cite_note-14">
+                    [14]
+                  </a>
+                </sup>
+                <sup id="cite_ref-15" class="reference">
+                  <a href="#cite_note-15">
+                    [15]
+                  </a>
+                </sup>
+              </li>
+              <li>
+                <a href="/wiki/Terminal_multiplexer" title="Terminal multiplexer">
+                  Terminal multiplexers
+                </a>
+              </li>
+              <li>
+                Specialized distributed editing tools
+              </li>
+              <li>
+                Audio chat programs or VoIP software could be helpful when the screen sharing software does not provide two-way audio capability. Use of headsets keep the programmers' hands free
+              </li>
+              <li>
+                Cloud development environments
+              </li>
+              <li>
+                Collaborative pair programming services
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=10" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Mob_programming" title="Mob programming">
+                  Mob programming
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Extreme_programming" title="Extreme programming">
+                  Extreme programming
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Chavrusa" title="Chavrusa">
+                  Chavrusa
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Joint_attention" title="Joint attention">
+                  Joint attention
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=11" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+              <ol class="references">
+                <li id="cite_note-1">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-1">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation conference">
+                      <a href="/wiki/Laurie_Williams_(software_engineer)" title="Laurie Williams (software engineer)">
+                        Williams, Laurie
+                      </a>
+                       (February 19–20, 2001). 
+                      <i>
+                        Integrating pair programming into a software development process
+                      </i>
+                      . 14th Conference on Software Engineering Education and Training. Charlotte. pp. 27–36. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1109%2FCSEE.2001.913816">
+                        10.1109/CSEE.2001.913816
+                      </a>
+                      . 
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/0-7695-1059-0" title="Special:BookSources/0-7695-1059-0">
+                        <bdi>
+                          0-7695-1059-0
+                        </bdi>
+                      </a>
+                      . 
+                      <q>
+                        One of the programmers, the driver, has control of the keyboard/mouse and actively implements the program. The other programmer, the observer, continuously observes the work of the driver to identify tactical (syntactic, spelling, etc.) defects, and also thinks strategically about the direction of the work.
+                      </q>
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Integrating+pair+programming+into+a+software+development+process&amp;rft.place=Charlotte&amp;rft.pages=27-36&amp;rft.date=2001-02-19%2F2001-02-20&amp;rft_id=info%3Adoi%2F10.1109%2FCSEE.2001.913816&amp;rft.isbn=0-7695-1059-0&amp;rft.aulast=Williams&amp;rft.aufirst=Laurie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <style data-mw-deduplicate="TemplateStyles:r886058088">
+                      .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                    </style>
+                  </span>
+                </li>
+                <li id="cite_note-ijhcs-2">
+                  <span class="mw-cite-backlink">
+                    ^ 
+                    <a href="#cite_ref-ijhcs_2-0">
+                      <sup>
+                        <i>
+                          <b>
+                            a
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-ijhcs_2-1">
+                      <sup>
+                        <i>
+                          <b>
+                            b
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-ijhcs_2-2">
+                      <sup>
+                        <i>
+                          <b>
+                            c
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-ijhcs_2-3">
+                      <sup>
+                        <i>
+                          <b>
+                            d
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-ijhcs_2-4">
+                      <sup>
+                        <i>
+                          <b>
+                            e
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Lui, Kim Man (September 2006). 
+                      <a rel="nofollow" class="external text" href="http://www.cs.utexas.edu/users/mckinley/305j/pair-hcs-2006.pdf">
+                        "Pair programming productivity: Novice–novice vs. expert–expert"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . 
+                      <i>
+                        International Journal of Human–Computer Studies
+                      </i>
+                      . 
+                      <b>
+                        64
+                      </b>
+                       (9): 915–925. 
+                      <a href="/wiki/CiteSeerX" title="CiteSeerX">
+                        CiteSeerX
+                      </a>
+                       
+                      <span class="cs1-lock-free" title="Freely accessible">
+                        <a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.364.2159">
+                          10.1.1.364.2159
+                        </a>
+                      </span>
+                      . 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ijhcs.2006.04.010">
+                        10.1016/j.ijhcs.2006.04.010
+                      </a>
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          2012-11-18
+                        </span>
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Human%E2%80%93Computer+Studies&amp;rft.atitle=Pair+programming+productivity%3A+Novice%E2%80%93novice+vs.+expert%E2%80%93expert&amp;rft.volume=64&amp;rft.issue=9&amp;rft.pages=915-925&amp;rft.date=2006-09&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.364.2159&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijhcs.2006.04.010&amp;rft.aulast=Lui&amp;rft.aufirst=Kim+Man&amp;rft_id=http%3A%2F%2Fwww.cs.utexas.edu%2Fusers%2Fmckinley%2F305j%2Fpair-hcs-2006.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-costs-benefits-3">
+                  <span class="mw-cite-backlink">
+                    ^ 
+                    <a href="#cite_ref-costs-benefits_3-0">
+                      <sup>
+                        <i>
+                          <b>
+                            a
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-costs-benefits_3-1">
+                      <sup>
+                        <i>
+                          <b>
+                            b
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-costs-benefits_3-2">
+                      <sup>
+                        <i>
+                          <b>
+                            c
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-costs-benefits_3-3">
+                      <sup>
+                        <i>
+                          <b>
+                            d
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-costs-benefits_3-4">
+                      <sup>
+                        <i>
+                          <b>
+                            e
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      <a href="/wiki/Alistair_Cockburn" title="Alistair Cockburn">
+                        Cockburn, Alistair
+                      </a>
+                      ; 
+                      <a href="/wiki/Laurie_Williams_(software_engineer)" title="Laurie Williams (software engineer)">
+                        Williams, Laurie
+                      </a>
+                       (2000). 
+                      <a rel="nofollow" class="external text" href="http://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF">
+                        "The Costs and Benefits of Pair Programming"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . 
+                      <i>
+                        Proceedings of the First International Conference on Extreme Programming and Flexible Processes in Software Engineering (XP2000)
+                      </i>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+First+International+Conference+on+Extreme+Programming+and+Flexible+Processes+in+Software+Engineering+%28XP2000%29&amp;rft.atitle=The+Costs+and+Benefits+of+Pair+Programming&amp;rft.date=2000&amp;rft.aulast=Cockburn&amp;rft.aufirst=Alistair&amp;rft.au=Williams%2C+Laurie&amp;rft_id=http%3A%2F%2Fcollaboration.csc.ncsu.edu%2Flaurie%2FPapers%2FXPSardinia.PDF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-4">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-4">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Flor, Nick V.; Hutchins, Edwin L. (1991). 
+                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=KT_bpSSJBgcC&amp;pg=PA36">
+                        "Analyzing Distributed Cognition in Software Teams: A Case Study of Team Programming During Perfective Software Maintenance"
+                      </a>
+                      .  In Koenemann-Belliveau, Jürgen; Moher, Thomas G.; Robertson, Scott P. (eds.). 
+                      <i>
+                        Empirical Studies of Programmers: Fourth Workshop
+                      </i>
+                      . Ablex. pp. 36–64. 
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/978-0-89391-856-9" title="Special:BookSources/978-0-89391-856-9">
+                        <bdi>
+                          978-0-89391-856-9
+                        </bdi>
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Analyzing+Distributed+Cognition+in+Software+Teams%3A+A+Case+Study+of+Team+Programming+During+Perfective+Software+Maintenance&amp;rft.btitle=Empirical+Studies+of+Programmers%3A+Fourth+Workshop&amp;rft.pages=36-64&amp;rft.pub=Ablex&amp;rft.date=1991&amp;rft.isbn=978-0-89391-856-9&amp;rft.aulast=Flor&amp;rft.aufirst=Nick+V.&amp;rft.au=Hutchins%2C+Edwin+L.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKT_bpSSJBgcC%26pg%3DPA36&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-strengthening-5">
+                  <span class="mw-cite-backlink">
+                    ^ 
+                    <a href="#cite_ref-strengthening_5-0">
+                      <sup>
+                        <i>
+                          <b>
+                            a
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-strengthening_5-1">
+                      <sup>
+                        <i>
+                          <b>
+                            b
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      <a href="/wiki/Laurie_Williams_(software_engineer)" title="Laurie Williams (software engineer)">
+                        Williams, Laurie
+                      </a>
+                      ; Kessler, Robert R.; Cunningham, Ward; Jeffries, Ron (2000). 
+                      <a rel="nofollow" class="external text" href="http://sunnyday.mit.edu/16.355/williams.pdf">
+                        "Strengthening the case for pair programming"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . 
+                      <i>
+                        IEEE Software
+                      </i>
+                      . 
+                      <b>
+                        17
+                      </b>
+                       (4): 19–25. 
+                      <a href="/wiki/CiteSeerX" title="CiteSeerX">
+                        CiteSeerX
+                      </a>
+                       
+                      <span class="cs1-lock-free" title="Freely accessible">
+                        <a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.5248">
+                          10.1.1.33.5248
+                        </a>
+                      </span>
+                      . 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1109%2F52.854064">
+                        10.1109/52.854064
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Software&amp;rft.atitle=Strengthening+the+case+for+pair+programming&amp;rft.volume=17&amp;rft.issue=4&amp;rft.pages=19-25&amp;rft.date=2000&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.33.5248&amp;rft_id=info%3Adoi%2F10.1109%2F52.854064&amp;rft.aulast=Williams&amp;rft.aufirst=Laurie&amp;rft.au=Kessler%2C+Robert+R.&amp;rft.au=Cunningham%2C+Ward&amp;rft.au=Jeffries%2C+Ron&amp;rft_id=http%3A%2F%2Fsunnyday.mit.edu%2F16.355%2Fwilliams.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-support-6">
+                  <span class="mw-cite-backlink">
+                    ^ 
+                    <a href="#cite_ref-support_6-0">
+                      <sup>
+                        <i>
+                          <b>
+                            a
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-support_6-1">
+                      <sup>
+                        <i>
+                          <b>
+                            b
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      <a href="/wiki/Laurie_Williams_(software_engineer)" title="Laurie Williams (software engineer)">
+                        Williams, Laurie
+                      </a>
+                      ; Upchurch, Richard L. (2001). "In support of student pair programming". 
+                      <i>
+                        ACM SIGCSE Bulletin
+                      </i>
+                      . 
+                      <b>
+                        33
+                      </b>
+                       (1): 327–31. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1145%2F366413.364614">
+                        10.1145/366413.364614
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+SIGCSE+Bulletin&amp;rft.atitle=In+support+of+student+pair+programming&amp;rft.volume=33&amp;rft.issue=1&amp;rft.pages=327-31&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1145%2F366413.364614&amp;rft.aulast=Williams&amp;rft.aufirst=Laurie&amp;rft.au=Upchurch%2C+Richard+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-hannay-meta-7">
+                  <span class="mw-cite-backlink">
+                    ^ 
+                    <a href="#cite_ref-hannay-meta_7-0">
+                      <sup>
+                        <i>
+                          <b>
+                            a
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-hannay-meta_7-1">
+                      <sup>
+                        <i>
+                          <b>
+                            b
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                    <a href="#cite_ref-hannay-meta_7-2">
+                      <sup>
+                        <i>
+                          <b>
+                            c
+                          </b>
+                        </i>
+                      </sup>
+                    </a>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Hannay, Jo E.; Tore Dybå; Erik Arisholm; Dag I.K. Sjøberg (July 2009). "The Effectiveness of Pair Programming: A Meta-Analysis". 
+                      <i>
+                        Information and Software Technology
+                      </i>
+                      . 
+                      <b>
+                        51
+                      </b>
+                       (7): 1110–1122. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.infsof.2009.02.001">
+                        10.1016/j.infsof.2009.02.001
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+and+Software+Technology&amp;rft.atitle=The+Effectiveness+of+Pair+Programming%3A+A+Meta-Analysis&amp;rft.volume=51&amp;rft.issue=7&amp;rft.pages=1110-1122&amp;rft.date=2009-07&amp;rft_id=info%3Adoi%2F10.1016%2Fj.infsof.2009.02.001&amp;rft.aulast=Hannay&amp;rft.aufirst=Jo+E.&amp;rft.au=Tore+Dyb%C3%A5&amp;rft.au=Erik+Arisholm&amp;rft.au=Dag+I.K.+Sj%C3%B8berg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-Arisholm_2007_65–86-8">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-Arisholm_2007_65–86_8-0">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Arisholm, Erik; Hans Gallis; Tore Dybå; Dag I.K. Sjøberg (February 2007). 
+                      <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101029033020/http://simula.no/research/se/publications/Arisholm.2006.2/simula_pdf_file">
+                        "Evaluating Pair Programming with Respect to System Complexity and Programmer Expertise"
+                      </a>
+                      . 
+                      <i>
+                        IEEE Transactions on Software Engineering
+                      </i>
+                      . 
+                      <b>
+                        33
+                      </b>
+                       (2): 65–86. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1109%2FTSE.2007.17">
+                        10.1109/TSE.2007.17
+                      </a>
+                      . Archived from 
+                      <a rel="nofollow" class="external text" href="http://simula.no/research/se/publications/Arisholm.2006.2/simula_pdf_file">
+                        the original
+                      </a>
+                       on 2010-10-29
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          2008-07-21
+                        </span>
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Software+Engineering&amp;rft.atitle=Evaluating+Pair+Programming+with+Respect+to+System+Complexity+and+Programmer+Expertise&amp;rft.volume=33&amp;rft.issue=2&amp;rft.pages=65-86&amp;rft.date=2007-02&amp;rft_id=info%3Adoi%2F10.1109%2FTSE.2007.17&amp;rft.aulast=Arisholm&amp;rft.aufirst=Erik&amp;rft.au=Hans+Gallis&amp;rft.au=Tore+Dyb%C3%A5&amp;rft.au=Dag+I.K.+Sj%C3%B8berg&amp;rft_id=http%3A%2F%2Fsimula.no%2Fresearch%2Fse%2Fpublications%2FArisholm.2006.2%2Fsimula_pdf_file&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-9">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-9">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Stephens, Matt; Doug Rosenberg. 
+                      <a rel="nofollow" class="external text" href="http://www.methodsandtools.com/archive/archive.php?id=10">
+                        "Will Pair Programming Really Improve Your Project?"
+                      </a>
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          28 May
+                        </span>
+                         2011
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Will+Pair+Programming+Really+Improve+Your+Project%3F&amp;rft.aulast=Stephens&amp;rft.aufirst=Matt&amp;rft.au=Doug+Rosenberg&amp;rft_id=http%3A%2F%2Fwww.methodsandtools.com%2Farchive%2Farchive.php%3Fid%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-10">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-10">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      <a href="/wiki/Laurie_Williams_(software_engineer)" title="Laurie Williams (software engineer)">
+                        Williams, L.
+                      </a>
+                       &amp; Kessler, R. (2003). 
+                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LRQhdlrKNE8C">
+                        <i>
+                          Pair Programming Illuminated
+                        </i>
+                      </a>
+                      . Boston: Addison-Wesley Professional. 
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/9780201745764" title="Special:BookSources/9780201745764">
+                        <bdi>
+                          9780201745764
+                        </bdi>
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pair+Programming+Illuminated&amp;rft.place=Boston&amp;rft.pub=Addison-Wesley+Professional&amp;rft.date=2003&amp;rft.isbn=9780201745764&amp;rft.au=Williams%2C+L.&amp;rft.au=Kessler%2C+R.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLRQhdlrKNE8C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-11">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-11">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Flor, Nick V. (2006). "Globally distributed software development and pair programming". 
+                      <i>
+                        Communications of the ACM
+                      </i>
+                      . 
+                      <b>
+                        49
+                      </b>
+                       (10): 57–8. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1164394.1164421">
+                        10.1145/1164394.1164421
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.atitle=Globally+distributed+software+development+and+pair+programming&amp;rft.volume=49&amp;rft.issue=10&amp;rft.pages=57-8&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1145%2F1164394.1164421&amp;rft.aulast=Flor&amp;rft.aufirst=Nick+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-jucs-12">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-jucs_12-0">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Schümmer, Till; Stephan Lukosch (September 2009). 
+                      <a rel="nofollow" class="external text" href="http://www.jucs.org/jucs_15_16/understanding_tools_and_practices/jucs_15_16_3101_3125_schuemmer.pdf">
+                        "Understanding Tools and Practices for Distributed Pair Programming"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . 
+                      <i>
+                        <a href="/wiki/Journal_of_Universal_Computer_Science" title="Journal of Universal Computer Science">
+                          Journal of Universal Computer Science
+                        </a>
+                      </i>
+                      . 
+                      <b>
+                        15
+                      </b>
+                       (16): 3101–3125
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          2010-04-30
+                        </span>
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Universal+Computer+Science&amp;rft.atitle=Understanding+Tools+and+Practices+for+Distributed+Pair+Programming&amp;rft.volume=15&amp;rft.issue=16&amp;rft.pages=3101-3125&amp;rft.date=2009-09&amp;rft.aulast=Sch%C3%BCmmer&amp;rft.aufirst=Till&amp;rft.au=Stephan+Lukosch&amp;rft_id=http%3A%2F%2Fwww.jucs.org%2Fjucs_15_16%2Funderstanding_tools_and_practices%2Fjucs_15_16_3101_3125_schuemmer.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APair+programming" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-13">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-13">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="http://blogs.pathf.com/agileajax/2007/09/pair-programmin.html">
+                      Agile Ajax: Pair Programming with VNC
+                    </a>
+                    <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080402003711/http://blogs.pathf.com/agileajax/2007/09/pair-programmin.html">
+                      Archived
+                    </a>
+                     2008-04-02 at the 
+                    <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+                      Wayback Machine
+                    </a>
+                    <sup class="noprint Inline-Template" style="white-space:nowrap;">
+                      [
+                      <i>
+                        <a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability">
+                          <span title="The material near this tag may rely on a self-published source. (April 2016)">
+                            self-published source?
+                          </span>
+                        </a>
+                      </i>
+                      ]
+                    </sup>
+                  </span>
+                </li>
+                <li id="cite_note-14">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-14">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="https://weblogs.asp.net/jcogley/archive/2004/10/13/242117.aspx">
+                      Pair Programming – The Ultimate Setup and the other options we tried. – Jonathan Cogley's Blog
+                    </a>
+                    <sup class="noprint Inline-Template" style="white-space:nowrap;">
+                      [
+                      <i>
+                        <a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability">
+                          <span title="The material near this tag may rely on a self-published source. (April 2016)">
+                            self-published source?
+                          </span>
+                        </a>
+                      </i>
+                      ]
+                    </sup>
+                  </span>
+                </li>
+                <li id="cite_note-15">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-15">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="http://olalindberg.com/blog/2009/07/06/computer-ergonomics-and-pair-programming/">
+                      Ola Lindberg › Computer ergonomics and pair programming
+                    </a>
+                    <sup class="noprint Inline-Template" style="white-space:nowrap;">
+                      [
+                      <i>
+                        <a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability">
+                          <span title="The material near this tag may rely on a self-published source. (April 2016)">
+                            self-published source?
+                          </span>
+                        </a>
+                      </i>
+                      ]
+                    </sup>
+                  </span>
+                </li>
+              </ol>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit&amp;section=12" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="https://www.wikihow.com/Pair-Program">
+                  wikiHow: How to Pair Program 
+                </a>
+                 How-to guide; contains common wisdom on how to make pair programming work.
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="https://tuple.app/pair-programming-guide">
+                  Tuple:Pair Programming Guide
+                </a>
+                 Pair programming guide that covers paring styles, antipatterns, and more. Includes example paring videos.
+              </li>
+              <li>
+                <a href="http://c2.com/cgi/wiki?PairProgramming" class="extiw" title="c2:PairProgramming">
+                  c2:PairProgramming
+                </a>
+              </li>
+              <li>
+                <a href="http://c2.com/cgi/wiki?PairProgrammingPattern" class="extiw" title="c2:PairProgrammingPattern">
+                  c2:PairProgrammingPattern
+                </a>
+              </li>
+              <li>
+                <a href="http://c2.com/cgi/wiki?PairRotationFrequency" class="extiw" title="c2:PairRotationFrequency">
+                  c2:PairRotationFrequency
+                </a>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20191225042443
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.368 seconds
+Real time usage: 0.470 seconds
+Preprocessor visited node count: 1162/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32316/2097152 bytes
+Template argument size: 1760/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 43136/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.221/10.000 seconds
+Lua memory usage: 3.96 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  405.722      1 Template:Reflist
+100.00%  405.722      1 -total
+ 29.53%  119.819      1 Template:Cite_conference
+ 25.95%  105.279      8 Template:Cite_journal
+ 20.80%   84.388      3 Template:Self-published_inline
+ 18.21%   73.862      3 Template:Fix
+  9.30%   37.720      3 Template:Category_handler
+  7.45%   30.215      3 Template:Delink
+  6.37%   25.863      2 Template:Cite_book
+  4.13%   16.765      1 Template:Webarchive
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:24400-0!canonical and timestamp 20191225042443 and revision id 924994179
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pair_programming&amp;oldid=924994179">
+            https://en.wikipedia.org/w/index.php?title=Pair_programming&amp;oldid=924994179
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Agile_software_development" title="Category:Agile software development">
+                  Agile software development
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Extreme_programming" title="Category:Extreme programming">
+                  Extreme programming
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Software_review" title="Category:Software review">
+                  Software review
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+                  Webarchive template wayback links
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_with_self-published_sources" title="Category:All articles with self-published sources">
+                  All articles with self-published sources
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_self-published_sources_from_April_2016" title="Category:Articles with self-published sources from April 2016">
+                  Articles with self-published sources from April 2016
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pair+programming" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pair+programming" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Pair_programming" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Pair_programming" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Pair_programming">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Pair_programming&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Pair_programming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Pair_programming" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Pair_programming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Pair_programming&amp;oldid=924994179" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Pair_programming&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q607013" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pair_programming&amp;id=924994179" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+          <h3 id="p-wikibase-otherprojects-label">
+            In other projects
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="wb-otherproject-link wb-otherproject-commons">
+                <a href="https://commons.wikimedia.org/wiki/Category:Pair_programming" hreflang="en">
+                  Wikimedia Commons
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pair+programming">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pair+programming&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Pair_programming&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%B2%D9%88%D8%AC%D9%8A%D8%A9" title="برمجة زوجية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">
+                  العربية
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bg">
+                <a href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5_%D0%BF%D0%BE_%D0%B4%D0%B2%D0%BE%D0%B9%D0%BA%D0%B8" title="Програмиране по двойки – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">
+                  Български
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="https://ca.wikipedia.org/wiki/Programaci%C3%B3_en_parella" title="Programació en parella – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-da">
+                <a href="https://da.wikipedia.org/wiki/Parprogrammering" title="Parprogrammering – Danish" lang="da" hreflang="da" class="interlanguage-link-target">
+                  Dansk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Paarprogrammierung" title="Paarprogrammierung – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-et">
+                <a href="https://et.wikipedia.org/wiki/Paarisprogrammeerimine" title="Paarisprogrammeerimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">
+                  Eesti
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Programaci%C3%B3n_en_pareja" title="Programación en pareja – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C_%D8%AF%D9%88%D9%86%D9%81%D8%B1%D9%87" title="برنامه‌نویسی دونفره – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me" title="Programmation en binôme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%ED%8E%98%EC%96%B4_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D" title="페어 프로그래밍 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Pair_programming" title="Pair programming – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="https://he.wikipedia.org/wiki/%D7%AA%D7%9B%D7%A0%D7%95%D7%AA_%D7%91%D7%96%D7%95%D7%92%D7%95%D7%AA" title="תכנות בזוגות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">
+                  עברית
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lv">
+                <a href="https://lv.wikipedia.org/wiki/Programm%C4%93%C5%A1ana_p%C4%81ros" title="Programmēšana pāros – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">
+                  Latviešu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lt">
+                <a href="https://lt.wikipedia.org/wiki/Programavimas_poromis" title="Programavimas poromis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">
+                  Lietuvių
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="https://nl.wikipedia.org/wiki/Pair_programming" title="Pair programming – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0" title="ペアプログラミング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_pareada" title="Programação pareada – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Парное программирование – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Parprogrammering" title="Parprogrammering – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Парне програмування – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="https://vi.wikipedia.org/wiki/L%E1%BA%ADp_tr%C3%ACnh_%C4%91%C3%B4i" title="Lập trình đôi – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">
+                  Tiếng Việt
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B" title="结对编程 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q607013#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 7 November 2019, at 04:47
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Pair_programming&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.470","ppvisitednodes":{"value":1162,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32316,"limit":2097152},"templateargumentsize":{"value":1760,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43136,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  405.722      1 Template:Reflist","100.00%  405.722      1 -total"," 29.53%  119.819      1 Template:Cite_conference"," 25.95%  105.279      8 Template:Cite_journal"," 20.80%   84.388      3 Template:Self-published_inline"," 18.21%   73.862      3 Template:Fix","  9.30%   37.720      3 Template:Category_handler","  7.45%   30.215      3 Template:Delink","  6.37%   25.863      2 Template:Cite_book","  4.13%   16.765      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":4152357,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20191225042443","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Pair programming","url":"https:\/\/en.wikipedia.org\/wiki\/Pair_programming","sameAs":"http:\/\/www.wikidata.org\/entity\/Q607013","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q607013","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-16T13:12:53Z","dateModified":"2019-11-07T04:47:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/Pair_programming_1.jpg","headline":"Collaborative technique for software development."}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1268"});});
+//]]>
+    </script>
+  </body>
+</html>

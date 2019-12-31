@@ -1,0 +1,3605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Cam - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgqKuApAMEsAAHq@VUAAAABA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cam","wgTitle":"Cam","wgCurRevisionId":930637473,"wgRevisionId":930637473,"wgArticleId":40284,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Wikipedia articles with NDL identifiers","Mechanical engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cam","wgRelevantArticleId":40284,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q495933","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cam"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cam&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Cam&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Cam"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cam rootpage-Cam skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Cam
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <div role="note" class="hatnote navigation-not-searchable">
+              For the part of an engine sometimes referred to as a "cam", see 
+              <a href="/wiki/Camshaft" title="Camshaft">
+                camshaft
+              </a>
+              . For the name "Cam" and other uses, see 
+              <a href="/wiki/Cam_(disambiguation)" class="mw-disambig" title="Cam (disambiguation)">
+                Cam (disambiguation)
+              </a>
+              .
+            </div>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Nockenwelle_ani.gif" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nockenwelle_ani.gif/220px-Nockenwelle_ani.gif" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif 1.5x" data-file-width="320" data-file-height="240"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Nockenwelle_ani.gif" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Fig. 1 Animation showing rotating cams and cam followers producing reciprocating motion.
+                </div>
+              </div>
+            </div>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Elliptical_cam_mechanism.gif" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Elliptical_cam_mechanism.gif/220px-Elliptical_cam_mechanism.gif" decoding="async" width="220" height="313" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Elliptical_cam_mechanism.gif/330px-Elliptical_cam_mechanism.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Elliptical_cam_mechanism.gif/440px-Elliptical_cam_mechanism.gif 2x" data-file-width="514" data-file-height="732"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Elliptical_cam_mechanism.gif" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Elliptical disk cam with an oscillating follower.
+                </div>
+              </div>
+            </div>
+            <p>
+              A 
+              <b>
+                cam
+              </b>
+               is a rotating or sliding piece in a 
+              <a href="/wiki/Linkage_(mechanical)" title="Linkage (mechanical)">
+                mechanical linkage
+              </a>
+               used especially in transforming rotary motion into linear motion.
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+               It is often a part of a rotating 
+              <a href="/wiki/Wheel" title="Wheel">
+                wheel
+              </a>
+               (e.g. an eccentric wheel) or shaft (e.g. a cylinder with an irregular shape) that strikes a 
+              <a href="/wiki/Lever" title="Lever">
+                lever
+              </a>
+               at one or more points on its circular path. The cam can be a simple tooth, as is used to deliver pulses of power to a 
+              <a href="/wiki/Steam_hammer" title="Steam hammer">
+                steam hammer
+              </a>
+              , for example, or an 
+              <a href="/wiki/Eccentric_(mechanism)" title="Eccentric (mechanism)">
+                eccentric
+              </a>
+               disc or other shape that produces a smooth reciprocating (back and forth) motion in the 
+              <i>
+                <a href="/wiki/Cam_follower" title="Cam follower">
+                  follower
+                </a>
+              </i>
+              , which is a lever making contact with the cam.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Overview">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Overview
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Displacement_diagram">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Displacement diagram
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Disc_or_plate_cam">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Disc or plate cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="#Cylindrical_cam">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Cylindrical cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#Face_cam">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Face cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-6">
+                  <a href="#Heart_shaped_cam">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      Heart shaped cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-7">
+                  <a href="#Snail_drop_cam">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      Snail drop cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-8">
+                  <a href="#Linear_cam">
+                    <span class="tocnumber">
+                      8
+                    </span>
+                    <span class="toctext">
+                      Linear cam
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-9">
+                  <a href="#History">
+                    <span class="tocnumber">
+                      9
+                    </span>
+                    <span class="toctext">
+                      History
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      10
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      11
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      12
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Overview">
+                Overview
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=1" title="Edit section: Overview">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The cam can be seen as a device that rotates from spherical to reciprocating (or sometimes oscillating) motion.
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+               A common example is the 
+              <a href="/wiki/Camshaft" title="Camshaft">
+                camshaft
+              </a>
+               of an 
+              <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">
+                automobile
+              </a>
+              , which takes the rotary motion of the engine and translates it into the reciprocating motion necessary to operate the intake and exhaust 
+              <a href="/wiki/Poppet_valve" title="Poppet valve">
+                valves
+              </a>
+               of the 
+              <a href="/wiki/Cylinder_(engine)" title="Cylinder (engine)">
+                cylinders
+              </a>
+              .
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Displacement_diagram">
+                Displacement diagram
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=2" title="Edit section: Displacement diagram">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="thumb tleft">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Basic_Displacement_Diagram.JPG" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Basic_Displacement_Diagram.JPG/220px-Basic_Displacement_Diagram.JPG" decoding="async" width="220" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Basic_Displacement_Diagram.JPG/330px-Basic_Displacement_Diagram.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Basic_Displacement_Diagram.JPG/440px-Basic_Displacement_Diagram.JPG 2x" data-file-width="774" data-file-height="365"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Basic_Displacement_Diagram.JPG" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Fig. 2 Basic displacement diagram
+                </div>
+              </div>
+            </div>
+            <p>
+              Certain cams can be characterized by their displacement diagrams, which reflect the changing position a roller follower (a shaft with a rotating wheel at the end) would make as the cam rotates about an axis. These diagrams relate angular position, usually in degrees, to the radial displacement experienced at that position. Displacement diagrams are traditionally presented as graphs with non-negative values. A simple displacement diagram illustrates the follower motion at a constant velocity rise followed by a similar return with a dwell in between as depicted in figure 2.
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+               The rise is the motion of the follower away from the cam center, dwell is the motion where the follower is at rest, and return is the motion of the follower toward the cam center.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+            </p>
+            <div style="clear:both;">
+            </div>
+            <p>
+              However, the most common type is in the valve 
+              <a href="/wiki/Actuator" title="Actuator">
+                actuators
+              </a>
+               in internal combustion engines. Here, the cam profile is commonly symmetric and at rotational speeds generally met with, very high acceleration forces develop. Ideally, a convex curve between the onset and maximum position of lift reduces acceleration, but this requires impractically large shaft diameters relative to lift. Thus, in practice, the points at which lift begins and ends mean that a tangent to the base circle appears on the profile. This is continuous with a tangent to the tip circle. In designing the cam, the lift and the dwell angle 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \theta }">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            θ
+                            <!-- θ -->                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle \theta }
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.09ex; height:2.176ex;" alt="\theta "/>
+              </span>
+               are given. If the profile is treated as a large base circle and a small tip circle, joined by a common tangent, giving lift 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle L}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            L
+                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle L}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.583ex; height:2.176ex;" alt="L"/>
+              </span>
+              , the relationship can be calculated, given the angle 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi }">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            ϕ
+                            <!-- ϕ -->                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle \phi }
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;" alt="\phi "/>
+              </span>
+               between one tangent and the axis of symmetry (
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi }">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            ϕ
+                            <!-- ϕ -->                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle \phi }
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;" alt="\phi "/>
+              </span>
+               being 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \pi /2-\theta /2}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            π
+                            <!-- π -->                          </mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>
+                              /
+                            </mo>
+                          </mrow>
+                          <mn>
+                            2
+                          </mn>
+                          <mo>
+                            −
+                            <!-- − -->                          </mo>
+                          <mi>
+                            θ
+                            <!-- θ -->                          </mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>
+                              /
+                            </mo>
+                          </mrow>
+                          <mn>
+                            2
+                          </mn>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle \pi /2-\theta /2}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a7eed333ad6e4adf7c2209ba46b9e86c04a0a949" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.913ex; height:2.843ex;" alt="\pi /2-\theta /2"/>
+              </span>
+              ), while 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle C}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            C
+                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle C}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/>
+              </span>
+               is the distance between the centres of the circles (required), and 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle R}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            R
+                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle R}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="R"/>
+              </span>
+               is the radius of the base (given) and 
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            r
+                          </mi>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle r}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/>
+              </span>
+               that of the tip circle (required)
+
+            </p>
+            <p>
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle C=L/(1-\sin \phi )}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            C
+                          </mi>
+                          <mo>
+                            =
+                          </mo>
+                          <mi>
+                            L
+                          </mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>
+                              /
+                            </mo>
+                          </mrow>
+                          <mo stretchy="false">
+                            (
+                          </mo>
+                          <mn>
+                            1
+                          </mn>
+                          <mo>
+                            −
+                            <!-- − -->                          </mo>
+                          <mi>
+                            sin
+                          </mi>
+                          <mo>
+                            ⁡
+                            <!-- ⁡ -->                          </mo>
+                          <mi>
+                            ϕ
+                            <!-- ϕ -->                          </mi>
+                          <mo stretchy="false">
+                            )
+                          </mo>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle C=L/(1-\sin \phi )}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed8a1eafedb15b00cc2ae417ebec72fe58cc2fea" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.05ex; height:2.843ex;" alt="C=L/(1-\sin \phi )"/>
+              </span>
+              
+and
+
+              <span class="mwe-math-element">
+                <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                  <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r=R-L\sin \phi /(1-\sin \phi )}">
+                    <semantics>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mstyle displaystyle="true" scriptlevel="0">
+                          <mi>
+                            r
+                          </mi>
+                          <mo>
+                            =
+                          </mo>
+                          <mi>
+                            R
+                          </mi>
+                          <mo>
+                            −
+                            <!-- − -->                          </mo>
+                          <mi>
+                            L
+                          </mi>
+                          <mi>
+                            sin
+                          </mi>
+                          <mo>
+                            ⁡
+                            <!-- ⁡ -->                          </mo>
+                          <mi>
+                            ϕ
+                            <!-- ϕ -->                          </mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mo>
+                              /
+                            </mo>
+                          </mrow>
+                          <mo stretchy="false">
+                            (
+                          </mo>
+                          <mn>
+                            1
+                          </mn>
+                          <mo>
+                            −
+                            <!-- − -->                          </mo>
+                          <mi>
+                            sin
+                          </mi>
+                          <mo>
+                            ⁡
+                            <!-- ⁡ -->                          </mo>
+                          <mi>
+                            ϕ
+                            <!-- ϕ -->                          </mi>
+                          <mo stretchy="false">
+                            )
+                          </mo>
+                        </mstyle>
+                      </mrow>
+                      <annotation encoding="application/x-tex">
+                        {\displaystyle r=R-L\sin \phi /(1-\sin \phi )}
+                      </annotation>
+                    </semantics>
+                  </math>
+                </span>
+                <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e213a79fa98dd3b49a40542e0683ad4978479658" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.952ex; height:2.843ex;" alt="r=R-L\sin \phi /(1-\sin \phi )"/>
+              </span>
+            </p>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Cam_Profile.JPG" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cam_Profile.JPG/220px-Cam_Profile.JPG" decoding="async" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cam_Profile.JPG/330px-Cam_Profile.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cam_Profile.JPG/440px-Cam_Profile.JPG 2x" data-file-width="760" data-file-height="485"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Cam_Profile.JPG" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Fig. 3 Cam profile
+                </div>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Disc_or_plate_cam">
+                Disc or plate cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=3" title="Edit section: Disc or plate cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The most commonly used cam is the cam plate (also known as 
+              <i>
+                disc cam
+              </i>
+               or 
+              <i>
+                radial cam
+              </i>
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+              )
+which is cut out of a piece of flat metal or plate.
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+               Here, the follower moves in a plane perpendicular to the axis of rotation of the camshaft.
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+               Several key terms are relevant in such a construction of plate cams: 
+              <a href="/wiki/Base_circle_(mechanics)" class="mw-redirect" title="Base circle (mechanics)">
+                base circle
+              </a>
+              , prime circle (with 
+              <a href="/wiki/Radius" title="Radius">
+                radius
+              </a>
+               equal to the sum of the follower radius and the base circle radius), pitch curve which is the radial curve traced out by applying the radial displacements away from the prime circle across all angles, and the lobe separation angle (
+              <b>
+                LSA
+              </b>
+               - the angle between two adjacent intake and exhaust cam lobes).
+
+            </p>
+            <p>
+              The base circle is the smallest circle that can be drawn to the cam profile.
+
+            </p>
+            <p>
+              A once common, but now outdated, application of this type of cam was automatic machine tool programming cams. Each tool movement or operation was controlled directly by one or more cams. Instructions for producing programming cams and cam generation data for the most common makes of machine, were included in engineering references well into the modern 
+              <a href="/wiki/Numerical_control" title="Numerical control">
+                CNC
+              </a>
+               era.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+            </p>
+            <p>
+              This type of cam is used in many simple electromechanical appliances 
+              <a href="/wiki/Camshaft#Electrical" title="Camshaft">
+                controllers
+              </a>
+              , such as dishwashers and clothes washing machines, to actuate mechanical switches that control the various parts.
+
+            </p>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Gearbox.jpg" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gearbox.jpg/220px-Gearbox.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gearbox.jpg/330px-Gearbox.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gearbox.jpg/440px-Gearbox.jpg 2x" data-file-width="2272" data-file-height="1704"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Gearbox.jpg" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Motorcycle transmission showing cylindrical cam with three followers. Each follower controls the position of a shift fork.
+                </div>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Cylindrical_cam">
+                Cylindrical cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=4" title="Edit section: Cylindrical cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Threading_setup_helix_and_bushing_American_pacemaker_lathe.png" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Threading_setup_helix_and_bushing_American_pacemaker_lathe.png/220px-Threading_setup_helix_and_bushing_American_pacemaker_lathe.png" decoding="async" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Threading_setup_helix_and_bushing_American_pacemaker_lathe.png/330px-Threading_setup_helix_and_bushing_American_pacemaker_lathe.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/28/Threading_setup_helix_and_bushing_American_pacemaker_lathe.png 2x" data-file-width="416" data-file-height="320"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Threading_setup_helix_and_bushing_American_pacemaker_lathe.png" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Constant lead barrel cam in an American Pacemaker lathe. This cam is used to provide a repeatable cross slide setting when threading with a single-point tool.
+                </div>
+              </div>
+            </div>
+            <p>
+              A 
+              <b>
+                cylindrical cam
+              </b>
+               or  
+              <b>
+                barrel cam
+              </b>
+               is a cam in which the follower rides on the surface of a cylinder. In the most common type, the follower rides in a groove cut into the surface of a cylinder. These cams are principally used to convert rotational motion to linear motion parallel to the rotational axis of the cylinder. A cylinder may have several grooves cut into the surface and drive several followers. Cylindrical cams can provide motions that involve more than a single rotation of the cylinder and generally provide positive positioning, removing the need for a spring or other provision to keep the follower in contact with the control surface.
+
+            </p>
+            <p>
+              Applications include machine tool drives, such as reciprocating saws, and shift control barrels in 
+              <a href="/wiki/Sequential_manual_transmission" title="Sequential manual transmission">
+                sequential transmissions
+              </a>
+              , such as on most modern 
+              <a href="/wiki/Motorcycle_transmission" title="Motorcycle transmission">
+                motorcycles
+              </a>
+              .
+
+            </p>
+            <p>
+              A special case of this cam is 
+              <b>
+                constant lead
+              </b>
+              , where the position of the follower is linear with rotation, as in a lead screw. The purpose and detail of implementation influence whether this application is called a cam or a screw thread, but in some cases, the nomenclature may be ambiguous.
+
+            </p>
+            <p>
+              Cylindrical cams may also be used to reference an output to two inputs, where one input is the rotation of the cylinder and the other is the position of the follower along the cam. The output is radial to the cylinder. These were once common for special functions in control systems, such as fire control mechanisms for guns on naval vessels
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+               and mechanical analog computers.
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+            </p>
+            <p>
+              An example of a cylindrical cam with two inputs is provided by a duplicating lathe, an example of which is the Klotz axe handle lathe,
+              <sup id="cite_ref-12" class="reference">
+                <a href="#cite_note-12">
+                  [12]
+                </a>
+              </sup>
+               which cuts an axe handle to a form controlled by a pattern acting as a cam for the lathe mechanism.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Face_cam">
+                Face cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=5" title="Edit section: Face cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              A 
+              <b>
+                face cam
+              </b>
+               produces motion by using a follower riding on the face of a disk. The most common type has the follower ride in a slot so that the captive follower produces radial motion with positive positioning without the need for a spring or other mechanism to keep the follower in contact with the control surface. A face cam of this type generally has only one slot for a follower on each face. In some applications, a single element, such as a gear, a barrel cam or other rotating element with a flat face, may do duty as a face cam in addition to other purposes.
+
+            </p>
+            <p>
+              Face cams may provide repetitive motion with a groove that forms a closed curve or may provide function generation with a stopped groove. Cams used for function generation may have grooves that require several revolutions to cover the complete function, and in this case, the function generally needs to be 
+              <a href="/wiki/Inverse_function" title="Inverse function">
+                invertible
+              </a>
+               so that the groove does not self intersect, and the function output value must differ enough at corresponding rotations that there is sufficient material separating the adjacent groove segments. A common form is the constant lead cam, where the displacement of the follower is linear with rotation, such as the scroll plate in a 
+              <a href="/wiki/Scroll_chuck#scroll_chuck" class="mw-redirect" title="Scroll chuck">
+                scroll chuck
+              </a>
+              . Non-invertible functions, which require the groove to self-intersect, can be implemented using special follower designs.
+
+            </p>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Sash_lock.png" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sash_lock.png/220px-Sash_lock.png" decoding="async" width="220" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sash_lock.png/330px-Sash_lock.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sash_lock.png/440px-Sash_lock.png 2x" data-file-width="909" data-file-height="611"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Sash_lock.png" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Sash window lock, traditional cam style, for double-hung sash window
+                </div>
+              </div>
+            </div>
+            <p>
+              A variant of the face cam provides motion parallel to the axis of cam rotation. A common example is the traditional 
+              <a href="/wiki/Sash_window" title="Sash window">
+                sash window
+              </a>
+               lock, where the cam is mounted to the top of the lower sash, and the follower is the hook on the upper sash. In this application, the cam is used to provide a mechanical advantage in forcing the window shut, and also provides a self-locking action, like some 
+              <a href="/wiki/Worm_gear#Direction_of_transmission" class="mw-redirect" title="Worm gear">
+                worm gears
+              </a>
+              , due to friction.
+
+            </p>
+            <p>
+              Face cams may also be used to reference a single output to two inputs, typically where one input is the rotation of the cam and the other is the radial position of the follower. The output is parallel to the axis of the cam. These were once common is mechanical 
+              <a href="/wiki/Analog_computer" title="Analog computer">
+                analog computation
+              </a>
+               and special functions in control systems.
+              <sup id="cite_ref-13" class="reference">
+                <a href="#cite_note-13">
+                  [13]
+                </a>
+              </sup>
+            </p>
+            <p>
+              A face cam that implements three outputs for a single rotational input is the stereo 
+              <a href="/wiki/Phonograph" title="Phonograph">
+                phonograph
+              </a>
+              , where a relatively constant lead groove guides the stylus and tonearm unit, acting as either a rocker-type (tonearm) or linear (linear tracking turntable) follower, and the stylus alone acting as the follower for two 
+              <a href="/wiki/Orthogonal" class="mw-redirect" title="Orthogonal">
+                orthogonal
+              </a>
+               outputs to representing the audio signals. These motions are in a plane radial to the rotation of the record and at angles of 45 degrees to the plane of the disk (normal to the groove faces). The position of the tonearm was used by some turntables as a control input, such as to turn the unit off or to load the next disk in a stack, but was ignored in simple units.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Heart_shaped_cam">
+                Heart shaped cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=6" title="Edit section: Heart shaped cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              This type of cam, in the form of a symmetric heart, is used to return a shaft holding the cam to a set position by pressure from a roller. They were used for example on early models of Post Office 
+              <a href="/wiki/Master_clock" title="Master clock">
+                Master clocks
+              </a>
+               to synchronise the clock time with Greenwich Mean Time when the activating follower was pressed onto the cam automatically via a signal from an accurate time source.
+              <sup id="cite_ref-14" class="reference">
+                <a href="#cite_note-14">
+                  [14]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Snail_drop_cam">
+                Snail drop cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=7" title="Edit section: Snail drop cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              This type of cam was used for example in mechanical timekeeping clocking-in clocks to drive the day advance mechanism at precisely midnight and consisted of a follower being raised over 24 hours by the cam in a spiral path which terminated at a sharp cut off at which the follower would drop down and activate the day advance. Where timing accuracy is required as in clocking-in clocks these were typically ingeniously arranged to have a roller cam follower to raise the drop weight for most of its journey to near its full height, and only for the last portion of its travel for the weight to be taken over and supported by a solid follower with a sharp edge. This ensured that the weight dropped at a precise moment, enabling accurate timing.
+              <sup id="cite_ref-15" class="reference">
+                <a href="#cite_note-15">
+                  [15]
+                </a>
+              </sup>
+               This was achieved by the use of two snail cams mounted coaxially with the roller initially resting on one cam and the final solid follower on the other but not in contact with its cam profile. Thus the roller cam initially carried the weight, until at the final portion of the run the profile of the non-roller cam rose more than the other causing the solid follower to take the weight.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Linear_cam">
+                Linear cam
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=8" title="Edit section: Linear cam">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              A linear cam is one in which the cam element moves in a straight line rather than rotates. The cam element is often a plate or block but maybe any cross-section.
+              <sup id="cite_ref-16" class="reference">
+                <a href="#cite_note-16">
+                  [16]
+                </a>
+              </sup>
+               The key feature is that the input is a linear motion rather than rotational. The cam profile may be cut into one or more edges of a plate or block, maybe one or more slots or grooves in the face of an element, or may even be a surface profile for a cam with more than one input. The development of a linear cam is similar to, but not identical to, that of a rotating cam.
+              <sup id="cite_ref-17" class="reference">
+                <a href="#cite_note-17">
+                  [17]
+                </a>
+              </sup>
+            </p>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:Copiadora_llaves.jpg" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Copiadora_llaves.jpg/220px-Copiadora_llaves.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Copiadora_llaves.jpg/330px-Copiadora_llaves.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Copiadora_llaves.jpg/440px-Copiadora_llaves.jpg 2x" data-file-width="1600" data-file-height="1200"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Copiadora_llaves.jpg" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  Key duplicating machine. The original key (mounted in the left-hand holder) acts as a linear cam to control the cut depth for the duplicate.
+                </div>
+              </div>
+            </div>
+            <p>
+              A common example of a linear cam is a key for a 
+              <a href="/wiki/Pin_tumbler_lock" title="Pin tumbler lock">
+                pin tumbler lock
+              </a>
+              . The pins act as followers. This behavior is exemplified when the key is duplicated in a key duplication machine, where the original key acts as a control cam for cutting the new key.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="History">
+                History
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=9" title="Edit section: History">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              An early cam was built into 
+              <a href="/wiki/Hellenistic_civilization" class="mw-redirect" title="Hellenistic civilization">
+                Hellenistic
+              </a>
+               water-driven 
+              <a href="/wiki/Automaton" title="Automaton">
+                automata
+              </a>
+               from the 3rd century BC.
+              <sup id="cite_ref-18" class="reference">
+                <a href="#cite_note-18">
+                  [18]
+                </a>
+              </sup>
+               The cam and camshaft later appeared in mechanisms by 
+              <a href="/wiki/Al-Jazari" class="mw-redirect" title="Al-Jazari">
+                Al-Jazari
+              </a>
+               and Shooshtari, who used them in their automata, described in 1206.
+              <sup id="cite_ref-19" class="reference">
+                <a href="#cite_note-19">
+                  [19]
+                </a>
+              </sup>
+               The cam and camshaft appeared in European mechanisms from the 14th century.
+              <sup id="cite_ref-20" class="reference">
+                <a href="#cite_note-20">
+                  [20]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=10" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Reciprocating_motion" title="Reciprocating motion">
+                  Reciprocating motion
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Cam_engine" title="Cam engine">
+                  Cam engine
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=11" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+              <ol class="references">
+                <li id="cite_note-1">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-1">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation encyclopaedia">
+                      <a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/cam">
+                        "cam definition"
+                      </a>
+                      . 
+                      <i>
+                        Merriam Webster
+                      </i>
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          2010-04-05
+                        </span>
+                      </span>
+                      . 
+                      <q>
+                        a rotating or sliding piece (as an eccentric wheel or a cylinder with an irregular shape) in a mechanical linkage used especially in transforming rotary motion into reciprocating motion or vice versa
+                      </q>
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=cam+definition&amp;rft.btitle=Merriam+Webster&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fcam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <style data-mw-deduplicate="TemplateStyles:r886058088">
+                      .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                    </style>
+                  </span>
+                </li>
+                <li id="cite_note-2">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-2">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Shigley, J.; Uicker, J. (2010). 
+                      <i>
+                        Cam Design. Theory of Machines and Mechanisms
+                      </i>
+                       (4 ed.). Oxford University Press, USA. p. 200.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cam+Design.+Theory+of+Machines+and+Mechanisms&amp;rft.pages=200&amp;rft.edition=4&amp;rft.pub=Oxford+University+Press%2C+USA.&amp;rft.date=2010&amp;rft.au=Shigley%2C+J.&amp;rft.au=Uicker%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-3">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-3">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Jensen, Preddben w. (1965). 
+                      <a rel="nofollow" class="external text" href="https://books.google.com/?id=JV_gIQ4W9Q8C&amp;pg=PA1&amp;lpg=PA1&amp;vq=%22transform+a+rotary+motion%22">
+                        <i>
+                          Cam Design and Manufacture
+                        </i>
+                      </a>
+                      . The Industrial Press, New York. p. 1. 
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/9780824775124" title="Special:BookSources/9780824775124">
+                        <bdi>
+                          9780824775124
+                        </bdi>
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cam+Design+and+Manufacture&amp;rft.pages=1&amp;rft.pub=The+Industrial+Press%2C+New+York.&amp;rft.date=1965&amp;rft.isbn=9780824775124&amp;rft.au=Jensen%2C+Preddben+w.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DJV_gIQ4W9Q8C%26pg%3DPA1%26lpg%3DPA1%26vq%3D%2522transform%2Ba%2Brotary%2Bmotion%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-4">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-4">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      <i>
+                        Cam Design and Manufacture
+                      </i>
+                      . The Industrial Press, New York. p. 8.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cam+Design+and+Manufacture&amp;rft.pages=8&amp;rft.pub=The+Industrial+Press%2C+New+York.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-5">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-5">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html">
+                      Introduction to Mechanisms - Cams
+                    </a>
+                    "rise is the motion of the follower away from the cam center, dwell is the motion where the follower is at rest, and return is the motion of the follower toward the cam center"
+                  </span>
+                </li>
+                <li id="cite_note-6">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-6">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      <a rel="nofollow" class="external text" href="https://www.codecogs.com/library/engineering/theory_of_machines/cams.php">
+                        "Cams; their profiles and the velocity and acceleration of their associated followers"
+                      </a>
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          29 August
+                        </span>
+                         2013
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cams%3B+their+profiles+and+the+velocity+and+acceleration+of+their+associated+followers&amp;rft_id=https%3A%2F%2Fwww.codecogs.com%2Flibrary%2Fengineering%2Ftheory_of_machines%2Fcams.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-7">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-7">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Jensen, Preben w. (1965). 
+                      <i>
+                        Cam Design and Manufacture
+                      </i>
+                      . The Industrial Press, New York. p. 1.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cam+Design+and+Manufacture&amp;rft.pages=1&amp;rft.pub=The+Industrial+Press%2C+New+York.&amp;rft.date=1965&amp;rft.au=Jensen%2C+Preben+w.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-8">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-8">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html">
+                      Introduction to Mechanisms - Cams
+                    </a>
+                     "The follower moves in a plane perpendicular to the axis of rotation of the camshaft."
+                  </span>
+                </li>
+                <li id="cite_note-9">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-9">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Oberg, Erik (1996). 
+                      <i>
+                        Machinery's Handbook, 25th Ed
+                      </i>
+                      . Industrial Press. pp. 1050–1055.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Machinery%27s+Handbook%2C+25th+Ed.&amp;rft.pages=1050-1055&amp;rft.pub=Industrial+Press&amp;rft.date=1996&amp;rft.au=Oberg%2C+Erik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-10">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-10">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Bomar; Null; Wallace (1996). 
+                      <a rel="nofollow" class="external text" href="https://www.scribd.com/doc/7824710/US-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C">
+                        <i>
+                          Gunners Mate 1 &amp; C NAVEDTRA 14110
+                        </i>
+                      </a>
+                      . Naval Education and Training Professional Development and Technology Center. p. 4–2.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gunners+Mate+1+%26+C+NAVEDTRA+14110&amp;rft.pages=4-2&amp;rft.pub=Naval+Education+and+Training+Professional+Development+and+Technology+Center&amp;rft.date=1996&amp;rft.au=Bomar&amp;rft.au=Null&amp;rft.au=Wallace&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F7824710%2FUS-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-11">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-11">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      Clymer, A. Ben (1993). 
+                      <a rel="nofollow" class="external text" href="https://www.scribd.com/doc/7824710/US-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C">
+                        "The Mechanical Analog Computers of Hannibal Ford and William Newell"
+                      </a>
+                      . 
+                      <i>
+                        IEEE Annals of the History of Computing
+                      </i>
+                      . 
+                      <b>
+                        15
+                      </b>
+                       (2): 19–34. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1109%2F85.207741">
+                        10.1109/85.207741
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Annals+of+the+History+of+Computing&amp;rft.atitle=The+Mechanical+Analog+Computers+of+Hannibal+Ford+and+William+Newell&amp;rft.volume=15&amp;rft.issue=2&amp;rft.pages=19-34&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1109%2F85.207741&amp;rft.aulast=Clymer&amp;rft.aufirst=A.+Ben&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F7824710%2FUS-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-12">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-12">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=dVuel1F5mXo">
+                      <span class="plainlinks">
+                        House handles Klotz lathe
+                      </span>
+                    </a>
+                     on 
+                    <a href="/wiki/YouTube" title="YouTube">
+                      YouTube
+                    </a>
+                  </span>
+                </li>
+                <li id="cite_note-13">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-13">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Bomar, Null, and Wallace (1996). 
+                      <a rel="nofollow" class="external text" href="https://www.scribd.com/doc/7824710/US-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C">
+                        <i>
+                          Gunners Mate 1 &amp; C NAVEDTRA 14110
+                        </i>
+                      </a>
+                      . Naval Education and Training Professional Development and Technology Center. p. 4–1.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gunners+Mate+1+%26+C+NAVEDTRA+14110&amp;rft.pages=4-1&amp;rft.pub=Naval+Education+and+Training+Professional+Development+and+Technology+Center&amp;rft.date=1996&amp;rft.au=Bomar%2C+Null%2C+and+Wallace&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F7824710%2FUS-Navy-Course-NAVEDTRA-14110-Gunners-Mate-1-C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <span class="cs1-maint citation-comment">
+                      CS1 maint: multiple names: authors list (
+                      <a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">
+                        link
+                      </a>
+                      )
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-14">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-14">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="http://www.technologystudent.com/cams/pear_cam3.gif">
+                      Motion of heart-shaped cam
+                    </a>
+                  </span>
+                </li>
+                <li id="cite_note-15">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-15">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <a rel="nofollow" class="external text" href="http://www.technologystudent.com/images5/snlcam2.gif">
+                      Motion of snail drop cam
+                    </a>
+                  </span>
+                </li>
+                <li id="cite_note-16">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-16">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      <a rel="nofollow" class="external text" href="http://www.google.com/patents/US7380478">
+                        "Linear cam mechanical interlock"
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Linear+cam+mechanical+interlock&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fpatents%2FUS7380478&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-17">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-17">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      <a rel="nofollow" class="external text" href="http://wikihelp.autodesk.com/Inventor/enu/2012/Help/0073-Autodesk73/0742-Engineer742/0915-Transmis915/0992-Cam_Gene992/0993-Calculat993">
+                        "Calculation equations:cams"
+                      </a>
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          29 August
+                        </span>
+                         2013
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Calculation+equations%3Acams&amp;rft_id=http%3A%2F%2Fwikihelp.autodesk.com%2FInventor%2Fenu%2F2012%2FHelp%2F0073-Autodesk73%2F0742-Engineer742%2F0915-Transmis915%2F0992-Cam_Gene992%2F0993-Calculat993&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-18">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-18">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      <a href="/wiki/Andrew_Wilson_(classical_archaeologist)" title="Andrew Wilson (classical archaeologist)">
+                        Andrew Wilson
+                      </a>
+                       (2002). "Machines, Power and the Ancient Economy". 
+                      <i>
+                        The Journal of Roman Studies
+                      </i>
+                      . 
+                      <a href="/wiki/Society_for_the_Promotion_of_Roman_Studies" title="Society for the Promotion of Roman Studies">
+                        Society for the Promotion of Roman Studies
+                      </a>
+                      . 
+                      <b>
+                        92
+                      </b>
+                      : 1–32. 
+                      <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                        doi
+                      </a>
+                      :
+                      <a rel="nofollow" class="external text" href="//doi.org/10.1017%2FS0075435800032135">
+                        10.1017/S0075435800032135
+                      </a>
+                      . 
+                      <a href="/wiki/JSTOR" title="JSTOR">
+                        JSTOR
+                      </a>
+                       
+                      <a rel="nofollow" class="external text" href="//www.jstor.org/stable/3184857">
+                        3184857
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Roman+Studies&amp;rft.atitle=Machines%2C+Power+and+the+Ancient+Economy&amp;rft.volume=92&amp;rft.pages=1-32&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1017%2FS0075435800032135&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3184857&amp;rft.au=Andrew+Wilson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-19">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-19">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Georges Ifrah (2001). 
+                      <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061008113946/http://www.banffcentre.ca/bnmi/programs/archives/2005/refresh/docs/conferences/Gunalan_Nadarajan.pdf">
+                        <i>
+                          The Universal History of Computing: From the Abacus to the Quantum Computer
+                        </i>
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Translated by E.F. Harding. John Wiley &amp; Sons, Inc. p. 171. Archived from 
+                      <a rel="nofollow" class="external text" href="http://www.banffcentre.ca/bnmi/programs/archives/2005/refresh/docs/conferences/Gunalan_Nadarajan.pdf">
+                        the original
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                       on October 8, 2006.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Universal+History+of+Computing%3A+From+the+Abacus+to+the+Quantum+Computer&amp;rft.pages=171&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft.date=2001&amp;rft.au=Georges+Ifrah&amp;rft_id=http%3A%2F%2Fwww.banffcentre.ca%2Fbnmi%2Fprograms%2Farchives%2F2005%2Frefresh%2Fdocs%2Fconferences%2FGunalan_Nadarajan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-20">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-20">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      A. Lehr (1981). 
+                      <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101025175626/http://odur.let.rug.nl/~koster/musicbox/musicbox2.htm">
+                        <i>
+                          De Geschiedenis van het Astronomisch Kunstuurwerk
+                        </i>
+                      </a>
+                      . Den Haag. p. 227. Archived from 
+                      <a rel="nofollow" class="external text" href="http://odur.let.rug.nl/~koster/musicbox/musicbox2.htm">
+                        the original
+                      </a>
+                       on October 25, 2010.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=De+Geschiedenis+van+het+Astronomisch+Kunstuurwerk&amp;rft.pages=227&amp;rft.pub=Den+Haag.&amp;rft.date=1981&amp;rft.au=A.+Lehr&amp;rft_id=http%3A%2F%2Fodur.let.rug.nl%2F~koster%2Fmusicbox%2Fmusicbox2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACam" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+              </ol>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Cam&amp;action=edit&amp;section=12" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170313124044/http://www.saltire.com/CamDesign/">
+                  Cam design pages
+                </a>
+                 Creates animated cams for specified follower motions.
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="https://engineering.library.cornell.edu/kmoddl">
+                  Kinematic Models for Design Digital Library (KMODDL)
+                </a>
+                 - Movies and photos of hundreds of working mechanical-systems models at Cornell University. Also includes an 
+                <a rel="nofollow" class="external text" href="http://kmoddl.library.cornell.edu/e-books.php">
+                  e-book library
+                </a>
+                 of classic texts on mechanical design and engineering.
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html">
+                  Introduction to Mechanisms - Cams
+                </a>
+                 Classification, nomenclature, motion, and design of cams; information for the course, Introduction to Mechanisms, at Carnegie Mellon University.
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="https://mechanical-design-handbook.blogspot.com/2010/07/polynomial-cam-function-introduction.html">
+                  Polynomial cam function with excel VBA file to demonstrate its motion
+                </a>
+              </li>
+            </ul>
+            <div role="navigation" class="navbox" aria-labelledby="Engine_configurations_for_internal_combustion_engines" style="padding:3px">
+              <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th scope="col" class="navbox-title" colspan="2">
+                      <div class="plainlinks hlist navbar mini">
+                        <ul>
+                          <li class="nv-view">
+                            <a href="/wiki/Template:Piston_engine_configurations" title="Template:Piston engine configurations">
+                              <abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                v
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-talk">
+                            <a href="/wiki/Template_talk:Piston_engine_configurations" title="Template talk:Piston engine configurations">
+                              <abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                t
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-edit">
+                            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Piston_engine_configurations&amp;action=edit">
+                              <abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                e
+                              </abbr>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div id="Engine_configurations_for_internal_combustion_engines" style="font-size:114%;margin:0 4em">
+                        <a href="/wiki/Engine_configuration" title="Engine configuration">
+                          Engine configurations
+                        </a>
+                         for 
+                        <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">
+                          internal combustion engines
+                        </a>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Type
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Bourke_engine" title="Bourke engine">
+                              Bourke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Sarich_orbital_engine" title="Sarich orbital engine">
+                              Orbital (Sarich)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Reciprocating_engine" title="Reciprocating engine">
+                              Piston
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Pistonless_rotary_engine" title="Pistonless rotary engine">
+                              Pistonless
+                            </a>
+                             (
+                            <a href="/wiki/Wankel_engine" title="Wankel engine">
+                              Wankel
+                            </a>
+                            )
+                          </li>
+                          <li>
+                            <a href="/wiki/Radial_engine" title="Radial engine">
+                              Radial
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Axial_engine" title="Axial engine">
+                              Axial
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Rotary_engine" title="Rotary engine">
+                              Rotary
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Split_cycle_engine" title="Split cycle engine">
+                              Split cycle
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Stelzer_engine" title="Stelzer engine">
+                              Stelzer
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Tschudi_engine" class="mw-redirect" title="Tschudi engine">
+                              Tschudi
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Stroke_(engine)" title="Stroke (engine)">
+                        Stroke cycles
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Two-stroke_engine" title="Two-stroke engine">
+                              Two-stroke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Four-stroke_engine" title="Four-stroke engine">
+                              Four-stroke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Five-stroke_engine" title="Five-stroke engine">
+                              Five-stroke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Six-stroke_engine" title="Six-stroke engine">
+                              Six-stroke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Two-_and_four-stroke_engines" title="Two- and four-stroke engines">
+                              Two-and four-stroke
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Engine_configuration" title="Engine configuration">
+                        Cylinder layouts
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                      </div>
+                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:10em">
+                              <a href="/wiki/Straight_engine" title="Straight engine">
+                                Inline / straight
+                              </a>
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Straight-twin_engine" title="Straight-twin engine">
+                                      I2
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-three_engine" title="Straight-three engine">
+                                      I3
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Inline-four_engine" title="Inline-four engine">
+                                      I4
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-five_engine" title="Straight-five engine">
+                                      I5
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-six_engine" title="Straight-six engine">
+                                      I6
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-seven_engine" title="Straight-seven engine">
+                                      I7
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-eight_engine" title="Straight-eight engine">
+                                      I8
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-nine_engine" title="Straight-nine engine">
+                                      I9
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-10_engine" title="Straight-10 engine">
+                                      I10
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-12_engine" title="Straight-12 engine">
+                                      I12
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Straight-14_engine" title="Straight-14 engine">
+                                      I14
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:10em">
+                              <a href="/wiki/Flat_engine" title="Flat engine">
+                                Flat
+                              </a>
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Flat_twin_engine" class="mw-redirect" title="Flat twin engine">
+                                      F2
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-four_engine" title="Flat-four engine">
+                                      F4
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-six_engine" title="Flat-six engine">
+                                      F6
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-eight_engine" title="Flat-eight engine">
+                                      F8
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-ten_engine" title="Flat-ten engine">
+                                      F10
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-twelve_engine" title="Flat-twelve engine">
+                                      F12
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Flat-sixteen_engine" title="Flat-sixteen engine">
+                                      F16
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:10em">
+                              <a href="/wiki/V_engine" title="V engine">
+                                V / Vee
+                              </a>
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/V-twin_engine" title="V-twin engine">
+                                      V2
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V3_engine" title="V3 engine">
+                                      V3
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V4_engine" title="V4 engine">
+                                      V4
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V5_engine" title="V5 engine">
+                                      V5
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V6_engine" title="V6 engine">
+                                      V6
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V8_engine" title="V8 engine">
+                                      V8
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V10_engine" title="V10 engine">
+                                      V10
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V12_engine" title="V12 engine">
+                                      V12
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V14_engine" title="V14 engine">
+                                      V14
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V16_engine" title="V16 engine">
+                                      V16
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V18_engine" title="V18 engine">
+                                      V18
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V20_engine" title="V20 engine">
+                                      V20
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/V24_engine" title="V24 engine">
+                                      V24
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:10em">
+                              <a href="/wiki/W_engine" title="W engine">
+                                W
+                              </a>
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/W8_engine" title="W8 engine">
+                                      W8
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/W12_engine" title="W12 engine">
+                                      W12
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/W16_engine" title="W16 engine">
+                                      W16
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/W18_engine" title="W18 engine">
+                                      W18
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:10em">
+                              Other
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/H_engine" title="H engine">
+                                      H
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/U_engine" title="U engine">
+                                      U
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Single-cylinder_engine" title="Single-cylinder engine">
+                                      Single-cylinder
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Split-single_engine" title="Split-single engine">
+                                      Split-single
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/VR6_engine" title="VR6 engine">
+                                      VR
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Opposed-piston_engine" title="Opposed-piston engine">
+                                      Opposed piston
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/X_engine" title="X engine">
+                                      X
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <div>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div role="navigation" class="navbox" aria-labelledby="Kinematic_pair" style="padding:3px">
+              <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th scope="col" class="navbox-title" colspan="2">
+                      <div class="plainlinks hlist navbar mini">
+                        <ul>
+                          <li class="nv-view">
+                            <a href="/wiki/Template:Kinematic_pair" title="Template:Kinematic pair">
+                              <abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                v
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-talk">
+                            <a href="/wiki/Template_talk:Kinematic_pair" title="Template talk:Kinematic pair">
+                              <abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                t
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-edit">
+                            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Kinematic_pair&amp;action=edit">
+                              <abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                e
+                              </abbr>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div id="Kinematic_pair" style="font-size:114%;margin:0 4em">
+                        <a href="/wiki/Kinematic_pair" title="Kinematic pair">
+                          Kinematic pair
+                        </a>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Lower pairs
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Revolute_joint" title="Revolute joint">
+                              Revolute
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Prismatic_joint" title="Prismatic joint">
+                              Prismatic
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Cylindrical_joint" title="Cylindrical joint">
+                              Cylindrical
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Screw_joint" title="Screw joint">
+                              Screw
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Plane_joint" title="Plane joint">
+                              Planar
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Ball_joint" title="Ball joint">
+                              Spherical (ball)
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Higher pairs
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a class="mw-selflink selflink">
+                              Cam
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Gear" title="Gear">
+                              Gears
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div role="navigation" class="navbox" aria-labelledby="Internal_combustion_engine" style="padding:3px">
+              <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th scope="col" class="navbox-title" colspan="2">
+                      <div class="plainlinks hlist navbar mini">
+                        <ul>
+                          <li class="nv-view">
+                            <a href="/wiki/Template:Internal_combustion_engine" title="Template:Internal combustion engine">
+                              <abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                v
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-talk">
+                            <a href="/wiki/Template_talk:Internal_combustion_engine" title="Template talk:Internal combustion engine">
+                              <abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                t
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-edit">
+                            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Internal_combustion_engine&amp;action=edit">
+                              <abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                e
+                              </abbr>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div id="Internal_combustion_engine" style="font-size:114%;margin:0 4em">
+                        <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">
+                          Internal combustion engine
+                        </a>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <td class="navbox-abovebelow" colspan="2">
+                      <div id="Part_of_the_Automobile_series">
+                        <i>
+                          Part of the 
+                          <a href="/wiki/Car" title="Car">
+                            Automobile
+                          </a>
+                           series
+                        </i>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Engine_block" title="Engine block">
+                        Engine block
+                      </a>
+                       &amp;
+                      <br/>
+                       rotating assembly
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Balance_shaft" title="Balance shaft">
+                              Balance shaft
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Block_heater" title="Block heater">
+                              Block heater
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Bore_(engine)" title="Bore (engine)">
+                              Bore
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Connecting_rod" title="Connecting rod">
+                              Connecting rod
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Crankcase" title="Crankcase">
+                              Crankcase
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Crankcase_ventilation_system" title="Crankcase ventilation system">
+                              Crankcase ventilation system (PCV valve)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Crankpin" title="Crankpin">
+                              Crankpin
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Crankshaft" title="Crankshaft">
+                              Crankshaft
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Core_plug" title="Core plug">
+                              Core plug (freeze plug)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Cylinder_(engine)" title="Cylinder (engine)">
+                              Cylinder
+                            </a>
+                             (
+                            <a href="/wiki/Cylinder_bank" title="Cylinder bank">
+                              bank
+                            </a>
+                            , 
+                            <a href="/wiki/Engine_configuration" title="Engine configuration">
+                              layout
+                            </a>
+                            )
+                          </li>
+                          <li>
+                            <a href="/wiki/Engine_displacement" title="Engine displacement">
+                              Displacement
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Flywheel" title="Flywheel">
+                              Flywheel
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Firing_order" title="Firing order">
+                              Firing order
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Stroke_(engine)" title="Stroke (engine)">
+                              Stroke
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Main_bearing" title="Main bearing">
+                              Main bearing
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Piston" title="Piston">
+                              Piston
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Piston_ring" title="Piston ring">
+                              Piston ring
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Starter_ring_gear" title="Starter ring gear">
+                              Starter ring gear
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Valvetrain" title="Valvetrain">
+                        Valvetrain
+                      </a>
+                       &amp;
+                      <br/>
+                      <a href="/wiki/Cylinder_head" title="Cylinder head">
+                        Cylinder head
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Overhead_valve_engine" title="Overhead valve engine">
+                              Overhead valve ("pushrod") layout
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Overhead_camshaft" class="mw-redirect" title="Overhead camshaft">
+                              Overhead camshaft layout
+                            </a>
+                          </li>
+                        </ul>
+                        <ul>
+                          <li>
+                            <a href="/wiki/Cam_follower" title="Cam follower">
+                              Cam follower
+                            </a>
+                             / 
+                            <a href="/wiki/Tappet" title="Tappet">
+                              Tappet
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Camshaft" title="Camshaft">
+                              Camshaft
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Combustion_chamber" title="Combustion chamber">
+                              Combustion chamber
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Compression_ratio" title="Compression ratio">
+                              Compression ratio
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Head_gasket" title="Head gasket">
+                              Head gasket
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Rocker_arm" title="Rocker arm">
+                              Rocker arm
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Timing_belt_(camshaft)" title="Timing belt (camshaft)">
+                              Timing belt
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Timing_chain" class="mw-redirect" title="Timing chain">
+                              Timing chain
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Poppet_valve" title="Poppet valve">
+                              Valve
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Forced_induction" title="Forced induction">
+                        Forced induction
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Blowoff_valve" title="Blowoff valve">
+                              Blowoff valve
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Boost_controller" title="Boost controller">
+                              Boost controller
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Intercooler" title="Intercooler">
+                              Intercooler
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Supercharger" title="Supercharger">
+                              Supercharger
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Turbocharger" title="Turbocharger">
+                              Turbocharger
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Fuel system
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Diesel_engine" title="Diesel engine">
+                              Diesel engine
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Petrol_engine" title="Petrol engine">
+                              Petrol engine
+                            </a>
+                          </li>
+                        </ul>
+                        <ul>
+                          <li>
+                            <a href="/wiki/Carburetor" title="Carburetor">
+                              Carburetor
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Fuel_filter" title="Fuel filter">
+                              Fuel filter
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Fuel_injection" title="Fuel injection">
+                              Fuel injection
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Fuel_pump" title="Fuel pump">
+                              Fuel pump
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Fuel_tank" title="Fuel tank">
+                              Fuel tank
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Ignition_system" title="Ignition system">
+                        Ignition
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Ignition_magneto" title="Ignition magneto">
+                              Magneto
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Distributor#Direct_ignition" title="Distributor">
+                              Coil-on-plug ignition
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Distributor" title="Distributor">
+                              Distributor
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Glowplug" title="Glowplug">
+                              Glow plug
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/High_tension_leads" title="High tension leads">
+                              High tension leads (spark plug wires)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Ignition_coil" title="Ignition coil">
+                              Ignition coil
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Spark-ignition_engine" title="Spark-ignition engine">
+                              Spark-ignition engine
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Spark_plug" title="Spark plug">
+                              Spark plug
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <div style="padding:0.1em 0;line-height:1.2em;">
+                        Engine management
+                      </div>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Engine_control_unit" title="Engine control unit">
+                              Engine control unit (ECU)
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <div style="padding:0.1em 0;line-height:1.2em;">
+                        Electrical system
+                      </div>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Alternator_(automotive)" title="Alternator (automotive)">
+                              Alternator
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Automotive_battery" title="Automotive battery">
+                              Battery
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Dynamo" title="Dynamo">
+                              Dynamo
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Starter_(engine)" title="Starter (engine)">
+                              Starter motor
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Intake system
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Airbox" title="Airbox">
+                              Airbox
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Air_filter#Internal_combustion_engine_air_filters" title="Air filter">
+                              Air filter
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Idle_air_control_actuator" title="Idle air control actuator">
+                              Idle air control actuator
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Inlet_manifold" title="Inlet manifold">
+                              Inlet manifold
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/MAP_sensor" title="MAP sensor">
+                              MAP sensor
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">
+                              MAF sensor
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Throttle" title="Throttle">
+                              Throttle
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Throttle_position_sensor" title="Throttle position sensor">
+                              Throttle position sensor
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Exhaust_system" title="Exhaust system">
+                        Exhaust system
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Catalytic_converter" title="Catalytic converter">
+                              Catalytic converter
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Diesel_particulate_filter" title="Diesel particulate filter">
+                              Diesel particulate filter
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Exhaust_manifold" title="Exhaust manifold">
+                              Exhaust manifold
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Muffler" title="Muffler">
+                              Muffler
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Oxygen_sensor#Automotive_applications" title="Oxygen sensor">
+                              Oxygen sensor
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Internal_combustion_engine_cooling" title="Internal combustion engine cooling">
+                        Cooling system
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Air_cooling" title="Air cooling">
+                              Air cooling
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Water_cooling" title="Water cooling">
+                              Water cooling
+                            </a>
+                          </li>
+                        </ul>
+                        <ul>
+                          <li>
+                            <a href="/wiki/Fan_(machine)" title="Fan (machine)">
+                              Electric fan
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Radiator_(engine_cooling)" title="Radiator (engine cooling)">
+                              Radiator
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Thermostat" title="Thermostat">
+                              Thermostat
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Fan_clutch" title="Fan clutch">
+                              Viscous fan (fan clutch)
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Lubrication
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Motor_oil" title="Motor oil">
+                              Oil
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Oil_filter" title="Oil filter">
+                              Oil filter
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Oil_pump_(internal_combustion_engine)" title="Oil pump (internal combustion engine)">
+                              Oil pump
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Sump" title="Sump">
+                              Sump
+                            </a>
+                             (
+                            <a href="/wiki/Wet_sump" title="Wet sump">
+                              Wet sump
+                            </a>
+                            , 
+                            <a href="/wiki/Dry_sump" title="Dry sump">
+                              Dry sump
+                            </a>
+                            )
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Other
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Engine_knocking" title="Engine knocking">
+                              Knocking / pinging
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Power_band" title="Power band">
+                              Power band
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Redline" title="Redline">
+                              Redline
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Stratified_charge_engine" title="Stratified charge engine">
+                              Stratified charge
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Dead_centre_(engineering)" title="Dead centre (engineering)">
+                              Top dead centre
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+                      <div>
+                        <ul>
+                          <li>
+                            <a href="/wiki/Portal:Cars" title="Portal:Cars">
+                              Portal
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Category:Cars" title="Category:Cars">
+                              Category
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <p>
+              <br/>
+            </p>
+            <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q495933&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+              <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q495933&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+                        Authority control
+                      </a>
+                      <a href="https://www.wikidata.org/wiki/Q495933" title="Edit this at Wikidata">
+                        <img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"/>
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <span class="nowrap">
+                              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+                                NDL
+                              </a>
+                              : 
+                              <span class="uid">
+                                <a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00564826">
+                                  00564826
+                                </a>
+                              </span>
+                            </span>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20191230233937
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.724 seconds
+Real time usage: 0.959 seconds
+Preprocessor visited node count: 1220/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73505/2097152 bytes
+Template argument size: 319/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45700/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.386/10.000 seconds
+Lua memory usage: 4.41 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  713.852      1 -total
+ 66.66%  475.824      1 Template:Reflist
+ 24.24%  173.040      1 Template:Cite_dictionary
+ 16.62%  118.661      2 Template:Cite_journal
+ 11.86%   84.641      9 Template:Cite_book
+ 11.31%   80.762      1 Template:Authority_control
+ 10.14%   72.357      1 Template:About
+  6.67%   47.606      4 Template:Navbox
+  4.31%   30.772      1 Template:Piston_engine_configurations
+  4.14%   29.530      3 Template:Cite_web
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:40284-0!canonical!math=5 and timestamp 20191230233936 and revision id 930637473
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cam&amp;oldid=930637473">
+            https://en.wikipedia.org/w/index.php?title=Cam&amp;oldid=930637473
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Mechanical_engineering" title="Category:Mechanical engineering">
+                  Mechanical engineering
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">
+                  CS1 maint: multiple names: authors list
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">
+                  Wikipedia articles with NDL identifiers
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cam" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cam" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Cam" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Cam" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Cam">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Cam&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Cam&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Cam" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Cam" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Cam&amp;oldid=930637473" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Cam&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q495933" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cam&amp;id=930637473" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+          <h3 id="p-wikibase-otherprojects-label">
+            In other projects
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="wb-otherproject-link wb-otherproject-commons">
+                <a href="https://commons.wikimedia.org/wiki/Category:Cams" hreflang="en">
+                  Wikimedia Commons
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cam">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cam&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Cam&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-af">
+                <a href="https://af.wikipedia.org/wiki/Nok" title="Nok – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">
+                  Afrikaans
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D8%A8%D8%A9" title="حدبة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">
+                  العربية
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="https://ca.wikipedia.org/wiki/Lleva" title="Lleva – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="https://cs.wikipedia.org/wiki/Va%C4%8Dka" title="Vačka – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">
+                  Čeština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-da">
+                <a href="https://da.wikipedia.org/wiki/Kam_(mekanik)" title="Kam (mekanik) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">
+                  Dansk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Kurvenscheibe" title="Kurvenscheibe – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Leva_(mec%C3%A1nica)" title="Leva (mecánica) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eu">
+                <a href="https://eu.wikipedia.org/wiki/Espeka" title="Espeka – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">
+                  Euskara
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D8%A7%D9%85%DA%A9" title="بادامک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Came_(m%C3%A9canique)" title="Came (mécanique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%EC%BA%A0" title="캠 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-io">
+                <a href="https://io.wikipedia.org/wiki/Kamo" title="Kamo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">
+                  Ido
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Camma" title="Camma – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kk">
+                <a href="https://kk.wikipedia.org/wiki/%D0%96%D2%B1%D0%B4%D1%8B%D1%80%D1%8B%D2%9B%D1%88%D0%B0" title="Жұдырықша – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">
+                  Қазақша
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-la">
+                <a href="https://la.wikipedia.org/wiki/Gibber_(mechanicus)" title="Gibber (mechanicus) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">
+                  Latina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lmo">
+                <a href="https://lmo.wikipedia.org/wiki/Cama_(mecanega)" title="Cama (mecanega) – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">
+                  Lumbaart
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hu">
+                <a href="https://hu.wikipedia.org/wiki/Vez%C3%A9rm%C5%B1" title="Vezérmű – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">
+                  Magyar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A0_(%E6%A9%9F%E6%A2%B0%E8%A6%81%E7%B4%A0)" title="カム (機械要素) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="https://pl.wikipedia.org/wiki/Krzywka_(maszynoznawstwo)" title="Krzywka (maszynoznawstwo) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/Came_(mec%C3%A2nica)" title="Came (mecânica) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ro">
+                <a href="https://ro.wikipedia.org/wiki/Cam%C4%83" title="Camă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">
+                  Română
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%B0%D1%87%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" title="Кулачковый механизм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sk">
+                <a href="https://sk.wikipedia.org/wiki/Va%C4%8Dka" title="Vačka – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">
+                  Slovenčina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Kam_(mekanik)" title="Kam (mekanik) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ta">
+                <a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%AF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B5%E0%AE%B4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF" title="இயக்கவழங்கி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">
+                  தமிழ்
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tr">
+                <a href="https://tr.wikipedia.org/wiki/Kam_(mekanizma)" title="Kam (mekanizma) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">
+                  Türkçe
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%B0%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D1%96%D0%B7%D0%BC" title="Кулачковий механізм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="https://vi.wikipedia.org/wiki/C%C6%A1_c%E1%BA%A5u_cam" title="Cơ cấu cam – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">
+                  Tiếng Việt
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-yue">
+                <a href="https://zh-yue.wikipedia.org/wiki/%E5%87%B8%E8%BC%AA" title="凸輪 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">
+                  粵語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E5%87%B8%E8%BD%AE" title="凸轮 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q495933#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 13 December 2019, at 21:24
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Cam&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.959","ppvisitednodes":{"value":1220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73505,"limit":2097152},"templateargumentsize":{"value":319,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45700,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  713.852      1 -total"," 66.66%  475.824      1 Template:Reflist"," 24.24%  173.040      1 Template:Cite_dictionary"," 16.62%  118.661      2 Template:Cite_journal"," 11.86%   84.641      9 Template:Cite_book"," 11.31%   80.762      1 Template:Authority_control"," 10.14%   72.357      1 Template:About","  6.67%   47.606      4 Template:Navbox","  4.31%   30.772      1 Template:Piston_engine_configurations","  4.14%   29.530      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.386","limit":"10.000"},"limitreport-memusage":{"value":4626188,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191230233937","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Cam","url":"https:\/\/en.wikipedia.org\/wiki\/Cam","sameAs":"http:\/\/www.wikidata.org\/entity\/Q495933","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q495933","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-22T09:21:12Z","dateModified":"2019-12-13T21:24:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/41\/Nockenwelle_ani.gif","headline":"rotating or sliding piece in a mechanical linkage"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1148,"wgHostname":"mw1240"});});
+//]]>
+    </script>
+  </body>
+</html>

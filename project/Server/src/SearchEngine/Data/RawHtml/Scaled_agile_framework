@@ -1,0 +1,2769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Scaled agile framework - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfyD2ApAICgAAJ7ALhEAAACR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Scaled_agile_framework","wgTitle":"Scaled agile framework","wgCurRevisionId":929504082,"wgRevisionId":929504082,"wgArticleId":49470616,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from April 2019","Articles lacking reliable references from July 2018","All articles lacking reliable references","Agile software development",
+"Software project management","Software development philosophies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Scaled_agile_framework","wgRelevantArticleId":49470616,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q23808624","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Scaled_agile_framework"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Scaled_agile_framework&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Scaled_agile_framework&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Scaled_agile_framework"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Scaled_agile_framework rootpage-Scaled_agile_framework skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Scaled agile framework
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+              <tbody>
+                <tr>
+                  <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+                    <a href="/wiki/Software_development" title="Software development">
+                      Software development
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Core activities
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_development_process" title="Software development process">
+                          Processes
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Requirements_analysis" title="Requirements analysis">
+                          Requirements
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_design" title="Software design">
+                          Design
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_engineering" title="Software engineering">
+                          Engineering
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_construction" title="Software construction">
+                          Construction
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_testing" title="Software testing">
+                          Testing
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugging" title="Debugging">
+                          Debugging
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_deployment" title="Software deployment">
+                          Deployment
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_maintenance" title="Software maintenance">
+                          Maintenance
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Paradigms and models
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Agile_software_development" title="Agile software development">
+                          Agile
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Cleanroom_software_engineering" title="Cleanroom software engineering">
+                          Cleanroom
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Incremental_build_model" title="Incremental build model">
+                          Incremental
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_prototyping" title="Software prototyping">
+                          Prototyping
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Spiral_model" title="Spiral model">
+                          Spiral
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">
+                          V model
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Waterfall_model" title="Waterfall model">
+                          Waterfall
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Software_development_methodology" class="mw-redirect" title="Software development methodology">
+                      Methodologies
+                    </a>
+                     and frameworks
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Adaptive_software_development" title="Adaptive software development">
+                          ASD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/DevOps" title="DevOps">
+                          DevOps
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                          DAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Dynamic_systems_development_method" title="Dynamic systems development method">
+                          DSDM
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Feature-driven_development" title="Feature-driven development">
+                          FDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">
+                          IID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Kanban_(development)" title="Kanban (development)">
+                          Kanban
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Lean_software_development" title="Lean software development">
+                          Lean SD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)#Large-scale_Scrum" title="Scrum (software development)">
+                          LeSS
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Model-driven_development" class="mw-redirect" title="Model-driven development">
+                          MDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Microsoft_Solutions_Framework" title="Microsoft Solutions Framework">
+                          MSF
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Personal_software_process" title="Personal software process">
+                          PSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rapid_application_development" title="Rapid application development">
+                          RAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rational_Unified_Process" title="Rational Unified Process">
+                          RUP
+                        </a>
+                      </li>
+                      <li>
+                        <a class="mw-selflink selflink">
+                          SAFe
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">
+                          Scrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/SEMAT" title="SEMAT">
+                          SEMAT
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Team_software_process" title="Team software process">
+                          TSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/OpenUP" title="OpenUP">
+                          OpenUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Unified_Process" title="Unified Process">
+                          UP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming" title="Extreme programming">
+                          XP
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Supporting disciplines
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_configuration_management" title="Software configuration management">
+                          Configuration management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_documentation" title="Software documentation">
+                          Documentation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_quality_assurance" title="Software quality assurance">
+                          Software quality assurance (SQA)
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_project_management" title="Software project management">
+                          Project management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/User_experience" title="User experience">
+                          User experience
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Practices
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Acceptance_test%E2%80%93driven_development" title="Acceptance test–driven development">
+                          ATDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Behavior-driven_development" title="Behavior-driven development">
+                          BDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming_practices#Collective_code_ownership" title="Extreme programming practices">
+                          CCO
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_integration" title="Continuous integration">
+                          CI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_delivery" title="Continuous delivery">
+                          CD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Domain-driven_design" title="Domain-driven design">
+                          DDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Pair_programming" title="Pair programming">
+                          PP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Specification_by_example" title="Specification by example">
+                          SBE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Stand-up_meeting" title="Stand-up meeting">
+                          Stand-up
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Test-driven_development" title="Test-driven development">
+                          TDD
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Programming_tool" title="Programming tool">
+                      Tools
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Compiler" title="Compiler">
+                          Compiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugger" title="Debugger">
+                          Debugger
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">
+                          Profiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Graphical_user_interface_builder" title="Graphical user interface builder">
+                          GUI designer
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/UML_tool" title="UML tool">
+                          Modeling
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Integrated_development_environment" title="Integrated development environment">
+                          IDE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Build_automation" title="Build automation">
+                          Build automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Application-release_automation" title="Application-release automation">
+                          Release automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">
+                          Infrastructure as code
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Category:Software_testing_tools" title="Category:Software testing tools">
+                          Testing
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Standards and Bodies of Knowledge
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge" title="A Guide to the Business Analysis Body of Knowledge">
+                          BABOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">
+                          CMMI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/IEEE_Standards_Association" title="IEEE Standards Association">
+                          IEEE standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO_9001" class="mw-redirect" title="ISO 9001">
+                          ISO 9001
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">
+                          ISO/IEC standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge">
+                          PMBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_Engineering_Body_of_Knowledge" title="Software Engineering Body of Knowledge">
+                          SWEBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ITIL" title="ITIL">
+                          ITIL
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Glossaries
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Glossary_of_artificial_intelligence" title="Glossary of artificial intelligence">
+                          Artificial intelligence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">
+                          Computer science
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_electrical_and_electronics_engineering" title="Glossary of electrical and electronics engineering">
+                          Electrical and electronics engineering
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right;font-size:115%">
+                    <div class="plainlinks hlist navbar mini">
+                      <ul>
+                        <li class="nv-view">
+                          <a href="/wiki/Template:Software_development_process" title="Template:Software development process">
+                            <abbr title="View this template">
+                              v
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-talk">
+                          <a href="/wiki/Template_talk:Software_development_process" title="Template talk:Software development process">
+                            <abbr title="Discuss this template">
+                              t
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-edit">
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Software_development_process&amp;action=edit">
+                            <abbr title="Edit this template">
+                              e
+                            </abbr>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              The 
+              <b>
+                Scaled Agile Framework
+              </b>
+               (abbreviated as 
+              <b>
+                SAFe
+              </b>
+              ) is a set of organization and workflow patterns intended to guide enterprises in scaling 
+              <a href="/wiki/Lean_software_development" title="Lean software development">
+                lean
+              </a>
+               and 
+              <a href="/wiki/Agile_software_development" title="Agile software development">
+                agile
+              </a>
+               practices.
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+               Along with 
+              <a href="/wiki/Scrum_(software_development)#Large-scale_Scrum" title="Scrum (software development)">
+                large-scale Scrum
+              </a>
+               (LeSS), 
+              <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                disciplined agile delivery
+              </a>
+               (DAD), and Nexus, SAFe is one of a growing number of frameworks that seek to address the problems encountered when scaling beyond a single team.
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+               SAFe is made freely available by Scaled Agile, Inc., which retains the copyrights and registered trademarks.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+            </p>
+            <p>
+              SAFe promotes alignment, collaboration, and delivery across large numbers of agile teams. It was developed by and for practitioners, by leveraging three primary bodies of knowledge: 
+              <a href="/wiki/Agile_software_development" title="Agile software development">
+                agile software development
+              </a>
+              , 
+              <a href="/wiki/Lean_product_development" title="Lean product development">
+                lean product development
+              </a>
+              , and 
+              <a href="/wiki/Systems_thinking" class="mw-redirect" title="Systems thinking">
+                systems thinking
+              </a>
+              .
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+            </p>
+            <p>
+              The primary reference for the scaled agile framework was originally the development of a 
+              <i>
+                big picture
+              </i>
+               view of how work flowed from 
+              <a href="/wiki/Product_management" title="Product management">
+                product management
+              </a>
+               (or other 
+              <a href="/wiki/Project_stakeholder" title="Project stakeholder">
+                stakeholders
+              </a>
+              ), through 
+              <a href="/wiki/Project_governance" title="Project governance">
+                governance
+              </a>
+              , 
+              <a href="/wiki/Program_management" title="Program management">
+                program
+              </a>
+              , and 
+              <a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">
+                development teams
+              </a>
+              , out to 
+              <a href="/wiki/Customer" title="Customer">
+                customers
+              </a>
+              .
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+               With the collaboration of others in the agile community, this was progressively refined and then first formally described in a 2007 book.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+               The framework continues to be developed and shared publicly; with an academy and an accreditation scheme supporting those who seek to implement, support, or train others in the adoption of SAFe. 
+Version 4.5, was released in June 2017
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+               while the latest edition, version 4.6, was released in October 2018.
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+            </p>
+            <p>
+              While SAFe continues to be recognised as the most common approach to scaling agile practices (at 30 percent and growing),
+              <sup id="cite_ref-12" class="reference">
+                <a href="#cite_note-12">
+                  [12]
+                </a>
+              </sup>
+              <sup id="cite_ref-13" class="reference">
+                <a href="#cite_note-13">
+                  [13]
+                </a>
+              </sup>
+              <sup class="noprint Inline-Template" style="white-space:nowrap;">
+                [
+                <i>
+                  <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+                    <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (April 2019)">
+                      page needed
+                    </span>
+                  </a>
+                </i>
+                ]
+              </sup>
+              <sup id="cite_ref-14" class="reference">
+                <a href="#cite_note-14">
+                  [14]
+                </a>
+              </sup>
+              , it also receive criticism for being too hierarchical and inflexible.
+              <sup id="cite_ref-15" class="reference">
+                <a href="#cite_note-15">
+                  [15]
+                </a>
+              </sup>
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Challenges_of_scaling_agile_principles_and_practices">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Challenges of scaling agile principles and practices
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-2">
+                      <a href="#Coping_with_longer_planning_horizons">
+                        <span class="tocnumber">
+                          1.1
+                        </span>
+                        <span class="toctext">
+                          Coping with longer planning horizons
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-3">
+                      <a href="#Keeping_agile_at_abstract_levels_of_responsibility">
+                        <span class="tocnumber">
+                          1.2
+                        </span>
+                        <span class="toctext">
+                          Keeping agile at abstract levels of responsibility
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Dealing_with_delegated_authority">
+                        <span class="tocnumber">
+                          1.3
+                        </span>
+                        <span class="toctext">
+                          Dealing with delegated authority
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-5">
+                      <a href="#Synchronizing_deliverables">
+                        <span class="tocnumber">
+                          1.4
+                        </span>
+                        <span class="toctext">
+                          Synchronizing deliverables
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-6">
+                      <a href="#Allowing_time_for_innovation_and_planning">
+                        <span class="tocnumber">
+                          1.5
+                        </span>
+                        <span class="toctext">
+                          Allowing time for innovation and planning
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-7">
+                  <a href="#Implementation">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Implementation
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-8">
+                      <a href="#Underlying_principles_of_SAFe">
+                        <span class="tocnumber">
+                          2.1
+                        </span>
+                        <span class="toctext">
+                          Underlying principles of SAFe
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-9">
+                      <a href="#The_SAFe_framework">
+                        <span class="tocnumber">
+                          2.2
+                        </span>
+                        <span class="toctext">
+                          The SAFe framework
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-10">
+                      <a href="#Certifications">
+                        <span class="tocnumber">
+                          2.3
+                        </span>
+                        <span class="toctext">
+                          Certifications
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-13">
+                  <a href="#Further_reading">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Further reading
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-14">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Challenges_of_scaling_agile_principles_and_practices">
+                Challenges of scaling agile principles and practices
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=1" title="Edit section: Challenges of scaling agile principles and practices">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <h3>
+              <span class="mw-headline" id="Coping_with_longer_planning_horizons">
+                Coping with longer planning horizons
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=2" title="Edit section: Coping with longer planning horizons">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Development teams typically refine their backlog up to two to three iterations ahead, but in larger organizations the product marketing team needs to plan further ahead for their commitments to market and discussions with customers.
+              <sup id="cite_ref-16" class="reference">
+                <a href="#cite_note-16">
+                  [16]
+                </a>
+              </sup>
+               They will often work with a very high level, 12 to 18-month roadmap, then plan collaboratively with the teams for three months of work.
+              <sup id="cite_ref-17" class="reference">
+                <a href="#cite_note-17">
+                  [17]
+                </a>
+              </sup>
+               The development teams will still get into detailed refinement 2-3 iterations ahead, only getting into detailed task plans for the next iteration.
+              <sup id="cite_ref-18" class="reference">
+                <a href="#cite_note-18">
+                  [18]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Keeping_agile_at_abstract_levels_of_responsibility">
+                Keeping agile at abstract levels of responsibility
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=3" title="Edit section: Keeping agile at abstract levels of responsibility">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              While development teams have a number of frameworks that define how they should be agile, there is very little that describes this for management. SAFe delivers many of the same principles, such as cross-functional teams, to the groups that handle the more abstract levels of responsibility and planning (product and portfolio).
+              <sup id="cite_ref-19" class="reference">
+                <a href="#cite_note-19">
+                  [19]
+                </a>
+              </sup>
+               SAFe has also been criticized for aggregating too many disparate practices.
+              <sup id="cite_ref-20" class="reference">
+                <a href="#cite_note-20">
+                  [20]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Dealing_with_delegated_authority">
+                Dealing with delegated authority
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=4" title="Edit section: Dealing with delegated authority">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              In 
+              <a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">
+                Scrum
+              </a>
+              , the product owner is expected  to assume responsibility for the full 
+              <a href="/wiki/Product_lifecycle" title="Product lifecycle">
+                product life-cycle
+              </a>
+              , including the 
+              <a href="/wiki/Return_on_investment" title="Return on investment">
+                return on investment
+              </a>
+               of development decisions, as well as performance in market. On large-scale developments, the organization wants a view across multiple team backlogs, such as provided by a 
+              <a href="/wiki/Product_manager" title="Product manager">
+                product manager
+              </a>
+              .
+              <sup id="cite_ref-:2_21-0" class="reference">
+                <a href="#cite_note-:2-21">
+                  [21]
+                </a>
+              </sup>
+               Although SAFe assumes the product owner role sits with product management, it has nonetheless been criticized for separating product owners into the development organization.
+              <sup id="cite_ref-:3_22-0" class="reference">
+                <a href="#cite_note-:3-22">
+                  [22]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Synchronizing_deliverables">
+                Synchronizing deliverables
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=5" title="Edit section: Synchronizing deliverables">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Agile frameworks are designed to enable the development team to be autonomous and free to design how they work. SAFe acknowledges that, at the scale of many tens or hundreds of development teams, it becomes increasingly chaotic for teams to fully self-organize.
+              <sup id="cite_ref-:1_23-0" class="reference">
+                <a href="#cite_note-:1-23">
+                  [23]
+                </a>
+              </sup>
+               It therefore puts some constraints on this, so that where teams are working on the same product, their deliverables can be better synchronized for releasing together, although this has been one area in which SAFe has been criticized.
+              <sup id="cite_ref-:2_21-1" class="reference">
+                <a href="#cite_note-:2-21">
+                  [21]
+                </a>
+              </sup>
+              <sup id="cite_ref-:3_22-1" class="reference">
+                <a href="#cite_note-:3-22">
+                  [22]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Allowing_time_for_innovation_and_planning">
+                Allowing time for innovation and planning
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=6" title="Edit section: Allowing time for innovation and planning">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              The SAFe planning cycle recommends including an additional iteration after a release, so that teams can improve their practices and are ready for the next planning increment. Earlier editions of SAFe also designed this to be a 
+              <i>
+                hardening
+              </i>
+               iteration, that is to stabilize or harden the product before releasing it. This was predicated on the complications of working with large integration environments where dependencies meant that you could not test everything until the very end. SAFe was criticized for this as it represented an anti-agile or waterfall element.
+              <sup id="cite_ref-24" class="reference">
+                <a href="#cite_note-24">
+                  [24]
+                </a>
+              </sup>
+               This is not included in recent editions of SAFe.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Implementation">
+                Implementation
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=7" title="Edit section: Implementation">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <table class="box-Third-party plainlinks metadata ambox ambox-content" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <a href="/wiki/File:Question_book-new.svg" class="image">
+                        <img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"/>
+                      </a>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This section 
+                      <b>
+                        may rely excessively on sources 
+                        <a href="/wiki/Wikipedia:BLOGS" class="mw-redirect" title="Wikipedia:BLOGS">
+                          too closely associated with the subject
+                        </a>
+                      </b>
+                      , potentially preventing the article from being 
+                      <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+                        verifiable
+                      </a>
+                       and 
+                      <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">
+                        neutral
+                      </a>
+                      .
+                      <span class="hide-when-compact">
+                         Please help 
+                        <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&amp;action=edit">
+                          improve it
+                        </a>
+                         by replacing them with more appropriate 
+                        <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+                          citations
+                        </a>
+                         to 
+                        <a href="/wiki/Wikipedia:Identifying_and_using_independent_sources" title="Wikipedia:Identifying and using independent sources">
+                          reliable, independent, third-party sources
+                        </a>
+                        .
+                      </span>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            July 2018
+                          </span>
+                          )
+                        </i>
+                      </small>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>
+              <span class="mw-headline" id="Underlying_principles_of_SAFe">
+                Underlying principles of SAFe
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=8" title="Edit section: Underlying principles of SAFe">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              According to its authors, SAFe is based upon nine underlying concepts, which are derived from existing lean and agile principles, as well as observation:
+              <sup id="cite_ref-:0_25-0" class="reference">
+                <a href="#cite_note-:0-25">
+                  [25]
+                </a>
+              </sup>
+            </p>
+            <ol>
+              <li>
+                Take an economic view
+              </li>
+              <li>
+                Apply systems thinking
+              </li>
+              <li>
+                Assume variability; preserve options
+              </li>
+              <li>
+                Build incrementally with fast integrated learning cycles
+              </li>
+              <li>
+                Base milestones on objective evaluation of working systems
+              </li>
+              <li>
+                Visualize and limit work-in-progress, reduce batch sizes, and manage queue lengths
+              </li>
+              <li>
+                Apply cadence (timing), synchronize with cross-domain planning
+              </li>
+              <li>
+                Unlock the intrinsic motivation of knowledge workers
+              </li>
+              <li>
+                Decentralize decision-making
+              </li>
+            </ol>
+            <h3>
+              <span class="mw-headline" id="The_SAFe_framework">
+                The SAFe framework
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=9" title="Edit section: The SAFe framework">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              In SAFe version 4.5, there are four configurations: essential, portfolio, large solution and full:
+              <sup id="cite_ref-26" class="reference">
+                <a href="#cite_note-26">
+                  [26]
+                </a>
+              </sup>
+            </p>
+            <ul>
+              <li>
+                Essential SAFe is the most basic configuration. It describes the most critical elements needed and is intended to provide the majority of the framework's benefits. It includes the team and program level (which it calls agile release trains or ARTs).
+              </li>
+              <li>
+                Portfolio SAFe includes concerns for strategic direction, investment funding, and lean governance.
+              </li>
+              <li>
+                Large Solution SAFe allows for coordination and synchronization across multiple programs, but without the portfolio considerations. In earlier versions of SAFe, this level was referred to as 
+                <a href="/wiki/Value_stream" title="Value stream">
+                  value stream
+                </a>
+                .
+              </li>
+              <li>
+                Full SAFe combines the other three levels.
+              </li>
+            </ul>
+            <h3>
+              <span class="mw-headline" id="Certifications">
+                Certifications
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=10" title="Edit section: Certifications">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Scaled Agile provides 
+              <a href="/wiki/Professional_certification_(computer_technology)" title="Professional certification (computer technology)">
+                certifications
+              </a>
+               that cover different areas and knowledge levels.
+              <sup id="cite_ref-27" class="reference">
+                <a href="#cite_note-27">
+                  [27]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=11" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Scrum_(software_development)#Scrum_of_scrums" title="Scrum (software development)">
+                  Scrum of Scrums
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=12" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap mw-references-columns">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Hayes, Will; Lapham, Mary Ann; Miller, Suzanne; Wrubel, Eileen; Capell, Peter (2016). 
+                        <i>
+                          Scaling Agile Methods for Department of Defense Programs
+                        </i>
+                        . Software Engineering Institute. CMU/SEI-2016-TN-005.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scaling+Agile+Methods+for+Department+of+Defense+Programs&amp;rft.pub=Software+Engineering+Institute&amp;rft.date=2016&amp;rft.aulast=Hayes&amp;rft.aufirst=Will&amp;rft.au=Lapham%2C+Mary+Ann&amp;rft.au=Miller%2C+Suzanne&amp;rft.au=Wrubel%2C+Eileen&amp;rft.au=Capell%2C+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r886058088">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                    </span>
+                  </li>
+                  <li id="cite_note-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-2">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Athrow, Desiree (29 January 2015). 
+                        <a rel="nofollow" class="external text" href="http://www.techradar.com/news/software/why-continuous-delivery-is-key-to-speeding-up-software-development-1282498">
+                          "Why Continuous Delivery is key to speeding up software development"
+                        </a>
+                        . 
+                        <i>
+                          TechRadar
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TechRadar&amp;rft.atitle=Why+Continuous+Delivery+is+key+to+speeding+up+software+development&amp;rft.date=2015-01-29&amp;rft.aulast=Athrow&amp;rft.aufirst=Desiree&amp;rft_id=http%3A%2F%2Fwww.techradar.com%2Fnews%2Fsoftware%2Fwhy-continuous-delivery-is-key-to-speeding-up-software-development-1282498&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-3">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Linders, Ben (January 22, 2015). 
+                        <a rel="nofollow" class="external text" href="https://www.infoq.com/news/2015/01/disciplined-agile-delivery">
+                          "Scaling Agile with the Disciplined Agile Delivery Framework"
+                        </a>
+                        . 
+                        <i>
+                          InfoQ
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=InfoQ&amp;rft.atitle=Scaling+Agile+with+the+Disciplined+Agile+Delivery+Framework&amp;rft.date=2015-01-22&amp;rft.aulast=Linders&amp;rft.aufirst=Ben&amp;rft_id=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2015%2F01%2Fdisciplined-agile-delivery&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-4">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-4">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        van Haaster, K (2014). 
+                        <i>
+                          Agile in-the-large: Getting from Paradox to Paradigm
+                        </i>
+                        . Unpublished paper from Charles Sturt University.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Agile+in-the-large%3A+Getting+from+Paradox+to+Paradigm&amp;rft.pub=Unpublished+paper+from+Charles+Sturt+University&amp;rft.date=2014&amp;rft.aulast=van+Haaster&amp;rft.aufirst=K&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="https://www.scaledagile.com/about/about-us/permissions-faq/">
+                          "Permissions FAQ"
+                        </a>
+                        . 
+                        <i>
+                          Scaled Agile
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            13 July
+                          </span>
+                           2018
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Scaled+Agile&amp;rft.atitle=Permissions+FAQ&amp;rft_id=https%3A%2F%2Fwww.scaledagile.com%2Fabout%2Fabout-us%2Fpermissions-faq%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-6">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        King, Michael (2017). 
+                        <a rel="nofollow" class="external text" href="http://cmmiinstitute.com/sites/default/files/resource_asset/Serving%20Federal%20Customers%20Using%20Agile%2C%20SAFe%2C%20And%20CMMI%20Principles.pdf">
+                          "Serving Federal Customers with SAFe Concepts"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Capability Counts Conference Proceedings
+                        </i>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Capability+Counts+Conference+Proceedings&amp;rft.atitle=Serving+Federal+Customers+with+SAFe+Concepts&amp;rft.date=2017&amp;rft.aulast=King&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fcmmiinstitute.com%2Fsites%2Fdefault%2Ffiles%2Fresource_asset%2FServing%2520Federal%2520Customers%2520Using%2520Agile%252C%2520SAFe%252C%2520And%2520CMMI%2520Principles.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-7">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-7">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Bridgwater, Adrian (August 7, 2013). 
+                        <a rel="nofollow" class="external text" href="http://www.drdobbs.com/tools/real-agile-means-everybody-is-agile/240159622">
+                          "Real Agile Means Everybody Is Agile"
+                        </a>
+                        . 
+                        <i>
+                          Dr. Dobb's
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dr.+Dobb%27s&amp;rft.atitle=Real+Agile+Means+Everybody+Is+Agile&amp;rft.date=2013-08-07&amp;rft.aulast=Bridgwater&amp;rft.aufirst=Adrian&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Ftools%2Freal-agile-means-everybody-is-agile%2F240159622&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-8">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Linders, Ben (August 28, 2014). 
+                        <a rel="nofollow" class="external text" href="https://www.infoq.com/news/2014/08/death-by-planning-agile">
+                          "Death by Planning in Agile Adoption"
+                        </a>
+                        . 
+                        <i>
+                          InfoQ
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=InfoQ&amp;rft.atitle=Death+by+Planning+in+Agile+Adoption&amp;rft.date=2014-08-28&amp;rft.aulast=Linders&amp;rft.aufirst=Ben&amp;rft_id=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2014%2F08%2Fdeath-by-planning-agile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Leffingwell, Dean (2007). 
+                        <i>
+                          Scaling Software Agility: Best Practices for Large Enterprises
+                        </i>
+                        . Addison-Wesley. 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/978-0321458193" title="Special:BookSources/978-0321458193">
+                          <bdi>
+                            978-0321458193
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scaling+Software+Agility%3A+Best+Practices+for+Large+Enterprises&amp;rft.pub=Addison-Wesley&amp;rft.date=2007&amp;rft.isbn=978-0321458193&amp;rft.aulast=Leffingwell&amp;rft.aufirst=Dean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Cleveland, Regina. 
+                        <a rel="nofollow" class="external text" href="http://www.prweb.com/releases/2017/06/prweb14450991.htm">
+                          "Scaled Agile, Inc. Releases SAFe® 4.5"
+                        </a>
+                        . 
+                        <i>
+                          prweb.com
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-09-11
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=prweb.com&amp;rft.atitle=Scaled+Agile%2C+Inc.+Releases+SAFe%C2%AE+4.5&amp;rft.aulast=Cleveland&amp;rft.aufirst=Regina&amp;rft_id=http%3A%2F%2Fwww.prweb.com%2Freleases%2F2017%2F06%2Fprweb14450991.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-11">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-11">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="https://www.scaledagileframework.com/blog/welcome-to-safe-4-6-for-lean-enterprises/">
+                          "Welcome to SAFe 4.6 for Lean Enterprises"
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2019-01-30
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Welcome+to+SAFe+4.6+for+Lean+Enterprises&amp;rft_id=https%3A%2F%2Fwww.scaledagileframework.com%2Fblog%2Fwelcome-to-safe-4-6-for-lean-enterprises%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-12">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-12">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="https://www.stateofagile.com/#ufh-i-521251909-13th-annual-state-of-agile-report/473508">
+                          "13th Annual State of Agile Report"
+                        </a>
+                        . 
+                        <i>
+                          State of Agile Survey
+                        </i>
+                        . CollabNet VersionOne. 2019
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2019-08-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=State+of+Agile+Survey&amp;rft.atitle=13th+Annual+State+of+Agile+Report&amp;rft.date=2019&amp;rft_id=https%3A%2F%2Fwww.stateofagile.com%2F%23ufh-i-521251909-13th-annual-state-of-agile-report%2F473508&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-13">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-13">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Link, P; Lewrick, M (29 September 2014). 
+                        <a rel="nofollow" class="external text" href="http://www.brainguide.de/upload/publication/b0/2c3xg/c51b33fd2c6a9d032a7387f3273b9c62_1402133130.pdf">
+                          "Agile Methods in a New Area of Innovation Management"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Science to Business Marketing Conference
+                        </i>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science+to+Business+Marketing+Conference&amp;rft.atitle=Agile+Methods+in+a+New+Area+of+Innovation+Management&amp;rft.date=2014-09-29&amp;rft.aulast=Link&amp;rft.aufirst=P&amp;rft.au=Lewrick%2C+M&amp;rft_id=http%3A%2F%2Fwww.brainguide.de%2Fupload%2Fpublication%2Fb0%2F2c3xg%2Fc51b33fd2c6a9d032a7387f3273b9c62_1402133130.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-14">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-14">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Baptista, Roberto (28 January 2015). 
+                        <a rel="nofollow" class="external text" href="http://computerworld.com.br/carreira/2015/01/28/profissionais-brasileiros-e-o-interesse-por-treinamentos-de-especializacao/">
+                          "Profissionais brasileiros e o interesse por treinamentos de especialização"
+                        </a>
+                        . Computerworld Brazil
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            28 January
+                          </span>
+                           2015
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Profissionais+brasileiros+e+o+interesse+por+treinamentos+de+especializa%C3%A7%C3%A3o&amp;rft.pub=Computerworld+Brazil&amp;rft.date=2015-01-28&amp;rft.aulast=Baptista&amp;rft.aufirst=Roberto&amp;rft_id=http%3A%2F%2Fcomputerworld.com.br%2Fcarreira%2F2015%2F01%2F28%2Fprofissionais-brasileiros-e-o-interesse-por-treinamentos-de-especializacao%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-15">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-15">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        <a href="/wiki/Ken_Schwaber" title="Ken Schwaber">
+                          Schwaber, Ken
+                        </a>
+                         (2013-08-06). 
+                        <a rel="nofollow" class="external text" href="https://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/">
+                          "unSAFe at any speed"
+                        </a>
+                        . 
+                        <i>
+                          Telling It Like It Is
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-11
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Telling+It+Like+It+Is&amp;rft.atitle=unSAFe+at+any+speed&amp;rft.date=2013-08-06&amp;rft.aulast=Schwaber&amp;rft.aufirst=Ken&amp;rft_id=https%3A%2F%2Fkenschwaber.wordpress.com%2F2013%2F08%2F06%2Funsafe-at-any-speed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-16">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-16">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Eklund, U; Olsson, H; Strøm, N (2014). 
+                        <i>
+                          Industrial challenges of scaling agile in mass-produced embedded systems
+                        </i>
+                        . 
+                        <i>
+                          Agile Methods. Large-Scale Development, Refactoring, Testing, and Estimation
+                        </i>
+                        . Springer International Publishing. 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/9783319143583" title="Special:BookSources/9783319143583">
+                          <bdi>
+                            9783319143583
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Industrial+challenges+of+scaling+agile+in+mass-produced+embedded+systems.&amp;rft.pub=Springer+International+Publishing&amp;rft.date=2014&amp;rft.isbn=9783319143583&amp;rft.aulast=Eklund&amp;rft.aufirst=U&amp;rft.au=Olsson%2C+H&amp;rft.au=Str%C3%B8m%2C+N&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-17">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-17">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Heusser, Matt (23 September 2014). 
+                        <a rel="nofollow" class="external text" href="http://searchsoftwarequality.techtarget.com/tip/Agile-testing-methods-for-multiple-teams">
+                          "Agile testing methods for multiple teams"
+                        </a>
+                        . 
+                        <i>
+                          SearchSoftwareQuality
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SearchSoftwareQuality&amp;rft.atitle=Agile+testing+methods+for+multiple+teams&amp;rft.date=2014-09-23&amp;rft.aulast=Heusser&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fsearchsoftwarequality.techtarget.com%2Ftip%2FAgile-testing-methods-for-multiple-teams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-18">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-18">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Stettina, C; Horz, J (2015). "Agile portfolio management: An empirical perspective on the practice in use". 
+                        <i>
+                          International Journal of Project Management
+                        </i>
+                        . 
+                        <b>
+                          33
+                        </b>
+                         (1): 140–152.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Project+Management&amp;rft.atitle=Agile+portfolio+management%3A+An+empirical+perspective+on+the+practice+in+use&amp;rft.volume=33&amp;rft.issue=1&amp;rft.pages=140-152&amp;rft.date=2015&amp;rft.aulast=Stettina&amp;rft.aufirst=C&amp;rft.au=Horz%2C+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-19">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-19">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Laanti, M (2014). 
+                        <i>
+                          Characteristics and Principles of Scaled Agile
+                        </i>
+                        . 
+                        <i>
+                          XP 2014 Workshops
+                        </i>
+                        . Springer International Publishing.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Characteristics+and+Principles+of+Scaled+Agile&amp;rft.pub=Springer+International+Publishing&amp;rft.date=2014&amp;rft.aulast=Laanti&amp;rft.aufirst=M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-20">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-20">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Elssamadisy, Amr. 
+                        <a rel="nofollow" class="external text" href="https://www.infoq.com/news/2013/08/safe">
+                          "Has SAFe Cracked the Large Agile Adoption Nut?"
+                        </a>
+                        . 
+                        <i>
+                          InfoQ
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-11
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=InfoQ&amp;rft.atitle=Has+SAFe+Cracked+the+Large+Agile+Adoption+Nut%3F&amp;rft.aulast=Elssamadisy&amp;rft.aufirst=Amr&amp;rft_id=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2013%2F08%2Fsafe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-:2-21">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-:2_21-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-:2_21-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Vaidya, A (2014). 
+                        <i>
+                          Does DAD Know Best, Is it Better to do LeSS or Just be SAFe? Adapting Scaling Agile Practices into the Enterprise
+                        </i>
+                        . Excerpt from PNSQC 2014 Proceedings. pp. 8–9.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Does+DAD+Know+Best%2C+Is+it+Better+to+do+LeSS+or+Just+be+SAFe%3F+Adapting+Scaling+Agile+Practices+into+the+Enterprise&amp;rft.pages=8-9&amp;rft.pub=Excerpt+from+PNSQC+2014+Proceedings&amp;rft.date=2014&amp;rft.aulast=Vaidya&amp;rft.aufirst=A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-:3-22">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-:3_22-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-:3_22-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Maximini, Dominik (11 September 2013). 
+                        <a rel="nofollow" class="external text" href="http://scrumorakel.de/blog/index.php?/archives/45-A-critical-view-on-SAFe.html">
+                          "A critical view on SAFe - Scrumorakel - Blog"
+                        </a>
+                        . 
+                        <i>
+                          Scrum Oracle
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Scrum+Oracle&amp;rft.atitle=A+critical+view+on+SAFe+-+Scrumorakel+-+Blog&amp;rft.date=2013-09-11&amp;rft.aulast=Maximini&amp;rft.aufirst=Dominik&amp;rft_id=http%3A%2F%2Fscrumorakel.de%2Fblog%2Findex.php%3F%2Farchives%2F45-A-critical-view-on-SAFe.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-:1-23">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-:1_23-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Stafford, Jan (December 9, 2013). 
+                        <a rel="nofollow" class="external text" href="http://searchsoftwarequality.techtarget.com/answer/Scaling-Agile-development-calls-for-defined-practices-consultant-says">
+                          "Scaling Agile development calls for defined practices, consultant says"
+                        </a>
+                        . 
+                        <i>
+                          SearchSoftwareQuality
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SearchSoftwareQuality&amp;rft.atitle=Scaling+Agile+development+calls+for+defined+practices%2C+consultant+says&amp;rft.date=2013-12-09&amp;rft.aulast=Stafford&amp;rft.aufirst=Jan&amp;rft_id=http%3A%2F%2Fsearchsoftwarequality.techtarget.com%2Fanswer%2FScaling-Agile-development-calls-for-defined-practices-consultant-says&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-24">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-24">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Killick, Neil (21 March 2012). 
+                        <a rel="nofollow" class="external text" href="https://neilkillick.wordpress.com/2012/03/21/the-horror-of-the-scaled-agile-framework/">
+                          "The Horror Of The Scaled Agile Framework"
+                        </a>
+                        . 
+                        <i>
+                          Agile, Scrum, Kanban, Lean, and everything that's in between
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2017-11-27
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Agile%2C+Scrum%2C+Kanban%2C+Lean%2C+and+everything+that%27s+in+between&amp;rft.atitle=The+Horror+Of+The+Scaled+Agile+Framework&amp;rft.date=2012-03-21&amp;rft.aulast=Killick&amp;rft.aufirst=Neil&amp;rft_id=https%3A%2F%2Fneilkillick.wordpress.com%2F2012%2F03%2F21%2Fthe-horror-of-the-scaled-agile-framework%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-:0-25">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-:0_25-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://scaledagileframework.com/safe-lean-agile-principles/">
+                          "SAFe Lean-Agile Principles"
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            19 February
+                          </span>
+                           2016
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SAFe+Lean-Agile+Principles&amp;rft_id=http%3A%2F%2Fscaledagileframework.com%2Fsafe-lean-agile-principles%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-26">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-26">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Rose, Doug (2018). 
+                        <a rel="nofollow" class="external text" href="https://books.google.com/books?id=qppNDwAAQBAJ">
+                          <i>
+                            Enterprise Agility For Dummies
+                          </i>
+                        </a>
+                        . John Wiley &amp; Sons. pp. 87–89. 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/9781119446095" title="Special:BookSources/9781119446095">
+                          <bdi>
+                            9781119446095
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Enterprise+Agility+For+Dummies&amp;rft.pages=87-89&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2018&amp;rft.isbn=9781119446095&amp;rft.aulast=Rose&amp;rft.aufirst=Doug&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqppNDwAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-27">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-27">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www.scaledagile.com/which-course/">
+                          "Certification"
+                        </a>
+                        . 
+                        <i>
+                          Scaled Agile
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            19 February
+                          </span>
+                           2016
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Scaled+Agile&amp;rft.atitle=Certification&amp;rft_id=http%3A%2F%2Fwww.scaledagile.com%2Fwhich-course%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Further_reading">
+                Further reading
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=13" title="Edit section: Further reading">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <cite class="citation">
+                  Heusser, Matthew (17 June 2015), 
+                  <a rel="nofollow" class="external text" href="http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html">
+                    <i>
+                      Introducing the scaled agile framework
+                    </i>
+                  </a>
+                  , 
+                  <a href="/wiki/CIO_magazine" title="CIO magazine">
+                    CIO
+                  </a>
+                  , pp. 1–2
+                </cite>
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introducing+the+scaled+agile+framework&amp;rft.pages=1-2&amp;rft.pub=CIO&amp;rft.date=2015-06-17&amp;rft.aulast=Heusser&amp;rft.aufirst=Matthew&amp;rft_id=http%3A%2F%2Fwww.cio.com%2Farticle%2F2936942%2Fenterprise-software%2Fintroducing-the-scaled-agile-framework.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                </span>
+                <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                 — contains a review of the pros and cons of the methodology and concludes it is a half-way-house to a fully agile system.
+              </li>
+              <li>
+                <cite class="citation">
+                  Leffingwell, Dean (2011), 
+                  <i>
+                    Lean Requirements Practices for Teams, Programs, and the Enterprise
+                  </i>
+                  , Addison-Wesley Professional, 
+                  <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                    ISBN
+                  </a>
+                   
+                  <a href="/wiki/Special:BookSources/978-0321635846" title="Special:BookSources/978-0321635846">
+                    <bdi>
+                      978-0321635846
+                    </bdi>
+                  </a>
+                </cite>
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lean+Requirements+Practices+for+Teams%2C+Programs%2C+and+the+Enterprise&amp;rft.pub=Addison-Wesley+Professional&amp;rft.date=2011&amp;rft.isbn=978-0321635846&amp;rft.aulast=Leffingwell&amp;rft.aufirst=Dean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                </span>
+                <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+              </li>
+              <li>
+                <cite class="citation">
+                  Linders, Ben (15 January 2015), 
+                  <a rel="nofollow" class="external text" href="http://www.infoq.com/news/2015/01/lean-agile-leadership-safe">
+                    <i>
+                      Lean and Agile Leadership with the Scaled Agile Framework (SAFe)
+                    </i>
+                  </a>
+                  , InfoQ
+                </cite>
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lean+and+Agile+Leadership+with+the+Scaled+Agile+Framework+%28SAFe%29&amp;rft.pub=InfoQ&amp;rft.date=2015-01-15&amp;rft.aulast=Linders&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fwww.infoq.com%2Fnews%2F2015%2F01%2Flean-agile-leadership-safe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScaled+agile+framework" class="Z3988">
+                </span>
+                <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit&amp;section=14" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <span class="official-website">
+                  <span class="url">
+                    <a rel="nofollow" class="external text" href="http://scaledagileframework.com/">
+                      Official website
+                    </a>
+                  </span>
+                </span>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20191220055953
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.328 seconds
+Real time usage: 0.407 seconds
+Preprocessor visited node count: 1573/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61411/2097152 bytes
+Template argument size: 953/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84489/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 5.17 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  361.331      1 -total
+ 54.90%  198.377      1 Template:Reflist
+ 24.83%   89.732      7 Template:Cite_book
+ 13.37%   48.322      1 Template:Page_needed
+ 11.84%   42.774     11 Template:Cite_web
+ 11.33%   40.956      1 Template:Fix
+ 10.24%   36.983      1 Template:Third-party
+  7.84%   28.314      2 Template:Category_handler
+  7.36%   26.585      1 Template:Software_development_process
+  6.33%   22.856      6 Template:Cite_news
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:49470616-0!canonical and timestamp 20191220055953 and revision id 929504082
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&amp;oldid=929504082">
+            https://en.wikipedia.org/w/index.php?title=Scaled_agile_framework&amp;oldid=929504082
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Agile_software_development" title="Category:Agile software development">
+                  Agile software development
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Software_project_management" title="Category:Software project management">
+                  Software project management
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Software_development_philosophies" title="Category:Software development philosophies">
+                  Software development philosophies
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_April_2019" title="Category:Wikipedia articles needing page number citations from April 2019">
+                  Wikipedia articles needing page number citations from April 2019
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2018" title="Category:Articles lacking reliable references from July 2018">
+                  Articles lacking reliable references from July 2018
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">
+                  All articles lacking reliable references
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Scaled+agile+framework" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Scaled+agile+framework" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Scaled_agile_framework" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Scaled_agile_framework" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Scaled_agile_framework">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Scaled_agile_framework" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Scaled_agile_framework" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;oldid=929504082" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23808624" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Scaled_agile_framework&amp;id=929504082" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Scaled+agile+framework">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Scaled+agile+framework&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Scaled_agile_framework&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Scaled_agile_framework" title="Scaled agile framework – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/Scaled_Agile_Framework" title="Scaled Agile Framework – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/Scaled_agile_framework" title="Scaled agile framework – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23808624#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 6 December 2019, at 06:52
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Scaled_agile_framework&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.407","ppvisitednodes":{"value":1573,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61411,"limit":2097152},"templateargumentsize":{"value":953,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84489,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  361.331      1 -total"," 54.90%  198.377      1 Template:Reflist"," 24.83%   89.732      7 Template:Cite_book"," 13.37%   48.322      1 Template:Page_needed"," 11.84%   42.774     11 Template:Cite_web"," 11.33%   40.956      1 Template:Fix"," 10.24%   36.983      1 Template:Third-party","  7.84%   28.314      2 Template:Category_handler","  7.36%   26.585      1 Template:Software_development_process","  6.33%   22.856      6 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.182","limit":"10.000"},"limitreport-memusage":{"value":5426165,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20191220055953","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Scaled agile framework","url":"https:\/\/en.wikipedia.org\/wiki\/Scaled_agile_framework","sameAs":"http:\/\/www.wikidata.org\/entity\/Q23808624","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q23808624","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-02-18T09:37:11Z","dateModified":"2019-12-06T06:52:35Z"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1319"});});
+//]]>
+    </script>
+  </body>
+</html>

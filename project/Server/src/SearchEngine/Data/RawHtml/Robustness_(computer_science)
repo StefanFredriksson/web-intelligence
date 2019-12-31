@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Robustness (computer science) - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgmXsQpAAEAAACTC3@QAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robustness_(computer_science)","wgTitle":"Robustness (computer science)","wgCurRevisionId":930266649,"wgRevisionId":930266649,"wgArticleId":27206541,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Reliability engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Robustness_(computer_science)","wgRelevantArticleId":27206541,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2524240","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready"
+,"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/de/Complex_systems_organizational_map.jpg"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Robustness_(computer_science)"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Robustness_(computer_science)"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Robustness_computer_science rootpage-Robustness_computer_science skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Robustness (computer science)
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <div role="note" class="hatnote navigation-not-searchable">
+              See also: 
+              <a href="/wiki/Fault-tolerant_computer_system" class="mw-redirect" title="Fault-tolerant computer system">
+                Fault-tolerant computer system
+              </a>
+            </div>
+            <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+              <tbody>
+                <tr>
+                  <td style="padding:0.4em 0">
+                    <a href="/wiki/File:Complex_systems_organizational_map.jpg" class="image">
+                      <img alt="Complex systems organizational map.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/150px-Complex_systems_organizational_map.jpg" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/225px-Complex_systems_organizational_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/300px-Complex_systems_organizational_map.jpg 2x" data-file-width="1142" data-file-height="1143"/>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+                    <a href="/wiki/Complex_system" title="Complex system">
+                      Complex systems
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em">
+                    
+Topics
+                  </th>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Emergence" title="Emergence">
+                          Emergence
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Emergence" title="Emergence">
+                          Emergence
+                        </a>
+                        <br/>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Self-organization" title="Self-organization">
+                          Self-organization
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Collective_consciousness" title="Collective consciousness">
+                          Collective consciousness
+                        </a>
+                        <br/>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Collective_behaviour" class="mw-redirect" title="Collective behaviour">
+                          Collective behaviour
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Social_dynamics" title="Social dynamics">
+                          Social dynamics
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Collective_intelligence" title="Collective intelligence">
+                            Collective intelligence
+                          </a>
+                          <br/>
+                          <a href="/wiki/Collective_action" title="Collective action">
+                            Collective action
+                          </a>
+                          <br/>
+                          <a href="/wiki/Self-organized_criticality" title="Self-organized criticality">
+                            Self-organized criticality
+                          </a>
+                          <br/>
+                          <a href="/wiki/Herd_mentality" title="Herd mentality">
+                            Herd mentality
+                          </a>
+                          <br/>
+                          <a href="/wiki/Phase_transition" title="Phase transition">
+                            Phase transition
+                          </a>
+                          <br/>
+                          <a href="/wiki/Agent-based_modelling" class="mw-redirect" title="Agent-based modelling">
+                            Agent-based modelling
+                          </a>
+                          <br/>
+                          <a href="/wiki/Synchronization" title="Synchronization">
+                            Synchronization
+                          </a>
+                          <br/>
+                          <a href="/wiki/Ant_colony_optimization" class="mw-redirect" title="Ant colony optimization">
+                            Ant colony optimization
+                          </a>
+                          <br/>
+                          <a href="/wiki/Particle_swarm_optimization" title="Particle swarm optimization">
+                            Particle swarm optimization
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Swarm_behaviour" title="Swarm behaviour">
+                          Swarm behaviour
+                        </a>
+                        <br/>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Network_science" title="Network science">
+                          Networks
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Scale-free_networks" class="mw-redirect" title="Scale-free networks">
+                          Scale-free networks
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Social_network_analysis" title="Social network analysis">
+                            Social network analysis
+                          </a>
+                          <br/>
+                          <a href="/wiki/Small-world_networks" class="mw-redirect" title="Small-world networks">
+                            Small-world networks
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Community_identification&amp;action=edit&amp;redlink=1" class="new" title="Community identification (page does not exist)">
+                            Community identification
+                          </a>
+                          <br/>
+                          <a href="/wiki/Centrality" title="Centrality">
+                            Centrality
+                          </a>
+                          <br/>
+                          <a href="/wiki/Network_motif" title="Network motif">
+                            Motifs
+                          </a>
+                          <br/>
+                          <a href="/wiki/Graph_Theory" class="mw-redirect" title="Graph Theory">
+                            Graph Theory
+                          </a>
+                          <br/>
+                          <a href="/wiki/Scalability" title="Scalability">
+                            Scaling
+                          </a>
+                          <br/>
+                          <a class="mw-selflink selflink">
+                            Robustness
+                          </a>
+                          <br/>
+                          <a href="/wiki/Systems_biology" title="Systems biology">
+                            Systems biology
+                          </a>
+                          <br/>
+                          <a href="/wiki/Dynamic_network_analysis" title="Dynamic network analysis">
+                            Dynamic networks
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Complex_adaptive_system" title="Complex adaptive system">
+                          Adaptive networks
+                        </a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Evolution" title="Evolution">
+                          Evolution
+                        </a>
+                         and 
+                        <a href="/wiki/Adaptation" title="Adaptation">
+                          adaptation
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Artificial_neural_network" title="Artificial neural network">
+                          Artificial neural network
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Evolutionary_computation" title="Evolutionary computation">
+                            Evolutionary computation
+                          </a>
+                          <br/>
+                          <a href="/wiki/Genetic_algorithms" class="mw-redirect" title="Genetic algorithms">
+                            Genetic algorithms
+                          </a>
+                          <br/>
+                          <a href="/wiki/Genetic_programming" title="Genetic programming">
+                            Genetic programming
+                          </a>
+                          <br/>
+                          <a href="/wiki/Artificial_life" title="Artificial life">
+                            Artificial life
+                          </a>
+                          <br/>
+                          <a href="/wiki/Machine_learning" title="Machine learning">
+                            Machine learning
+                          </a>
+                          <br/>
+                          <a href="/wiki/Evolutionary_developmental_biology" title="Evolutionary developmental biology">
+                            Evolutionary developmental biology
+                          </a>
+                          <br/>
+                          <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">
+                            Artificial intelligence
+                          </a>
+                          <br/>
+                          <a href="/wiki/Evolutionary_robotics" title="Evolutionary robotics">
+                            Evolutionary robotics
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Evolvability" title="Evolvability">
+                          Evolvability
+                        </a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Pattern_formation" title="Pattern formation">
+                          Pattern formation
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/w/index.php?title=Spatial_fractals&amp;action=edit&amp;redlink=1" class="new" title="Spatial fractals (page does not exist)">
+                          Spatial fractals
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Reaction-diffusion_systems" class="mw-redirect" title="Reaction-diffusion systems">
+                            Reaction-diffusion systems
+                          </a>
+                          <br/>
+                          <a href="/wiki/Partial_differential_equations" class="mw-redirect" title="Partial differential equations">
+                            Partial differential equations
+                          </a>
+                          <br/>
+                          <a href="/wiki/Dissipative_structures" class="mw-redirect" title="Dissipative structures">
+                            Dissipative structures
+                          </a>
+                          <br/>
+                          <a href="/wiki/Percolation" title="Percolation">
+                            Percolation
+                          </a>
+                          <br/>
+                          <a href="/wiki/Cellular_automata" class="mw-redirect" title="Cellular automata">
+                            Cellular automata
+                          </a>
+                          <br/>
+                          <a href="/wiki/Spatial_ecology" title="Spatial ecology">
+                            Spatial ecology
+                          </a>
+                          <br/>
+                          <a href="/wiki/Self-replication" title="Self-replication">
+                            Self-replication
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Spatial_evolutionary_biology&amp;action=edit&amp;redlink=1" class="new" title="Spatial evolutionary biology (page does not exist)">
+                            Spatial evolutionary biology
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Geomorphology" title="Geomorphology">
+                          Geomorphology
+                        </a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Systems_theory" title="Systems theory">
+                          Systems theory
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Homeostasis" title="Homeostasis">
+                          Homeostasis
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Operationalization" title="Operationalization">
+                            Operationalization
+                          </a>
+                          <br/>
+                          <a href="/wiki/Feedback" title="Feedback">
+                            Feedback
+                          </a>
+                          <br/>
+                          <a href="/wiki/Self-reference" title="Self-reference">
+                            Self-reference
+                          </a>
+                          <br/>
+                          <a href="/wiki/Goal-oriented" class="mw-redirect" title="Goal-oriented">
+                            Goal-oriented
+                          </a>
+                          <br/>
+                          <a href="/wiki/System_dynamics" title="System dynamics">
+                            System dynamics
+                          </a>
+                          <br/>
+                          <a href="/wiki/Sensemaking" title="Sensemaking">
+                            Sensemaking
+                          </a>
+                          <br/>
+                          <a href="/wiki/Entropy" title="Entropy">
+                            Entropy
+                          </a>
+                          <br/>
+                          <a href="/wiki/Cybernetics" title="Cybernetics">
+                            Cybernetics
+                          </a>
+                          <br/>
+                          <a href="/wiki/Autopoiesis" title="Autopoiesis">
+                            Autopoiesis
+                          </a>
+                          <br/>
+                          <a href="/wiki/Information_theory" title="Information theory">
+                            Information theory
+                          </a>
+                          <br/>
+                          <a href="/wiki/Computation_theory" class="mw-redirect" title="Computation theory">
+                            Computation theory
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/w/index.php?title=Complexity_measurement&amp;action=edit&amp;redlink=1" class="new" title="Complexity measurement (page does not exist)">
+                          Complexity measurement
+                        </a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Nonlinear_dynamics" class="mw-redirect" title="Nonlinear dynamics">
+                          Nonlinear dynamics
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Time_series_analysis" class="mw-redirect" title="Time series analysis">
+                          Time series analysis
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Ordinary_differential_equations" class="mw-redirect" title="Ordinary differential equations">
+                            Ordinary differential equations
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Iterative_maps&amp;action=edit&amp;redlink=1" class="new" title="Iterative maps (page does not exist)">
+                            Iterative maps
+                          </a>
+                          <br/>
+                          <a href="/wiki/Phase_space" title="Phase space">
+                            Phase space
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Attractors&amp;action=edit&amp;redlink=1" class="new" title="Attractors (page does not exist)">
+                            Attractors
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Stability_analysis&amp;action=edit&amp;redlink=1" class="new" title="Stability analysis (page does not exist)">
+                            Stability analysis
+                          </a>
+                          <br/>
+                          <a href="/wiki/Population_dynamics" title="Population dynamics">
+                            Population dynamics
+                          </a>
+                          <br/>
+                          <a href="/wiki/Chaos_theory" title="Chaos theory">
+                            Chaos
+                          </a>
+                          <br/>
+                          <a href="/wiki/Multistability" title="Multistability">
+                            Multistability
+                          </a>
+                          <br/>
+                          <a href="/wiki/Bifurcation_theory" title="Bifurcation theory">
+                            Bifurcation
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Coupled_map_lattices" class="mw-redirect" title="Coupled map lattices">
+                          Coupled map lattices
+                        </a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0 0.1em 0.4em">
+                    <div class="NavFrame collapsed" style="border:none;padding:0">
+                      <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+                        <a href="/wiki/Game_theory" title="Game theory">
+                          Game theory
+                        </a>
+                      </div>
+                      <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+                        <a href="/wiki/Prisoner%27s_dilemma" title="Prisoner's dilemma">
+                          Prisoner's dilemma
+                        </a>
+                        <br/>
+                        <p>
+                          <a href="/wiki/Rational_choice_theory" title="Rational choice theory">
+                            Rational choice theory
+                          </a>
+                          <br/>
+                          <a href="/wiki/Bounded_rationality" title="Bounded rationality">
+                            Bounded rationality
+                          </a>
+                          <br/>
+                          <a href="/w/index.php?title=Irrational_behaviour&amp;action=edit&amp;redlink=1" class="new" title="Irrational behaviour (page does not exist)">
+                            Irrational behaviour
+                          </a>
+                          <br/>
+                        </p>
+                        <a href="/wiki/Evolutionary_game_theory" title="Evolutionary game theory">
+                          Evolutionary game theory
+                        </a>
+                        <br/>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+                    <div class="plainlinks hlist navbar mini">
+                      <ul>
+                        <li class="nv-view">
+                          <a href="/wiki/Template:Complex_systems" title="Template:Complex systems">
+                            <abbr title="View this template">
+                              v
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-talk">
+                          <a href="/w/index.php?title=Template_talk:Complex_systems&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Complex systems (page does not exist)">
+                            <abbr title="Discuss this template">
+                              t
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-edit">
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Complex_systems&amp;action=edit">
+                            <abbr title="Edit this template">
+                              e
+                            </abbr>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              In 
+              <a href="/wiki/Computer_science" title="Computer science">
+                computer science
+              </a>
+              , 
+              <b>
+                robustness
+              </b>
+               is the ability of a computer system to cope with errors during execution
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+              <sup id="cite_ref-IEEE_2-0" class="reference">
+                <a href="#cite_note-IEEE-2">
+                  [2]
+                </a>
+              </sup>
+               and cope with erroneous input.
+              <sup id="cite_ref-IEEE_2-1" class="reference">
+                <a href="#cite_note-IEEE-2">
+                  [2]
+                </a>
+              </sup>
+               Robustness can encompass many areas of computer science, such as 
+              <a href="/wiki/Defensive_programming" title="Defensive programming">
+                robust programming
+              </a>
+              , 
+              <a href="/wiki/Overfitting" title="Overfitting">
+                robust machine learning
+              </a>
+              , and 
+              <a href="/wiki/Robust_Security_Network" class="mw-redirect" title="Robust Security Network">
+                Robust Security Network
+              </a>
+              . Formal techniques, such as 
+              <a href="/wiki/Fuzz_testing" class="mw-redirect" title="Fuzz testing">
+                fuzz testing
+              </a>
+              , are essential to showing robustness since this type of testing involves invalid or unexpected inputs. Alternatively, 
+              <a href="/wiki/Fault_injection" title="Fault injection">
+                fault injection
+              </a>
+               can be used to test robustness. Various commercial products perform robustness testing of software analysis.
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Introduction">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Introduction
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Challenges">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Challenges
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Areas">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Areas
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Robust_programming">
+                        <span class="tocnumber">
+                          3.1
+                        </span>
+                        <span class="toctext">
+                          Robust programming
+                        </span>
+                      </a>
+                      <ul>
+                        <li class="toclevel-3 tocsection-5">
+                          <a href="#Principles">
+                            <span class="tocnumber">
+                              3.1.1
+                            </span>
+                            <span class="toctext">
+                              Principles
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="toclevel-2 tocsection-6">
+                      <a href="#Robust_machine_learning">
+                        <span class="tocnumber">
+                          3.2
+                        </span>
+                        <span class="toctext">
+                          Robust machine learning
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-7">
+                      <a href="#Robust_network_design">
+                        <span class="tocnumber">
+                          3.3
+                        </span>
+                        <span class="toctext">
+                          Robust network design
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-8">
+                      <a href="#Robust_algorithms">
+                        <span class="tocnumber">
+                          3.4
+                        </span>
+                        <span class="toctext">
+                          Robust algorithms
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-9">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Introduction">
+                Introduction
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=1" title="Edit section: Introduction">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              In general, building robust systems that encompass every point of possible failure is difficult because of the vast quantity of possible inputs and input combinations.
+              <sup id="cite_ref-MIT_4-0" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+               Since all inputs and input combinations would require too much time to test, developers cannot run through all cases exhaustively. Instead, the developer will try to generalize such cases.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+               For example, imagine inputting some 
+              <a href="/wiki/Integer_(computer_science)" title="Integer (computer science)">
+                integer values
+              </a>
+              . Some selected inputs might consist of a negative number, zero, and a positive number. When using these numbers to test software in this way, the developer generalizes the set of all reals into three numbers. This is a more efficient and manageable method, but more prone to failure. Generalizing test cases is an example of just one technique to deal with failure—specifically, failure due to invalid user input. Systems generally may also fail due to other reasons as well, such as disconnecting from a network.
+
+            </p>
+            <p>
+              Regardless, complex systems should still handle any errors encountered gracefully. There are many examples of such successful systems. Some of the most robust systems are evolvable and can be easily adapted to new situations.
+              <sup id="cite_ref-MIT_4-1" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Challenges">
+                Challenges
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=2" title="Edit section: Challenges">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Programs and software are tools focused on a very specific task, and thus aren't generalized and flexible.
+              <sup id="cite_ref-MIT_4-2" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+               However, observations in systems such as the 
+              <a href="/wiki/Internet" title="Internet">
+                internet
+              </a>
+               or 
+              <a href="/wiki/Biological_system" title="Biological system">
+                biological systems
+              </a>
+               demonstrate adaptation to their environments. One of the ways biological systems adapt to environments is through the use of redundancy.
+              <sup id="cite_ref-MIT_4-3" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+               Many organs are redundant in humans. The 
+              <a href="/wiki/Kidney" title="Kidney">
+                kidney
+              </a>
+               is one such example. 
+              <a href="/wiki/Human" title="Human">
+                Humans
+              </a>
+               generally only need one kidney, but having a second kidney allows room for failure. This same principle may be taken to apply to software, but there are some challenges.
+When applying the principle of redundancy to computer science, blindly adding code is not suggested. Blindly adding code introduces more errors, makes the system more complex, and renders it harder to understand.
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+               Code that doesn't provide any reinforcement to the already existing code is unwanted. The new code must instead possess equivalent 
+              <a href="/wiki/Function_(engineering)" title="Function (engineering)">
+                functionality
+              </a>
+              , so that if a function is broken, another providing the same function can replace it, using manual or automated 
+              <a href="/wiki/Software_diversity" title="Software diversity">
+                software diversity
+              </a>
+              . To do so, the new code must know how and when to accommodate the failure point.
+              <sup id="cite_ref-MIT_4-4" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+               This means more 
+              <a href="/wiki/Logic" title="Logic">
+                logic
+              </a>
+               needs to be added to the system. But as a system adds more logic, 
+              <a href="/wiki/Software_component#Software_component" class="mw-redirect" title="Software component">
+                components
+              </a>
+              , and increases in size, it becomes more complex. Thus, when making a more redundant system, the system also becomes more complex and developers must consider balancing redundancy with complexity.
+
+            </p>
+            <p>
+              Currently, computer science practices do not focus on building robust systems.
+              <sup id="cite_ref-MIT_4-5" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+               Rather, they tend to focus on 
+              <a href="/wiki/Scalability" title="Scalability">
+                scalability
+              </a>
+               and 
+              <a href="/wiki/Algorithmic_efficiency" title="Algorithmic efficiency">
+                efficiency
+              </a>
+              . One of the main reasons why there is no focus on robustness today is because it is hard to do in a general way.
+              <sup id="cite_ref-MIT_4-6" class="reference">
+                <a href="#cite_note-MIT-4">
+                  [4]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Areas">
+                Areas
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=3" title="Edit section: Areas">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <h3>
+              <span class="mw-headline" id="Robust_programming">
+                Robust programming
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=4" title="Edit section: Robust programming">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Robust programming is a style of programming that focuses on handling unexpected termination and unexpected actions.
+              <sup id="cite_ref-robust_programming_7-0" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+               It requires code to handle these terminations and actions gracefully by displaying accurate and unambiguous 
+              <a href="/wiki/Error_message" title="Error message">
+                error messages
+              </a>
+              . These error messages allow the user to more easily debug the program.
+
+            </p>
+            <h4>
+              <span class="mw-headline" id="Principles">
+                Principles
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=5" title="Edit section: Principles">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              <i>
+                Paranoia
+              </i>
+               - When building software, the programmer assumes users are out to break their code.
+              <sup id="cite_ref-robust_programming_7-1" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+               The programmer also assumes that his or her own written code may fail or work incorrectly.
+              <sup id="cite_ref-robust_programming_7-2" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <p>
+              <i>
+                Stupidity
+              </i>
+               - The programmer assumes users will try incorrect, bogus and malformed inputs.
+              <sup id="cite_ref-robust_programming_7-3" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+               As a consequence, the programmer returns to the user an unambiguous, intuitive error message that does not require looking up error codes. The error message should try to be as accurate as possible without being misleading to the user, so that the problem can be fixed with ease.
+
+            </p>
+            <p>
+              <i>
+                Dangerous implements
+              </i>
+               - Users should not gain access to 
+              <a href="/wiki/Library_(computing)" title="Library (computing)">
+                libraries
+              </a>
+              , 
+              <a href="/wiki/Data_structure" title="Data structure">
+                data structures
+              </a>
+              , or 
+              <a href="/wiki/Pointer_(computer_programming)" title="Pointer (computer programming)">
+                pointers
+              </a>
+               to data structures.
+              <sup id="cite_ref-robust_programming_7-4" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+               This information should be hidden from the user so that the user doesn't accidentally modify them and introduce a bug in the code. When such 
+              <a href="/wiki/Interface_(object-oriented_programming)" class="mw-redirect" title="Interface (object-oriented programming)">
+                interfaces
+              </a>
+               are correctly built, users use them without finding loopholes to modify the interface. The interface should already be correctly implemented, so the user does not need to make modifications. The user therefore focuses solely on his or her own code.
+
+            </p>
+            <p>
+              <i>
+                <a href="/wiki/Assertion_(software_development)" title="Assertion (software development)">
+                  Can't happen
+                </a>
+              </i>
+               - Very often, code is modified and may introduce a possibility that an "impossible" case occurs. Impossible cases are therefore assumed to be highly unlikely instead.
+              <sup id="cite_ref-robust_programming_7-5" class="reference">
+                <a href="#cite_note-robust_programming-7">
+                  [7]
+                </a>
+              </sup>
+               The developer thinks about how to handle the case that is highly unlikely, and implements the handling accordingly.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Robust_machine_learning">
+                Robust machine learning
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=6" title="Edit section: Robust machine learning">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Robust machine learning typically refers to the robustness of machine learning algorithms. For a machine learning algorithm to be considered robust, either the testing error has to be consistent with the training error, or the performance is stable after adding some noise to the dataset.
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Robust_network_design">
+                Robust network design
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=7" title="Edit section: Robust network design">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Robust network design is the study of network design in the face of variable or uncertain demands.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+               In a sense, robustness in network design is broad just like robustness in software design because of the vast possibilities of changes or inputs.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Robust_algorithms">
+                Robust algorithms
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=8" title="Edit section: Robust algorithms">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              There exists algorithms that tolerate errors in the input
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+               or during the computation.
+              <sup id="cite_ref-Danglot_11-0" class="reference">
+                <a href="#cite_note-Danglot-11">
+                  [11]
+                </a>
+              </sup>
+               In that case, the computation eventually converges to the correct output. This phenomenon has been called "correctness attraction".
+              <sup id="cite_ref-Danglot_11-1" class="reference">
+                <a href="#cite_note-Danglot-11">
+                  [11]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=9" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Defensive_programming" title="Defensive programming">
+                  Defensive programming
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Non-functional_requirement" title="Non-functional requirement">
+                  Non-functional requirement
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit&amp;section=10" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap mw-references-columns">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://dl.ifip.org/db/conf/pts/testcom2005/FernandezMP05.pdf">
+                          "A Model-Based Approach for Robustness Testing"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Dl.ifip.org
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dl.ifip.org&amp;rft.atitle=A+Model-Based+Approach+for+Robustness+Testing&amp;rft_id=http%3A%2F%2Fdl.ifip.org%2Fdb%2Fconf%2Fpts%2Ftestcom2005%2FFernandezMP05.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r886058088">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                    </span>
+                  </li>
+                  <li id="cite_note-IEEE-2">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-IEEE_2-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-IEEE_2-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      1990. IEEE Standard Glossary of Software Engineering Terminology, IEEE Std 610.12-1990 defines robustness as "The degree to which a system or component can function correctly in the presence of invalid inputs or stressful environmental conditions"
+                    </span>
+                  </li>
+                  <li id="cite_note-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-3">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        <a rel="nofollow" class="external text" href="http://www.stanford.edu/~bakerjw/Publications/Baker%20et%20al%20(2008)%20Robustness,%20Structural%20Safety.pdf">
+                          "doi:10.1016/j.strusafe.2006.11.004"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Stanford.edu
+                        </i>
+                        . 
+                        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                          doi
+                        </a>
+                        :
+                        <a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.strusafe.2006.11.004">
+                          10.1016/j.strusafe.2006.11.004
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stanford.edu&amp;rft.atitle=doi%3A10.1016%2Fj.strusafe.2006.11.004&amp;rft_id=info%3Adoi%2F10.1016%2Fj.strusafe.2006.11.004&amp;rft_id=http%3A%2F%2Fwww.stanford.edu%2F~bakerjw%2FPublications%2FBaker%2520et%2520al%2520%282008%29%2520Robustness%2C%2520Structural%2520Safety.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-MIT-4">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-MIT_4-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-2">
+                        <sup>
+                          <i>
+                            <b>
+                              c
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-3">
+                        <sup>
+                          <i>
+                            <b>
+                              d
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-4">
+                        <sup>
+                          <i>
+                            <b>
+                              e
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-5">
+                        <sup>
+                          <i>
+                            <b>
+                              f
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-MIT_4-6">
+                        <sup>
+                          <i>
+                            <b>
+                              g
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Gerald Jay Sussman (January 13, 2007). 
+                        <a rel="nofollow" class="external text" href="http://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf">
+                          "Building Robust Systems an essay"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Groups.csail.mit.edu
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Groups.csail.mit.edu&amp;rft.atitle=Building+Robust+Systems+an+essay&amp;rft.date=2007-01-13&amp;rft.au=Gerald+Jay+Sussman&amp;rft_id=http%3A%2F%2Fgroups.csail.mit.edu%2Fmac%2Fusers%2Fgjs%2F6.945%2Freadings%2Frobust-systems.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Joseph, Joby (2009-09-21). 
+                        <a rel="nofollow" class="external text" href="http://www.softwaretestingclub.com/profiles/blogs/importance-of-making">
+                          "Importance of Making Generalized Testcases - Software Testing Club - An Online Software Testing Community"
+                        </a>
+                        . Software Testing Club
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Importance+of+Making+Generalized+Testcases+-+Software+Testing+Club+-+An+Online+Software+Testing+Community&amp;rft.pub=Software+Testing+Club&amp;rft.date=2009-09-21&amp;rft.aulast=Joseph&amp;rft.aufirst=Joby&amp;rft_id=http%3A%2F%2Fwww.softwaretestingclub.com%2Fprofiles%2Fblogs%2Fimportance-of-making&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-6">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Agents on the wEb : Robust Software. 
+                        <a rel="nofollow" class="external text" href="http://www.cse.sc.edu/~huhns/journalpapers/V6N2.pdf">
+                          "Building Robust Systems an essay"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Cse.sc.edu
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cse.sc.edu&amp;rft.atitle=Building+Robust+Systems+an+essay&amp;rft.au=Agents+on+the+wEb+%3A+Robust+Software&amp;rft_id=http%3A%2F%2Fwww.cse.sc.edu%2F~huhns%2Fjournalpapers%2FV6N2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-robust_programming-7">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-robust_programming_7-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-robust_programming_7-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-robust_programming_7-2">
+                        <sup>
+                          <i>
+                            <b>
+                              c
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-robust_programming_7-3">
+                        <sup>
+                          <i>
+                            <b>
+                              d
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-robust_programming_7-4">
+                        <sup>
+                          <i>
+                            <b>
+                              e
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-robust_programming_7-5">
+                        <sup>
+                          <i>
+                            <b>
+                              f
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://nob.cs.ucdavis.edu/bishop/secprog/robust.html">
+                          "Robust Programming"
+                        </a>
+                        . 
+                        <i>
+                          Nob.cs.ucdavis.edu
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nob.cs.ucdavis.edu&amp;rft.atitle=Robust+Programming&amp;rft_id=http%3A%2F%2Fnob.cs.ucdavis.edu%2Fbishop%2Fsecprog%2Frobust.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-8">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        El Sayed Mahmoud. 
+                        <a rel="nofollow" class="external text" href="https://www.researchgate.net/post/What_is_the_definition_of_the_robustness_of_a_machine_learning_algorithm">
+                          "What is the definition of the robustness of a machine learning algorithm?"
+                        </a>
+                        . ResearchGate
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+the+definition+of+the+robustness+of+a+machine+learning+algorithm%3F&amp;rft.pub=ResearchGate&amp;rft.au=El+Sayed+Mahmoud&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpost%2FWhat_is_the_definition_of_the_robustness_of_a_machine_learning_algorithm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www-math.mit.edu/~olver/thesis.pdf">
+                          "Robust Network Design"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Math.mit.edu
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-11-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Math.mit.edu&amp;rft.atitle=Robust+Network+Design&amp;rft_id=http%3A%2F%2Fwww-math.mit.edu%2F~olver%2Fthesis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Carbin, Michael; Rinard, Martin C. (12 July 2010). 
+                        <a rel="nofollow" class="external text" href="http://people.csail.mit.edu/rinard/paper/issta10.pdf">
+                          "Automatically identifying critical input regions and code in applications"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Proceedings of the 19th international symposium on Software testing and analysis - ISSTA '10
+                        </i>
+                        . ACM. pp. 37–48. 
+                        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                          doi
+                        </a>
+                        :
+                        <a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1831708.1831713">
+                          10.1145/1831708.1831713
+                        </a>
+                        . 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/9781605588230" title="Special:BookSources/9781605588230">
+                          <bdi>
+                            9781605588230
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Automatically+identifying+critical+input+regions+and+code+in+applications&amp;rft.btitle=Proceedings+of+the+19th+international+symposium+on+Software+testing+and+analysis+-+ISSTA+%2710&amp;rft.pages=37-48&amp;rft.pub=ACM&amp;rft.date=2010-07-12&amp;rft_id=info%3Adoi%2F10.1145%2F1831708.1831713&amp;rft.isbn=9781605588230&amp;rft.aulast=Carbin&amp;rft.aufirst=Michael&amp;rft.au=Rinard%2C+Martin+C.&amp;rft_id=http%3A%2F%2Fpeople.csail.mit.edu%2Frinard%2Fpaper%2Fissta10.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-Danglot-11">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-Danglot_11-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-Danglot_11-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Danglot, Benjamin; Preux, Philippe; Baudry, Benoit; Monperrus, Martin (21 December 2017). 
+                        <a rel="nofollow" class="external text" href="https://hal.archives-ouvertes.fr/hal-01378523/document">
+                          "Correctness attraction: a study of stability of software behavior under runtime perturbation"
+                        </a>
+                        . 
+                        <i>
+                          Empirical Software Engineering
+                        </i>
+                        . 
+                        <b>
+                          23
+                        </b>
+                         (4): 2086–2119. 
+                        <a href="/wiki/ArXiv" title="ArXiv">
+                          arXiv
+                        </a>
+                        :
+                        <span class="cs1-lock-free" title="Freely accessible">
+                          <a rel="nofollow" class="external text" href="//arxiv.org/abs/1611.09187">
+                            1611.09187
+                          </a>
+                        </span>
+                        . 
+                        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+                          doi
+                        </a>
+                        :
+                        <a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs10664-017-9571-8">
+                          10.1007/s10664-017-9571-8
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Empirical+Software+Engineering&amp;rft.atitle=Correctness+attraction%3A+a+study+of+stability+of+software+behavior+under+runtime+perturbation&amp;rft.volume=23&amp;rft.issue=4&amp;rft.pages=2086-2119&amp;rft.date=2017-12-21&amp;rft_id=info%3Aarxiv%2F1611.09187&amp;rft_id=info%3Adoi%2F10.1007%2Fs10664-017-9571-8&amp;rft.aulast=Danglot&amp;rft.aufirst=Benjamin&amp;rft.au=Preux%2C+Philippe&amp;rft.au=Baudry%2C+Benoit&amp;rft.au=Monperrus%2C+Martin&amp;rft_id=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01378523%2Fdocument&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobustness+%28computer+science%29" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <div role="navigation" class="navbox" aria-labelledby="Complex_systems" style="padding:3px">
+              <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th scope="col" class="navbox-title" colspan="2">
+                      <div class="plainlinks hlist navbar mini">
+                        <ul>
+                          <li class="nv-view">
+                            <a href="/wiki/Template:Complex_systems_topics" title="Template:Complex systems topics">
+                              <abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                v
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-talk">
+                            <a href="/w/index.php?title=Template_talk:Complex_systems_topics&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Complex systems topics (page does not exist)">
+                              <abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                t
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-edit">
+                            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Complex_systems_topics&amp;action=edit">
+                              <abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                e
+                              </abbr>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div id="Complex_systems" style="font-size:114%;margin:0 4em">
+                        <a href="/wiki/Complex_system" title="Complex system">
+                          Complex systems
+                        </a>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Background
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Emergence" title="Emergence">
+                              Emergence
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Self-Organization" class="mw-redirect" title="Self-Organization">
+                              Self-Organization
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Collective_Behaviour" class="mw-redirect" title="Collective Behaviour">
+                        Collective Behaviour
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Social_dynamics" title="Social dynamics">
+                              Social dynamics
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Collective_intelligence" title="Collective intelligence">
+                              Collective intelligence
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Collective_action" title="Collective action">
+                              Collective action
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Collective_consciousness" title="Collective consciousness">
+                              Collective consciousness
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Self-organized_criticality" title="Self-organized criticality">
+                              Self-organized criticality
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Herd_mentality" title="Herd mentality">
+                              Herd mentality
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Phase_transition" title="Phase transition">
+                              Phase transition
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Agent-based_modelling" class="mw-redirect" title="Agent-based modelling">
+                              Agent-based modelling
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Synchronization" title="Synchronization">
+                              Synchronization
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Ant_colony_optimization" class="mw-redirect" title="Ant colony optimization">
+                              Ant colony optimization
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Particle_swarm_optimization" title="Particle swarm optimization">
+                              Particle swarm optimization
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Swarm_behaviour" title="Swarm behaviour">
+                              Swarm behaviour
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Evolution" title="Evolution">
+                        Evolution
+                      </a>
+                       &amp; 
+                      <a href="/wiki/Adaptation" title="Adaptation">
+                        Adaptation
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Artificial_neural_network" title="Artificial neural network">
+                              Artificial neural network
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Evolutionary_computation" title="Evolutionary computation">
+                              Evolutionary computation
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Genetic_algorithms" class="mw-redirect" title="Genetic algorithms">
+                              Genetic algorithms
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Genetic_programming" title="Genetic programming">
+                              Genetic programming
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Artificial_life" title="Artificial life">
+                              Artificial life
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Machine_learning" title="Machine learning">
+                              Machine learning
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Evolutionary_developmental_biology" title="Evolutionary developmental biology">
+                              Evolutionary developmental biology
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">
+                              Artificial intelligence
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Evolutionary_robotics" title="Evolutionary robotics">
+                              Evolutionary robotics
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Evolvability" title="Evolvability">
+                              Evolvability
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Game_Theory" class="mw-redirect" title="Game Theory">
+                        Game Theory
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Prisoner%27s_dilemma" title="Prisoner's dilemma">
+                              Prisoner's dilemma
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Rational_choice_theory" title="Rational choice theory">
+                              Rational choice theory
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Bounded_rationality" title="Bounded rationality">
+                              Bounded rationality
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Irrational_behaviour&amp;action=edit&amp;redlink=1" class="new" title="Irrational behaviour (page does not exist)">
+                              Irrational behaviour
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Evolutionary_game_theory" title="Evolutionary game theory">
+                              Evolutionary game theory
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Network_Science" class="mw-redirect" title="Network Science">
+                        Networks
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Social_network_analysis" title="Social network analysis">
+                              Social network analysis
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Small-world_networks" class="mw-redirect" title="Small-world networks">
+                              Small-world networks
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Community_identification&amp;action=edit&amp;redlink=1" class="new" title="Community identification (page does not exist)">
+                              Community identification
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Centrality" title="Centrality">
+                              Centrality
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Network_motif" title="Network motif">
+                              Motifs
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Graph_Theory" class="mw-redirect" title="Graph Theory">
+                              Graph Theory
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Scalability" title="Scalability">
+                              Scaling
+                            </a>
+                          </li>
+                          <li>
+                            <a class="mw-selflink selflink">
+                              Robustness
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Systems_biology" title="Systems biology">
+                              Systems biology
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Dynamic_network_analysis" title="Dynamic network analysis">
+                              Dynamic networks
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Complex_adaptive_system" title="Complex adaptive system">
+                              Adaptive networks
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Nonlinear_Dynamics" class="mw-redirect" title="Nonlinear Dynamics">
+                        Nonlinear Dynamics
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Time_series_analysis" class="mw-redirect" title="Time series analysis">
+                              Time series analysis
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Ordinary_differential_equations" class="mw-redirect" title="Ordinary differential equations">
+                              Ordinary differential equations
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Iterative_maps&amp;action=edit&amp;redlink=1" class="new" title="Iterative maps (page does not exist)">
+                              Iterative maps
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Phase_space" title="Phase space">
+                              Phase space
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Attractors&amp;action=edit&amp;redlink=1" class="new" title="Attractors (page does not exist)">
+                              Attractors
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Stability_analysis&amp;action=edit&amp;redlink=1" class="new" title="Stability analysis (page does not exist)">
+                              Stability analysis
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Population_dynamics" title="Population dynamics">
+                              Population dynamics
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Chaos_theory" title="Chaos theory">
+                              Chaos
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Multistability" title="Multistability">
+                              Multistability
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Bifurcation_theory" title="Bifurcation theory">
+                              Bifurcation
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Coupled_map_lattices" class="mw-redirect" title="Coupled map lattices">
+                              Coupled map lattices
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Pattern_formation" title="Pattern formation">
+                        Pattern formation
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/w/index.php?title=Spatial_fractals&amp;action=edit&amp;redlink=1" class="new" title="Spatial fractals (page does not exist)">
+                              Spatial fractals
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Reaction-diffusion_systems" class="mw-redirect" title="Reaction-diffusion systems">
+                              Reaction-diffusion systems
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Partial_differential_equations" class="mw-redirect" title="Partial differential equations">
+                              Partial differential equations
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Dissipative_structures" class="mw-redirect" title="Dissipative structures">
+                              Dissipative structures
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Percolation" title="Percolation">
+                              Percolation
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Cellular_automata" class="mw-redirect" title="Cellular automata">
+                              Cellular automata
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Spatial_ecology" title="Spatial ecology">
+                              Spatial ecology
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Self-replication" title="Self-replication">
+                              Self-replication
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Spatial_evolutionary_biology&amp;action=edit&amp;redlink=1" class="new" title="Spatial evolutionary biology (page does not exist)">
+                              Spatial evolutionary biology
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Geomorphology" title="Geomorphology">
+                              Geomorphology
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Systems_Theory" class="mw-redirect" title="Systems Theory">
+                        Systems Theory
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Homeostasis" title="Homeostasis">
+                              Homeostasis
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Operationalization" title="Operationalization">
+                              Operationalization
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Feedback" title="Feedback">
+                              Feedback
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Self-reference" title="Self-reference">
+                              Self-reference
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Goal-oriented" class="mw-redirect" title="Goal-oriented">
+                              Goal-oriented
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/System_dynamics" title="System dynamics">
+                              System dynamics
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Sensemaking" title="Sensemaking">
+                              Sensemaking
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Entropy" title="Entropy">
+                              Entropy
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Cybernetics" title="Cybernetics">
+                              Cybernetics
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Autopoiesis" title="Autopoiesis">
+                              Autopoiesis
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Information_theory" title="Information theory">
+                              Information theory
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Computation_theory" class="mw-redirect" title="Computation theory">
+                              Computation theory
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/w/index.php?title=Complexity_measurement&amp;action=edit&amp;redlink=1" class="new" title="Complexity measurement (page does not exist)">
+                              Complexity measurement
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- 
+NewPP limit report
+Parsed by mw1278
+Cached time: 20191211092120
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.340 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 853/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51700/2097152 bytes
+Template argument size: 93/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 33652/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  359.869      1 -total
+ 69.94%  251.703      1 Template:Reflist
+ 32.30%  116.234      7 Template:Cite_web
+ 25.05%   90.141      2 Template:Cite_journal
+ 10.99%   39.556      1 Template:See_also
+  7.82%   28.154      1 Template:Complex_systems
+  6.94%   24.971      1 Template:Sidebar_with_collapsible_lists
+  4.66%   16.787      1 Template:Complex_systems_topics
+  3.42%   12.291      1 Template:Navbox
+  3.38%   12.164      1 Template:Cite_book
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:27206541-0!canonical and timestamp 20191211092120 and revision id 930266649
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Robustness_(computer_science)&amp;oldid=930266649">
+            https://en.wikipedia.org/w/index.php?title=Robustness_(computer_science)&amp;oldid=930266649
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Reliability_engineering" title="Category:Reliability engineering">
+                  Reliability engineering
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Robustness+%28computer+science%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Robustness+%28computer+science%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Robustness_(computer_science)" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Robustness_(computer_science)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Robustness_(computer_science)">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Robustness_(computer_science)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Robustness_(computer_science)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;oldid=930266649" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2524240" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Robustness_%28computer_science%29&amp;id=930266649" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Robustness+%28computer+science%29">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Robustness+%28computer+science%29&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Robustness_(computer_science)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-bg">
+                <a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%BD%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D1%81%D0%BE%D1%84%D1%82%D1%83%D0%B5%D1%80%D0%B0" title="Надеждност на софтуера – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">
+                  Български
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Robustezza_(informatica)" title="Robustezza (informatica) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A1%D7%9F_(%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%9E%D7%97%D7%A9%D7%91)" title="חוסן (מדעי המחשב) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">
+                  עברית
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sr">
+                <a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D1%83%D1%81%D0%BD%D0%BE%D1%81%D1%82_(%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE)" title="Робусност (рачунарство) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">
+                  Српски / srpski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%96%D1%81%D1%82%D1%8C_(%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Відмовостійкість (інформатика) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E5%81%A5%E5%A3%AE%E6%80%A7_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" title="健壮性 (计算机科学) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2524240#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 11 December 2019, at 09:21
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Robustness_(computer_science)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.436","ppvisitednodes":{"value":853,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51700,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33652,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  359.869      1 -total"," 69.94%  251.703      1 Template:Reflist"," 32.30%  116.234      7 Template:Cite_web"," 25.05%   90.141      2 Template:Cite_journal"," 10.99%   39.556      1 Template:See_also","  7.82%   28.154      1 Template:Complex_systems","  6.94%   24.971      1 Template:Sidebar_with_collapsible_lists","  4.66%   16.787      1 Template:Complex_systems_topics","  3.42%   12.291      1 Template:Navbox","  3.38%   12.164      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":4018962,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20191211092120","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Robustness (computer science)","url":"https:\/\/en.wikipedia.org\/wiki\/Robustness_(computer_science)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2524240","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2524240","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-05-03T17:36:00Z","dateModified":"2019-12-11T09:21:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Complex_systems_organizational_map.jpg","headline":"property of a computer system to cope with faults in input or execution"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1269"});});
+//]]>
+    </script>
+  </body>
+</html>

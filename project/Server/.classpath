@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/commons-text-1.7.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/htmlunit-2.36.0.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/htmlunit-core-js-2.36.0.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/htmlunit-cssparser-1.5.0.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/httpmime-4.5.9.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/jetty-client-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/jetty-http-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/jetty-io-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/jetty-util-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/jetty-xml-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/neko-htmlunit-2.36.0.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/websocket-api-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/websocket-client-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/websocket-common-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="src/SearchEngine/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

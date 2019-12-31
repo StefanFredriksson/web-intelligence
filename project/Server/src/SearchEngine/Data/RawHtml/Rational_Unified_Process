@@ -1,0 +1,3082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Rational Unified Process - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgom9gpAAEYAAGyp2V0AAADF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rational_Unified_Process","wgTitle":"Rational Unified Process","wgCurRevisionId":921709819,"wgRevisionId":921709819,"wgArticleId":233624,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles with GND identifiers","Formal methods","Rational Software software","Software project management"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Rational_Unified_Process","wgRelevantArticleId":233624,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q478019","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rational_Unified_Process"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rational_Unified_Process&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Rational_Unified_Process&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Rational_Unified_Process"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rational_Unified_Process rootpage-Rational_Unified_Process skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Rational Unified Process
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+              <tbody>
+                <tr>
+                  <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+                    <a href="/wiki/Software_development" title="Software development">
+                      Software development
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Core activities
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_development_process" title="Software development process">
+                          Processes
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Requirements_analysis" title="Requirements analysis">
+                          Requirements
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_design" title="Software design">
+                          Design
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_engineering" title="Software engineering">
+                          Engineering
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_construction" title="Software construction">
+                          Construction
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_testing" title="Software testing">
+                          Testing
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugging" title="Debugging">
+                          Debugging
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_deployment" title="Software deployment">
+                          Deployment
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_maintenance" title="Software maintenance">
+                          Maintenance
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Paradigms and models
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Agile_software_development" title="Agile software development">
+                          Agile
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Cleanroom_software_engineering" title="Cleanroom software engineering">
+                          Cleanroom
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Incremental_build_model" title="Incremental build model">
+                          Incremental
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_prototyping" title="Software prototyping">
+                          Prototyping
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Spiral_model" title="Spiral model">
+                          Spiral
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">
+                          V model
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Waterfall_model" title="Waterfall model">
+                          Waterfall
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Software_development_methodology" class="mw-redirect" title="Software development methodology">
+                      Methodologies
+                    </a>
+                     and frameworks
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Adaptive_software_development" title="Adaptive software development">
+                          ASD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/DevOps" title="DevOps">
+                          DevOps
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                          DAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Dynamic_systems_development_method" title="Dynamic systems development method">
+                          DSDM
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Feature-driven_development" title="Feature-driven development">
+                          FDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">
+                          IID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Kanban_(development)" title="Kanban (development)">
+                          Kanban
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Lean_software_development" title="Lean software development">
+                          Lean SD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)#Large-scale_Scrum" title="Scrum (software development)">
+                          LeSS
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Model-driven_development" class="mw-redirect" title="Model-driven development">
+                          MDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Microsoft_Solutions_Framework" title="Microsoft Solutions Framework">
+                          MSF
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Personal_software_process" title="Personal software process">
+                          PSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rapid_application_development" title="Rapid application development">
+                          RAD
+                        </a>
+                      </li>
+                      <li>
+                        <a class="mw-selflink selflink">
+                          RUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scaled_agile_framework" title="Scaled agile framework">
+                          SAFe
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">
+                          Scrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/SEMAT" title="SEMAT">
+                          SEMAT
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Team_software_process" title="Team software process">
+                          TSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/OpenUP" title="OpenUP">
+                          OpenUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Unified_Process" title="Unified Process">
+                          UP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming" title="Extreme programming">
+                          XP
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Supporting disciplines
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_configuration_management" title="Software configuration management">
+                          Configuration management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_documentation" title="Software documentation">
+                          Documentation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_quality_assurance" title="Software quality assurance">
+                          Software quality assurance (SQA)
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_project_management" title="Software project management">
+                          Project management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/User_experience" title="User experience">
+                          User experience
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Practices
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Acceptance_test%E2%80%93driven_development" title="Acceptance test–driven development">
+                          ATDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Behavior-driven_development" title="Behavior-driven development">
+                          BDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming_practices#Collective_code_ownership" title="Extreme programming practices">
+                          CCO
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_integration" title="Continuous integration">
+                          CI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_delivery" title="Continuous delivery">
+                          CD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Domain-driven_design" title="Domain-driven design">
+                          DDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Pair_programming" title="Pair programming">
+                          PP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Specification_by_example" title="Specification by example">
+                          SBE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Stand-up_meeting" title="Stand-up meeting">
+                          Stand-up
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Test-driven_development" title="Test-driven development">
+                          TDD
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Programming_tool" title="Programming tool">
+                      Tools
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Compiler" title="Compiler">
+                          Compiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugger" title="Debugger">
+                          Debugger
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">
+                          Profiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Graphical_user_interface_builder" title="Graphical user interface builder">
+                          GUI designer
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/UML_tool" title="UML tool">
+                          Modeling
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Integrated_development_environment" title="Integrated development environment">
+                          IDE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Build_automation" title="Build automation">
+                          Build automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Application-release_automation" title="Application-release automation">
+                          Release automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">
+                          Infrastructure as code
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Category:Software_testing_tools" title="Category:Software testing tools">
+                          Testing
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Standards and Bodies of Knowledge
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge" title="A Guide to the Business Analysis Body of Knowledge">
+                          BABOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">
+                          CMMI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/IEEE_Standards_Association" title="IEEE Standards Association">
+                          IEEE standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO_9001" class="mw-redirect" title="ISO 9001">
+                          ISO 9001
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">
+                          ISO/IEC standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge">
+                          PMBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_Engineering_Body_of_Knowledge" title="Software Engineering Body of Knowledge">
+                          SWEBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ITIL" title="ITIL">
+                          ITIL
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Glossaries
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Glossary_of_artificial_intelligence" title="Glossary of artificial intelligence">
+                          Artificial intelligence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">
+                          Computer science
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_electrical_and_electronics_engineering" title="Glossary of electrical and electronics engineering">
+                          Electrical and electronics engineering
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right;font-size:115%">
+                    <div class="plainlinks hlist navbar mini">
+                      <ul>
+                        <li class="nv-view">
+                          <a href="/wiki/Template:Software_development_process" title="Template:Software development process">
+                            <abbr title="View this template">
+                              v
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-talk">
+                          <a href="/wiki/Template_talk:Software_development_process" title="Template talk:Software development process">
+                            <abbr title="Discuss this template">
+                              t
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-edit">
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Software_development_process&amp;action=edit">
+                            <abbr title="Edit this template">
+                              e
+                            </abbr>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              The 
+              <b>
+                Rational Unified Process
+              </b>
+               (
+              <b>
+                RUP
+              </b>
+              ) is an 
+              <a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">
+                iterative
+              </a>
+              <a href="/wiki/Software_development_process" title="Software development process">
+                software development process
+              </a>
+               framework created by the 
+              <a href="/wiki/Rational_Software" title="Rational Software">
+                Rational Software
+              </a>
+               Corporation, a division of 
+              <a href="/wiki/IBM" title="IBM">
+                IBM
+              </a>
+               since 2003.
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+               RUP is not a single concrete prescriptive process, but rather an adaptable process 
+              <a href="/wiki/Software_framework" title="Software framework">
+                framework
+              </a>
+              , intended to be tailored by the development organizations and software project teams that will select the elements of the process that are appropriate for their needs. RUP is a specific implementation of the 
+              <a href="/wiki/Unified_Process" title="Unified Process">
+                Unified Process
+              </a>
+              .
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#History">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      History
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Rational_unified_process_topics">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Rational unified process topics
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-3">
+                      <a href="#RUP_building_blocks">
+                        <span class="tocnumber">
+                          2.1
+                        </span>
+                        <span class="toctext">
+                          RUP building blocks
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Four_project_life-cycle_phases">
+                        <span class="tocnumber">
+                          2.2
+                        </span>
+                        <span class="toctext">
+                          Four project life-cycle phases
+                        </span>
+                      </a>
+                      <ul>
+                        <li class="toclevel-3 tocsection-5">
+                          <a href="#Inception_phase">
+                            <span class="tocnumber">
+                              2.2.1
+                            </span>
+                            <span class="toctext">
+                              Inception phase
+                            </span>
+                          </a>
+                        </li>
+                        <li class="toclevel-3 tocsection-6">
+                          <a href="#Elaboration_phase_(Ortner)">
+                            <span class="tocnumber">
+                              2.2.2
+                            </span>
+                            <span class="toctext">
+                              Elaboration phase (Ortner)
+                            </span>
+                          </a>
+                        </li>
+                        <li class="toclevel-3 tocsection-7">
+                          <a href="#Construction_phase">
+                            <span class="tocnumber">
+                              2.2.3
+                            </span>
+                            <span class="toctext">
+                              Construction phase
+                            </span>
+                          </a>
+                        </li>
+                        <li class="toclevel-3 tocsection-8">
+                          <a href="#Transition_phase">
+                            <span class="tocnumber">
+                              2.2.4
+                            </span>
+                            <span class="toctext">
+                              Transition phase
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="toclevel-2 tocsection-9">
+                      <a href="#The_IBM_Rational_Method_Composer_product">
+                        <span class="tocnumber">
+                          2.3
+                        </span>
+                        <span class="toctext">
+                          The IBM Rational Method Composer product
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-10">
+                      <a href="#Certification">
+                        <span class="tocnumber">
+                          2.4
+                        </span>
+                        <span class="toctext">
+                          Certification
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-11">
+                      <a href="#Six_best_practices">
+                        <span class="tocnumber">
+                          2.5
+                        </span>
+                        <span class="toctext">
+                          Six best practices
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-13">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-14">
+                  <a href="#Further_reading">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      Further reading
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-15">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="History">
+                History
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=1" title="Edit section: History">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Rational Software originally developed the rational unified process as a software process product. The product includes a hyperlinked knowledge-base with sample 
+              <a href="/wiki/Artifact_(software_development)" title="Artifact (software development)">
+                artifacts
+              </a>
+               and detailed descriptions for many different types of activities. RUP is included in the 
+              <a href="/w/index.php?title=IBM_Rational_Method_Composer&amp;action=edit&amp;redlink=1" class="new" title="IBM Rational Method Composer (page does not exist)">
+                IBM Rational Method Composer
+              </a>
+               (RMC) product which allows customization of the process.
+
+            </p>
+            <p>
+              <a href="/wiki/Philippe_Kruchten" title="Philippe Kruchten">
+                Philippe Kruchten
+              </a>
+              , an experienced Rational technical representative was tasked with heading up the original RUP team. This journey began with the creation of the Rational Objectory Process (ROP) in 1996, when Rational acquired the Objectory Process that had been written by 
+              <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">
+                Ivar Jacobson
+              </a>
+               and company. This was renamed Rational Unified Process (RUP) in subsequent releases, in part to align the name with that of the Unified Modeling Language.
+
+            </p>
+            <p>
+              These initial versions combined the Rational Software organisation's extensive field experience building object-oriented systems (referred to by Rational field staff as the Rational Approach) with Objectory's guidance on practices such as use cases, and incorporated extensive content from Jim Rumbaugh's 
+              <a href="/wiki/Object-modeling_technique" title="Object-modeling technique">
+                Object Modeling Technology
+              </a>
+               (OMT) approach to modeling, Grady Booch's 
+              <a href="/wiki/Booch_method" title="Booch method">
+                Booch method
+              </a>
+              , and the newly released 
+              <a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">
+                UML
+              </a>
+               0.8.
+              <sup id="cite_ref-rop-overview_2-0" class="reference">
+                <a href="#cite_note-rop-overview-2">
+                  [2]
+                </a>
+              </sup>
+              <sup id="cite_ref-rup-introduction-history_3-0" class="reference">
+                <a href="#cite_note-rup-introduction-history-3">
+                  [3]
+                </a>
+              </sup>
+            </p>
+            <p>
+              To help make this growing knowledge base more accessible, 
+              <a href="/wiki/Philippe_Kruchten" title="Philippe Kruchten">
+                Philippe Kruchten
+              </a>
+               was tasked with the assembly of an explicit process framework for modern software engineering. This effort employed the 
+              <a href="/wiki/HTML" title="HTML">
+                HTML
+              </a>
+              -based process delivery mechanism developed by Objectory. The resulting "Rational Unified Process" (RUP) completed a strategic tripod for Rational:
+
+            </p>
+            <ul>
+              <li>
+                a 
+                <i>
+                  tailorable process
+                </i>
+                 that guided development
+              </li>
+              <li>
+                <i>
+                  tools
+                </i>
+                 that automated the application of that process
+              </li>
+              <li>
+                <i>
+                  services
+                </i>
+                 that accelerated adoption of both the process and the tools.
+              </li>
+            </ul>
+            <p>
+              This guidance was augmented in subsequent versions with knowledge based on the experience of companies that Rational had acquired.
+
+            </p>
+            <p>
+              In 1997, a requirements and test discipline were added to the approach, much of the additional material sourced from the Requirements College method developed by Dean Leffingwell et al. at Requisite, Inc., and the SQA Process method developed at SQA Inc., both companies having been acquired by Rational Software.
+
+            </p>
+            <p>
+              In 1998 Rational Software added two new disciplines:
+
+            </p>
+            <ol>
+              <li>
+                business modeling, much of this content had already been in the Objectory Process
+              </li>
+              <li>
+                a Configuration and Change Management discipline, sourced through the acquisition of Pure Atria  Corporation.
+              </li>
+            </ol>
+            <p>
+              These additions lead to an overarching set of principles that were defined by Rational and articulated within RUP as the six 
+              <i>
+                best practices
+              </i>
+               for modern software engineering:
+
+            </p>
+            <ol>
+              <li>
+                Develop iteratively, with risk as the primary iteration driver
+                <sup id="cite_ref-rup-in-brief_4-0" class="reference">
+                  <a href="#cite_note-rup-in-brief-4">
+                    [4]
+                  </a>
+                </sup>
+              </li>
+              <li>
+                Manage requirements
+              </li>
+              <li>
+                Employ a component-based architecture
+              </li>
+              <li>
+                Model software visually
+              </li>
+              <li>
+                Continuously verify quality
+              </li>
+              <li>
+                Control changes
+              </li>
+            </ol>
+            <p>
+              These best practices were tightly aligned with Rational's product line, and both drove the ongoing development of Rational's products, as well as being used by Rational's field teams to help customers improve the quality and predictability of their software development efforts.
+
+            </p>
+            <p>
+              Additional techniques including performance testing, UI Design, data engineering were included, and an update to reflect changes in UML 1.1.
+
+            </p>
+            <p>
+              In 1999, a project management discipline was introduced, as well as techniques to support real-time software development and updates to reflect UML 1.3. Besides, the first book to describe the process, The Unified Software Development Process (
+              <style data-mw-deduplicate="TemplateStyles:r886058088">
+                .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+              </style>
+              <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                ISBN
+              </a>
+               
+              <a href="/wiki/Special:BookSources/0-201-57169-2" title="Special:BookSources/0-201-57169-2">
+                0-201-57169-2
+              </a>
+              ), was published in the same year.
+
+            </p>
+            <p>
+              Between 2000 and 2003, a number of changes introduced guidance from ongoing Rational field experience with iterative development, in addition to tool support for enacting RUP instances and for customization of the RUP framework. These changes included:
+
+            </p>
+            <ol>
+              <li>
+                the introduction of concepts and techniques from approaches such as eXtreme Programming (XP), that would later come to be known collectively as agile methods. This included techniques such as pair programming, test-first design, and papers that explained how RUP enabled XP to scale for use on larger projects.
+              </li>
+              <li>
+                a complete overhaul of the testing discipline to better reflect how testing work was conducted in different iterative development contexts.
+              </li>
+              <li>
+                the introduction of supporting guidance - known as "tool mentors" - for enacting the RUP practices in various tools. These essentially provided step-by-step method support to Rational tool users.
+              </li>
+              <li>
+                automating the customization of RUP in a way that would allow customers to select parts from the RUP process framework, customize their selection with their own additions, and still incorporate improvements in subsequent releases from Rational.
+              </li>
+            </ol>
+            <p>
+              IBM acquired Rational Software in February 2003.
+
+            </p>
+            <p>
+              In 2006, IBM created a subset of RUP tailored for the delivery of 
+              <a href="/wiki/Agile_software_development" title="Agile software development">
+                Agile
+              </a>
+               projects - released as an OpenSource method called 
+              <a href="/wiki/OpenUP" title="OpenUP">
+                OpenUP
+              </a>
+               through the 
+              <a href="/wiki/Eclipse_(software)" title="Eclipse (software)">
+                Eclipse
+              </a>
+               web-site.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Rational_unified_process_topics">
+                Rational unified process topics
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=2" title="Edit section: Rational unified process topics">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <h3>
+              <span class="mw-headline" id="RUP_building_blocks">
+                RUP building blocks
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=3" title="Edit section: RUP building blocks">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              RUP is based on a set of building blocks and content elements, describing what is to be produced, the necessary skills required and the step-by-step explanation describing how specific development goals are to be achieved. The main building blocks, or content elements, are the following:
+
+            </p>
+            <ul>
+              <li>
+                Roles (who) – A role defines a set of related skills, competencies and responsibilities.
+              </li>
+              <li>
+                Work products (what) – A work product represents something resulting from a task, including all the documents and models produced while working through the process.
+              </li>
+              <li>
+                Tasks (how) – A task describes a unit of work assigned to a Role that provides a meaningful result.
+              </li>
+            </ul>
+            <p>
+              Within each iteration, the tasks are categorized into nine disciplines:
+
+            </p>
+            <ul>
+              <li>
+                Six "engineering disciplines"
+
+                <ul>
+                  <li>
+                    Business modelling
+                  </li>
+                  <li>
+                    Requirements
+                  </li>
+                  <li>
+                    Analysis and design
+                  </li>
+                  <li>
+                    Implementation
+                  </li>
+                  <li>
+                    Test
+                  </li>
+                  <li>
+                    Deployment
+                  </li>
+                </ul>
+              </li>
+              <li>
+                Three supporting disciplines
+
+                <ul>
+                  <li>
+                    <a href="/wiki/Software_configuration_management" title="Software configuration management">
+                      Configuration and change management
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/wiki/Software_project_management" title="Software project management">
+                      Project management
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/wiki/Environment_discipline" title="Environment discipline">
+                      Environment
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <h3>
+              <span class="mw-headline" id="Four_project_life-cycle_phases">
+                Four project life-cycle phases
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=4" title="Edit section: Four project life-cycle phases">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:322px;">
+                <a href="/wiki/File:Development-iterative.png" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Development-iterative.png/320px-Development-iterative.png" decoding="async" width="320" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Development-iterative.png/480px-Development-iterative.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/19/Development-iterative.png 2x" data-file-width="493" data-file-height="317"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:Development-iterative.png" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  RUP phases and disciplines.
+                </div>
+              </div>
+            </div>
+            <p>
+              The RUP has determined a project life-cycle consisting of four phases. These phases allow the process to be presented at a high level in a similar way to how a 'waterfall'-styled project might be presented, although in essence the key to the process lies in the iterations of development that lie within all of the phases. Also, each phase has one key objective and milestone at the end that denotes the objective being accomplished. The visualization of RUP phases and disciplines over time is referred to as the 
+              <a href="/wiki/RUP_hump" title="RUP hump">
+                RUP hump
+              </a>
+               chart.
+
+            </p>
+            <h4>
+              <span class="mw-headline" id="Inception_phase">
+                Inception phase
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=5" title="Edit section: Inception phase">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              The primary objective is to scope the system adequately as a basis for validating initial costing and budgets.
+In this phase the business case which includes business context, success factors (expected revenue, market recognition, etc.), and financial forecast is established. To complement the business case, a basic use case model, project plan, initial risk assessment and project description (the core project requirements, constraints and key features) are generated.
+After these are completed, the project is checked against the following criteria:
+
+            </p>
+            <ul>
+              <li>
+                <a href="/wiki/Stakeholder_(corporate)#In_management" title="Stakeholder (corporate)">
+                  Stakeholder
+                </a>
+                 concurrence on scope definition and cost/schedule estimates.
+              </li>
+              <li>
+                Requirements understanding as evidenced by the fidelity of the primary use cases.
+              </li>
+              <li>
+                Credibility of the cost/schedule estimates, priorities, risks, and development process.
+              </li>
+              <li>
+                Depth and breadth of any architectural prototype that was developed.
+              </li>
+              <li>
+                Establishing a baseline by which to compare actual expenditures versus planned expenditures.
+              </li>
+            </ul>
+            <p>
+              If the project does not pass this milestone, called the life cycle objective milestone, it either can be cancelled or repeated after being redesigned to better meet the criteria.
+
+            </p>
+            <h4>
+              <span id="Elaboration_phase_.28Ortner.29">
+              </span>
+              <span class="mw-headline" id="Elaboration_phase_(Ortner)">
+                Elaboration phase (Ortner)
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=6" title="Edit section: Elaboration phase (Ortner)">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              The primary objective is to mitigate the key risk items identified by analysis up to the end of this phase.
+The elaboration phase is where the project starts to take shape. In this phase the problem domain analysis is made and the architecture of the project gets its basic form.
+
+            </p>
+            <p>
+              The outcome of the elaboration phase is:
+
+            </p>
+            <ul>
+              <li>
+                A use-case model in which the use-cases and the actors have been identified and most of the use-case descriptions are developed. The use-case model should be 80% complete.
+              </li>
+              <li>
+                A description of the software architecture in a software system development process.
+              </li>
+              <li>
+                An 
+                <a href="/wiki/Executable_Architecture" class="mw-redirect" title="Executable Architecture">
+                  executable architecture
+                </a>
+                 that realizes architecturally significant use cases.
+              </li>
+              <li>
+                Business case and risk list which are revised.
+              </li>
+              <li>
+                A development plan for the overall project.
+              </li>
+              <li>
+                Prototypes that demonstrably mitigate each identified technical risk.
+              </li>
+              <li>
+                A preliminary user manual (optional)
+              </li>
+            </ul>
+            <p>
+              This phase must pass the lifecycle architecture milestone criteria answering the following questions:
+
+            </p>
+            <ul>
+              <li>
+                Is the vision of the product stable?
+              </li>
+              <li>
+                Is the architecture stable?
+              </li>
+              <li>
+                Does the executable demonstration indicate that major risk elements are addressed and resolved?
+              </li>
+              <li>
+                Is the construction phase plan sufficiently detailed and accurate?
+              </li>
+              <li>
+                Do all stakeholders agree that the current vision can be achieved using current plan in the context of the current architecture?
+              </li>
+              <li>
+                Is the actual vs. planned resource expenditure acceptable?
+              </li>
+            </ul>
+            <p>
+              If the project cannot pass this milestone, there is still time for it to be canceled or redesigned. However, after leaving this phase, the project transitions into a high-risk operation where changes are much more difficult and detrimental when made.
+
+            </p>
+            <p>
+              The key domain analysis for the elaboration is the system architecture.
+
+            </p>
+            <h4>
+              <span class="mw-headline" id="Construction_phase">
+                Construction phase
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=7" title="Edit section: Construction phase">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              The primary objective is to build the software system.
+In this phase, the main focus is on the development of components and other features of the system. This is the phase when the bulk of the coding takes place. In larger projects, several construction iterations may be developed in an effort to divide the use cases into manageable segments produce demonstrable prototypes.
+
+            </p>
+            <h4>
+              <span class="mw-headline" id="Transition_phase">
+                Transition phase
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=8" title="Edit section: Transition phase">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              The primary objective is to 'transit' the system from development into production, making it available to and understood by the end user.
+The activities of this phase include training the end users and maintainers and beta testing the system to validate it against the end users' expectations. The system also goes through an evaluation phase, any developer which is not producing the required work is replaced or removed. The product is also checked against the quality level set in the Inception phase.
+
+            </p>
+            <p>
+              If all objectives are met, the product release milestone is reached and the development cycle is finished.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="The_IBM_Rational_Method_Composer_product">
+                The IBM Rational Method Composer product
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=9" title="Edit section: The IBM Rational Method Composer product">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              The IBM Rational Method Composer product is a tool for authoring, configuring, viewing, and publishing processes. See 
+              <a href="/w/index.php?title=IBM_Rational_Method_Composer&amp;action=edit&amp;redlink=1" class="new" title="IBM Rational Method Composer (page does not exist)">
+                IBM Rational Method Composer
+              </a>
+               and an open source version 
+              <a href="/wiki/Eclipse_Process_Framework" title="Eclipse Process Framework">
+                Eclipse Process Framework
+              </a>
+               (EPF) project for more details.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Certification">
+                Certification
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=10" title="Edit section: Certification">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              In January 2007 the new RUP certification examination for 
+              <i>
+                IBM Certified Solution Designer - Rational Unified Process 7.0
+              </i>
+               was released which replaces the previous version of the course called 
+              <i>
+                IBM Rational Certified Specialist - Rational Unified Process
+              </i>
+              .
+              <sup id="cite_ref-rupcert_6-0" class="reference">
+                <a href="#cite_note-rupcert-6">
+                  [6]
+                </a>
+              </sup>
+               The new examination will not only test knowledge related to the RUP content but also to the process structure elements.
+              <sup id="cite_ref-rup7_7-0" class="reference">
+                <a href="#cite_note-rup7-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <p>
+              To pass the new RUP certification examination, a person must take IBM's 
+              <i>
+                Test 839: Rational Unified Process v7.0
+              </i>
+              . You are given 75 minutes to take the 52 question exam. The passing score is 62%.
+              <sup id="cite_ref-test389_8-0" class="reference">
+                <a href="#cite_note-test389-8">
+                  [8]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Six_best_practices">
+                Six best practices
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=11" title="Edit section: Six best practices">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Six best 
+              <a href="/wiki/Software_engineering" title="Software engineering">
+                software engineering
+              </a>
+               practices are defined for software projects to minimize faults and increase productivity. These are:
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+            </p>
+            <dl>
+              <dt>
+                Develop iteratively
+              </dt>
+              <dd>
+                It is best to know all requirements in advance; however, often this is not the case. Several software development processes exist that deal with providing solutions to minimize cost in terms of development phases.
+              </dd>
+              <dt>
+                Manage requirements
+              </dt>
+              <dd>
+                Always keep in mind the requirements set by users.
+              </dd>
+              <dt>
+                Use components
+              </dt>
+              <dd>
+                Breaking down an advanced project is not only suggested but in fact unavoidable. This promotes ability to test individual components before they are integrated into a larger system. Also, code reuse is a big plus and can be accomplished more easily through the use of 
+                <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">
+                  object-oriented programming
+                </a>
+                .
+              </dd>
+              <dt>
+                Model visually
+              </dt>
+              <dd>
+                Use diagrams to represent all major components, users, and their interaction. "UML", short for 
+                <a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">
+                  Unified Modeling Language
+                </a>
+                , is one tool that can be used to make this task more feasible.
+              </dd>
+              <dt>
+                Verify quality
+              </dt>
+              <dd>
+                Always make testing a major part of the project at any point of time. Testing becomes heavier as the project progresses but should be a constant factor in any software product creation.
+              </dd>
+              <dt>
+                Control changes
+              </dt>
+              <dd>
+                Many projects are created by many teams, sometimes in various locations, different platforms may be used, etc. As a result, it is essential to make sure that changes made to a system are synchronized and verified constantly. (See 
+                <a href="/wiki/Continuous_integration" title="Continuous integration">
+                  Continuous integration
+                </a>
+                ).
+              </dd>
+            </dl>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=12" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Macroscope_(methodology_suite)" title="Macroscope (methodology suite)">
+                  Macroscope (methodology suite)
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Agile_Modeling" class="mw-redirect" title="Agile Modeling">
+                  Agile Modeling
+                </a>
+                 (AM)
+              </li>
+              <li>
+                <a href="/wiki/Agile_Unified_Process" title="Agile Unified Process">
+                  Agile Unified Process
+                </a>
+                 (AUP)
+              </li>
+              <li>
+                <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                  Disciplined agile delivery
+                </a>
+                 (DAD)
+              </li>
+              <li>
+                <a href="/wiki/Dynamic_Systems_Development_Method" class="mw-redirect" title="Dynamic Systems Development Method">
+                  Dynamic Systems Development Method
+                </a>
+                 (DSDM)
+              </li>
+              <li>
+                <a href="/wiki/Computer_programming" title="Computer programming">
+                  Computer programming
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Feature-driven_development" title="Feature-driven development">
+                  Feature-driven development
+                </a>
+                 (FDD)
+              </li>
+              <li>
+                <a href="/wiki/Project_life_cycle" class="mw-redirect" title="Project life cycle">
+                  Project life cycle
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Quality_control" title="Quality control">
+                  Quality assurance
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Scaled_Agile_Framework" class="mw-redirect" title="Scaled Agile Framework">
+                  Scaled Agile Framework
+                </a>
+                 — a descendant of RUP that incorporates 
+                <a href="/wiki/Agile_software_development" title="Agile software development">
+                  Agile software development
+                </a>
+                 methods such as 
+                <a href="/wiki/Extreme_programming" title="Extreme programming">
+                  Extreme programming
+                </a>
+                 (XP)
+              </li>
+              <li>
+                <a href="/wiki/Software_architecture" title="Software architecture">
+                  Software architecture
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Software_component" class="mw-redirect" title="Software component">
+                  Software component
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Software_development_process" title="Software development process">
+                  Software development process
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Software_engineering" title="Software engineering">
+                  Software engineering
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Software_testing" title="Software testing">
+                  Software testing
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Test-driven_development" title="Test-driven development">
+                  Test-driven development
+                </a>
+                 (TDD)
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=13" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external text" href="http://www.eweek.com/c/a/Desktops-and-Notebooks/IBM-Acquires-Rational/">
+                        IBM Acquires Rational
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-rop-overview-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-rop-overview_2-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Jacobson, Sten (2002-07-19). 
+                        <a rel="nofollow" class="external text" href="http://www.iscn.at/select_newspaper/object/rational.html">
+                          "The Rational Objectory Process - A UML-based Software Engineering Process"
+                        </a>
+                        . 
+                        <a href="/w/index.php?title=Rational_Software_Scandinavia_AB&amp;action=edit&amp;redlink=1" class="new" title="Rational Software Scandinavia AB (page does not exist)">
+                          Rational Software Scandinavia AB
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2014-12-17
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Rational+Objectory+Process+-+A+UML-based+Software+Engineering+Process&amp;rft.pub=Rational+Software+Scandinavia+AB&amp;rft.date=2002-07-19&amp;rft.aulast=Jacobson&amp;rft.aufirst=Sten&amp;rft_id=http%3A%2F%2Fwww.iscn.at%2Fselect_newspaper%2Fobject%2Frational.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-rup-introduction-history-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-rup-introduction-history_3-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Kruchten, Philippe (2004-05-01). 
+                        <a rel="nofollow" class="external text" href="https://books.google.com.au/books?id=RYCMx6o47pMC&amp;pg=PA33#v=onepage&amp;q&amp;f=false">
+                          "The Rational Unified Process: An Introduction"
+                        </a>
+                        . 
+                        <a href="/wiki/Addison-Wesley" title="Addison-Wesley">
+                          Addison-Wesley
+                        </a>
+                        . p. 33
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2014-12-17
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Rational+Unified+Process%3A+An+Introduction&amp;rft.pages=33&amp;rft.pub=Addison-Wesley&amp;rft.date=2004-05-01&amp;rft.aulast=Kruchten&amp;rft.aufirst=Philippe&amp;rft_id=https%3A%2F%2Fbooks.google.com.au%2Fbooks%3Fid%3DRYCMx6o47pMC%26pg%3DPA33%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-rup-in-brief-4">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-rup-in-brief_4-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Aked, Mark (2003-11-25). 
+                        <a rel="nofollow" class="external text" href="http://www.ibm.com/developerworks/rational/library/1826.html#N100E4">
+                          "RUP in brief"
+                        </a>
+                        . 
+                        <a href="/wiki/IBM" title="IBM">
+                          IBM
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2011-07-12
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RUP+in+brief&amp;rft.pub=IBM&amp;rft.date=2003-11-25&amp;rft.aulast=Aked&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Frational%2Flibrary%2F1826.html%23N100E4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external free" href="http://epf.eclipse.org/wikis/openup/">
+                        http://epf.eclipse.org/wikis/openup/
+                      </a>
+                    </span>
+                  </li>
+                  <li id="cite_note-rupcert-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-rupcert_6-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Krebs, Jochen (2007-01-15). 
+                        <a rel="nofollow" class="external text" href="http://www.ibm.com/developerworks/rational/library/jan07/krebs/">
+                          "The value of RUP certification"
+                        </a>
+                        . 
+                        <a href="/wiki/IBM" title="IBM">
+                          IBM
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2014-05-05
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+value+of+RUP+certification&amp;rft.pub=IBM&amp;rft.date=2007-01-15&amp;rft.aulast=Krebs&amp;rft.aufirst=Jochen&amp;rft_id=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Frational%2Flibrary%2Fjan07%2Fkrebs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-rup7-7">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-rup7_7-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www-03.ibm.com/certify/certs/38008003.shtml">
+                          "Spacer IBM Certified Solution Designer - IBM Rational Unified Process V7.0"
+                        </a>
+                        . 
+                        <a href="/wiki/IBM" title="IBM">
+                          IBM
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2008-05-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spacer+IBM+Certified+Solution+Designer+-+IBM+Rational+Unified+Process+V7.0&amp;rft.pub=IBM&amp;rft_id=http%3A%2F%2Fwww-03.ibm.com%2Fcertify%2Fcerts%2F38008003.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-test389-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-test389_8-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www-03.bm.com/certify/tests/ovr839.shtml">
+                          "Test 839: Rational Unified Process v7.0"
+                        </a>
+                        . 
+                        <a href="/wiki/IBM" title="IBM">
+                          IBM
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2008-05-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Test+839%3A+Rational+Unified+Process+v7.0&amp;rft.pub=IBM&amp;rft_id=http%3A%2F%2Fwww-03.bm.com%2Fcertify%2Ftests%2Fovr839.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARational+Unified+Process" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Stephen Schach (2004). 
+                      <i>
+                        Classical and Object-Oriented Software Engineering
+                      </i>
+                      . 6/e, WCB McGraw Hill, New York, 2004.
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external text" href="http://www.augustana.ab.ca/~mohrj/courses/2000.winter/csc220/papers/rup_best_practices/rup_bestpractices.html">
+                        Rational Unified Process white paper
+                      </a>
+                      <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090501034302/http://www.augustana.ab.ca/~mohrj/courses/2000.winter/csc220/papers/rup_best_practices/rup_bestpractices.html">
+                        Archived
+                      </a>
+                       2009-05-01 at the 
+                      <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+                        Wayback Machine
+                      </a>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Further_reading">
+                Further reading
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=14" title="Edit section: Further reading">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">
+                  Ivar Jacobson
+                </a>
+                , 
+                <a href="/wiki/Grady_Booch" title="Grady Booch">
+                  Grady Booch
+                </a>
+                , and 
+                <a href="/wiki/James_Rumbaugh" title="James Rumbaugh">
+                  James Rumbaugh
+                </a>
+                 (1999). 
+                <i>
+                  The Unified Software Development Process
+                </i>
+              </li>
+              <li>
+                <a href="/w/index.php?title=Gary_Pollice&amp;action=edit&amp;redlink=1" class="new" title="Gary Pollice (page does not exist)">
+                  Gary Pollice
+                </a>
+                , 
+                <a href="/w/index.php?title=Liz_Augustine&amp;action=edit&amp;redlink=1" class="new" title="Liz Augustine (page does not exist)">
+                  Liz Augustine
+                </a>
+                , Chris Lowe, and 
+                <a href="/w/index.php?title=Jas_Madhur&amp;action=edit&amp;redlink=1" class="new" title="Jas Madhur (page does not exist)">
+                  Jas Madhur
+                </a>
+                 (2003). 
+                <i>
+                  Software Development for Small Teams: A RUP-Centric Approach
+                </i>
+              </li>
+              <li>
+                Per Kroll, 
+                <a href="/wiki/Philippe_Kruchten" title="Philippe Kruchten">
+                  Philippe Kruchten
+                </a>
+                 (2003). 
+                <i>
+                  Rational Unified Process Made Easy, The: A Practitioner's Guide to the RUP
+                </i>
+              </li>
+              <li>
+                Per Kroll, Bruce Mac Isaac (2006). 
+                <i>
+                  Agility and Discipline Made Easy: Practices from OpenUP and RUP
+                </i>
+              </li>
+              <li>
+                <a href="/wiki/Philippe_Kruchten" title="Philippe Kruchten">
+                  Philippe Kruchten
+                </a>
+                 (1998). 
+                <i>
+                  The Rational Unified Process: An Introduction
+                </i>
+              </li>
+              <li>
+                Ahmad Shuja, Jochen Krebs (2007). 
+                <i>
+                  RUP Reference and Certification Guide
+                </i>
+              </li>
+              <li>
+                Walker Royce, 
+                <i>
+                  Software Project Management, A Unified Framework
+                </i>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit&amp;section=15" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040402113344/http://www-306.ibm.com/software/awdtools/rup/">
+                  IBM Rational Unified Process Web Site
+                </a>
+              </li>
+            </ul>
+            <div role="navigation" class="navbox" aria-labelledby="Unified_Modeling_Language" style="padding:3px">
+              <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th scope="col" class="navbox-title" colspan="3">
+                      <div class="plainlinks hlist navbar mini">
+                        <ul>
+                          <li class="nv-view">
+                            <a href="/wiki/Template:UML" title="Template:UML">
+                              <abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                v
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-talk">
+                            <a href="/wiki/Template_talk:UML" title="Template talk:UML">
+                              <abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                t
+                              </abbr>
+                            </a>
+                          </li>
+                          <li class="nv-edit">
+                            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UML&amp;action=edit">
+                              <abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">
+                                e
+                              </abbr>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div id="Unified_Modeling_Language" style="font-size:114%;margin:0 4em">
+                        <a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">
+                          Unified Modeling Language
+                        </a>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Actors
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <i>
+                              Organizations
+                            </i>
+                            <ul>
+                              <li>
+                                <a href="/wiki/Object_Management_Group" title="Object Management Group">
+                                  Object Management Group
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/UML_Partners" title="UML Partners">
+                                  UML Partners
+                                </a>
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            <i>
+                              Persons
+                            </i>
+                            <ul>
+                              <li>
+                                <a href="/wiki/Grady_Booch" title="Grady Booch">
+                                  Grady Booch
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">
+                                  Ivar Jacobson
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/James_Rumbaugh" title="James Rumbaugh">
+                                  James Rumbaugh
+                                </a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+                      <div>
+                        <a href="/wiki/Use_case_diagram" title="Use case diagram">
+                          <img alt="Use case restaurant model.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/100px-Use_case_restaurant_model.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/150px-Use_case_restaurant_model.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Use_case_restaurant_model.svg/200px-Use_case_restaurant_model.svg.png 2x" data-file-width="496" data-file-height="496"/>
+                        </a>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Concepts
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                      </div>
+                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Object oriented
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">
+                                      Object-oriented programming
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Object-oriented_analysis_and_design" title="Object-oriented analysis and design">
+                                      Object-oriented analysis and design
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Object-oriented_modeling" title="Object-oriented modeling">
+                                      Object-oriented modeling
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Structure
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Actor_(UML)" title="Actor (UML)">
+                                      Actor
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Attribute_(computing)" title="Attribute (computing)">
+                                      Attribute
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Artifact_(UML)" title="Artifact (UML)">
+                                      Artifact
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Class_(computer_programming)" title="Class (computer programming)">
+                                      Class
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Component_(UML)" title="Component (UML)">
+                                      Component
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Protocol_(object-oriented_programming)" title="Protocol (object-oriented programming)">
+                                      Interface
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Object_(computer_science)" title="Object (computer science)">
+                                      Object
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Package_(UML)" title="Package (UML)">
+                                      Package
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Profile_diagram" title="Profile diagram">
+                                      Profile diagram
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Behavior
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Activity_(UML)" title="Activity (UML)">
+                                      Activity
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Event_(UML)" title="Event (UML)">
+                                      Event
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Message_passing" title="Message passing">
+                                      Message
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Method_(computer_programming)" title="Method (computer programming)">
+                                      Method
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/State_(computer_science)" title="State (computer science)">
+                                      State
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Use_case" title="Use case">
+                                      Use case
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Relationships
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Association_(object-oriented_programming)" title="Association (object-oriented programming)">
+                                      Association
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Object_composition" title="Object composition">
+                                      Composition
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Coupling_(computer_programming)" title="Coupling (computer programming)">
+                                      Dependency
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Generalization" title="Generalization">
+                                      Generalization
+                                    </a>
+                                     (or 
+                                    <a href="/wiki/Inheritance_(object-oriented_programming)" title="Inheritance (object-oriented programming)">
+                                      Inheritance
+                                    </a>
+                                    )
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Extensibility
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Profile_(UML)" title="Profile (UML)">
+                                      Profile
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Stereotype_(UML)" title="Stereotype (UML)">
+                                      Stereotype
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Other
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Class_diagram#Multiplicity" title="Class diagram">
+                                      Multiplicity
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Diagrams
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                      </div>
+                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Structure
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Class_diagram" title="Class diagram">
+                                      Class
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Component_diagram" title="Component diagram">
+                                      Component
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Composite_structure_diagram" title="Composite structure diagram">
+                                      Composite structure
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Deployment_diagram" title="Deployment diagram">
+                                      Deployment
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Object_diagram" title="Object diagram">
+                                      Object
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Package_diagram" title="Package diagram">
+                                      Package
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Behaviour
+                            </th>
+                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Activity_diagram" title="Activity diagram">
+                                      Activity
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/UML_state_machine" title="UML state machine">
+                                      State Machine
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Use_case_diagram" title="Use case diagram">
+                                      Use case
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <th scope="row" class="navbox-group" style="width:1%">
+                              Interaction
+                            </th>
+                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                              <div style="padding:0em 0.25em">
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Communication_diagram" title="Communication diagram">
+                                      Communications
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Sequence_diagram" title="Sequence diagram">
+                                      Sequence
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Interaction_overview_diagram" title="Interaction overview diagram">
+                                      Interaction overview
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Timing_diagram_(Unified_Modeling_Language)" title="Timing diagram (Unified Modeling Language)">
+                                      Timing
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Derived languages
+                    </th>
+                    <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">
+                              Systems Modeling Language (SysML)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/UXF" title="UXF">
+                              UML eXchange Format (UXF)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/XML_Metadata_Interchange" title="XML Metadata Interchange">
+                              XML Metadata Interchange (XMI)
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Executable_UML" title="Executable UML">
+                              Executable UML (xUML)
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row" class="navbox-group" style="width:1%">
+                      Other topics
+                    </th>
+                    <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <a href="/wiki/Glossary_of_Unified_Modeling_Language_terms" title="Glossary of Unified Modeling Language terms">
+                              Glossary of UML terms
+                            </a>
+                          </li>
+                          <li>
+                            <a class="mw-selflink selflink">
+                              Rational Unified Process
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/List_of_Unified_Modeling_Language_tools" title="List of Unified Modeling Language tools">
+                              List of Unified Modeling Language tools
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wiki/Object_Modeling_in_Color" title="Object Modeling in Color">
+                              Object Modeling in Color
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q478019&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+              <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+                <tbody>
+                  <tr>
+                    <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q478019&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%">
+                      <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+                        Authority control
+                      </a>
+                      <a href="https://www.wikidata.org/wiki/Q478019" title="Edit this at Wikidata">
+                        <img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"/>
+                      </a>
+                    </th>
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em">
+                        <ul>
+                          <li>
+                            <span class="nowrap">
+                              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+                                GND
+                              </a>
+                              : 
+                              <span class="uid">
+                                <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4560513-0">
+                                  4560513-0
+                                </a>
+                              </span>
+                            </span>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20191213043409
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.408 seconds
+Real time usage: 0.689 seconds
+Preprocessor visited node count: 862/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51809/2097152 bytes
+Template argument size: 526/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21256/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 3.68 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  476.625      1 -total
+ 33.47%  159.548      1 Template:Reflist
+ 26.50%  126.292      1 Template:ISBN
+ 24.43%  116.461      6 Template:Cite_web
+ 21.67%  103.266      1 Template:Authority_control
+ 17.37%   82.775      1 Template:Catalog_lookup_link
+  9.71%   46.304      1 Template:Software_development_process
+  5.66%   26.998      3 Template:Navbox
+  5.46%   26.004      1 Template:UML
+  3.26%   15.537      1 Template:Webarchive
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:233624-0!canonical and timestamp 20191213043408 and revision id 921709819
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rational_Unified_Process&amp;oldid=921709819">
+            https://en.wikipedia.org/w/index.php?title=Rational_Unified_Process&amp;oldid=921709819
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Formal_methods" title="Category:Formal methods">
+                  Formal methods
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Rational_Software_software" title="Category:Rational Software software">
+                  Rational Software software
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Software_project_management" title="Category:Software project management">
+                  Software project management
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+                  Webarchive template wayback links
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+                  Wikipedia articles with GND identifiers
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rational+Unified+Process" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rational+Unified+Process" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Rational_Unified_Process" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Rational_Unified_Process" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Rational_Unified_Process">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Rational_Unified_Process" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Rational_Unified_Process" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;oldid=921709819" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478019" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rational_Unified_Process&amp;id=921709819" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rational+Unified+Process">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rational+Unified+Process&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Rational_Unified_Process&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D8%B1%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_IBM" title="العملية الموحدة لراشيونال IBM – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">
+                  العربية
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="https://cs.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">
+                  Čeština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational" title="Proceso Unificado de Rational – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87_%D8%B1%D8%B4%D9%86%D8%A7%D9%84" title="فرایند یکپارچه رشنال – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%EB%9E%98%EC%85%94%EB%84%90_%ED%86%B5%ED%95%A9_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4" title="래셔널 통합 프로세스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-id">
+                <a href="https://id.wikipedia.org/wiki/RUP" title="RUP – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lt">
+                <a href="https://lt.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">
+                  Lietuvių
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ms">
+                <a href="https://ms.wikipedia.org/wiki/RUP" title="RUP – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">
+                  Bahasa Melayu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="https://nl.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E7%B5%B1%E4%B8%80%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9" title="ラショナル統一プロセス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="https://no.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="https://pl.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process" title="IBM Rational Unified Process – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sk">
+                <a href="https://sk.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">
+                  Slovenčina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="https://fi.wikipedia.org/wiki/RUP" title="RUP – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/Rational_Unified_Process" title="Rational Unified Process – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B" title="统一软件开发过程 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">
+                  中文
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478019#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 17 October 2019, at 11:52
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Rational_Unified_Process&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.689","ppvisitednodes":{"value":862,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51809,"limit":2097152},"templateargumentsize":{"value":526,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21256,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  476.625      1 -total"," 33.47%  159.548      1 Template:Reflist"," 26.50%  126.292      1 Template:ISBN"," 24.43%  116.461      6 Template:Cite_web"," 21.67%  103.266      1 Template:Authority_control"," 17.37%   82.775      1 Template:Catalog_lookup_link","  9.71%   46.304      1 Template:Software_development_process","  5.66%   26.998      3 Template:Navbox","  5.46%   26.004      1 Template:UML","  3.26%   15.537      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":3862485,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20191213043409","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Rational Unified Process","url":"https:\/\/en.wikipedia.org\/wiki\/Rational_Unified_Process","sameAs":"http:\/\/www.wikidata.org\/entity\/Q478019","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q478019","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-05-25T13:02:52Z","dateModified":"2019-10-17T11:52:02Z","headline":"process by which software is developed"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1275"});});
+//]]>
+    </script>
+  </body>
+</html>

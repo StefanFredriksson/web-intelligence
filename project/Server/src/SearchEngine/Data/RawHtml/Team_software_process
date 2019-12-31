@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Team software process - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XggRJwpAICAAAFec5xAAAADL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Team_software_process","wgTitle":"Team software process","wgCurRevisionId":918248824,"wgRevisionId":918248824,"wgArticleId":12159433,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 maint: uses authors parameter","Software development process"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Team_software_process","wgRelevantArticleId":12159433,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1421651","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"
+];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Team_software_process"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Team_software_process&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Team_software_process&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Team_software_process"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Team_software_process rootpage-Team_software_process skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Team software process
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+              <tbody>
+                <tr>
+                  <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+                    <a href="/wiki/Software_development" title="Software development">
+                      Software development
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Core activities
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_development_process" title="Software development process">
+                          Processes
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Requirements_analysis" title="Requirements analysis">
+                          Requirements
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_design" title="Software design">
+                          Design
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_engineering" title="Software engineering">
+                          Engineering
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_construction" title="Software construction">
+                          Construction
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_testing" title="Software testing">
+                          Testing
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugging" title="Debugging">
+                          Debugging
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_deployment" title="Software deployment">
+                          Deployment
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_maintenance" title="Software maintenance">
+                          Maintenance
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Paradigms and models
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Agile_software_development" title="Agile software development">
+                          Agile
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Cleanroom_software_engineering" title="Cleanroom software engineering">
+                          Cleanroom
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Incremental_build_model" title="Incremental build model">
+                          Incremental
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_prototyping" title="Software prototyping">
+                          Prototyping
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Spiral_model" title="Spiral model">
+                          Spiral
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">
+                          V model
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Waterfall_model" title="Waterfall model">
+                          Waterfall
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Software_development_methodology" class="mw-redirect" title="Software development methodology">
+                      Methodologies
+                    </a>
+                     and frameworks
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Adaptive_software_development" title="Adaptive software development">
+                          ASD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/DevOps" title="DevOps">
+                          DevOps
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Disciplined_agile_delivery" title="Disciplined agile delivery">
+                          DAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Dynamic_systems_development_method" title="Dynamic systems development method">
+                          DSDM
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Feature-driven_development" title="Feature-driven development">
+                          FDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">
+                          IID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Kanban_(development)" title="Kanban (development)">
+                          Kanban
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Lean_software_development" title="Lean software development">
+                          Lean SD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)#Large-scale_Scrum" title="Scrum (software development)">
+                          LeSS
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Model-driven_development" class="mw-redirect" title="Model-driven development">
+                          MDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Microsoft_Solutions_Framework" title="Microsoft Solutions Framework">
+                          MSF
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Personal_software_process" title="Personal software process">
+                          PSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rapid_application_development" title="Rapid application development">
+                          RAD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Rational_Unified_Process" title="Rational Unified Process">
+                          RUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scaled_agile_framework" title="Scaled agile framework">
+                          SAFe
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">
+                          Scrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/SEMAT" title="SEMAT">
+                          SEMAT
+                        </a>
+                      </li>
+                      <li>
+                        <a class="mw-selflink selflink">
+                          TSP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/OpenUP" title="OpenUP">
+                          OpenUP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Unified_Process" title="Unified Process">
+                          UP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming" title="Extreme programming">
+                          XP
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Supporting disciplines
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Software_configuration_management" title="Software configuration management">
+                          Configuration management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_documentation" title="Software documentation">
+                          Documentation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_quality_assurance" title="Software quality assurance">
+                          Software quality assurance (SQA)
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_project_management" title="Software project management">
+                          Project management
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/User_experience" title="User experience">
+                          User experience
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Practices
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Acceptance_test%E2%80%93driven_development" title="Acceptance test–driven development">
+                          ATDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Behavior-driven_development" title="Behavior-driven development">
+                          BDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Extreme_programming_practices#Collective_code_ownership" title="Extreme programming practices">
+                          CCO
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_integration" title="Continuous integration">
+                          CI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Continuous_delivery" title="Continuous delivery">
+                          CD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Domain-driven_design" title="Domain-driven design">
+                          DDD
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Pair_programming" title="Pair programming">
+                          PP
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Specification_by_example" title="Specification by example">
+                          SBE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Stand-up_meeting" title="Stand-up meeting">
+                          Stand-up
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Test-driven_development" title="Test-driven development">
+                          TDD
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    <a href="/wiki/Programming_tool" title="Programming tool">
+                      Tools
+                    </a>
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Compiler" title="Compiler">
+                          Compiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Debugger" title="Debugger">
+                          Debugger
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">
+                          Profiler
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Graphical_user_interface_builder" title="Graphical user interface builder">
+                          GUI designer
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/UML_tool" title="UML tool">
+                          Modeling
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Integrated_development_environment" title="Integrated development environment">
+                          IDE
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Build_automation" title="Build automation">
+                          Build automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Application-release_automation" title="Application-release automation">
+                          Release automation
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">
+                          Infrastructure as code
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Category:Software_testing_tools" title="Category:Software testing tools">
+                          Testing
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Standards and Bodies of Knowledge
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge" title="A Guide to the Business Analysis Body of Knowledge">
+                          BABOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">
+                          CMMI
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/IEEE_Standards_Association" title="IEEE Standards Association">
+                          IEEE standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO_9001" class="mw-redirect" title="ISO 9001">
+                          ISO 9001
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ISO/IEC_JTC_1/SC_7" title="ISO/IEC JTC 1/SC 7">
+                          ISO/IEC standards
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Project_Management_Body_of_Knowledge" title="Project Management Body of Knowledge">
+                          PMBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Software_Engineering_Body_of_Knowledge" title="Software Engineering Body of Knowledge">
+                          SWEBOK
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/ITIL" title="ITIL">
+                          ITIL
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th style="padding:0.1em;background-color: #e7c6a5">
+                    
+Glossaries
+                  </th>
+                </tr>
+                <tr>
+                  <td class="hlist" style="padding:0 0.1em 0.4em">
+                    <ul>
+                      <li>
+                        <a href="/wiki/Glossary_of_artificial_intelligence" title="Glossary of artificial intelligence">
+                          Artificial intelligence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">
+                          Computer science
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Glossary_of_electrical_and_electronics_engineering" title="Glossary of electrical and electronics engineering">
+                          Electrical and electronics engineering
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right;font-size:115%">
+                    <div class="plainlinks hlist navbar mini">
+                      <ul>
+                        <li class="nv-view">
+                          <a href="/wiki/Template:Software_development_process" title="Template:Software development process">
+                            <abbr title="View this template">
+                              v
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-talk">
+                          <a href="/wiki/Template_talk:Software_development_process" title="Template talk:Software development process">
+                            <abbr title="Discuss this template">
+                              t
+                            </abbr>
+                          </a>
+                        </li>
+                        <li class="nv-edit">
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Software_development_process&amp;action=edit">
+                            <abbr title="Edit this template">
+                              e
+                            </abbr>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              In combination with the 
+              <a href="/wiki/Personal_software_process" title="Personal software process">
+                personal software process
+              </a>
+               (PSP), the 
+              <b>
+                team software process
+              </b>
+               (
+              <b>
+                TSP
+              </b>
+              ) provides a defined operational process framework that is designed to help teams of managers and engineers organize projects and produce software the principles 
+products that range in size from small projects of several thousand lines of code (KLOC) to very large projects greater than half a million lines of code. The TSP is intended to improve the levels of quality and productivity of a team's software development project, in order to help them better meet the cost and schedule commitments of developing a software system.
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+              <sup id="cite_ref-McKinsey_2-0" class="reference">
+                <a href="#cite_note-McKinsey-2">
+                  [2]
+                </a>
+              </sup>
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+            </p>
+            <p>
+              The initial version of the TSP was developed and piloted by Watts Humphrey in the late 1990s
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+               and the Technical Report
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+               for TSP  sponsored by the U.S. Department of Defense was published in November 2000. The book by Watts Humphrey,
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+              <i>
+                Introduction to the Team Software Process
+              </i>
+              , presents a view of the TSP intended for use in academic settings, that focuses on the process of building a software production team, establishing team goals, distributing team roles, and other teamwork-related activities.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Introduction_to_TSP">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Introduction to TSP
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#How_TSP_works">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      How TSP works
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="#Latest_developments">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Latest developments
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="#Publications">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Publications
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-6">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-7">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Introduction_to_TSP">
+                Introduction to TSP
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=1" title="Edit section: Introduction to TSP">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              The primary goal of TSP is to create a team environment for establishing and maintaining a self-directed
+team, and supporting disciplined individual work as a base of PSP framework. Self-directed team means that the team manages itself, plans and tracks their work, manages the quality of their work, and works proactively to meet team goals. TSP has two principal components: team-building and team-working. Team-building is a process that defines roles for each team member and sets up teamwork through TSP launch and periodical relaunch.
+Team-working is a process that deals with engineering processes and practices utilized by the team.
+TSP, in short, provides engineers and managers with a way that establishes and manages their team to produce the high-quality software on schedule and budget.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="How_TSP_works">
+                How TSP works
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=2" title="Edit section: How TSP works">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Before engineers can participate in the TSP, it is required that they have already learned about the PSP, so that the TSP can work effectively. Training is also required for other team members, the team lead and management. The TSP software development cycle begins with a planning process called the launch, led by a coach who has been specially trained, and is either certified or provisional.
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+                The launch is designed to begin the team building process, and during this time teams and managers establish goals, define team roles, assess risks, estimate effort, allocate tasks, and produce a team plan. During an execution phase, developers track planned and actual effort, schedule, and defects meeting regularly (usually weekly) to report status and revise plans. A development cycle ends with a Post Mortem to assess performance, revise planning parameters, and capture lessons learned for process improvement. 
+
+            </p>
+            <p>
+              The coach role focuses on supporting the team and the individuals on the team as the process expert while being independent of direct project management responsibility.
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+               The team leader role is different from the coach role in that, team leaders are responsible to management for products and project outcomes while the coach is responsible for developing individual and  team performance.
+              <sup id="cite_ref-12" class="reference">
+                <a href="#cite_note-12">
+                  [12]
+                </a>
+              </sup>
+              <sup id="cite_ref-13" class="reference">
+                <a href="#cite_note-13">
+                  [13]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Latest_developments">
+                Latest developments
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=3" title="Edit section: Latest developments">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              TSP has been adapted to work with other types of 
+              <a href="/wiki/Knowledge_worker" title="Knowledge worker">
+                knowledge work
+              </a>
+              , including systems engineering
+              <sup id="cite_ref-14" class="reference">
+                <a href="#cite_note-14">
+                  [14]
+                </a>
+              </sup>
+                and services.
+              <sup id="cite_ref-15" class="reference">
+                <a href="#cite_note-15">
+                  [15]
+                </a>
+              </sup>
+            </p>
+            <p>
+              Mapping TSP to CMMI practices was documented in 2010,
+              <sup id="cite_ref-16" class="reference">
+                <a href="#cite_note-16">
+                  [16]
+                </a>
+              </sup>
+               and piloted as an alternative path to implement CMMI process improvement.
+              <sup id="cite_ref-17" class="reference">
+                <a href="#cite_note-17">
+                  [17]
+                </a>
+              </sup>
+              <sup id="cite_ref-18" class="reference">
+                <a href="#cite_note-18">
+                  [18]
+                </a>
+              </sup>
+                A body of knowledge (BOK) was issued in 2010.
+              <sup id="cite_ref-19" class="reference">
+                <a href="#cite_note-19">
+                  [19]
+                </a>
+              </sup>
+               The coach mentor program guidebook was released in 2010.
+              <sup id="cite_ref-20" class="reference">
+                <a href="#cite_note-20">
+                  [20]
+                </a>
+              </sup>
+            </p>
+            <p>
+              According to a study by Capers Jones TSP is one of the most successful development methodologies regarding schedule, quality and budget (TCO) 
+              <sup id="cite_ref-21" class="reference">
+                <a href="#cite_note-21">
+                  [21]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Publications">
+                Publications
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=4" title="Edit section: Publications">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                TSP: Leading a Development Team 2005
+              </li>
+              <li>
+                TSP: Coaching Development Teams 2005
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=5" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Personal_software_process" title="Personal software process">
+                  Personal software process
+                </a>
+                 (PSP)
+              </li>
+              <li>
+                <a href="/wiki/Watts_Humphrey" title="Watts Humphrey">
+                  Watts Humphrey
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=6" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+              <ol class="references">
+                <li id="cite_note-1">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-1">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Jones, Capers (2009). 
+                      <i>
+                        Software Engineering Best Practices
+                      </i>
+                      . McGraw-Hill. p. 11. 
+                      <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                        ISBN
+                      </a>
+                       
+                      <a href="/wiki/Special:BookSources/9780071621618" title="Special:BookSources/9780071621618">
+                        <bdi>
+                          9780071621618
+                        </bdi>
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Software+Engineering+Best+Practices&amp;rft.pages=11&amp;rft.pub=McGraw-Hill&amp;rft.date=2009&amp;rft.isbn=9780071621618&amp;rft.aulast=Jones&amp;rft.aufirst=Capers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <style data-mw-deduplicate="TemplateStyles:r886058088">
+                      .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                    </style>
+                  </span>
+                </li>
+                <li id="cite_note-McKinsey-2">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-McKinsey_2-0">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    Kindler, Nosh B; Krishnakanthan, Vasantha; Tinaikar, Ranjit. 
+                    <a rel="nofollow" class="external text" href="http://www.mckinseyquarterly.com/Applying_lean_to_application_development_and_maintenance_1979">
+                      <i>
+                        Applying Lean to Application Development
+                      </i>
+                    </a>
+                    . McKinsey Quarterly, May 2007
+                  </span>
+                </li>
+                <li id="cite_note-3">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-3">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      <a rel="nofollow" class="external text" href="http://www.agilecapitalconsulting.com/">
+                        "Agile Capital Consulting"
+                      </a>
+                      . 
+                      <a rel="nofollow" class="external text" href="https://www.webcitation.org/6rcH2LTY3">
+                        Archived
+                      </a>
+                       from the original on July 3, 2017
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          July 3,
+                        </span>
+                         2017
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Agile+Capital+Consulting&amp;rft_id=http%3A%2F%2Fwww.agilecapitalconsulting.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-4">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-4">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    Ker, J. I., Wang, Y., Hajli, M. N., Song, J., &amp; Ker, C. W. (2014). "Deploying lean in healthcare: Evaluating information technology effectiveness in US hospital pharmacies". 
+                    <i>
+                      International Journal of Information Management
+                    </i>
+                    , 34(4), 556–560.
+                  </span>
+                </li>
+                <li id="cite_note-5">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-5">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation journal">
+                      McAndrews, Donald (1998). 
+                      <a rel="nofollow" class="external text" href="http://en.scientificcommons.org/18590660">
+                        "The Team Software ProcessSM (TSPSM): An Overview and Preliminary Results of Using Disciplined Practices"
+                      </a>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Team+Software+ProcessSM+%28TSPSM%29%3A+An+Overview+and+Preliminary+Results+of+Using+Disciplined+Practices&amp;rft.date=1998&amp;rft.aulast=McAndrews&amp;rft.aufirst=Donald&amp;rft_id=http%3A%2F%2Fen.scientificcommons.org%2F18590660&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <span class="cs1-hidden-error error citation-comment">
+                      Cite journal requires 
+                      <code class="cs1-code">
+                        |journal=
+                      </code>
+                       (
+                      <a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">
+                        help
+                      </a>
+                      )
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-6">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-6">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Humphrey, Watts. 
+                      <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/reports/00tr023.pdf">
+                        "The Team Software Process"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Team+Software+Process&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rft_id=http%3A%2F%2Fwww.sei.cmu.edu%2Freports%2F00tr023.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-7">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-7">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Humphrey, Watts (1999). 
+                      <i>
+                        Introduction to the Team Software Process
+                      </i>
+                      . Addison Wesley.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+the+Team+Software+Process&amp;rft.pub=Addison+Wesley&amp;rft.date=1999&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-8">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-8">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Humphrey, Watts. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Body_of_Knowledge_BOK_/6584825">
+                        "The Team Software Process Body of Knowledge"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Team+Software+Process+Body+of+Knowledge&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Body_of_Knowledge_BOK_%2F6584825&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-9">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-9">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Chick, Timothy. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Coach_Mentoring_Program_Guidebook_Version_1_1/6584810">
+                        "Team Software Process (TSP) Coach Mentoring Program Guidebook Version 1.1"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Team+Software+Process+%28TSP%29+Coach+Mentoring+Program+Guidebook+Version+1.1&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Chick&amp;rft.aufirst=Timothy&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Coach_Mentoring_Program_Guidebook_Version_1_1%2F6584810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-10">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-10">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Humphrey, Watts. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Body_of_Knowledge_BOK_/6584825">
+                        "The Team Software Process Body of Knowledge"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Team+Software+Process+Body+of+Knowledge&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Body_of_Knowledge_BOK_%2F6584825&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-11">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-11">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Humphrey, Watts (2005). 
+                      <i>
+                        TSP: Coaching Development Teams
+                      </i>
+                      . Addison Wesley.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=TSP%3A+Coaching+Development+Teams&amp;rft.pub=Addison+Wesley&amp;rft.date=2005&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-12">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-12">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Humphrey, Watts. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Body_of_Knowledge_BOK_/6584825">
+                        "The Team Software Process Body of Knowledge"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Team+Software+Process+Body+of+Knowledge&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Body_of_Knowledge_BOK_%2F6584825&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-13">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-13">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation book">
+                      Humphrey, Watts (2005). 
+                      <i>
+                        TSP: Coaching Development Teams
+                      </i>
+                      . Addison Wesley.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=TSP%3A+Coaching+Development+Teams&amp;rft.pub=Addison+Wesley&amp;rft.date=2005&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-14">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-14">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Carleton, Anita. 
+                      <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/reports/10tr008.pdf">
+                        "Extending Team Software Process (TSP) to Systems Engineering: A NAVAIR Experience Report"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Extending+Team+Software+Process+%28TSP%29+to+Systems+Engineering%3A+A+NAVAIR+Experience+Report&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Carleton&amp;rft.aufirst=Anita&amp;rft_id=http%3A%2F%2Fwww.sei.cmu.edu%2Freports%2F10tr008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-15">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-15">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Battle, Ed. 
+                      <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/tspsymposium/past-proceedings/2009/DAY%201%20930AM%20Battle.pdf">
+                        "Leading &amp; Learning – Using TSP at the MSG Level"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Naval Oceanographic Office.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leading+%26+Learning+%E2%80%93+Using+TSP+at+the+MSG+Level&amp;rft.pub=Naval+Oceanographic+Office&amp;rft.aulast=Battle&amp;rft.aufirst=Ed&amp;rft_id=http%3A%2F%2Fwww.sei.cmu.edu%2Ftspsymposium%2Fpast-proceedings%2F2009%2FDAY%25201%2520930AM%2520Battle.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-16">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-16">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      James McHale, Timothy A. Chick and Eugene Miluk (December 2010). 
+                      <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/reports/10sr032.pdf">
+                        "Implementation Guidance for the Accelerated Improvement Method (AIM)"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Software Engineering Institute
+                      <span class="reference-accessdate">
+                        . Retrieved 
+                        <span class="nowrap">
+                          October 11,
+                        </span>
+                         2016
+                      </span>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Implementation+Guidance+for+the+Accelerated+Improvement+Method+%28AIM%29&amp;rft.pub=Software+Engineering+Institute&amp;rft.date=2010-12&amp;rft_id=http%3A%2F%2Fwww.sei.cmu.edu%2Freports%2F10sr032.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <span class="cs1-maint citation-comment">
+                      CS1 maint: uses authors parameter (
+                      <a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">
+                        link
+                      </a>
+                      )
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-17">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-17">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation news">
+                      Webb, David (April 2007). 
+                      <a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=ADA487567">
+                        "CMMI Level 5 and the Team Software Process"
+                      </a>
+                      . 
+                      <i>
+                        Cross Talk
+                      </i>
+                      .
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cross+Talk&amp;rft.atitle=CMMI+Level+5+and+the+Team+Software+Process&amp;rft.date=2007-04&amp;rft.aulast=Webb&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FLocation%3DU2%26doc%3DGetTRDoc.pdf%26AD%3DADA487567&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-18">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-18">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Mondragon, Oscar. 
+                      <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/tspsymposium/past-proceedings/2010/AIM_Case_Study.pdf">
+                        "AIM Case Study"
+                      </a>
+                      <span class="cs1-format">
+                        (PDF)
+                      </span>
+                      . Software Engineering Excellence Center.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AIM+Case+Study&amp;rft.pub=Software+Engineering+Excellence+Center&amp;rft.aulast=Mondragon&amp;rft.aufirst=Oscar&amp;rft_id=http%3A%2F%2Fwww.sei.cmu.edu%2Ftspsymposium%2Fpast-proceedings%2F2010%2FAIM_Case_Study.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-19">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-19">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Humphrey, Watts. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Body_of_Knowledge_BOK_/6584825">
+                        "The Team Software Process Body of Knowledge"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Team+Software+Process+Body+of+Knowledge&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Humphrey&amp;rft.aufirst=Watts&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Body_of_Knowledge_BOK_%2F6584825&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-20">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-20">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Chick, Timothy. 
+                      <a rel="nofollow" class="external text" href="https://kilthub.cmu.edu/articles/Team_Software_Process_TSP_Coach_Mentoring_Program_Guidebook_Version_1_1/6584810">
+                        "Team Software Process (TSP) Coach Mentoring Program Guidebook Version 1.1"
+                      </a>
+                      . Software Engineering Institute.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Team+Software+Process+%28TSP%29+Coach+Mentoring+Program+Guidebook+Version+1.1&amp;rft.pub=Software+Engineering+Institute&amp;rft.aulast=Chick&amp;rft.aufirst=Timothy&amp;rft_id=https%3A%2F%2Fkilthub.cmu.edu%2Farticles%2FTeam_Software_Process_TSP_Coach_Mentoring_Program_Guidebook_Version_1_1%2F6584810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+                <li id="cite_note-21">
+                  <span class="mw-cite-backlink">
+                    <b>
+                      <a href="#cite_ref-21">
+                        ^
+                      </a>
+                    </b>
+                  </span>
+                  <span class="reference-text">
+                    <cite class="citation web">
+                      Jones, Capers (2013). 
+                      <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130629005257/http://namcookanalytics.com/evaluating-ten-software-development-methodologies/">
+                        "Evaluating ten software development methodologies"
+                      </a>
+                      . Archived from 
+                      <a rel="nofollow" class="external text" href="http://namcookanalytics.com/evaluating-ten-software-development-methodologies/">
+                        the original
+                      </a>
+                       on 29 June 2013.
+                    </cite>
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evaluating+ten+software+development+methodologies&amp;rft.date=2013&amp;rft.aulast=Jones&amp;rft.aufirst=Capers&amp;rft_id=http%3A%2F%2Fnamcookanalytics.com%2Fevaluating-ten-software-development-methodologies%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeam+software+process" class="Z3988">
+                    </span>
+                    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+                  </span>
+                </li>
+              </ol>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit&amp;section=7" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.sei.cmu.edu/tsp/">
+                  TSP homepage
+                </a>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20191130013236
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.344 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 806/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36483/2097152 bytes
+Template argument size: 117/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55135/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.207/10.000 seconds
+Lua memory usage: 3.5 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  368.862      1 -total
+ 83.36%  307.481      1 Template:Reflist
+ 38.13%  140.664      4 Template:Cite_book
+ 27.03%   99.721     13 Template:Cite_web
+ 12.34%   45.524      1 Template:Software_development_process
+  3.42%   12.614      1 Template:Cite_journal
+  2.82%   10.410      1 Template:Cite_news
+  1.01%    3.743      1 Template:Main_other
+  0.93%    3.413      1 Template:Column-width
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:12159433-0!canonical and timestamp 20191130013236 and revision id 918248824
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Team_software_process&amp;oldid=918248824">
+            https://en.wikipedia.org/w/index.php?title=Team_software_process&amp;oldid=918248824
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Software_development_process" title="Category:Software development process">
+                  Software development process
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">
+                  CS1 errors: missing periodical
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">
+                  CS1 maint: uses authors parameter
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Team+software+process" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Team+software+process" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Team_software_process" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Team_software_process" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Team_software_process">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Team_software_process&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Team_software_process&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Team_software_process" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Team_software_process" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Team_software_process&amp;oldid=918248824" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Team_software_process&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1421651" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Team_software_process&amp;id=918248824" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Team+software+process">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Team+software+process&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Team_software_process&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Team_Software_Process" title="Team Software Process – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Team_Software_Process" title="Team Software Process – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%AA%DB%8C%D9%85%DB%8C" title="فرایند نرم‌افزار تیمی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-id">
+                <a href="https://id.wikipedia.org/wiki/Team_software_process" title="Team software process – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="https://it.wikipedia.org/wiki/Team_Software_Process" title="Team Software Process – Italian" lang="it" hreflang="it" class="interlanguage-link-target">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Team_Software_Process" title="Team Software Process – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1421651#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 27 September 2019, at 18:51
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Team_software_process&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.420","ppvisitednodes":{"value":806,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36483,"limit":2097152},"templateargumentsize":{"value":117,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55135,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  368.862      1 -total"," 83.36%  307.481      1 Template:Reflist"," 38.13%  140.664      4 Template:Cite_book"," 27.03%   99.721     13 Template:Cite_web"," 12.34%   45.524      1 Template:Software_development_process","  3.42%   12.614      1 Template:Cite_journal","  2.82%   10.410      1 Template:Cite_news","  1.01%    3.743      1 Template:Main_other","  0.93%    3.413      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.207","limit":"10.000"},"limitreport-memusage":{"value":3673902,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20191130013236","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Team software process","url":"https:\/\/en.wikipedia.org\/wiki\/Team_software_process","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1421651","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1421651","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-09T04:59:06Z","dateModified":"2019-09-27T18:51:42Z","headline":"Method for software development teams for self-optimization"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1330"});});
+//]]>
+    </script>
+  </body>
+</html>
