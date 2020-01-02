@@ -5,37 +5,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class QueryLogic {
-
-	/**
-	 * Only takes the word frequency into consideration when creating recommendations.
-	 * @param query The search query from the client.
-	 * @return The recommendations.
-	 */
-	public static List<Result> GetBadRecommendations (String query) {
-		Score score = new Score();
-		List<Result> results = new ArrayList<Result>();
-		
-		for (Page page : DB.pages) {
-			score.content.add(GetFrequencyScore(query, page));
-		}
-		
-		Normalize(score.content, false);
-		
-		for (int i = 0; i < DB.pages.size(); i++) {
-			Page p = DB.pages.get(i);
-
-			if (score.content.get(i) > 0) {
-				double finalScore = score.content.get(i);
-				results.add(new Result(p.url, finalScore, score.content.get(i), 0.0, 0.0));
-			}
-		}
-		
-		Collections.sort(results);
-		Collections.reverse(results);
-		
-		return results;
-	}
-	
 	/**
 	 * Uses all metrics when calculating its recommendations.
 	 * @param query Search query from the client.
@@ -50,7 +19,6 @@ public class QueryLogic {
 			score.location.add(GetLocationScore(query, page));
 		}
 
-		//CalculatePageRank();
 		Normalize(score.content, false);
 		Normalize(score.location, true);
 		
@@ -58,7 +26,9 @@ public class QueryLogic {
 			Page p = DB.pages.get(i);
 			
 			if (score.content.get(i) > 0) {
-				double finalScore = score.content.get(i) + 0.8 * score.location.get(i) + 0.5 * p.pageRank;
+				score.location.set(i, score.location.get(i) * 0.8);
+
+				double finalScore = score.content.get(i) + score.location.get(i) + p.pageRank;
 				results.add(new Result(p.url, finalScore, score.content.get(i), score.location.get(i), p.pageRank));
 			}
 		}
@@ -203,7 +173,7 @@ public class QueryLogic {
 		Normalize(ranks, false);
 		
 		for (int i = 0; i < ranks.size(); i++) {
-			DB.pages.get(i).pageRank = ranks.get(i);
+			DB.pages.get(i).pageRank = ranks.get(i) * 0.5;
 		}
 	}
 	

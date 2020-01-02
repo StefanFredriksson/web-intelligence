@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
-import java.util.Scanner;
 
 public class DataLogic {
 	private static String rootDir = System.getProperty("user.dir") + "/src/SearchEngine";
@@ -15,14 +14,9 @@ public class DataLogic {
 	/**
 	 * Generates the pages for the simulated database.
 	 */
-	public static void SetPages () {
-		List<String> games = GetFiles(wordDestination + "/Games");
-		List<String> progs = GetFiles(wordDestination + "/Programming");
-		List<String> gLinks = GetFiles(linkDestination + "/Games");
-		List<String> pLinks = GetFiles(linkDestination + "/Programming");
-		SetPages(games, progs);
-		SetLinks(gLinks, pLinks);
-		//QueryLogic.CalculatePageRank();
+	public static void SetData () {
+		SetPages();
+		SetLinks();
 	}
 	
 	/**
@@ -51,38 +45,40 @@ public class DataLogic {
 		return file.substring(index + 1);
 	}
 	
+	private static File[] GetFolders (String path) {
+		FileFilter ff = new FileFilter() {
+		    public boolean accept(File file) {
+		        return file.isDirectory();
+		    }
+		};
+		
+		File root = new File(path);
+		return root.listFiles(ff);
+	}
+	
 	/**
 	 * Adds a page to the simulated database for every file name in the lists.
 	 * @param games Game file names.
 	 * @param progs Programming file names.
 	 */
-	private static void SetPages (List<String> games, List<String> progs) {
-
-		for (String game : games) {
-			if (!UrlExists(game)) {
-				String data = ReadFile(wordDestination + "/Games/" + game);
-				String[] words = data.split(" ");
-				List<Integer> ids = new ArrayList<Integer>();
-				
-				for (String word : words) {
-					ids.add(DB.GetIdForWord(word.toUpperCase()));
-				}
-				
-				DB.pages.add(new Page(game, ids));
-			}
-		}
+	private static void SetPages () {
+		File[] folders = GetFolders(wordDestination);
 		
-		for (String prog : progs) {
-			if (!UrlExists(prog)) {
-				String data = ReadFile(wordDestination + "/Programming/" + prog);
-				String[] words = data.split(" ");
-				List<Integer> ids = new ArrayList<Integer>();
-				
-				for (String word : words) {
-					ids.add(DB.GetIdForWord(word.toUpperCase()));
+		for (File folder : folders) {
+			List<String> files = GetFiles(folder + "");
+			
+			for (String file : files) {
+				if (!UrlExists(file)) {
+					String data = ReadFile(folder + "/" + file);
+					String[] words = data.split(" ");
+					List<Integer> ids = new ArrayList<Integer>();
+					
+					for (String word : words) {
+						ids.add(DB.GetIdForWord(word.toUpperCase()));
+					}
+					
+					DB.pages.add(new Page(file, ids));
 				}
-				
-				DB.pages.add(new Page(prog, ids));
 			}
 		}
 	}
@@ -107,41 +103,28 @@ public class DataLogic {
 	 * @param games Game file names.
 	 * @param progs Programming file names.
 	 */
-	private static void SetLinks (List<String> games, List<String> progs) {
-		for (String game : games) {
-			String data = ReadFile(linkDestination + "/Games/" + game);
-			String[] links = data.split("\n");
-			HashSet<String> set = new LinkedHashSet<String>();
-			
-			for (int i = 0; i < links.length; i++) {
-				if (links[i].length() > 0) {
-					set.add(links[i].substring(6));
-				}
-			}
-			
-			for (Page page : DB.pages) {
-				if (page.url.equals(game) && page.links.size() == 0) {
-					page.SetLinks(set);
-					break;
-				}
-			}
-		}
+	private static void SetLinks () {
+		File[] folders = GetFolders(linkDestination);
 		
-		for (String prog : progs) {
-			String data = ReadFile(linkDestination + "/Programming/" + prog);
-			String[] links = data.split("\n");
-			HashSet<String> set = new LinkedHashSet<String>();
+		for (File folder : folders) {
+			List<String> files = GetFiles(folder + "");
 			
-			for (int i = 0; i < links.length; i++) {
-				if (links[i].length() > 0) {
-					set.add(links[i].substring(6));
+			for (String file : files) {
+				String data = ReadFile(folder + "/" + file);
+				String[] links = data.split("\n");
+				HashSet<String> set = new LinkedHashSet<String>();
+				
+				for (int i = 0; i < links.length; i++) {
+					if (links[i].length() > 0) {
+						set.add(links[i].substring(6));
+					}
 				}
-			}
-
-			for (Page page : DB.pages) {
-				if (prog.equals(page.url) && page.links.size() == 0) {
-					page.SetLinks(set);
-					break;
+				
+				for (Page page : DB.pages) {
+					if (page.url.equals(file) && page.links.size() == 0) {
+						page.SetLinks(set);
+						break;
+					}
 				}
 			}
 		}

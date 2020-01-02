@@ -8,9 +8,9 @@ import com.sun.net.httpserver.*;
 public class SearchEngine {
 
 	public static void main(String[] args) {
-		/*InitServer();
-		DataLogic.SetPages();
-		QueryLogic.CalculatePageRank();*/
+		InitServer();
+		DataLogic.SetData();
+		QueryLogic.CalculatePageRank();
 		Scraper.Scrape("https://en.wikipedia.org/wiki/Computer_programming");
 		Parser.ParseData();
 	}
