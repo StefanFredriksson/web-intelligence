@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgXsOwpAAD4AAH-ufWYAAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"C_(programming_language)","wgTitle":"C (programming language)","wgCurRevisionId":932652434,"wgRevisionId":932652434,"wgArticleId":6021,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing additional references from October 2012","All articles needing additional references","Articles needing additional references from July 2014",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgu16wpAAEMAAEGXHJUAAABA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"C_(programming_language)","wgTitle":"C (programming language)","wgCurRevisionId":933419183,"wgRevisionId":933419183,"wgArticleId":6021,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing additional references from October 2012","All articles needing additional references","Articles needing additional references from July 2014",
 "Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Articles with example code","American inventions","C (programming language)","C programming language family","Cross-platform software","High-level programming languages","Procedural programming languages","Programming languages created in 1972","Programming languages with an ISO standard","Statically typed programming languages","Systems programming languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"C_(programming_language)","wgRelevantArticleId":6021,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
 "pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15777","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site",
 "mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -9474,13 +9474,13 @@ int main(void)
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1250
-Cached time: 20191227111234
+Parsed by mw1316
+Cached time: 20191231204816
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.156 seconds
-Real time usage: 1.517 seconds
+CPU time usage: 0.992 seconds
+Real time usage: 1.299 seconds
 Preprocessor visited node count: 4691/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 207143/2097152 bytes
@@ -9490,21 +9490,21 @@ Expensive parser function count: 12/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 131927/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.584/10.000 seconds
+Lua time usage: 0.512/10.000 seconds
 Lua memory usage: 8.98 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1225.951      1 -total
- 45.13%  553.218      2 Template:Reflist
- 26.19%  321.040     22 Template:Cite_book
- 13.13%  160.983      2 Template:Infobox
- 11.07%  135.698      1 Template:Infobox_programming_language
-  8.36%  102.549      1 Template:Authority_control
-  7.60%   93.194     17 Template:Cite_web
-  6.88%   84.338      3 Template:Cite_journal
-  5.60%   68.594      8 Template:Navbox
-  5.45%   66.819      2 Template:More_citations_needed_section
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:6021-0!canonical and timestamp 20191227111232 and revision id 932652434
+100.00% 1041.001      1 -total
+ 47.24%  491.795      2 Template:Reflist
+ 27.54%  286.649     22 Template:Cite_book
+ 11.00%  114.526      2 Template:Infobox
+  9.27%   96.530      1 Template:Infobox_programming_language
+  8.32%   86.573     17 Template:Cite_web
+  7.91%   82.314      1 Template:Authority_control
+  6.61%   68.841      3 Template:Cite_journal
+  5.85%   60.862      2 Template:More_citations_needed_section
+  5.19%   54.012      2 Template:More_citations_needed
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:6021-0!canonical and timestamp 20191231204815 and revision id 933419183
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -9512,8 +9512,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=C_(programming_language)&amp;oldid=932652434">
-            https://en.wikipedia.org/w/index.php?title=C_(programming_language)&amp;oldid=932652434
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=C_(programming_language)&amp;oldid=933419183">
+            https://en.wikipedia.org/w/index.php?title=C_(programming_language)&amp;oldid=933419183
           </a>
           "
         </div>
@@ -9859,7 +9859,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=C_(programming_language)&amp;oldid=932652434" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=C_(programming_language)&amp;oldid=933419183" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -9874,7 +9874,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=C_%28programming_language%29&amp;id=932652434" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=C_%28programming_language%29&amp;id=933419183" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -10505,7 +10505,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 27 December 2019, at 11:12
+           This page was last edited on 31 December 2019, at 20:48
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -10593,17 +10593,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.156","walltime":"1.517","ppvisitednodes":{"value":4691,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":207143,"limit":2097152},"templateargumentsize":{"value":6511,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":131927,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1225.951      1 -total"," 45.13%  553.218      2 Template:Reflist"," 26.19%  321.040     22 Template:Cite_book"," 13.13%  160.983      2 Template:Infobox"," 11.07%  135.698      1 Template:Infobox_programming_language","  8.36%  102.549      1 Template:Authority_control","  7.60%   93.194     17 Template:Cite_web","  6.88%   84.338      3 Template:Cite_journal","  5.60%   68.594      8 Template:Navbox","  5.45%   66.819      2 Template:More_citations_needed_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.584","limit":"10.000"},"limitreport-memusage":{"value":9418879,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20191227111234","ttl":86400,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.992","walltime":"1.299","ppvisitednodes":{"value":4691,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":207143,"limit":2097152},"templateargumentsize":{"value":6511,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":131927,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1041.001      1 -total"," 47.24%  491.795      2 Template:Reflist"," 27.54%  286.649     22 Template:Cite_book"," 11.00%  114.526      2 Template:Infobox","  9.27%   96.530      1 Template:Infobox_programming_language","  8.32%   86.573     17 Template:Cite_web","  7.91%   82.314      1 Template:Authority_control","  6.61%   68.841      3 Template:Cite_journal","  5.85%   60.862      2 Template:More_citations_needed_section","  5.19%   54.012      2 Template:More_citations_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.512","limit":"10.000"},"limitreport-memusage":{"value":9418919,"limit":52428800}},"cachereport":{"origin":"mw1316","timestamp":"20191231204816","ttl":86400,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"C (programming language)","url":"https:\/\/en.wikipedia.org\/wiki\/C_(programming_language)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15777","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15777","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-10T09:40:48Z","dateModified":"2019-12-27T11:12:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/The_C_Programming_Language_logo.svg","headline":"general-purpose programming language"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"C (programming language)","url":"https:\/\/en.wikipedia.org\/wiki\/C_(programming_language)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15777","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15777","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-10T09:40:48Z","dateModified":"2019-12-31T20:48:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/The_C_Programming_Language_logo.svg","headline":"general-purpose programming language"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":131,"wgHostname":"mw1267"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1272"});});
 //]]>
     </script>
   </body>

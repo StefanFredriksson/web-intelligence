@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgoe0QpAIC4AAK@BAjoAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Software_testing","wgTitle":"Software testing","wgCurRevisionId":932010820,"wgRevisionId":932010820,"wgArticleId":29090,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use mdy dates from December 2017","All accuracy disputes","Articles with disputed statements from September 2014","All articles lacking reliable references",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg0g-QpAICoAACiAiUQAAADB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Software_testing","wgTitle":"Software testing","wgCurRevisionId":933476483,"wgRevisionId":933476483,"wgArticleId":29090,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use mdy dates from December 2017","All accuracy disputes","Articles with disputed statements from September 2014","All articles lacking reliable references",
 "Articles lacking reliable references from October 2018","All articles with unsourced statements","Articles with unsourced statements from January 2008","Articles with unsourced statements from July 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from August 2018","All Wikipedia articles needing clarification","Wikipedia articles needing clarification from August 2018","Articles needing more detailed references","Articles with unsourced statements from February 2011","Articles with unsourced statements from December 2017","Commons category link from Wikidata","Commons category link is on Wikidata using P373","Articles with Curlie links","Software testing","Computer occupations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Software_testing","wgRelevantArticleId":29090,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
 "wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q188522","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
 "ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -8741,6 +8741,11 @@ Boehm doesn't even cite a paper for the TRW data, except when writing for "Makin
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -10010,37 +10015,37 @@ Boehm doesn't even cite a paper for the TRW data, except when writing for "Makin
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1262
-Cached time: 20191230153658
+Parsed by mw1243
+Cached time: 20200101211244
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.368 seconds
-Real time usage: 1.621 seconds
+CPU time usage: 1.496 seconds
+Real time usage: 1.791 seconds
 Preprocessor visited node count: 6327/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 233196/2097152 bytes
+Post‐expand include size: 233277/2097152 bytes
 Template argument size: 6377/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 13/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 254031/5000000 bytes
 Number of Wikibase entities loaded: 5/400
-Lua time usage: 0.740/10.000 seconds
+Lua time usage: 0.829/10.000 seconds
 Lua memory usage: 7.54 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1338.856      1 -total
- 59.63%  798.392      1 Template:Reflist
- 15.52%  207.832     37 Template:Cite_book
- 12.81%  171.508      9 Template:Cite_journal
- 10.17%  136.218      6 Template:Cite_conference
-  9.76%  130.673     23 Template:Cite_web
-  9.13%  122.186      9 Template:Fix
-  4.51%   60.444     10 Template:Delink
-  4.28%   57.365     13 Template:Category_handler
-  4.24%   56.709      1 Template:Short_description
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:29090-0!canonical and timestamp 20191230153657 and revision id 932010820
+100.00% 1472.394      1 -total
+ 63.02%  927.872      1 Template:Reflist
+ 16.90%  248.875     37 Template:Cite_book
+ 12.32%  181.459      9 Template:Cite_journal
+ 12.12%  178.452      6 Template:Cite_conference
+  9.54%  140.483     23 Template:Cite_web
+  8.43%  124.053      9 Template:Fix
+  4.57%   67.224     10 Template:Delink
+  3.64%   53.655      1 Template:Commonscat
+  3.64%   53.531     13 Template:Category_handler
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:29090-0!canonical and timestamp 20200101211242 and revision id 933476483
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -10048,8 +10053,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Software_testing&amp;oldid=932010820">
-            https://en.wikipedia.org/w/index.php?title=Software_testing&amp;oldid=932010820
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Software_testing&amp;oldid=933476483">
+            https://en.wikipedia.org/w/index.php?title=Software_testing&amp;oldid=933476483
           </a>
           "
         </div>
@@ -10405,7 +10410,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Software_testing&amp;oldid=932010820" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Software_testing&amp;oldid=933476483" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -10420,7 +10425,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Software_testing&amp;id=932010820" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Software_testing&amp;id=933476483" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -10696,7 +10701,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 22 December 2019, at 21:08
+           This page was last edited on 1 January 2020, at 06:02
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -10784,17 +10789,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.368","walltime":"1.621","ppvisitednodes":{"value":6327,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":233196,"limit":2097152},"templateargumentsize":{"value":6377,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":254031,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1338.856      1 -total"," 59.63%  798.392      1 Template:Reflist"," 15.52%  207.832     37 Template:Cite_book"," 12.81%  171.508      9 Template:Cite_journal"," 10.17%  136.218      6 Template:Cite_conference","  9.76%  130.673     23 Template:Cite_web","  9.13%  122.186      9 Template:Fix","  4.51%   60.444     10 Template:Delink","  4.28%   57.365     13 Template:Category_handler","  4.24%   56.709      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.740","limit":"10.000"},"limitreport-memusage":{"value":7906394,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191230153658","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.496","walltime":"1.791","ppvisitednodes":{"value":6327,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":233277,"limit":2097152},"templateargumentsize":{"value":6377,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":254031,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1472.394      1 -total"," 63.02%  927.872      1 Template:Reflist"," 16.90%  248.875     37 Template:Cite_book"," 12.32%  181.459      9 Template:Cite_journal"," 12.12%  178.452      6 Template:Cite_conference","  9.54%  140.483     23 Template:Cite_web","  8.43%  124.053      9 Template:Fix","  4.57%   67.224     10 Template:Delink","  3.64%   53.655      1 Template:Commonscat","  3.64%   53.531     13 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.829","limit":"10.000"},"limitreport-memusage":{"value":7906678,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20200101211244","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Software testing","url":"https:\/\/en.wikipedia.org\/wiki\/Software_testing","sameAs":"http:\/\/www.wikidata.org\/entity\/Q188522","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q188522","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-12-05T13:57:33Z","dateModified":"2019-12-22T21:08:03Z","headline":"an examination of how efficient and reliable software is at performing its intended function"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Software testing","url":"https:\/\/en.wikipedia.org\/wiki\/Software_testing","sameAs":"http:\/\/www.wikidata.org\/entity\/Q188522","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q188522","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-12-05T13:57:33Z","dateModified":"2020-01-01T06:02:19Z","headline":"an examination of how efficient and reliable software is at performing its intended function"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1325"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1321"});});
 //]]>
     </script>
   </body>

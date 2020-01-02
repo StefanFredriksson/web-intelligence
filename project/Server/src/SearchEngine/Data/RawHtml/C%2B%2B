@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgssvwpAICkAAJNILdIAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"C++","wgTitle":"C++","wgCurRevisionId":931265251,"wgRevisionId":931265251,"wgArticleId":72038,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia pages move-protected due to vandalism","Articles with short description","Use dmy dates from January 2012","All articles with unsourced statements",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3fFApAMFoAAISd1kEAAABD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"C++","wgTitle":"C++","wgCurRevisionId":931265251,"wgRevisionId":931265251,"wgArticleId":72038,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia pages move-protected due to vandalism","Articles with short description","Use dmy dates from January 2012","All articles with unsourced statements",
 "Articles with unsourced statements from April 2017","Articles with example C code","Articles with unsourced statements from June 2019","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Algol programming language family","C++","C++ programming language family","Class-based programming languages","Cross-platform software","High-level programming languages","Object-oriented programming languages","Programming languages created in 1983","Programming languages with an ISO standard","Statically typed programming languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"C++","wgRelevantArticleId":72038,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
 "wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2407","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
 "ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -163,7 +163,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   <td>
                     1985
                     <span class="noprint">
-                      ; 34 years ago
+                      ; 35 years ago
                     </span>
                     <span style="display:none">
                        (
@@ -11006,13 +11006,13 @@ However
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1247
-Cached time: 20191230114852
+Parsed by mw1254
+Cached time: 20200102121127
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.360 seconds
-Real time usage: 1.794 seconds
+CPU time usage: 1.496 seconds
+Real time usage: 5.283 seconds
 Preprocessor visited node count: 5810/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 236049/2097152 bytes
@@ -11022,21 +11022,21 @@ Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 254964/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.694/10.000 seconds
+Lua time usage: 0.671/10.000 seconds
 Lua memory usage: 9.4 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1454.909      1 -total
- 42.69%  621.045      1 Template:Reflist
- 18.53%  269.570     56 Template:Cite_web
- 15.17%  220.678     30 Template:Cite_book
- 15.09%  219.611      2 Template:Infobox
- 12.81%  186.410      1 Template:Infobox_programming_language
-  7.65%  111.306      1 Template:Authority_control
-  6.30%   91.599      1 Template:Cite_journal
-  4.98%   72.400      1 Template:Pp-move-vandalism
-  4.20%   61.122      3 Template:Citation_needed
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:72038-0!canonical and timestamp 20191230114850 and revision id 931265251
+100.00% 4943.813      1 -total
+ 17.78%  878.986      6 Template:C-lang
+ 11.93%  589.623      1 Template:Reflist
+  4.66%  230.500     56 Template:Cite_web
+  4.42%  218.729     30 Template:Cite_book
+  4.06%  200.907      2 Template:Infobox
+  3.40%  168.287      1 Template:Infobox_programming_language
+  3.35%  165.791      4 Template:Cpp
+  2.17%  107.473      1 Template:Cite_journal
+  1.99%   98.228      1 Template:Authority_control
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:72038-0!canonical and timestamp 20200102121122 and revision id 931265251
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -12105,7 +12105,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.360","walltime":"1.794","ppvisitednodes":{"value":5810,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":236049,"limit":2097152},"templateargumentsize":{"value":7462,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":254964,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1454.909      1 -total"," 42.69%  621.045      1 Template:Reflist"," 18.53%  269.570     56 Template:Cite_web"," 15.17%  220.678     30 Template:Cite_book"," 15.09%  219.611      2 Template:Infobox"," 12.81%  186.410      1 Template:Infobox_programming_language","  7.65%  111.306      1 Template:Authority_control","  6.30%   91.599      1 Template:Cite_journal","  4.98%   72.400      1 Template:Pp-move-vandalism","  4.20%   61.122      3 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.694","limit":"10.000"},"limitreport-memusage":{"value":9861185,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20191230114852","ttl":86400,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.496","walltime":"5.283","ppvisitednodes":{"value":5810,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":236049,"limit":2097152},"templateargumentsize":{"value":7462,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":254964,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 4943.813      1 -total"," 17.78%  878.986      6 Template:C-lang"," 11.93%  589.623      1 Template:Reflist","  4.66%  230.500     56 Template:Cite_web","  4.42%  218.729     30 Template:Cite_book","  4.06%  200.907      2 Template:Infobox","  3.40%  168.287      1 Template:Infobox_programming_language","  3.35%  165.791      4 Template:Cpp","  2.17%  107.473      1 Template:Cite_journal","  1.99%   98.228      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.671","limit":"10.000"},"limitreport-memusage":{"value":9861589,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20200102121127","ttl":86400,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -12115,7 +12115,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1320"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1255"});});
 //]]>
     </script>
   </body>

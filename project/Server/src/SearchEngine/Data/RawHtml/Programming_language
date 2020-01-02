@@ -7,8 +7,8 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgXxJwpAME0AALtN6lUAAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Programming_language","wgTitle":"Programming language","wgCurRevisionId":931297773,"wgRevisionId":931297773,"wgArticleId":23015,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","CS1 maint: multiple names: authors list","Wikipedia pending changes protected pages","Articles with short description",
-"Use dmy dates from April 2012","All accuracy disputes","Articles with disputed statements from March 2018","All articles lacking reliable references","Articles lacking reliable references from March 2019","Articles needing additional references from July 2015","All articles needing additional references","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Programming language classification","Programming languages","Notation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Programming_language","wgRelevantArticleId":23015,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgStableRevisionId":931297773,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgwQEQpAAEQAAFXaQB8AAACQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Programming_language","wgTitle":"Programming language","wgCurRevisionId":933462092,"wgRevisionId":933462092,"wgArticleId":23015,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","CS1 maint: multiple names: authors list","Wikipedia pending changes protected pages","Articles with short description",
+"Use dmy dates from April 2012","All accuracy disputes","Articles with disputed statements from March 2018","All articles lacking reliable references","Articles lacking reliable references from March 2019","Articles needing additional references from July 2015","All articles needing additional references","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Programming language classification","Programming languages","Notation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Programming_language","wgRelevantArticleId":23015,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgStableRevisionId":933462092,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{
 "pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q9143","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":
 "ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
 //]]>
@@ -85,7 +85,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 </a>
                  on 
                 <i>
-                  18 December 2019
+                  1 January 2020
                 </i>
                 .
               </div>
@@ -7600,13 +7600,13 @@ Software is commonly built with 5 programming languages or more.
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1294
-Cached time: 20191227114144
+Parsed by mw1332
+Cached time: 20200101031601
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.124 seconds
-Real time usage: 1.469 seconds
+CPU time usage: 1.084 seconds
+Real time usage: 1.390 seconds
 Preprocessor visited node count: 5576/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 163476/2097152 bytes
@@ -7616,22 +7616,21 @@ Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 191810/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.604/10.000 seconds
+Lua time usage: 0.589/10.000 seconds
 Lua memory usage: 10.15 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1254.045      1 -total
- 53.61%  672.268      1 Template:Reflist
- 14.91%  187.006     31 Template:Cite_web
- 14.01%  175.730     14 Template:Cite_book
-  9.64%  120.903      5 Template:Cite_journal
-  8.13%  101.914      1 Template:Pp-pc1
-  6.87%   86.184      1 Template:Authority_control
-  6.08%   76.245      8 Template:ISBN
-  4.28%   53.701      1 Template:Unreferenced_section
-  4.02%   50.445      1 Template:Unreferenced
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:23015-0!canonical and timestamp 20191227114144 and revision id 931297773
- -->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:23015-0!canonical and timestamp 20191227114206 and revision id 931297773
+100.00% 1197.772      1 -total
+ 57.38%  687.285      1 Template:Reflist
+ 14.35%  171.895     31 Template:Cite_web
+ 14.00%  167.629     14 Template:Cite_book
+ 11.85%  141.940      5 Template:Cite_journal
+  7.19%   86.170      1 Template:Authority_control
+  6.48%   77.639      8 Template:ISBN
+  6.40%   76.658      1 Template:Pp-pc1
+  4.12%   49.301      1 Template:Unreferenced_section
+  3.87%   46.339      1 Template:Unreferenced
+-->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:23015-0!canonical and timestamp 20200101031601 and revision id 933462092
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -7639,8 +7638,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Programming_language&amp;oldid=931297773">
-            https://en.wikipedia.org/w/index.php?title=Programming_language&amp;oldid=931297773
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Programming_language&amp;oldid=933462092">
+            https://en.wikipedia.org/w/index.php?title=Programming_language&amp;oldid=933462092
           </a>
           "
         </div>
@@ -7986,7 +7985,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Programming_language&amp;oldid=931297773" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Programming_language&amp;oldid=933462092" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -8001,7 +8000,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Programming_language&amp;id=931297773" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Programming_language&amp;id=933462092" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -8707,7 +8706,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 18 December 2019, at 03:45
+           This page was last edited on 1 January 2020, at 03:15
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -8795,7 +8794,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.124","walltime":"1.469","ppvisitednodes":{"value":5576,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":163476,"limit":2097152},"templateargumentsize":{"value":5776,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":191810,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1254.045      1 -total"," 53.61%  672.268      1 Template:Reflist"," 14.91%  187.006     31 Template:Cite_web"," 14.01%  175.730     14 Template:Cite_book","  9.64%  120.903      5 Template:Cite_journal","  8.13%  101.914      1 Template:Pp-pc1","  6.87%   86.184      1 Template:Authority_control","  6.08%   76.245      8 Template:ISBN","  4.28%   53.701      1 Template:Unreferenced_section","  4.02%   50.445      1 Template:Unreferenced"]},"scribunto":{"limitreport-timeusage":{"value":"0.604","limit":"10.000"},"limitreport-memusage":{"value":10642781,"limit":52428800}},"cachereport":{"origin":"mw1294","timestamp":"20191227114144","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.084","walltime":"1.390","ppvisitednodes":{"value":5576,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":163476,"limit":2097152},"templateargumentsize":{"value":5776,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":191810,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1197.772      1 -total"," 57.38%  687.285      1 Template:Reflist"," 14.35%  171.895     31 Template:Cite_web"," 14.00%  167.629     14 Template:Cite_book"," 11.85%  141.940      5 Template:Cite_journal","  7.19%   86.170      1 Template:Authority_control","  6.48%   77.639      8 Template:ISBN","  6.40%   76.658      1 Template:Pp-pc1","  4.12%   49.301      1 Template:Unreferenced_section","  3.87%   46.339      1 Template:Unreferenced"]},"scribunto":{"limitreport-timeusage":{"value":"0.589","limit":"10.000"},"limitreport-memusage":{"value":10642861,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20200101031601","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -8805,7 +8804,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":182,"wgHostname":"mw1242"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1273"});});
 //]]>
     </script>
   </body>

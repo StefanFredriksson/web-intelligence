@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgkU7wpAMEoAAEcgEs4AAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Maintainability","wgTitle":"Maintainability","wgCurRevisionId":924025824,"wgRevisionId":924025824,"wgArticleId":41347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2013","All articles lacking in-text citations","Wikipedia articles incorporating text from the Federal Standard 1037C",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg23sgpAICEAAIryyhAAAABC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Maintainability","wgTitle":"Maintainability","wgCurRevisionId":924025824,"wgRevisionId":924025824,"wgArticleId":41347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2013","All articles lacking in-text citations","Wikipedia articles incorporating text from the Federal Standard 1037C",
 "Wikipedia articles incorporating text from MIL-STD-188","Telecommunications engineering","Design for X","Maintenance"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Maintainability","wgRelevantArticleId":41347,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1389965","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
 "user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
 "ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -456,13 +456,13 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </ul>
             <!-- 
 NewPP limit report
-Parsed by mw1328
-Cached time: 20191201114027
+Parsed by mw1240
+Cached time: 20191231114438
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
-CPU time usage: 0.092 seconds
-Real time usage: 0.209 seconds
+CPU time usage: 0.104 seconds
+Real time usage: 0.145 seconds
 Preprocessor visited node count: 250/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 6437/2097152 bytes
@@ -472,20 +472,20 @@ Expensive parser function count: 2/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.029/10.000 seconds
+Lua time usage: 0.032/10.000 seconds
 Lua memory usage: 993 KB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  176.009      1 -total
- 90.91%  160.016      1 Template:No_footnotes
- 64.38%  113.310      1 Template:Ambox
-  8.98%   15.801      1 Template:FS1037C_MS188
-  6.75%   11.886      1 Template:Include-USGov
-  4.25%    7.489      2 Template:Yesno-no
-  3.99%    7.027      2 Template:If_empty
-  2.28%    4.008      2 Template:Yesno
-  2.16%    3.809      1 Template:Main_other
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:41347-0!canonical and timestamp 20191201114027 and revision id 924025824
+100.00%  111.853      1 -total
+ 84.16%   94.132      1 Template:No_footnotes
+ 52.68%   58.919      1 Template:Ambox
+ 15.71%   17.576      1 Template:FS1037C_MS188
+ 13.12%   14.678      1 Template:Include-USGov
+  7.52%    8.409      2 Template:If_empty
+  6.53%    7.301      2 Template:Yesno-no
+  3.44%    3.844      2 Template:Yesno
+  2.88%    3.219      1 Template:Main_other
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:41347-0!canonical and timestamp 20191231114438 and revision id 924025824
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -995,7 +995,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.209","ppvisitednodes":{"value":250,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6437,"limit":2097152},"templateargumentsize":{"value":523,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  176.009      1 -total"," 90.91%  160.016      1 Template:No_footnotes"," 64.38%  113.310      1 Template:Ambox","  8.98%   15.801      1 Template:FS1037C_MS188","  6.75%   11.886      1 Template:Include-USGov","  4.25%    7.489      2 Template:Yesno-no","  3.99%    7.027      2 Template:If_empty","  2.28%    4.008      2 Template:Yesno","  2.16%    3.809      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":1017019,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20191201114027","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.145","ppvisitednodes":{"value":250,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6437,"limit":2097152},"templateargumentsize":{"value":523,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  111.853      1 -total"," 84.16%   94.132      1 Template:No_footnotes"," 52.68%   58.919      1 Template:Ambox"," 15.71%   17.576      1 Template:FS1037C_MS188"," 13.12%   14.678      1 Template:Include-USGov","  7.52%    8.409      2 Template:If_empty","  6.53%    7.301      2 Template:Yesno-no","  3.44%    3.844      2 Template:Yesno","  2.88%    3.219      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1017028,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191231114438","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -1005,7 +1005,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1239"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1331"});});
 //]]>
     </script>
   </body>

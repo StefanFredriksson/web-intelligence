@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfgUvwpAADoAAIIvEnAAAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Static_program_analysis","wgTitle":"Static program analysis","wgCurRevisionId":931084834,"wgRevisionId":931084834,"wgArticleId":28811,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","Program analysis","Software review","Software testing","Static program analysis","Quality assurance"],
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg01sApAADgAADn6AKYAAADF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Static_program_analysis","wgTitle":"Static program analysis","wgCurRevisionId":931084834,"wgRevisionId":931084834,"wgArticleId":28811,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","Program analysis","Software review","Software testing","Static program analysis","Quality assurance"],
 "wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Static_program_analysis","wgRelevantArticleId":28811,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Static_code_analysis","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Static_program_analysis","wgWikibaseItemId":"Q1329550","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles"
 :"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
 "ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -24,7 +24,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
     </script>
     <meta name="ResourceLoaderDynamicStyles" content=""/>
     <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-    <meta name="generator" content="MediaWiki 1.35.0-wmf.10"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
     <meta name="referrer" content="origin"/>
     <meta name="referrer" content="origin-when-crossorigin"/>
     <meta name="referrer" content="origin-when-cross-origin"/>
@@ -1996,13 +1996,13 @@ A study from 2010 found that 60% of the interviewed developers in European resea
             </ul>
             <!-- 
 NewPP limit report
-Parsed by mw1312
-Cached time: 20191216213802
+Parsed by mw1303
+Cached time: 20200101212954
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.328 seconds
-Real time usage: 0.455 seconds
+CPU time usage: 0.304 seconds
+Real time usage: 0.425 seconds
 Preprocessor visited node count: 1146/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 42767/2097152 bytes
@@ -2012,21 +2012,21 @@ Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 50928/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.178/10.000 seconds
+Lua time usage: 0.171/10.000 seconds
 Lua memory usage: 4.97 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  391.522      1 -total
- 72.51%  283.902      1 Template:Reflist
- 47.87%  187.435      4 Template:Cite_journal
- 10.71%   41.940      1 Template:ISBN
-  9.20%   36.025      8 Template:Cite_web
-  8.98%   35.140      1 Template:Software_development_process
-  4.53%   17.750      3 Template:Cite_book
-  3.58%   14.023      4 Template:Webarchive
-  3.57%   13.991      1 Template:Catalog_lookup_link
-  3.23%   12.639      1 Template:Error-small
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:28811-0!canonical and timestamp 20191216213802 and revision id 931084834
+100.00%  372.383      1 -total
+ 71.69%  266.979      1 Template:Reflist
+ 49.68%  184.996      4 Template:Cite_journal
+ 10.08%   37.548      1 Template:Software_development_process
+  9.65%   35.932      8 Template:Cite_web
+  8.81%   32.789      1 Template:ISBN
+  4.83%   17.968      3 Template:Cite_book
+  3.88%   14.435      4 Template:Webarchive
+  3.02%   11.257      1 Template:Catalog_lookup_link
+  2.63%    9.792      1 Template:Main
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:28811-0!canonical and timestamp 20200101212954 and revision id 931084834
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -2233,7 +2233,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="n-featuredcontent">
-                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
                   Featured content
                 </a>
               </li>
@@ -2428,6 +2428,11 @@ Transclusion expansion time report (%,ms,calls,template)
                   日本語
                 </a>
               </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="https://pl.wikipedia.org/wiki/Statyczna_analiza_programu" title="Statyczna analiza programu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">
+                  Polski
+                </a>
+              </li>
               <li class="interlanguage-link interwiki-ru">
                 <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BA%D0%BE%D0%B4%D0%B0" title="Статический анализ кода – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
                   Русский
@@ -2561,7 +2566,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.455","ppvisitednodes":{"value":1146,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42767,"limit":2097152},"templateargumentsize":{"value":562,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50928,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  391.522      1 -total"," 72.51%  283.902      1 Template:Reflist"," 47.87%  187.435      4 Template:Cite_journal"," 10.71%   41.940      1 Template:ISBN","  9.20%   36.025      8 Template:Cite_web","  8.98%   35.140      1 Template:Software_development_process","  4.53%   17.750      3 Template:Cite_book","  3.58%   14.023      4 Template:Webarchive","  3.57%   13.991      1 Template:Catalog_lookup_link","  3.23%   12.639      1 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":5209809,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20191216213802","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.425","ppvisitednodes":{"value":1146,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42767,"limit":2097152},"templateargumentsize":{"value":562,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50928,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  372.383      1 -total"," 71.69%  266.979      1 Template:Reflist"," 49.68%  184.996      4 Template:Cite_journal"," 10.08%   37.548      1 Template:Software_development_process","  9.65%   35.932      8 Template:Cite_web","  8.81%   32.789      1 Template:ISBN","  4.83%   17.968      3 Template:Cite_book","  3.88%   14.435      4 Template:Webarchive","  3.02%   11.257      1 Template:Catalog_lookup_link","  2.63%    9.792      1 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.171","limit":"10.000"},"limitreport-memusage":{"value":5209770,"limit":52428800}},"cachereport":{"origin":"mw1303","timestamp":"20200101212954","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -2571,7 +2576,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1263"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1261"});});
 //]]>
     </script>
   </body>

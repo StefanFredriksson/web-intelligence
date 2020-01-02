@@ -7,10 +7,10 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgodRwpAAEIAAA4OezMAAABC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Logic","wgTitle":"Logic","wgCurRevisionId":932952648,"wgRevisionId":932952648,"wgArticleId":46426065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from December 2019","Articles with short description","Use dmy dates from June 2011","Articles containing Ancient Greek-language text",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgyeZgpAMEkAAHelII0AAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Logic","wgTitle":"Logic","wgCurRevisionId":932952648,"wgRevisionId":932952648,"wgArticleId":46426065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from December 2019","Articles with short description","Use dmy dates from June 2011","Articles containing Ancient Greek-language text",
 "Wikipedia articles needing clarification from May 2016","All Wikipedia articles needing clarification","Wikipedia articles needing page number citations from September 2016","All articles with unsourced statements","Articles with unsourced statements from April 2016","Wikipedia articles needing clarification from October 2016","Articles with Internet Encyclopedia of Philosophy links","Articles with LibriVox links","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Logic","Abstraction","Formal sciences"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Logic","wgRelevantArticleId":46426065,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
-"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q8078","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements",
-"ext.math.scripts","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q8078","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};
+RLPAGEMODULES=["mediawiki.page.gallery","ext.cite.ux-enhancements","ext.math.scripts","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
 //]]>
     </script>
     <script>
@@ -19,7 +19,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
 });});
 //]]>
     </script>
-    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
     <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
     </script>
     <meta name="ResourceLoaderDynamicStyles" content=""/>
@@ -28,7 +28,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
     <meta name="referrer" content="origin"/>
     <meta name="referrer" content="origin-when-crossorigin"/>
     <meta name="referrer" content="origin-when-cross-origin"/>
-    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cf/Philbar_3.png"/>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8c/Plato_by_Raphael.png"/>
     <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Logic"/>
     <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Logic&amp;action=edit"/>
     <link rel="edit" title="Edit this page" href="/w/index.php?title=Logic&amp;action=edit"/>
@@ -115,49 +115,86 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 </tr>
                 <tr>
                   <td style="padding:0.2em 0 0.4em">
-                    <a href="/wiki/File:Philbar_3.png" class="image" title="Left to right: Plato, Kant, Nietzsche, Buddha, Confucius, Averroes">
-                      <img alt="Left to right: Plato, Kant, Nietzsche, Buddha, Confucius, Averroes" src="//upload.wikimedia.org/wikipedia/commons/c/cf/Philbar_3.png" decoding="async" width="220" height="151" data-file-width="220" data-file-height="151"/>
-                    </a>
-                    <div style="padding-top:0.2em;line-height:1.2em;white-space:nowrap;border-bottom:1px #aaa solid;">
-                      <div class="hlist hlist-separated">
-                        <ul>
-                          <li>
-                            <a href="/wiki/Plato" title="Plato">
-                              Plato
-                            </a>
-                          </li>
-                          <li>
-                            <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">
-                              Kant
-                            </a>
-                          </li>
-                          <li>
-                            <a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">
-                              Nietzsche
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                      <div class="hlist hlist-separated">
-                        <ul>
-                          <li>
-                            <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">
-                              Buddha
-                            </a>
-                          </li>
-                          <li>
-                            <a href="/wiki/Confucius" title="Confucius">
-                              Confucius
-                            </a>
-                          </li>
-                          <li>
-                            <a href="/wiki/Averroes" title="Averroes">
-                              Averroes
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
+                    <ul class="gallery mw-gallery-packed">
+                      <li class="gallerybox" style="width: 112px">
+                        <div style="width: 112px">
+                          <div class="thumb" style="width: 110px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Plato">
+                                <img alt="Plato by Raphael.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plato_by_Raphael.png/165px-Plato_by_Raphael.png" decoding="async" width="110" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plato_by_Raphael.png/248px-Plato_by_Raphael.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plato_by_Raphael.png/331px-Plato_by_Raphael.png 2x" data-file-width="395" data-file-height="430"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 98px">
+                        <div style="width: 98px">
+                          <div class="thumb" style="width: 96px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Immanuel_Kant">
+                                <img alt="Immanuel Kant (portrait).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Immanuel_Kant_%28portrait%29.jpg/144px-Immanuel_Kant_%28portrait%29.jpg" decoding="async" width="96" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Immanuel_Kant_%28portrait%29.jpg/216px-Immanuel_Kant_%28portrait%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Immanuel_Kant_%28portrait%29.jpg/288px-Immanuel_Kant_%28portrait%29.jpg 2x" data-file-width="677" data-file-height="845"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 94.666666666667px">
+                        <div style="width: 94.666666666667px">
+                          <div class="thumb" style="width: 92.666666666667px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Friedrich_Nietzsche">
+                                <img alt="Nietzsche.later.years.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nietzsche.later.years.jpg/139px-Nietzsche.later.years.jpg" decoding="async" width="93" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nietzsche.later.years.jpg/208px-Nietzsche.later.years.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nietzsche.later.years.jpg/278px-Nietzsche.later.years.jpg 2x" data-file-width="300" data-file-height="389"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 82px">
+                        <div style="width: 82px">
+                          <div class="thumb" style="width: 80px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Buddha">
+                                <img alt="Buddha anjali mudra.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Buddha_anjali_mudra.JPG/120px-Buddha_anjali_mudra.JPG" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Buddha_anjali_mudra.JPG/180px-Buddha_anjali_mudra.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Buddha_anjali_mudra.JPG/240px-Buddha_anjali_mudra.JPG 2x" data-file-width="2848" data-file-height="4272"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 84.666666666667px">
+                        <div style="width: 84.666666666667px">
+                          <div class="thumb" style="width: 82.666666666667px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Confucius">
+                                <img alt="Confucius the scholar.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Confucius_the_scholar.jpg/124px-Confucius_the_scholar.jpg" decoding="async" width="83" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Confucius_the_scholar.jpg/186px-Confucius_the_scholar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Confucius_the_scholar.jpg/247px-Confucius_the_scholar.jpg 2x" data-file-width="531" data-file-height="772"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 109.33333333333px">
+                        <div style="width: 109.33333333333px">
+                          <div class="thumb" style="width: 107.33333333333px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/Averroes">
+                                <img alt="Averroes closeup.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Averroes_closeup.jpg/161px-Averroes_closeup.jpg" decoding="async" width="108" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Averroes_closeup.jpg/241px-Averroes_closeup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Averroes_closeup.jpg/321px-Averroes_closeup.jpg 2x" data-file-width="434" data-file-height="486"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
                   </td>
                 </tr>
                 <tr>
@@ -10184,49 +10221,37 @@ A minor modification of the ternary logic was later introduced in a sibling tern
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1248
-Cached time: 20191230153739
+Parsed by mw1294
+Cached time: 20200101131548
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.096 seconds
-Real time usage: 2.673 seconds
-Preprocessor visited node count: 8347/1000000
+CPU time usage: 1.560 seconds
+Real time usage: 2.078 seconds
+Preprocessor visited node count: 8338/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 292867/2097152 bytes
+Post‐expand include size: 291016/2097152 bytes
 Template argument size: 18354/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 14/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 165508/5000000 bytes
+Unstrip post‐expand size: 169963/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 1.080/10.000 seconds
-Lua memory usage: 24.69 MB/50 MB
-Lua Profile:
-    ?                                                                440 ms       36.1%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                120 ms        9.8%
-    validateData <mw.lua:717>                                         80 ms        6.6%
-    Scribunto_LuaSandboxCallback::callParserFunction                  60 ms        4.9%
-    Scribunto_LuaSandboxCallback::getEntity                           60 ms        4.9%
-    Scribunto_LuaSandboxCallback::gsub                                60 ms        4.9%
-    Scribunto_LuaSandboxCallback::getSetting                          40 ms        3.3%
-    Scribunto_LuaSandboxCallback::getContent                          40 ms        3.3%
-    Scribunto_LuaSandboxCallback::find                                40 ms        3.3%
-    <mw.lua:683>                                                      40 ms        3.3%
-    [others]                                                         240 ms       19.7%
+Lua time usage: 0.844/10.000 seconds
+Lua memory usage: 23.34 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2177.555      1 -total
- 32.98%  718.202      1 Template:Reflist
- 18.59%  404.727     28 Template:Cite_book
- 17.36%  378.036      1 Template:Columns-list
- 16.34%  355.722     22 Template:Annotated_link
- 15.01%  326.914     55 Template:Template_parameter_value
- 10.33%  224.861      1 Template:Lang-grc
-  5.94%  129.264     10 Template:Isbn
-  5.47%  119.132     11 Template:Navbox
-  4.51%   98.246      1 Template:Philosophy_topics
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:46426065-0!canonical!math=5 and timestamp 20191230153736 and revision id 932952648
+100.00% 1740.245      1 -total
+ 34.35%  597.828      1 Template:Reflist
+ 19.66%  342.113     28 Template:Cite_book
+ 17.07%  296.982      1 Template:Columns-list
+ 16.17%  281.409     22 Template:Annotated_link
+ 15.19%  264.264     55 Template:Template_parameter_value
+  8.42%  146.461      1 Template:Lang-grc
+  5.67%   98.700     10 Template:Isbn
+  4.77%   83.020      1 Template:Philosophy_topics
+  4.54%   79.053      1 Template:Navbox_with_collapsible_groups
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:46426065-0!canonical!math=5 and timestamp 20200101131548 and revision id 932952648
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -11460,17 +11485,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.096","walltime":"2.673","ppvisitednodes":{"value":8347,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":292867,"limit":2097152},"templateargumentsize":{"value":18354,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":165508,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2177.555      1 -total"," 32.98%  718.202      1 Template:Reflist"," 18.59%  404.727     28 Template:Cite_book"," 17.36%  378.036      1 Template:Columns-list"," 16.34%  355.722     22 Template:Annotated_link"," 15.01%  326.914     55 Template:Template_parameter_value"," 10.33%  224.861      1 Template:Lang-grc","  5.94%  129.264     10 Template:Isbn","  5.47%  119.132     11 Template:Navbox","  4.51%   98.246      1 Template:Philosophy_topics"]},"scribunto":{"limitreport-timeusage":{"value":"1.080","limit":"10.000"},"limitreport-memusage":{"value":25891509,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\n","limitreport-profile":[["?","440","36.1"],["Scribunto_LuaSandboxCallback::getExpandedArgument","120","9.8"],["validateData \u003Cmw.lua:717\u003E","80","6.6"],["Scribunto_LuaSandboxCallback::callParserFunction","60","4.9"],["Scribunto_LuaSandboxCallback::getEntity","60","4.9"],["Scribunto_LuaSandboxCallback::gsub","60","4.9"],["Scribunto_LuaSandboxCallback::getSetting","40","3.3"],["Scribunto_LuaSandboxCallback::getContent","40","3.3"],["Scribunto_LuaSandboxCallback::find","40","3.3"],["\u003Cmw.lua:683\u003E","40","3.3"],["[others]","240","19.7"]]},"cachereport":{"origin":"mw1248","timestamp":"20191230153739","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.560","walltime":"2.078","ppvisitednodes":{"value":8338,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":291016,"limit":2097152},"templateargumentsize":{"value":18354,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":169963,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1740.245      1 -total"," 34.35%  597.828      1 Template:Reflist"," 19.66%  342.113     28 Template:Cite_book"," 17.07%  296.982      1 Template:Columns-list"," 16.17%  281.409     22 Template:Annotated_link"," 15.19%  264.264     55 Template:Template_parameter_value","  8.42%  146.461      1 Template:Lang-grc","  5.67%   98.700     10 Template:Isbn","  4.77%   83.020      1 Template:Philosophy_topics","  4.54%   79.053      1 Template:Navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.844","limit":"10.000"},"limitreport-memusage":{"value":24472121,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1294","timestamp":"20200101131548","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Logic","url":"https:\/\/en.wikipedia.org\/wiki\/Logic","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8078","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8078","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-01-20T20:10:29Z","dateModified":"2019-12-29T04:12:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cf\/Philbar_3.png","headline":"study of inference and demonstration"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Logic","url":"https:\/\/en.wikipedia.org\/wiki\/Logic","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8078","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8078","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-01-20T20:10:29Z","dateModified":"2019-12-29T04:12:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Plato_by_Raphael.png","headline":"study of inference and demonstration"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1271"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":237,"wgHostname":"mw1238"});});
 //]]>
     </script>
   </body>

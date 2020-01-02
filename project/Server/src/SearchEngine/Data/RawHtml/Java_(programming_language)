@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgq20ApAME4AADO1JWwAAABF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Java_(programming_language)","wgTitle":"Java (programming language)","wgCurRevisionId":933296560,"wgRevisionId":933296560,"wgArticleId":15881,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: BOT: original-url status unknown","Use mdy dates from August 2017","Articles with short description","Pages using deprecated image syntax",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg1P@gpAAD8AACIuP2MAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Java_(programming_language)","wgTitle":"Java (programming language)","wgCurRevisionId":933612769,"wgRevisionId":933612769,"wgArticleId":15881,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: BOT: original-url status unknown","Use mdy dates from August 2017","Articles with short description","Pages using deprecated image syntax",
 "Articles containing potentially dated statements from 2019","All articles containing potentially dated statements","Articles containing potentially dated statements from March 2019","Articles with obsolete information from July 2019","All Wikipedia articles in need of updating","Wikipedia articles that may have off-topic paragraphs","All articles with unsourced statements","Articles with unsourced statements from November 2019","Articles with example Java code","Articles needing additional references from May 2019","All articles needing additional references","Articles with specifically marked weasel-worded phrases from September 2015","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","C programming language family","Class-based programming languages","Computer-related introductions in 1995","Concurrent programming languages","Java (programming language)",
 "Java platform","Java specification requests","JVM programming languages","Object-oriented programming languages","Programming languages created in 1995","Programming languages","Statically typed programming languages","Sun Microsystems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Java_(programming_language)","wgRelevantArticleId":15881,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q251","wgCentralAuthMobileDomain":!1,
 "wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
@@ -9769,13 +9769,13 @@ Google filed a petition for writ of certiorari with the
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1255
-Cached time: 20191231024608
+Parsed by mw1344
+Cached time: 20200102020450
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.440 seconds
-Real time usage: 1.857 seconds
+CPU time usage: 1.408 seconds
+Real time usage: 1.785 seconds
 Preprocessor visited node count: 6677/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 288489/2097152 bytes
@@ -9785,21 +9785,21 @@ Expensive parser function count: 17/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 236976/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.713/10.000 seconds
-Lua memory usage: 10.48 MB/50 MB
+Lua time usage: 0.693/10.000 seconds
+Lua memory usage: 10.5 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1492.409      1 -total
- 46.75%  697.749      1 Template:Reflist
- 25.02%  373.348     63 Template:Cite_web
- 10.22%  152.530      2 Template:Infobox
-  9.02%  134.679      1 Template:Infobox_programming_language
-  7.96%  118.764      1 Template:Authority_control
-  6.18%   92.257      8 Template:Navbox
-  5.90%   87.987      2 Template:Cite_magazine
-  4.95%   73.814      1 Template:Cite_journal
-  4.60%   68.710      2 Template:Ambox
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:15881-0!canonical and timestamp 20191231024606 and revision id 933296560
+100.00% 1459.253      1 -total
+ 44.42%  648.233      1 Template:Reflist
+ 22.48%  328.023     63 Template:Cite_web
+  9.85%  143.669      2 Template:Infobox
+  9.11%  132.962      1 Template:Infobox_programming_language
+  8.65%  126.186      1 Template:Authority_control
+  6.73%   98.247      2 Template:Cite_magazine
+  4.97%   72.575      8 Template:Navbox
+  4.96%   72.366      2 Template:Ambox
+  4.91%   71.713      1 Template:Cite_journal
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:15881-0!canonical and timestamp 20200102020448 and revision id 933612769
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -9807,8 +9807,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Java_(programming_language)&amp;oldid=933296560">
-            https://en.wikipedia.org/w/index.php?title=Java_(programming_language)&amp;oldid=933296560
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Java_(programming_language)&amp;oldid=933612769">
+            https://en.wikipedia.org/w/index.php?title=Java_(programming_language)&amp;oldid=933612769
           </a>
           "
         </div>
@@ -10229,7 +10229,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Java_(programming_language)&amp;oldid=933296560" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Java_(programming_language)&amp;oldid=933612769" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -10244,7 +10244,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Java_%28programming_language%29&amp;id=933296560" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Java_%28programming_language%29&amp;id=933612769" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -10875,7 +10875,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 31 December 2019, at 02:45
+           This page was last edited on 2 January 2020, at 02:04
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -10963,17 +10963,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.440","walltime":"1.857","ppvisitednodes":{"value":6677,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":288489,"limit":2097152},"templateargumentsize":{"value":10662,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":236976,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1492.409      1 -total"," 46.75%  697.749      1 Template:Reflist"," 25.02%  373.348     63 Template:Cite_web"," 10.22%  152.530      2 Template:Infobox","  9.02%  134.679      1 Template:Infobox_programming_language","  7.96%  118.764      1 Template:Authority_control","  6.18%   92.257      8 Template:Navbox","  5.90%   87.987      2 Template:Cite_magazine","  4.95%   73.814      1 Template:Cite_journal","  4.60%   68.710      2 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.713","limit":"10.000"},"limitreport-memusage":{"value":10992235,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1255","timestamp":"20191231024608","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.408","walltime":"1.785","ppvisitednodes":{"value":6677,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":288489,"limit":2097152},"templateargumentsize":{"value":10662,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":236976,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1459.253      1 -total"," 44.42%  648.233      1 Template:Reflist"," 22.48%  328.023     63 Template:Cite_web","  9.85%  143.669      2 Template:Infobox","  9.11%  132.962      1 Template:Infobox_programming_language","  8.65%  126.186      1 Template:Authority_control","  6.73%   98.247      2 Template:Cite_magazine","  4.97%   72.575      8 Template:Navbox","  4.96%   72.366      2 Template:Ambox","  4.91%   71.713      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.693","limit":"10.000"},"limitreport-memusage":{"value":11013042,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1344","timestamp":"20200102020450","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Java (programming language)","url":"https:\/\/en.wikipedia.org\/wiki\/Java_(programming_language)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q251","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q251","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-13T00:09:10Z","dateModified":"2019-12-31T02:45:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/30\/Java_programming_language_logo.svg","headline":"object-oriented programming language"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Java (programming language)","url":"https:\/\/en.wikipedia.org\/wiki\/Java_(programming_language)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q251","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q251","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-13T00:09:10Z","dateModified":"2020-01-02T02:04:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/30\/Java_programming_language_logo.svg","headline":"object-oriented programming language"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":161,"wgHostname":"mw1243"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1268"});});
 //]]>
     </script>
   </body>

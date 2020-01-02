@@ -12,6 +12,7 @@ public class SearchEngine {
 		DataLogic.SetPages();
 		QueryLogic.CalculatePageRank();*/
 		Scraper.Scrape("https://en.wikipedia.org/wiki/Computer_programming");
+		Parser.ParseData();
 	}
 	
 	private static void InitServer() {

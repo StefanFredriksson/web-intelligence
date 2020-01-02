@@ -7,11 +7,10 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgnfNgpAMFAAAK-yElUAAADF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Operating_system","wgTitle":"Operating system","wgCurRevisionId":931434741,"wgRevisionId":931434741,"wgArticleId":22194,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use dmy dates from July 2015",
-"Articles with incomplete citations from August 2014","All articles with unsourced statements","Articles with unsourced statements from September 2010","Articles with unsourced statements from June 2010","Articles with unsourced statements from February 2015","Articles needing additional references from December 2018","All articles needing additional references","Articles with unsourced statements from December 2018","Articles with unsourced statements from April 2015","CS1 errors: missing periodical","Commons category link is locally defined","Articles with Curlie links","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Operating systems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Operating_system","wgRelevantArticleId":22194,"wgIsProbablyEditable":!1,
-"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q9135","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready",
-"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
-"ext.centralNotice.startUp","skins.vector.js"];
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3cJgpAICIAAFQ9kqcAAABV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Operating_system","wgTitle":"Operating system","wgCurRevisionId":933674191,"wgRevisionId":933674191,"wgArticleId":22194,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use dmy dates from July 2015",
+"Articles with incomplete citations from August 2014","All articles with unsourced statements","Articles with unsourced statements from September 2010","Articles with unsourced statements from June 2010","Articles with unsourced statements from February 2015","Articles needing additional references from December 2018","All articles needing additional references","Articles with unsourced statements from December 2018","Articles with unsourced statements from April 2015","CS1 errors: missing periodical","Commons category link is on Wikidata","Articles with Curlie links","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Operating systems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Operating_system","wgRelevantArticleId":22194,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":
+!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q9135","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready",
+"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
 //]]>
     </script>
     <script>
@@ -5661,9 +5660,9 @@ The operating system was first released in 1999 as
                     Wikimedia Commons has media related to 
                     <i>
                       <b>
-                        <a href="https://commons.wikimedia.org/wiki/Category:Screenshots_by_operating_system" class="extiw" title="commons:Category:Screenshots by operating system">
+                        <a href="https://commons.wikimedia.org/wiki/Category:Operating_systems" class="extiw" title="commons:Category:Operating systems">
                           <span style="">
-                            Screenshots of operating systems
+                            Operating systems
                           </span>
                         </a>
                       </b>
@@ -8679,6 +8678,11 @@ The operating system was first released in 1999 as
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -9391,37 +9395,37 @@ The operating system was first released in 1999 as
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1245
-Cached time: 20191230112752
+Parsed by mw1235
+Cached time: 20200102115136
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.484 seconds
-Real time usage: 1.824 seconds
-Preprocessor visited node count: 4992/1000000
+CPU time usage: 1.104 seconds
+Real time usage: 1.372 seconds
+Preprocessor visited node count: 4972/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 240382/2097152 bytes
-Template argument size: 5876/2097152 bytes
+Post‐expand include size: 240131/2097152 bytes
+Template argument size: 5682/2097152 bytes
 Highest expansion depth: 13/40
 Expensive parser function count: 17/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 113447/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.664/10.000 seconds
+Lua time usage: 0.481/10.000 seconds
 Lua memory usage: 7.97 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1288.943      1 -total
- 33.39%  430.401      1 Template:Reflist
- 15.62%  201.396     13 Template:Cite_book
- 12.15%  156.599      9 Template:Fix
- 11.37%  146.574     20 Template:Cite_web
-  9.42%  121.383      8 Template:Citation_needed
-  6.28%   80.930      4 Template:Unreferenced_section
-  6.23%   80.238      1 Template:Authority_control
-  5.77%   74.415      9 Template:Delink
-  5.77%   74.350      1 Template:Pp-vandalism
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:22194-0!canonical and timestamp 20191230112750 and revision id 931434741
+100.00%  979.066      1 -total
+ 32.51%  318.285      1 Template:Reflist
+ 16.99%  166.322     13 Template:Cite_book
+ 12.07%  118.193      9 Template:Fix
+ 10.15%   99.338     20 Template:Cite_web
+  8.46%   82.834      8 Template:Citation_needed
+  7.34%   71.823      1 Template:Pp-vandalism
+  6.89%   67.469      4 Template:Unreferenced_section
+  6.63%   64.890      1 Template:Authority_control
+  6.12%   59.941      4 Template:Unreferenced
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:22194-0!canonical and timestamp 20200102115135 and revision id 933674191
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -9429,8 +9433,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Operating_system&amp;oldid=931434741">
-            https://en.wikipedia.org/w/index.php?title=Operating_system&amp;oldid=931434741
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Operating_system&amp;oldid=933674191">
+            https://en.wikipedia.org/w/index.php?title=Operating_system&amp;oldid=933674191
           </a>
           "
         </div>
@@ -9522,8 +9526,8 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li>
-                <a href="/wiki/Category:Commons_category_link_is_locally_defined" title="Category:Commons category link is locally defined">
-                  Commons category link is locally defined
+                <a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">
+                  Commons category link is on Wikidata
                 </a>
               </li>
               <li>
@@ -9792,7 +9796,7 @@ You can view its source [e]" accesskey="e">
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Operating_system&amp;oldid=931434741" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Operating_system&amp;oldid=933674191" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -9807,7 +9811,7 @@ You can view its source [e]" accesskey="e">
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Operating_system&amp;id=931434741" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Operating_system&amp;id=933674191" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -10593,7 +10597,7 @@ You can view its source [e]" accesskey="e">
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 18 December 2019, at 22:05
+           This page was last edited on 2 January 2020, at 11:51
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -10681,17 +10685,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.484","walltime":"1.824","ppvisitednodes":{"value":4992,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":240382,"limit":2097152},"templateargumentsize":{"value":5876,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":113447,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1288.943      1 -total"," 33.39%  430.401      1 Template:Reflist"," 15.62%  201.396     13 Template:Cite_book"," 12.15%  156.599      9 Template:Fix"," 11.37%  146.574     20 Template:Cite_web","  9.42%  121.383      8 Template:Citation_needed","  6.28%   80.930      4 Template:Unreferenced_section","  6.23%   80.238      1 Template:Authority_control","  5.77%   74.415      9 Template:Delink","  5.77%   74.350      1 Template:Pp-vandalism"]},"scribunto":{"limitreport-timeusage":{"value":"0.664","limit":"10.000"},"limitreport-memusage":{"value":8356303,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20191230112752","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.104","walltime":"1.372","ppvisitednodes":{"value":4972,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":240131,"limit":2097152},"templateargumentsize":{"value":5682,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":113447,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  979.066      1 -total"," 32.51%  318.285      1 Template:Reflist"," 16.99%  166.322     13 Template:Cite_book"," 12.07%  118.193      9 Template:Fix"," 10.15%   99.338     20 Template:Cite_web","  8.46%   82.834      8 Template:Citation_needed","  7.34%   71.823      1 Template:Pp-vandalism","  6.89%   67.469      4 Template:Unreferenced_section","  6.63%   64.890      1 Template:Authority_control","  6.12%   59.941      4 Template:Unreferenced"]},"scribunto":{"limitreport-timeusage":{"value":"0.481","limit":"10.000"},"limitreport-memusage":{"value":8356372,"limit":52428800}},"cachereport":{"origin":"mw1235","timestamp":"20200102115136","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Operating system","url":"https:\/\/en.wikipedia.org\/wiki\/Operating_system","sameAs":"http:\/\/www.wikidata.org\/entity\/Q9135","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q9135","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-15T17:11:37Z","dateModified":"2019-12-18T22:05:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Operating_system_placement.svg","headline":"software that manages computer hardware resources"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Operating system","url":"https:\/\/en.wikipedia.org\/wiki\/Operating_system","sameAs":"http:\/\/www.wikidata.org\/entity\/Q9135","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q9135","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-15T17:11:37Z","dateModified":"2020-01-02T11:51:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Operating_system_placement.svg","headline":"software that manages computer hardware resources"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2006,"wgHostname":"mw1245"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1332"});});
 //]]>
     </script>
   </body>

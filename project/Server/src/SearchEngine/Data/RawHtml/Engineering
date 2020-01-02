@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgsRFgpAMFoAALpCGbYAAABV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Engineering","wgTitle":"Engineering","wgCurRevisionId":933334316,"wgRevisionId":933334316,"wgArticleId":9251,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","Articles needing additional references from August 2013","All articles needing additional references",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgtEngpAMEsAAG64lMQAAABW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Engineering","wgTitle":"Engineering","wgCurRevisionId":933357784,"wgRevisionId":933357784,"wgArticleId":9251,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","Articles needing additional references from August 2013","All articles needing additional references",
 "Articles that may contain original research from July 2010","All articles that may contain original research","All articles with unsourced statements","Articles with unsourced statements from March 2013","Articles with unsourced statements from August 2013","Articles with unsourced statements from November 2011","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Engineering","Engineering occupations","Ethics","Philosophy of science"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Engineering","wgRelevantArticleId":9251,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{
 "pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q11023","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=[
 "ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -339,59 +339,49 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   </a>
                   <ul>
                     <li class="toclevel-2 tocsection-7">
-                      <a href="#Computer_Science_Engineering">
-                        <span class="tocnumber">
-                          3.1
-                        </span>
-                        <span class="toctext">
-                          Computer Science Engineering
-                        </span>
-                      </a>
-                    </li>
-                    <li class="toclevel-2 tocsection-8">
                       <a href="#Chemical_engineering">
                         <span class="tocnumber">
-                          3.2
+                          3.1
                         </span>
                         <span class="toctext">
                           Chemical engineering
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-9">
+                    <li class="toclevel-2 tocsection-8">
                       <a href="#Civil_engineering">
                         <span class="tocnumber">
-                          3.3
+                          3.2
                         </span>
                         <span class="toctext">
                           Civil engineering
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-10">
+                    <li class="toclevel-2 tocsection-9">
                       <a href="#Electrical_engineering">
                         <span class="tocnumber">
-                          3.4
+                          3.3
                         </span>
                         <span class="toctext">
                           Electrical engineering
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-11">
+                    <li class="toclevel-2 tocsection-10">
                       <a href="#Mechanical_engineering">
                         <span class="tocnumber">
-                          3.5
+                          3.4
                         </span>
                         <span class="toctext">
                           Mechanical engineering
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-12">
+                    <li class="toclevel-2 tocsection-11">
                       <a href="#Interdisciplinary_engineering">
                         <span class="tocnumber">
-                          3.6
+                          3.5
                         </span>
                         <span class="toctext">
                           Interdisciplinary engineering
@@ -400,7 +390,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </li>
                   </ul>
                 </li>
-                <li class="toclevel-1 tocsection-13">
+                <li class="toclevel-1 tocsection-12">
                   <a href="#Other_branches_of_engineering">
                     <span class="tocnumber">
                       4
@@ -410,7 +400,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                   <ul>
-                    <li class="toclevel-2 tocsection-14">
+                    <li class="toclevel-2 tocsection-13">
                       <a href="#Aerospace_engineering">
                         <span class="tocnumber">
                           4.1
@@ -420,7 +410,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-15">
+                    <li class="toclevel-2 tocsection-14">
                       <a href="#Marine_engineering">
                         <span class="tocnumber">
                           4.2
@@ -432,7 +422,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </li>
                   </ul>
                 </li>
-                <li class="toclevel-1 tocsection-16">
+                <li class="toclevel-1 tocsection-15">
                   <a href="#Practice">
                     <span class="tocnumber">
                       5
@@ -442,7 +432,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                 </li>
-                <li class="toclevel-1 tocsection-17">
+                <li class="toclevel-1 tocsection-16">
                   <a href="#Methodology">
                     <span class="tocnumber">
                       6
@@ -452,7 +442,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                   <ul>
-                    <li class="toclevel-2 tocsection-18">
+                    <li class="toclevel-2 tocsection-17">
                       <a href="#Problem_solving">
                         <span class="tocnumber">
                           6.1
@@ -462,7 +452,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-19">
+                    <li class="toclevel-2 tocsection-18">
                       <a href="#Computer_use">
                         <span class="tocnumber">
                           6.2
@@ -474,7 +464,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </li>
                   </ul>
                 </li>
-                <li class="toclevel-1 tocsection-20">
+                <li class="toclevel-1 tocsection-19">
                   <a href="#Social_context">
                     <span class="tocnumber">
                       7
@@ -484,7 +474,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                   <ul>
-                    <li class="toclevel-2 tocsection-21">
+                    <li class="toclevel-2 tocsection-20">
                       <a href="#Code_of_ethics">
                         <span class="tocnumber">
                           7.1
@@ -496,7 +486,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </li>
                   </ul>
                 </li>
-                <li class="toclevel-1 tocsection-22">
+                <li class="toclevel-1 tocsection-21">
                   <a href="#Relationships_with_other_disciplines">
                     <span class="tocnumber">
                       8
@@ -506,7 +496,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                   <ul>
-                    <li class="toclevel-2 tocsection-23">
+                    <li class="toclevel-2 tocsection-22">
                       <a href="#Science">
                         <span class="tocnumber">
                           8.1
@@ -516,7 +506,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-24">
+                    <li class="toclevel-2 tocsection-23">
                       <a href="#Medicine_and_biology">
                         <span class="tocnumber">
                           8.2
@@ -526,7 +516,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-25">
+                    <li class="toclevel-2 tocsection-24">
                       <a href="#Art">
                         <span class="tocnumber">
                           8.3
@@ -536,7 +526,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-26">
+                    <li class="toclevel-2 tocsection-25">
                       <a href="#Business">
                         <span class="tocnumber">
                           8.4
@@ -546,7 +536,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                         </span>
                       </a>
                     </li>
-                    <li class="toclevel-2 tocsection-27">
+                    <li class="toclevel-2 tocsection-26">
                       <a href="#Other_fields">
                         <span class="tocnumber">
                           8.5
@@ -558,7 +548,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </li>
                   </ul>
                 </li>
-                <li class="toclevel-1 tocsection-28">
+                <li class="toclevel-1 tocsection-27">
                   <a href="#See_also">
                     <span class="tocnumber">
                       9
@@ -568,7 +558,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                 </li>
-                <li class="toclevel-1 tocsection-29">
+                <li class="toclevel-1 tocsection-28">
                   <a href="#References">
                     <span class="tocnumber">
                       10
@@ -578,7 +568,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                   </a>
                 </li>
-                <li class="toclevel-1 tocsection-30">
+                <li class="toclevel-1 tocsection-29">
                   <a href="#Further_reading">
                     <span class="tocnumber">
                       11
@@ -2095,50 +2085,6 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
 
             </p>
             <h3>
-              <span class="mw-headline" id="Computer_Science_Engineering">
-                Computer Science Engineering
-              </span>
-              <span class="mw-editsection">
-                <span class="mw-editsection-bracket">
-                  [
-                </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=7" title="Edit section: Computer Science Engineering">
-                  edit
-                </a>
-                <span class="mw-editsection-bracket">
-                  ]
-                </span>
-              </span>
-            </h3>
-            <div role="note" class="hatnote navigation-not-searchable">
-              Main article: 
-              <a href="/w/index.php?title=Computer_Science_engineering&amp;action=edit&amp;redlink=1" class="new" title="Computer Science engineering (page does not exist)">
-                Computer Science engineering
-              </a>
-            </div>
-            <p>
-              Computer Science Engineering is the study of computer architecture, its functioning, modern algorithms for problem solving and also latest technologies that are shaping the future. It is the base of various modern technologies like 
-              <a href="/wiki/Machine_learning" title="Machine learning">
-                machine learning
-              </a>
-              , 
-              <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">
-                artificial intelligence
-              </a>
-              , web development, 
-              <a href="/wiki/Block_chain" class="mw-disambig" title="Block chain">
-                block chain
-              </a>
-               etc.
-              <sup id="cite_ref-59" class="reference">
-                <a href="#cite_note-59">
-                  [59]
-                </a>
-              </sup>
-              Computer Science Engineering is required in every industry and has huge future scope.
-
-            </p>
-            <h3>
               <span class="mw-headline" id="Chemical_engineering">
                 Chemical engineering
               </span>
@@ -2146,7 +2092,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=8" title="Edit section: Chemical engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=7" title="Edit section: Chemical engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2196,7 +2142,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=9" title="Edit section: Civil engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=8" title="Edit section: Civil engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2216,14 +2162,14 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 infrastructure
               </a>
                (airports, roads, railways, water supply, and treatment etc.), bridges, tunnels, dams, and buildings.
+              <sup id="cite_ref-59" class="reference">
+                <a href="#cite_note-59">
+                  [59]
+                </a>
+              </sup>
               <sup id="cite_ref-60" class="reference">
                 <a href="#cite_note-60">
                   [60]
-                </a>
-              </sup>
-              <sup id="cite_ref-61" class="reference">
-                <a href="#cite_note-61">
-                  [61]
                 </a>
               </sup>
                Civil engineering is traditionally broken into a number of sub-disciplines, including 
@@ -2243,9 +2189,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 military engineering
               </a>
               .
-              <sup id="cite_ref-eb_62-0" class="reference">
-                <a href="#cite_note-eb-62">
-                  [62]
+              <sup id="cite_ref-eb_61-0" class="reference">
+                <a href="#cite_note-eb-61">
+                  [61]
                 </a>
               </sup>
             </p>
@@ -2257,7 +2203,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=10" title="Edit section: Electrical engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=9" title="Edit section: Electrical engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2351,7 +2297,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=11" title="Edit section: Mechanical engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=10" title="Edit section: Mechanical engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2425,7 +2371,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=12" title="Edit section: Interdisciplinary engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=11" title="Edit section: Interdisciplinary engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2521,9 +2467,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 biomedical
               </a>
               ,
-              <sup id="cite_ref-63" class="reference">
-                <a href="#cite_note-63">
-                  [63]
+              <sup id="cite_ref-62" class="reference">
+                <a href="#cite_note-62">
+                  [62]
                 </a>
               </sup>
               <a href="/wiki/Geological_engineering" class="mw-redirect" title="Geological engineering">
@@ -2542,9 +2488,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 materials
               </a>
               ,
-              <sup id="cite_ref-64" class="reference">
-                <a href="#cite_note-64">
-                  [64]
+              <sup id="cite_ref-63" class="reference">
+                <a href="#cite_note-63">
+                  [63]
                 </a>
               </sup>
                and 
@@ -2552,9 +2498,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 nuclear engineering
               </a>
               .
-              <sup id="cite_ref-65" class="reference">
-                <a href="#cite_note-65">
-                  [65]
+              <sup id="cite_ref-64" class="reference">
+                <a href="#cite_note-64">
+                  [64]
                 </a>
               </sup>
                 These and other branches of engineering are represented in the 36 licensed member institutions of the UK 
@@ -2596,7 +2542,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=13" title="Edit section: Other branches of engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=12" title="Edit section: Other branches of engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2612,7 +2558,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=14" title="Edit section: Aerospace engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=13" title="Edit section: Aerospace engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2638,7 +2584,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=15" title="Edit section: Marine engineering">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=14" title="Edit section: Marine engineering">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2664,7 +2610,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=16" title="Edit section: Practice">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=15" title="Edit section: Practice">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2712,7 +2658,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=17" title="Edit section: Methodology">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=16" title="Edit section: Methodology">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -2892,7 +2838,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=18" title="Edit section: Problem solving">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=17" title="Edit section: Problem solving">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3058,9 +3004,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 mathematical model
               </a>
                of a problem often allows them to analyze it (sometimes definitively), and to test potential solutions.
-              <sup id="cite_ref-66" class="reference">
-                <a href="#cite_note-66">
-                  [66]
+              <sup id="cite_ref-65" class="reference">
+                <a href="#cite_note-65">
+                  [65]
                 </a>
               </sup>
             </p>
@@ -3086,9 +3032,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 low-level
               </a>
               " engineering designs, while at a higher level the best design is one which eliminates the core contradiction causing the problem.
-              <sup id="cite_ref-67" class="reference">
-                <a href="#cite_note-67">
-                  [67]
+              <sup id="cite_ref-66" class="reference">
+                <a href="#cite_note-66">
+                  [66]
                 </a>
               </sup>
             </p>
@@ -3118,9 +3064,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 stress tests
               </a>
               . Testing ensures that products will perform as expected.
-              <sup id="cite_ref-68" class="reference">
-                <a href="#cite_note-68">
-                  [68]
+              <sup id="cite_ref-67" class="reference">
+                <a href="#cite_note-67">
+                  [67]
                 </a>
               </sup>
             </p>
@@ -3146,9 +3092,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 bridge collapses
               </a>
               , when careful analysis is needed to establish the cause or causes of the failure.
-              <sup id="cite_ref-69" class="reference">
-                <a href="#cite_note-69">
-                  [69]
+              <sup id="cite_ref-68" class="reference">
+                <a href="#cite_note-68">
+                  [68]
                 </a>
               </sup>
             </p>
@@ -3160,7 +3106,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=19" title="Edit section: Computer use">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=18" title="Edit section: Computer use">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3265,9 +3211,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 product data management
               </a>
                software.
-              <sup id="cite_ref-70" class="reference">
-                <a href="#cite_note-70">
-                  [70]
+              <sup id="cite_ref-69" class="reference">
+                <a href="#cite_note-69">
+                  [69]
                 </a>
               </sup>
             </p>
@@ -3309,9 +3255,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 product lifecycle management
               </a>
                (PLM).
-              <sup id="cite_ref-71" class="reference">
-                <a href="#cite_note-71">
-                  [71]
+              <sup id="cite_ref-70" class="reference">
+                <a href="#cite_note-70">
+                  [70]
                 </a>
               </sup>
             </p>
@@ -3323,7 +3269,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=20" title="Edit section: Social context">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=19" title="Edit section: Social context">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3467,9 +3413,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 Millennium Development Goals
               </a>
                requires the achievement of sufficient engineering capacity to develop infrastructure and sustainable technological development.
-              <sup id="cite_ref-MDG_72-0" class="reference">
-                <a href="#cite_note-MDG-72">
-                  [72]
+              <sup id="cite_ref-MDG_71-0" class="reference">
+                <a href="#cite_note-MDG-71">
+                  [71]
                 </a>
               </sup>
             </p>
@@ -3533,30 +3479,30 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               </li>
               <li>
                 Engineering Ministries International
-                <sup id="cite_ref-EMI_73-0" class="reference">
-                  <a href="#cite_note-EMI-73">
-                    [73]
+                <sup id="cite_ref-EMI_72-0" class="reference">
+                  <a href="#cite_note-EMI-72">
+                    [72]
                   </a>
                 </sup>
               </li>
             </ul>
             <p>
               Engineering companies in many established economies are facing significant challenges with regard to the number of professional engineers being trained, compared with the number retiring.  This problem is very prominent in the UK where engineering has a poor image and low status.
+              <sup id="cite_ref-73" class="reference">
+                <a href="#cite_note-73">
+                  [73]
+                </a>
+              </sup>
+               There are many negative economic and political issues that this can cause, as well as ethical issues.
               <sup id="cite_ref-74" class="reference">
                 <a href="#cite_note-74">
                   [74]
                 </a>
               </sup>
-               There are many negative economic and political issues that this can cause, as well as ethical issues.
+               It is widely agreed that the engineering profession faces an "image crisis",
               <sup id="cite_ref-75" class="reference">
                 <a href="#cite_note-75">
                   [75]
-                </a>
-              </sup>
-               It is widely agreed that the engineering profession faces an "image crisis",
-              <sup id="cite_ref-76" class="reference">
-                <a href="#cite_note-76">
-                  [76]
                 </a>
               </sup>
                rather than it being fundamentally an unattractive career.  Much work is needed to avoid huge problems in the UK and other western economies.
@@ -3570,7 +3516,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=21" title="Edit section: Code of ethics">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=20" title="Edit section: Code of ethics">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3606,9 +3552,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             <blockquote class="templatequote">
               <p>
                 Engineering is an important and learned profession. As members of this profession, engineers are expected to exhibit the highest standards of honesty and integrity. Engineering has a direct and vital impact on the quality of life for all people. Accordingly, the services provided by engineers require honesty, impartiality, fairness, and equity, and must be dedicated to the protection of the public health, safety, and welfare. Engineers must perform under a standard of professional behavior that requires adherence to the highest principles of ethical conduct.
-                <sup id="cite_ref-77" class="reference">
-                  <a href="#cite_note-77">
-                    [77]
+                <sup id="cite_ref-76" class="reference">
+                  <a href="#cite_note-76">
+                    [76]
                   </a>
                 </sup>
               </p>
@@ -3619,9 +3565,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 Iron Ring
               </a>
                as a symbol and reminder of the obligations and ethics associated with their profession.
-              <sup id="cite_ref-78" class="reference">
-                <a href="#cite_note-78">
-                  [78]
+              <sup id="cite_ref-77" class="reference">
+                <a href="#cite_note-77">
+                  [77]
                 </a>
               </sup>
             </p>
@@ -3633,7 +3579,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=22" title="Edit section: Relationships with other disciplines">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=21" title="Edit section: Relationships with other disciplines">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3649,7 +3595,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=23" title="Edit section: Science">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=22" title="Edit section: Science">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3668,19 +3614,19 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   <a href="/wiki/Theodore_von_K%C3%A1rm%C3%A1n" title="Theodore von Kármán">
                     Theodore von Kármán
                   </a>
-                  <sup id="cite_ref-Caltech_79-0" class="reference">
-                    <a href="#cite_note-Caltech-79">
+                  <sup id="cite_ref-Caltech_78-0" class="reference">
+                    <a href="#cite_note-Caltech-78">
+                      [78]
+                    </a>
+                  </sup>
+                  <sup id="cite_ref-Ryschkewitsch_79-0" class="reference">
+                    <a href="#cite_note-Ryschkewitsch-79">
                       [79]
                     </a>
                   </sup>
-                  <sup id="cite_ref-Ryschkewitsch_80-0" class="reference">
-                    <a href="#cite_note-Ryschkewitsch-80">
+                  <sup id="cite_ref-80" class="reference">
+                    <a href="#cite_note-80">
                       [80]
-                    </a>
-                  </sup>
-                  <sup id="cite_ref-81" class="reference">
-                    <a href="#cite_note-81">
-                      [81]
                     </a>
                   </sup>
                 </cite>
@@ -3758,9 +3704,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 </a>
               </i>
               ,
-              <sup id="cite_ref-vincenti_82-0" class="reference">
-                <a href="#cite_note-vincenti-82">
-                  [82]
+              <sup id="cite_ref-vincenti_81-0" class="reference">
+                <a href="#cite_note-vincenti-81">
+                  [81]
                 </a>
               </sup>
                Walter Vincenti asserts that engineering research has a character different from that of scientific research.  First, it often deals with areas in which the basic 
@@ -3776,17 +3722,22 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </p>
             <p>
               There is a "real and important" difference between engineering and physics as similar to any science field has to do with technology.
+              <sup id="cite_ref-82" class="reference">
+                <a href="#cite_note-82">
+                  [82]
+                </a>
+              </sup>
               <sup id="cite_ref-83" class="reference">
                 <a href="#cite_note-83">
                   [83]
                 </a>
               </sup>
+               Physics is an exploratory science that seeks knowledge of principles while engineering uses knowledge for practical applications of principles. The former equates an understanding into a mathematical principle while the latter measures variables involved and creates technology.
               <sup id="cite_ref-84" class="reference">
                 <a href="#cite_note-84">
                   [84]
                 </a>
               </sup>
-               Physics is an exploratory science that seeks knowledge of principles while engineering uses knowledge for practical applications of principles. The former equates an understanding into a mathematical principle while the latter measures variables involved and creates technology.
               <sup id="cite_ref-85" class="reference">
                 <a href="#cite_note-85">
                   [85]
@@ -3797,27 +3748,22 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   [86]
                 </a>
               </sup>
+               For technology, physics is an auxiliary and in a way technology is considered as applied physics.
               <sup id="cite_ref-87" class="reference">
                 <a href="#cite_note-87">
                   [87]
                 </a>
               </sup>
-               For technology, physics is an auxiliary and in a way technology is considered as applied physics.
+               Though physics and engineering are interrelated, it does not mean that a physicist is trained to do an engineer's job. A physicist would typically require additional and relevant training.
               <sup id="cite_ref-88" class="reference">
                 <a href="#cite_note-88">
                   [88]
                 </a>
               </sup>
-               Though physics and engineering are interrelated, it does not mean that a physicist is trained to do an engineer's job. A physicist would typically require additional and relevant training.
+               Physicists and engineers engage in different lines of work.
               <sup id="cite_ref-89" class="reference">
                 <a href="#cite_note-89">
                   [89]
-                </a>
-              </sup>
-               Physicists and engineers engage in different lines of work.
-              <sup id="cite_ref-90" class="reference">
-                <a href="#cite_note-90">
-                  [90]
                 </a>
               </sup>
                But PhD physicists who specialize in sectors of 
@@ -3829,9 +3775,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 applied physics
               </a>
                are titled as Technology officer, R&amp;D Engineers and System Engineers.
-              <sup id="cite_ref-91" class="reference">
-                <a href="#cite_note-91">
-                  [91]
+              <sup id="cite_ref-90" class="reference">
+                <a href="#cite_note-90">
+                  [90]
                 </a>
               </sup>
             </p>
@@ -3876,18 +3822,18 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             <blockquote>
               <p>
                 Engineering is quite different from science. Scientists try to understand nature. Engineers try to make things that do not exist in nature. Engineers stress innovation and invention. To embody an invention the engineer must put his idea in concrete terms, and design something that people can use. That something can be a complex system, device, a gadget, a material, a method, a computing program, an innovative experiment, a new solution to a problem, or an improvement on what already exists. Since a design has to be realistic and functional, it must have its geometry, dimensions, and characteristics data defined.  In the past engineers working on new designs found that they did not have all the required information to make design decisions. Most often, they were limited by insufficient scientific knowledge. Thus they studied mathematics, physics, chemistry, biology and mechanics. Often they had to add to the sciences relevant to their profession. Thus engineering sciences were born.
-                <sup id="cite_ref-Fung_92-0" class="reference">
-                  <a href="#cite_note-Fung-92">
-                    [92]
+                <sup id="cite_ref-Fung_91-0" class="reference">
+                  <a href="#cite_note-Fung-91">
+                    [91]
                   </a>
                 </sup>
               </p>
             </blockquote>
             <p>
               Although engineering solutions make use of scientific principles, engineers must also take into account safety, efficiency, economy, reliability, and constructability or ease of fabrication as well as the environment, ethical and legal considerations such as patent infringement or liability in the case of failure of the solution.
-              <sup id="cite_ref-93" class="reference">
-                <a href="#cite_note-93">
-                  [93]
+              <sup id="cite_ref-92" class="reference">
+                <a href="#cite_note-92">
+                  [92]
                 </a>
               </sup>
             </p>
@@ -3899,7 +3845,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=24" title="Edit section: Medicine and biology">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=23" title="Edit section: Medicine and biology">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -3973,14 +3919,14 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 pacemakers
               </a>
               .
-              <sup id="cite_ref-Boston_U_94-0" class="reference">
-                <a href="#cite_note-Boston_U-94">
-                  [94]
+              <sup id="cite_ref-Boston_U_93-0" class="reference">
+                <a href="#cite_note-Boston_U-93">
+                  [93]
                 </a>
               </sup>
-              <sup id="cite_ref-IEEE_foreign_parts_95-0" class="reference">
-                <a href="#cite_note-IEEE_foreign_parts-95">
-                  [95]
+              <sup id="cite_ref-IEEE_foreign_parts_94-0" class="reference">
+                <a href="#cite_note-IEEE_foreign_parts-94">
+                  [94]
                 </a>
               </sup>
                The fields of 
@@ -4012,14 +3958,14 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 robotics
               </a>
               .  There are also substantial interdisciplinary interactions between engineering and medicine.
-              <sup id="cite_ref-IME_96-0" class="reference">
-                <a href="#cite_note-IME-96">
-                  [96]
+              <sup id="cite_ref-IME_95-0" class="reference">
+                <a href="#cite_note-IME-95">
+                  [95]
                 </a>
               </sup>
-              <sup id="cite_ref-IEEE_97-0" class="reference">
-                <a href="#cite_note-IEEE-97">
-                  [97]
+              <sup id="cite_ref-IEEE_96-0" class="reference">
+                <a href="#cite_note-IEEE-96">
+                  [96]
                 </a>
               </sup>
             </p>
@@ -4029,23 +3975,23 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </p>
             <p>
               Medicine, in part, studies the function of the human body. The human body, as a biological machine, has many functions that can be modeled using engineering methods.
-              <sup id="cite_ref-Royal_Academy_98-0" class="reference">
-                <a href="#cite_note-Royal_Academy-98">
-                  [98]
+              <sup id="cite_ref-Royal_Academy_97-0" class="reference">
+                <a href="#cite_note-Royal_Academy-97">
+                  [97]
                 </a>
               </sup>
             </p>
             <p>
               The heart for example functions much like a pump,
-              <sup id="cite_ref-Science_Museum_of_Minnesota_99-0" class="reference">
-                <a href="#cite_note-Science_Museum_of_Minnesota-99">
-                  [99]
+              <sup id="cite_ref-Science_Museum_of_Minnesota_98-0" class="reference">
+                <a href="#cite_note-Science_Museum_of_Minnesota-98">
+                  [98]
                 </a>
               </sup>
                the skeleton is like a linked structure with levers,
-              <sup id="cite_ref-Minnesota_State_University_emuseum_100-0" class="reference">
-                <a href="#cite_note-Minnesota_State_University_emuseum-100">
-                  [100]
+              <sup id="cite_ref-Minnesota_State_University_emuseum_99-0" class="reference">
+                <a href="#cite_note-Minnesota_State_University_emuseum-99">
+                  [99]
                 </a>
               </sup>
                the brain produces 
@@ -4053,9 +3999,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 electrical signals
               </a>
                etc.
-              <sup id="cite_ref-UC_Berkeley_News_101-0" class="reference">
-                <a href="#cite_note-UC_Berkeley_News-101">
-                  [101]
+              <sup id="cite_ref-UC_Berkeley_News_100-0" class="reference">
+                <a href="#cite_note-UC_Berkeley_News-100">
+                  [100]
                 </a>
               </sup>
                These similarities as well as the increasing importance and application of engineering principles in medicine, led to the development of the field of 
@@ -4071,9 +4017,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 systems biology
               </a>
               , are adapting analytical tools traditionally used for engineering, such as systems modeling and computational analysis, to the description of biological systems.
-              <sup id="cite_ref-Royal_Academy_98-1" class="reference">
-                <a href="#cite_note-Royal_Academy-98">
-                  [98]
+              <sup id="cite_ref-Royal_Academy_97-1" class="reference">
+                <a href="#cite_note-Royal_Academy-97">
+                  [97]
                 </a>
               </sup>
             </p>
@@ -4085,7 +4031,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=25" title="Edit section: Art">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=24" title="Edit section: Art">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -4107,9 +4053,9 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     Leonardo da Vinci
                   </a>
                   , seen here in a self-portrait, has been described as the epitome of the artist/engineer.
-                  <sup id="cite_ref-Bjerklie,_David_102-0" class="reference">
-                    <a href="#cite_note-Bjerklie,_David-102">
-                      [102]
+                  <sup id="cite_ref-Bjerklie,_David_101-0" class="reference">
+                    <a href="#cite_note-Bjerklie,_David-101">
+                      [101]
                     </a>
                   </sup>
                    He is also known for his studies on 
@@ -4142,19 +4088,19 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 Faculty
               </a>
                of Engineering).
-              <sup id="cite_ref-National_Science_Foundation:The_Art_of_Engineering_103-0" class="reference">
-                <a href="#cite_note-National_Science_Foundation:The_Art_of_Engineering-103">
+              <sup id="cite_ref-National_Science_Foundation:The_Art_of_Engineering_102-0" class="reference">
+                <a href="#cite_note-National_Science_Foundation:The_Art_of_Engineering-102">
+                  [102]
+                </a>
+              </sup>
+              <sup id="cite_ref-MIT_World:The_Art_of_Engineering_103-0" class="reference">
+                <a href="#cite_note-MIT_World:The_Art_of_Engineering-103">
                   [103]
                 </a>
               </sup>
-              <sup id="cite_ref-MIT_World:The_Art_of_Engineering_104-0" class="reference">
-                <a href="#cite_note-MIT_World:The_Art_of_Engineering-104">
+              <sup id="cite_ref-University_of_Texas_at_Dallas_104-0" class="reference">
+                <a href="#cite_note-University_of_Texas_at_Dallas-104">
                   [104]
-                </a>
-              </sup>
-              <sup id="cite_ref-University_of_Texas_at_Dallas_105-0" class="reference">
-                <a href="#cite_note-University_of_Texas_at_Dallas-105">
-                  [105]
                 </a>
               </sup>
             </p>
@@ -4168,18 +4114,18 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 NASA
               </a>
               's aerospace design.
-              <sup id="cite_ref-NASA_106-0" class="reference">
-                <a href="#cite_note-NASA-106">
-                  [106]
+              <sup id="cite_ref-NASA_105-0" class="reference">
+                <a href="#cite_note-NASA-105">
+                  [105]
                 </a>
               </sup>
               <a href="/wiki/Robert_Maillart" title="Robert Maillart">
                 Robert Maillart
               </a>
               's bridge design is perceived by some to have been deliberately artistic.
-              <sup id="cite_ref-Princeton_U_107-0" class="reference">
-                <a href="#cite_note-Princeton_U-107">
-                  [107]
+              <sup id="cite_ref-Princeton_U_106-0" class="reference">
+                <a href="#cite_note-Princeton_U-106">
+                  [106]
                 </a>
               </sup>
                At the 
@@ -4191,14 +4137,14 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 National Science Foundation
               </a>
               , has developed a course that connects art and engineering.
-              <sup id="cite_ref-National_Science_Foundation:The_Art_of_Engineering_103-1" class="reference">
-                <a href="#cite_note-National_Science_Foundation:The_Art_of_Engineering-103">
-                  [103]
+              <sup id="cite_ref-National_Science_Foundation:The_Art_of_Engineering_102-1" class="reference">
+                <a href="#cite_note-National_Science_Foundation:The_Art_of_Engineering-102">
+                  [102]
                 </a>
               </sup>
-              <sup id="cite_ref-Chief_engineer_108-0" class="reference">
-                <a href="#cite_note-Chief_engineer-108">
-                  [108]
+              <sup id="cite_ref-Chief_engineer_107-0" class="reference">
+                <a href="#cite_note-Chief_engineer-107">
+                  [107]
                 </a>
               </sup>
             </p>
@@ -4212,14 +4158,14 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 Renaissance
               </a>
                artist and engineer, and a prime example of the nexus between art and engineering.
-              <sup id="cite_ref-Bjerklie,_David_102-1" class="reference">
-                <a href="#cite_note-Bjerklie,_David-102">
-                  [102]
+              <sup id="cite_ref-Bjerklie,_David_101-1" class="reference">
+                <a href="#cite_note-Bjerklie,_David-101">
+                  [101]
                 </a>
               </sup>
-              <sup id="cite_ref-Drew_U_109-0" class="reference">
-                <a href="#cite_note-Drew_U-109">
-                  [109]
+              <sup id="cite_ref-Drew_U_108-0" class="reference">
+                <a href="#cite_note-Drew_U-108">
+                  [108]
                 </a>
               </sup>
             </p>
@@ -4231,7 +4177,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=26" title="Edit section: Business">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=25" title="Edit section: Business">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -4290,7 +4236,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=27" title="Edit section: Other fields">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=26" title="Edit section: Other fields">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -4342,7 +4288,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=28" title="Edit section: See also">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=27" title="Edit section: See also">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -4589,7 +4535,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=29" title="Edit section: References">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=28" title="Edit section: References">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -6426,37 +6372,6 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     </span>
                     <span class="reference-text">
                       <cite class="citation web">
-                        <a rel="nofollow" class="external text" href="https://bookbyseniors.in/computer-science-and-engineering/">
-                          "What is Computer Science Engineering"
-                        </a>
-                        . 
-                        <a href="/w/index.php?title=BookbySeniors.in&amp;action=edit&amp;redlink=1" class="new" title="BookbySeniors.in (page does not exist)">
-                          BookbySeniors.in
-                        </a>
-                        <span class="reference-accessdate">
-                          . Retrieved 
-                          <span class="nowrap">
-                            31 Dec
-                          </span>
-                           2019
-                        </span>
-                        .
-                      </cite>
-                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+Computer+Science+Engineering&amp;rft.pub=BookbySeniors.in&amp;rft_id=https%3A%2F%2Fbookbyseniors.in%2Fcomputer-science-and-engineering%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEngineering" class="Z3988">
-                      </span>
-                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
-                    </span>
-                  </li>
-                  <li id="cite_note-60">
-                    <span class="mw-cite-backlink">
-                      <b>
-                        <a href="#cite_ref-60">
-                          ^
-                        </a>
-                      </b>
-                    </span>
-                    <span class="reference-text">
-                      <cite class="citation web">
                         <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070216235716/http://live.asce.org/hh/index.mxml?versionChecked=true">
                           "History and Heritage of Civil Engineering"
                         </a>
@@ -6485,10 +6400,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-61">
+                  <li id="cite_note-60">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-61">
+                        <a href="#cite_ref-60">
                           ^
                         </a>
                       </b>
@@ -6516,10 +6431,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-eb-62">
+                  <li id="cite_note-eb-61">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-eb_62-0">
+                        <a href="#cite_ref-eb_61-0">
                           ^
                         </a>
                       </b>
@@ -6541,10 +6456,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-63">
+                  <li id="cite_note-62">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-63">
+                        <a href="#cite_ref-62">
                           ^
                         </a>
                       </b>
@@ -6561,10 +6476,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-64">
+                  <li id="cite_note-63">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-64">
+                        <a href="#cite_ref-63">
                           ^
                         </a>
                       </b>
@@ -6594,10 +6509,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-65">
+                  <li id="cite_note-64">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-65">
+                        <a href="#cite_ref-64">
                           ^
                         </a>
                       </b>
@@ -6638,10 +6553,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-66">
+                  <li id="cite_note-65">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-66">
+                        <a href="#cite_ref-65">
                           ^
                         </a>
                       </b>
@@ -6669,10 +6584,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-67">
+                  <li id="cite_note-66">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-67">
+                        <a href="#cite_ref-66">
                           ^
                         </a>
                       </b>
@@ -6699,10 +6614,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-68">
+                  <li id="cite_note-67">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-68">
+                        <a href="#cite_ref-67">
                           ^
                         </a>
                       </b>
@@ -6729,10 +6644,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-69">
+                  <li id="cite_note-68">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-69">
+                        <a href="#cite_ref-68">
                           ^
                         </a>
                       </b>
@@ -6759,10 +6674,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-70">
+                  <li id="cite_note-69">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-70">
+                        <a href="#cite_ref-69">
                           ^
                         </a>
                       </b>
@@ -6791,10 +6706,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-71">
+                  <li id="cite_note-70">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-71">
+                        <a href="#cite_ref-70">
                           ^
                         </a>
                       </b>
@@ -6823,10 +6738,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-MDG-72">
+                  <li id="cite_note-MDG-71">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-MDG_72-0">
+                        <a href="#cite_ref-MDG_71-0">
                           ^
                         </a>
                       </b>
@@ -6854,10 +6769,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-EMI-73">
+                  <li id="cite_note-EMI-72">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-EMI_73-0">
+                        <a href="#cite_ref-EMI_72-0">
                           ^
                         </a>
                       </b>
@@ -6875,10 +6790,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-74">
+                  <li id="cite_note-73">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-74">
+                        <a href="#cite_ref-73">
                           ^
                         </a>
                       </b>
@@ -6899,10 +6814,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-75">
+                  <li id="cite_note-74">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-75">
+                        <a href="#cite_ref-74">
                           ^
                         </a>
                       </b>
@@ -6937,10 +6852,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-76">
+                  <li id="cite_note-75">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-76">
+                        <a href="#cite_ref-75">
                           ^
                         </a>
                       </b>
@@ -6975,10 +6890,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-77">
+                  <li id="cite_note-76">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-77">
+                        <a href="#cite_ref-76">
                           ^
                         </a>
                       </b>
@@ -6997,10 +6912,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-78">
+                  <li id="cite_note-77">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-78">
+                        <a href="#cite_ref-77">
                           ^
                         </a>
                       </b>
@@ -7011,10 +6926,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Caltech-79">
+                  <li id="cite_note-Caltech-78">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Caltech_79-0">
+                        <a href="#cite_ref-Caltech_78-0">
                           ^
                         </a>
                       </b>
@@ -7044,10 +6959,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-Ryschkewitsch-80">
+                  <li id="cite_note-Ryschkewitsch-79">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Ryschkewitsch_80-0">
+                        <a href="#cite_ref-Ryschkewitsch_79-0">
                           ^
                         </a>
                       </b>
@@ -7076,10 +6991,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-81">
+                  <li id="cite_note-80">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-81">
+                        <a href="#cite_ref-80">
                           ^
                         </a>
                       </b>
@@ -7106,10 +7021,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-vincenti-82">
+                  <li id="cite_note-vincenti-81">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-vincenti_82-0">
+                        <a href="#cite_ref-vincenti_81-0">
                           ^
                         </a>
                       </b>
@@ -7137,10 +7052,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-83">
+                  <li id="cite_note-82">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-83">
+                        <a href="#cite_ref-82">
                           ^
                         </a>
                       </b>
@@ -7165,10 +7080,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-84">
+                  <li id="cite_note-83">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-84">
+                        <a href="#cite_ref-83">
                           ^
                         </a>
                       </b>
@@ -7180,10 +7095,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-85">
+                  <li id="cite_note-84">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-85">
+                        <a href="#cite_ref-84">
                           ^
                         </a>
                       </b>
@@ -7213,10 +7128,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-86">
+                  <li id="cite_note-85">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-86">
+                        <a href="#cite_ref-85">
                           ^
                         </a>
                       </b>
@@ -7231,10 +7146,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       . Oxford and IBH Publishing, 2008, p. 208.
                     </span>
                   </li>
-                  <li id="cite_note-87">
+                  <li id="cite_note-86">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-87">
+                        <a href="#cite_ref-86">
                           ^
                         </a>
                       </b>
@@ -7255,10 +7170,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-88">
+                  <li id="cite_note-87">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-88">
+                        <a href="#cite_ref-87">
                           ^
                         </a>
                       </b>
@@ -7279,10 +7194,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-89">
+                  <li id="cite_note-88">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-89">
+                        <a href="#cite_ref-88">
                           ^
                         </a>
                       </b>
@@ -7297,10 +7212,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       . World Scientific, 1997, p. 110.
                     </span>
                   </li>
-                  <li id="cite_note-90">
+                  <li id="cite_note-89">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-90">
+                        <a href="#cite_ref-89">
                           ^
                         </a>
                       </b>
@@ -7321,10 +7236,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-91">
+                  <li id="cite_note-90">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-91">
+                        <a href="#cite_ref-90">
                           ^
                         </a>
                       </b>
@@ -7344,10 +7259,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-Fung-92">
+                  <li id="cite_note-Fung-91">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Fung_92-0">
+                        <a href="#cite_ref-Fung_91-0">
                           ^
                         </a>
                       </b>
@@ -7364,10 +7279,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-93">
+                  <li id="cite_note-92">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-93">
+                        <a href="#cite_ref-92">
                           ^
                         </a>
                       </b>
@@ -7394,10 +7309,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-Boston_U-94">
+                  <li id="cite_note-Boston_U-93">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Boston_U_94-0">
+                        <a href="#cite_ref-Boston_U_93-0">
                           ^
                         </a>
                       </b>
@@ -7408,10 +7323,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-IEEE_foreign_parts-95">
+                  <li id="cite_note-IEEE_foreign_parts-94">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-IEEE_foreign_parts_95-0">
+                        <a href="#cite_ref-IEEE_foreign_parts_94-0">
                           ^
                         </a>
                       </b>
@@ -7422,10 +7337,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-IME-96">
+                  <li id="cite_note-IME-95">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-IME_96-0">
+                        <a href="#cite_ref-IME_95-0">
                           ^
                         </a>
                       </b>
@@ -7443,10 +7358,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-IEEE-97">
+                  <li id="cite_note-IEEE-96">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-IEEE_97-0">
+                        <a href="#cite_ref-IEEE_96-0">
                           ^
                         </a>
                       </b>
@@ -7457,10 +7372,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Royal_Academy-98">
+                  <li id="cite_note-Royal_Academy-97">
                     <span class="mw-cite-backlink">
                       ^ 
-                      <a href="#cite_ref-Royal_Academy_98-0">
+                      <a href="#cite_ref-Royal_Academy_97-0">
                         <sup>
                           <i>
                             <b>
@@ -7469,7 +7384,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                           </i>
                         </sup>
                       </a>
-                      <a href="#cite_ref-Royal_Academy_98-1">
+                      <a href="#cite_ref-Royal_Academy_97-1">
                         <sup>
                           <i>
                             <b>
@@ -7492,10 +7407,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Science_Museum_of_Minnesota-99">
+                  <li id="cite_note-Science_Museum_of_Minnesota-98">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Science_Museum_of_Minnesota_99-0">
+                        <a href="#cite_ref-Science_Museum_of_Minnesota_98-0">
                           ^
                         </a>
                       </b>
@@ -7506,10 +7421,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Minnesota_State_University_emuseum-100">
+                  <li id="cite_note-Minnesota_State_University_emuseum-99">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Minnesota_State_University_emuseum_100-0">
+                        <a href="#cite_ref-Minnesota_State_University_emuseum_99-0">
                           ^
                         </a>
                       </b>
@@ -7527,10 +7442,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-UC_Berkeley_News-101">
+                  <li id="cite_note-UC_Berkeley_News-100">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-UC_Berkeley_News_101-0">
+                        <a href="#cite_ref-UC_Berkeley_News_100-0">
                           ^
                         </a>
                       </b>
@@ -7541,10 +7456,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Bjerklie,_David-102">
+                  <li id="cite_note-Bjerklie,_David-101">
                     <span class="mw-cite-backlink">
                       ^ 
-                      <a href="#cite_ref-Bjerklie,_David_102-0">
+                      <a href="#cite_ref-Bjerklie,_David_101-0">
                         <sup>
                           <i>
                             <b>
@@ -7553,7 +7468,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                           </i>
                         </sup>
                       </a>
-                      <a href="#cite_ref-Bjerklie,_David_102-1">
+                      <a href="#cite_ref-Bjerklie,_David_101-1">
                         <sup>
                           <i>
                             <b>
@@ -7571,10 +7486,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                        Jan./Feb.1998: 54–59.  Article explores the concept of the "artist-engineer", an individual who used his artistic talent in engineering. Quote from article: Da Vinci reached the pinnacle of "artist-engineer"-dom, Quote2: "It was Leonardo da Vinci who initiated the most ambitious expansion in the role of artist-engineer, progressing from astute observer to inventor to theoretician." (Bjerklie 58)
                     </span>
                   </li>
-                  <li id="cite_note-National_Science_Foundation:The_Art_of_Engineering-103">
+                  <li id="cite_note-National_Science_Foundation:The_Art_of_Engineering-102">
                     <span class="mw-cite-backlink">
                       ^ 
-                      <a href="#cite_ref-National_Science_Foundation:The_Art_of_Engineering_103-0">
+                      <a href="#cite_ref-National_Science_Foundation:The_Art_of_Engineering_102-0">
                         <sup>
                           <i>
                             <b>
@@ -7583,7 +7498,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                           </i>
                         </sup>
                       </a>
-                      <a href="#cite_ref-National_Science_Foundation:The_Art_of_Engineering_103-1">
+                      <a href="#cite_ref-National_Science_Foundation:The_Art_of_Engineering_102-1">
                         <sup>
                           <i>
                             <b>
@@ -7599,10 +7514,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-MIT_World:The_Art_of_Engineering-104">
+                  <li id="cite_note-MIT_World:The_Art_of_Engineering-103">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-MIT_World:The_Art_of_Engineering_104-0">
+                        <a href="#cite_ref-MIT_World:The_Art_of_Engineering_103-0">
                           ^
                         </a>
                       </b>
@@ -7620,10 +7535,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-University_of_Texas_at_Dallas-105">
+                  <li id="cite_note-University_of_Texas_at_Dallas-104">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-University_of_Texas_at_Dallas_105-0">
+                        <a href="#cite_ref-University_of_Texas_at_Dallas_104-0">
                           ^
                         </a>
                       </b>
@@ -7634,10 +7549,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-NASA-106">
+                  <li id="cite_note-NASA-105">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-NASA_106-0">
+                        <a href="#cite_ref-NASA_105-0">
                           ^
                         </a>
                       </b>
@@ -7665,10 +7580,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                     </span>
                   </li>
-                  <li id="cite_note-Princeton_U-107">
+                  <li id="cite_note-Princeton_U-106">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Princeton_U_107-0">
+                        <a href="#cite_ref-Princeton_U_106-0">
                           ^
                         </a>
                       </b>
@@ -7679,10 +7594,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Chief_engineer-108">
+                  <li id="cite_note-Chief_engineer-107">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Chief_engineer_108-0">
+                        <a href="#cite_ref-Chief_engineer_107-0">
                           ^
                         </a>
                       </b>
@@ -7700,10 +7615,10 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                       </a>
                     </span>
                   </li>
-                  <li id="cite_note-Drew_U-109">
+                  <li id="cite_note-Drew_U-108">
                     <span class="mw-cite-backlink">
                       <b>
-                        <a href="#cite_ref-Drew_U_109-0">
+                        <a href="#cite_ref-Drew_U_108-0">
                           ^
                         </a>
                       </b>
@@ -7732,7 +7647,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <span class="mw-editsection-bracket">
                   [
                 </span>
-                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=30" title="Edit section: Further reading">
+                <a href="/w/index.php?title=Engineering&amp;action=edit&amp;section=29" title="Edit section: Further reading">
                   edit
                 </a>
                 <span class="mw-editsection-bracket">
@@ -10177,37 +10092,49 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1288
-Cached time: 20191231090948
+Parsed by mw1244
+Cached time: 20191231125230
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.336 seconds
-Real time usage: 1.910 seconds
-Preprocessor visited node count: 7375/1000000
+CPU time usage: 2.456 seconds
+Real time usage: 2.985 seconds
+Preprocessor visited node count: 7330/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 265240/2097152 bytes
+Post‐expand include size: 263792/2097152 bytes
 Template argument size: 8974/2097152 bytes
 Highest expansion depth: 15/40
 Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 256609/5000000 bytes
+Unstrip post‐expand size: 253824/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.619/10.000 seconds
-Lua memory usage: 13.06 MB/50 MB
+Lua time usage: 1.161/10.000 seconds
+Lua memory usage: 13.12 MB/50 MB
+Lua Profile:
+    ?                                                                240 ms       21.1%
+    Scribunto_LuaSandboxCallback::gsub                               140 ms       12.3%
+    Scribunto_LuaSandboxCallback::callParserFunction                 120 ms       10.5%
+    recursiveClone <mwInit.lua:41>                                   100 ms        8.8%
+    Scribunto_LuaSandboxCallback::getEntity                           60 ms        5.3%
+    Scribunto_LuaSandboxCallback::plain                               60 ms        5.3%
+    Scribunto_LuaSandboxCallback::getEntityStatements                 40 ms        3.5%
+    in_array <Module:Citation/CS1/Utilities:34>                       40 ms        3.5%
+    Scribunto_LuaSandboxCallback::unstripNoWiki                       40 ms        3.5%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                 40 ms        3.5%
+    [others]                                                         260 ms       22.8%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1561.479      1 -total
- 42.27%  660.003      1 Template:Reflist
- 12.37%  193.087      1 Template:Authority_control
- 11.89%  185.667     20 Template:Cite_web
- 10.03%  156.671     38 Template:Cite_book
-  5.92%   92.470      5 Template:Navbox
-  5.59%   87.266     10 Template:Citation
-  4.70%   73.370      1 Template:Engineering_fields
-  4.46%   69.586      2 Template:Unreferenced_section
-  4.18%   65.302      1 Template:Philosophy_of_science
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:9251-0!canonical and timestamp 20191231091018 and revision id 933334316
+100.00% 2334.572      1 -total
+ 53.99% 1260.525      1 Template:Reflist
+ 13.90%  324.573     38 Template:Cite_book
+ 12.28%  286.610     19 Template:Cite_web
+  7.92%  184.856     10 Template:Citation
+  6.81%  158.894      1 Template:Authority_control
+  6.62%  154.433      4 Template:Cite_journal
+  4.55%  106.332      6 Template:ISBN
+  4.24%   99.068      4 Template:Citation_needed
+  4.23%   98.839      5 Template:Navbox
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:9251-0!canonical and timestamp 20191231125227 and revision id 933357784
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -10215,8 +10142,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Engineering&amp;oldid=933334316">
-            https://en.wikipedia.org/w/index.php?title=Engineering&amp;oldid=933334316
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Engineering&amp;oldid=933357784">
+            https://en.wikipedia.org/w/index.php?title=Engineering&amp;oldid=933357784
           </a>
           "
         </div>
@@ -10562,7 +10489,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Engineering&amp;oldid=933334316" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Engineering&amp;oldid=933357784" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -10577,7 +10504,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Engineering&amp;id=933334316" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Engineering&amp;id=933357784" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -11388,7 +11315,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 31 December 2019, at 09:10
+           This page was last edited on 31 December 2019, at 12:52
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -11476,17 +11403,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.336","walltime":"1.910","ppvisitednodes":{"value":7375,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":265240,"limit":2097152},"templateargumentsize":{"value":8974,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":256609,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1561.479      1 -total"," 42.27%  660.003      1 Template:Reflist"," 12.37%  193.087      1 Template:Authority_control"," 11.89%  185.667     20 Template:Cite_web"," 10.03%  156.671     38 Template:Cite_book","  5.92%   92.470      5 Template:Navbox","  5.59%   87.266     10 Template:Citation","  4.70%   73.370      1 Template:Engineering_fields","  4.46%   69.586      2 Template:Unreferenced_section","  4.18%   65.302      1 Template:Philosophy_of_science"]},"scribunto":{"limitreport-timeusage":{"value":"0.619","limit":"10.000"},"limitreport-memusage":{"value":13699089,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1288","timestamp":"20191231090948","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.456","walltime":"2.985","ppvisitednodes":{"value":7330,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":263792,"limit":2097152},"templateargumentsize":{"value":8974,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":253824,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2334.572      1 -total"," 53.99% 1260.525      1 Template:Reflist"," 13.90%  324.573     38 Template:Cite_book"," 12.28%  286.610     19 Template:Cite_web","  7.92%  184.856     10 Template:Citation","  6.81%  158.894      1 Template:Authority_control","  6.62%  154.433      4 Template:Cite_journal","  4.55%  106.332      6 Template:ISBN","  4.24%   99.068      4 Template:Citation_needed","  4.23%   98.839      5 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"1.161","limit":"10.000"},"limitreport-memusage":{"value":13758847,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\ntable#1 {\n}\n","limitreport-profile":[["?","240","21.1"],["Scribunto_LuaSandboxCallback::gsub","140","12.3"],["Scribunto_LuaSandboxCallback::callParserFunction","120","10.5"],["recursiveClone \u003CmwInit.lua:41\u003E","100","8.8"],["Scribunto_LuaSandboxCallback::getEntity","60","5.3"],["Scribunto_LuaSandboxCallback::plain","60","5.3"],["Scribunto_LuaSandboxCallback::getEntityStatements","40","3.5"],["in_array \u003CModule:Citation/CS1/Utilities:34\u003E","40","3.5"],["Scribunto_LuaSandboxCallback::unstripNoWiki","40","3.5"],["Scribunto_LuaSandboxCallback::getExpandedArgument","40","3.5"],["[others]","260","22.8"]]},"cachereport":{"origin":"mw1244","timestamp":"20191231125230","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Engineering","url":"https:\/\/en.wikipedia.org\/wiki\/Engineering","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11023","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11023","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-07T14:50:41Z","dateModified":"2019-12-31T09:10:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/PIA19664-MarsInSightLander-Assembly-20150430.jpg","headline":"applied science"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Engineering","url":"https:\/\/en.wikipedia.org\/wiki\/Engineering","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11023","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11023","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-07T14:50:41Z","dateModified":"2019-12-31T12:52:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/PIA19664-MarsInSightLander-Assembly-20150430.jpg","headline":"applied science"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1255"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":248,"wgHostname":"mw1240"});});
 //]]>
     </script>
   </body>

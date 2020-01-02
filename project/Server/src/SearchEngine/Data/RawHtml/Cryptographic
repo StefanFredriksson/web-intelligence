@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgpADQpAICoAAFBba5wAAAEJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cryptography","wgTitle":"Cryptography","wgCurRevisionId":933023391,"wgRevisionId":933023391,"wgArticleId":18934432,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","CS1 maint: archived copy as title","CS1 maint: BOT: original-url status unknown","Pages using web citations with no URL","Wikipedia semi-protected pages",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XguVYgpAICwAAJI6iM4AAABG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cryptography","wgTitle":"Cryptography","wgCurRevisionId":933023391,"wgRevisionId":933023391,"wgArticleId":18934432,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","CS1 maint: archived copy as title","CS1 maint: BOT: original-url status unknown","Pages using web citations with no URL","Wikipedia semi-protected pages",
 "Wikipedia indefinitely move-protected pages","Use dmy dates from September 2015","Articles containing Ancient Greek-language text","All articles with unsourced statements","Articles with unsourced statements from August 2018","Wikipedia articles needing clarification from December 2018","Articles with unsourced statements from April 2016","Articles with unsourced statements from August 2013","Webarchive template wayback links","Commons category link is on Wikidata","Cryptography","Banking technology","Formal sciences","Applied mathematics"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cryptography","wgRelevantArticleId":18934432,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Cryptographic","wgStableRevisionId":933023391,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
 "wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Cryptography","wgWikibaseItemId":"Q8789","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready",
 "mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
@@ -8104,13 +8104,13 @@ The
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1262
-Cached time: 20191230142801
+Parsed by mw1252
+Cached time: 20191231101631
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.644 seconds
-Real time usage: 2.114 seconds
+CPU time usage: 1.596 seconds
+Real time usage: 2.143 seconds
 Preprocessor visited node count: 6282/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 219544/2097152 bytes
@@ -8120,21 +8120,21 @@ Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 246069/5000000 bytes
 Number of Wikibase entities loaded: 6/400
-Lua time usage: 0.913/10.000 seconds
+Lua time usage: 0.867/10.000 seconds
 Lua memory usage: 21.7 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1794.197      1 -total
- 50.57%  907.303      1 Template:Reflist
- 15.96%  286.331     23 Template:Cite_book
- 15.00%  269.219     37 Template:Cite_web
- 11.82%  212.150     16 Template:Cite_journal
- 10.02%  179.791      1 Template:Lang-grc
-  4.90%   87.939      3 Template:Citation_needed
-  4.44%   79.697      3 Template:Fix
-  3.81%   68.298      7 Template:Navbox
-  3.23%   58.010      8 Template:Category_handler
--->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:18934432-0!canonical and timestamp 20191230142801 and revision id 933023391
+100.00% 1839.585      1 -total
+ 50.78%  934.161      1 Template:Reflist
+ 19.35%  355.989     23 Template:Cite_book
+ 13.99%  257.276     37 Template:Cite_web
+ 10.84%  199.405     16 Template:Cite_journal
+ 10.74%  197.564      1 Template:Lang-grc
+  4.74%   87.153      3 Template:Citation_needed
+  4.33%   79.683      3 Template:Fix
+  3.93%   72.370      1 Template:Pp-protect
+  3.60%   66.157      4 Template:Catalog_lookup_link
+-->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:18934432-0!canonical and timestamp 20191231101631 and revision id 933023391
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -9119,7 +9119,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.644","walltime":"2.114","ppvisitednodes":{"value":6282,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":219544,"limit":2097152},"templateargumentsize":{"value":5235,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":246069,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 1794.197      1 -total"," 50.57%  907.303      1 Template:Reflist"," 15.96%  286.331     23 Template:Cite_book"," 15.00%  269.219     37 Template:Cite_web"," 11.82%  212.150     16 Template:Cite_journal"," 10.02%  179.791      1 Template:Lang-grc","  4.90%   87.939      3 Template:Citation_needed","  4.44%   79.697      3 Template:Fix","  3.81%   68.298      7 Template:Navbox","  3.23%   58.010      8 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.913","limit":"10.000"},"limitreport-memusage":{"value":22755627,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191230142801","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.596","walltime":"2.143","ppvisitednodes":{"value":6282,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":219544,"limit":2097152},"templateargumentsize":{"value":5235,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":246069,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 1839.585      1 -total"," 50.78%  934.161      1 Template:Reflist"," 19.35%  355.989     23 Template:Cite_book"," 13.99%  257.276     37 Template:Cite_web"," 10.84%  199.405     16 Template:Cite_journal"," 10.74%  197.564      1 Template:Lang-grc","  4.74%   87.153      3 Template:Citation_needed","  4.33%   79.683      3 Template:Fix","  3.93%   72.370      1 Template:Pp-protect","  3.60%   66.157      4 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.867","limit":"10.000"},"limitreport-memusage":{"value":22755667,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20191231101631","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -9129,7 +9129,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":170,"wgHostname":"mw1321"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1323"});});
 //]]>
     </script>
   </body>

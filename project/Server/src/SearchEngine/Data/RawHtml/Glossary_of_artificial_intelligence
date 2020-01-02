@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgoErwpAICMAAEWCdE8AAAAU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Glossary_of_artificial_intelligence","wgTitle":"Glossary of artificial intelligence","wgCurRevisionId":933172714,"wgRevisionId":933172714,"wgArticleId":50336055,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2019","Articles with permanently dead external links","CS1: long volume value",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg0OjwpAMFAAAFGUaLcAAADL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Glossary_of_artificial_intelligence","wgTitle":"Glossary of artificial intelligence","wgCurRevisionId":933172714,"wgRevisionId":933172714,"wgArticleId":50336055,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2019","Articles with permanently dead external links","CS1: long volume value",
 "Webarchive template wayback links","CS1 errors: missing periodical","CS1 German-language sources (de)","CS1 maint: archived copy as title","CS1 maint: multiple names: authors list","CS1 maint: BOT: original-url status unknown","Use dmy dates from September 2017","Articles to be expanded from August 2019","All articles to be expanded","Articles with empty sections from August 2019","All articles with empty sections","Articles using small message boxes","Glossaries of science","Artificial intelligence","Machine learning","Wikipedia glossaries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Glossary_of_artificial_intelligence","wgRelevantArticleId":50336055,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en",
 "pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q24950778","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site",
 "mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -22753,6 +22753,11 @@ The R Core Team asks authors who use R in their data analysis to cite the softwa
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -26340,49 +26345,49 @@ The R Core Team asks authors who use R in their data analysis to cite the softwa
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1320
-Cached time: 20191230105152
+Parsed by mw1295
+Cached time: 20200101211301
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.764 seconds
-Real time usage: 3.127 seconds
+CPU time usage: 2.920 seconds
+Real time usage: 3.309 seconds
 Preprocessor visited node count: 18995/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 610654/2097152 bytes
+Post‐expand include size: 610735/2097152 bytes
 Template argument size: 12754/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 13/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 718821/5000000 bytes
 Number of Wikibase entities loaded: 9/400
-Lua time usage: 1.431/10.000 seconds
-Lua memory usage: 9.42 MB/50 MB
+Lua time usage: 1.467/10.000 seconds
+Lua memory usage: 9.05 MB/50 MB
 Lua Profile:
-    Scribunto_LuaSandboxCallback::callParserFunction                 240 ms       16.7%
-    recursiveClone <mwInit.lua:41>                                   160 ms       11.1%
-    Scribunto_LuaSandboxCallback::gsub                               140 ms        9.7%
-    ?                                                                140 ms        9.7%
-    Scribunto_LuaSandboxCallback::getEntity                          100 ms        6.9%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                 80 ms        5.6%
-    Scribunto_LuaSandboxCallback::find                                80 ms        5.6%
-    <mw.lua:683>                                                      60 ms        4.2%
-    Scribunto_LuaSandboxCallback::getEntityModuleName                 60 ms        4.2%
-    Scribunto_LuaSandboxCallback::match                               60 ms        4.2%
-    [others]                                                         320 ms       22.2%
+    ?                                                                240 ms       15.2%
+    Scribunto_LuaSandboxCallback::getEntity                          200 ms       12.7%
+    Scribunto_LuaSandboxCallback::find                               160 ms       10.1%
+    Scribunto_LuaSandboxCallback::gsub                               140 ms        8.9%
+    Scribunto_LuaSandboxCallback::callParserFunction                 120 ms        7.6%
+    recursiveClone <mwInit.lua:41>                                   100 ms        6.3%
+    dataWrapper <mw.lua:661>                                         100 ms        6.3%
+    (for generator)                                                   60 ms        3.8%
+    type                                                              60 ms        3.8%
+    init <Module:Citation/CS1/Utilities>                              40 ms        2.5%
+    [others]                                                         360 ms       22.8%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2504.087      1 -total
- 21.28%  532.948     53 Template:Cite_journal
- 16.45%  411.915     46 Template:Cite_book
- 14.45%  361.853     60 Template:Cite_web
-  4.59%  114.843     12 Template:Navbox
-  4.45%  111.367     13 Template:ISBN
-  4.30%  107.552      2 Template:Refn
-  2.77%   69.370     15 Template:Cite_news
-  2.29%   57.392     11 Template:Compact_ToC
-  2.17%   54.416     10 Template:Citation
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:50336055-0!canonical and timestamp 20191230105149 and revision id 933172714
+100.00% 2583.495      1 -total
+ 21.25%  548.905     53 Template:Cite_journal
+ 15.12%  390.666     46 Template:Cite_book
+ 13.59%  351.223     60 Template:Cite_web
+  5.80%  149.784     12 Template:Navbox
+  4.50%  116.351      2 Template:Refn
+  3.98%  102.868     13 Template:ISBN
+  2.91%   75.174     15 Template:Cite_news
+  2.17%   55.962     10 Template:Citation
+  2.05%   52.852     11 Template:Compact_ToC
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:50336055-0!canonical and timestamp 20200101211301 and revision id 933172714
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -26902,7 +26907,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.764","walltime":"3.127","ppvisitednodes":{"value":18995,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":610654,"limit":2097152},"templateargumentsize":{"value":12754,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":718821,"limit":5000000},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00% 2504.087      1 -total"," 21.28%  532.948     53 Template:Cite_journal"," 16.45%  411.915     46 Template:Cite_book"," 14.45%  361.853     60 Template:Cite_web","  4.59%  114.843     12 Template:Navbox","  4.45%  111.367     13 Template:ISBN","  4.30%  107.552      2 Template:Refn","  2.77%   69.370     15 Template:Cite_news","  2.29%   57.392     11 Template:Compact_ToC","  2.17%   54.416     10 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"1.431","limit":"10.000"},"limitreport-memusage":{"value":9881329,"limit":52428800},"limitreport-profile":[["Scribunto_LuaSandboxCallback::callParserFunction","240","16.7"],["recursiveClone \u003CmwInit.lua:41\u003E","160","11.1"],["Scribunto_LuaSandboxCallback::gsub","140","9.7"],["?","140","9.7"],["Scribunto_LuaSandboxCallback::getEntity","100","6.9"],["Scribunto_LuaSandboxCallback::getExpandedArgument","80","5.6"],["Scribunto_LuaSandboxCallback::find","80","5.6"],["\u003Cmw.lua:683\u003E","60","4.2"],["Scribunto_LuaSandboxCallback::getEntityModuleName","60","4.2"],["Scribunto_LuaSandboxCallback::match","60","4.2"],["[others]","320","22.2"]]},"cachereport":{"origin":"mw1320","timestamp":"20191230105152","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.920","walltime":"3.309","ppvisitednodes":{"value":18995,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":610735,"limit":2097152},"templateargumentsize":{"value":12754,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":718821,"limit":5000000},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00% 2583.495      1 -total"," 21.25%  548.905     53 Template:Cite_journal"," 15.12%  390.666     46 Template:Cite_book"," 13.59%  351.223     60 Template:Cite_web","  5.80%  149.784     12 Template:Navbox","  4.50%  116.351      2 Template:Refn","  3.98%  102.868     13 Template:ISBN","  2.91%   75.174     15 Template:Cite_news","  2.17%   55.962     10 Template:Citation","  2.05%   52.852     11 Template:Compact_ToC"]},"scribunto":{"limitreport-timeusage":{"value":"1.467","limit":"10.000"},"limitreport-memusage":{"value":9489986,"limit":52428800},"limitreport-profile":[["?","240","15.2"],["Scribunto_LuaSandboxCallback::getEntity","200","12.7"],["Scribunto_LuaSandboxCallback::find","160","10.1"],["Scribunto_LuaSandboxCallback::gsub","140","8.9"],["Scribunto_LuaSandboxCallback::callParserFunction","120","7.6"],["recursiveClone \u003CmwInit.lua:41\u003E","100","6.3"],["dataWrapper \u003Cmw.lua:661\u003E","100","6.3"],["(for generator)","60","3.8"],["type","60","3.8"],["init \u003CModule:Citation/CS1/Utilities\u003E","40","2.5"],["[others]","360","22.8"]]},"cachereport":{"origin":"mw1295","timestamp":"20200101211301","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -26912,7 +26917,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1333"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1245"});});
 //]]>
     </script>
   </body>

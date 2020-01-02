@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgmXsQpAAEAAACTC3@QAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robustness_(computer_science)","wgTitle":"Robustness (computer science)","wgCurRevisionId":930266649,"wgRevisionId":930266649,"wgArticleId":27206541,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Reliability engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Robustness_(computer_science)","wgRelevantArticleId":27206541,
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg23-wpAICMAABnRS-cAAAEW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robustness_(computer_science)","wgTitle":"Robustness (computer science)","wgCurRevisionId":930266649,"wgRevisionId":930266649,"wgArticleId":27206541,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Reliability engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Robustness_(computer_science)","wgRelevantArticleId":27206541,
 "wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2524240","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready"
 ,"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
 "ext.centralNotice.startUp","skins.vector.js"];
@@ -138,7 +138,7 @@ Topics
                   <td style="padding:0 0.1em 0.4em">
                     <div class="NavFrame collapsed" style="border:none;padding:0">
                       <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
-                        <a href="/wiki/Collective_behaviour" class="mw-redirect" title="Collective behaviour">
+                        <a href="/wiki/Collective_behavior" title="Collective behavior">
                           Collective behaviour
                         </a>
                       </div>
@@ -168,7 +168,7 @@ Topics
                             Phase transition
                           </a>
                           <br/>
-                          <a href="/wiki/Agent-based_modelling" class="mw-redirect" title="Agent-based modelling">
+                          <a href="/wiki/Agent-based_model" title="Agent-based model">
                             Agent-based modelling
                           </a>
                           <br/>
@@ -176,7 +176,7 @@ Topics
                             Synchronization
                           </a>
                           <br/>
-                          <a href="/wiki/Ant_colony_optimization" class="mw-redirect" title="Ant colony optimization">
+                          <a href="/wiki/Ant_colony_optimization_algorithms" title="Ant colony optimization algorithms">
                             Ant colony optimization
                           </a>
                           <br/>
@@ -202,7 +202,7 @@ Topics
                         </a>
                       </div>
                       <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-                        <a href="/wiki/Scale-free_networks" class="mw-redirect" title="Scale-free networks">
+                        <a href="/wiki/Scale-free_network" title="Scale-free network">
                           Scale-free networks
                         </a>
                         <br/>
@@ -211,7 +211,7 @@ Topics
                             Social network analysis
                           </a>
                           <br/>
-                          <a href="/wiki/Small-world_networks" class="mw-redirect" title="Small-world networks">
+                          <a href="/wiki/Small-world_network" title="Small-world network">
                             Small-world networks
                           </a>
                           <br/>
@@ -227,7 +227,7 @@ Topics
                             Motifs
                           </a>
                           <br/>
-                          <a href="/wiki/Graph_Theory" class="mw-redirect" title="Graph Theory">
+                          <a href="/wiki/Graph_theory" title="Graph theory">
                             Graph Theory
                           </a>
                           <br/>
@@ -277,7 +277,7 @@ Topics
                             Evolutionary computation
                           </a>
                           <br/>
-                          <a href="/wiki/Genetic_algorithms" class="mw-redirect" title="Genetic algorithms">
+                          <a href="/wiki/Genetic_algorithm" title="Genetic algorithm">
                             Genetic algorithms
                           </a>
                           <br/>
@@ -327,15 +327,15 @@ Topics
                         </a>
                         <br/>
                         <p>
-                          <a href="/wiki/Reaction-diffusion_systems" class="mw-redirect" title="Reaction-diffusion systems">
-                            Reaction-diffusion systems
+                          <a href="/wiki/Reaction%E2%80%93diffusion_system" title="Reaction–diffusion system">
+                            Reaction–diffusion systems
                           </a>
                           <br/>
-                          <a href="/wiki/Partial_differential_equations" class="mw-redirect" title="Partial differential equations">
+                          <a href="/wiki/Partial_differential_equation" title="Partial differential equation">
                             Partial differential equations
                           </a>
                           <br/>
-                          <a href="/wiki/Dissipative_structures" class="mw-redirect" title="Dissipative structures">
+                          <a href="/wiki/Dissipative_system" title="Dissipative system">
                             Dissipative structures
                           </a>
                           <br/>
@@ -343,7 +343,7 @@ Topics
                             Percolation
                           </a>
                           <br/>
-                          <a href="/wiki/Cellular_automata" class="mw-redirect" title="Cellular automata">
+                          <a href="/wiki/Cellular_automaton" title="Cellular automaton">
                             Cellular automata
                           </a>
                           <br/>
@@ -393,7 +393,7 @@ Topics
                             Self-reference
                           </a>
                           <br/>
-                          <a href="/wiki/Goal-oriented" class="mw-redirect" title="Goal-oriented">
+                          <a href="/wiki/Goal_orientation" title="Goal orientation">
                             Goal-oriented
                           </a>
                           <br/>
@@ -421,7 +421,7 @@ Topics
                             Information theory
                           </a>
                           <br/>
-                          <a href="/wiki/Computation_theory" class="mw-redirect" title="Computation theory">
+                          <a href="/wiki/Theory_of_computation" title="Theory of computation">
                             Computation theory
                           </a>
                           <br/>
@@ -442,12 +442,12 @@ Topics
                         </a>
                       </div>
                       <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-                        <a href="/wiki/Time_series_analysis" class="mw-redirect" title="Time series analysis">
+                        <a href="/wiki/Time_series" title="Time series">
                           Time series analysis
                         </a>
                         <br/>
                         <p>
-                          <a href="/wiki/Ordinary_differential_equations" class="mw-redirect" title="Ordinary differential equations">
+                          <a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">
                             Ordinary differential equations
                           </a>
                           <br/>
@@ -484,7 +484,7 @@ Topics
                           </a>
                           <br/>
                         </p>
-                        <a href="/wiki/Coupled_map_lattices" class="mw-redirect" title="Coupled map lattices">
+                        <a href="/wiki/Coupled_map_lattice" title="Coupled map lattice">
                           Coupled map lattices
                         </a>
                       </div>
@@ -2165,37 +2165,37 @@ When applying the principle of redundancy to computer science, blindly adding co
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1278
-Cached time: 20191211092120
+Parsed by mw1318
+Cached time: 20200101235743
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.340 seconds
-Real time usage: 0.436 seconds
+CPU time usage: 0.260 seconds
+Real time usage: 0.350 seconds
 Preprocessor visited node count: 853/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 51700/2097152 bytes
+Post‐expand include size: 52231/2097152 bytes
 Template argument size: 93/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 2/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 33652/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.173/10.000 seconds
+Lua time usage: 0.129/10.000 seconds
 Lua memory usage: 3.83 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  359.869      1 -total
- 69.94%  251.703      1 Template:Reflist
- 32.30%  116.234      7 Template:Cite_web
- 25.05%   90.141      2 Template:Cite_journal
- 10.99%   39.556      1 Template:See_also
-  7.82%   28.154      1 Template:Complex_systems
-  6.94%   24.971      1 Template:Sidebar_with_collapsible_lists
-  4.66%   16.787      1 Template:Complex_systems_topics
-  3.42%   12.291      1 Template:Navbox
-  3.38%   12.164      1 Template:Cite_book
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:27206541-0!canonical and timestamp 20191211092120 and revision id 930266649
+100.00%  282.836      1 -total
+ 69.37%  196.190      1 Template:Reflist
+ 33.83%   95.691      7 Template:Cite_web
+ 23.83%   67.403      2 Template:Cite_journal
+ 10.90%   30.836      1 Template:Complex_systems
+  9.52%   26.937      1 Template:See_also
+  9.21%   26.061      1 Template:Sidebar_with_collapsible_lists
+  4.45%   12.574      1 Template:Complex_systems_topics
+  3.27%    9.240      1 Template:Navbox
+  2.79%    7.902      1 Template:Cite_book
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:27206541-0!canonical and timestamp 20200101235743 and revision id 930266649
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -2640,7 +2640,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.436","ppvisitednodes":{"value":853,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51700,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33652,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  359.869      1 -total"," 69.94%  251.703      1 Template:Reflist"," 32.30%  116.234      7 Template:Cite_web"," 25.05%   90.141      2 Template:Cite_journal"," 10.99%   39.556      1 Template:See_also","  7.82%   28.154      1 Template:Complex_systems","  6.94%   24.971      1 Template:Sidebar_with_collapsible_lists","  4.66%   16.787      1 Template:Complex_systems_topics","  3.42%   12.291      1 Template:Navbox","  3.38%   12.164      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":4018962,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20191211092120","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.350","ppvisitednodes":{"value":853,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52231,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33652,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  282.836      1 -total"," 69.37%  196.190      1 Template:Reflist"," 33.83%   95.691      7 Template:Cite_web"," 23.83%   67.403      2 Template:Cite_journal"," 10.90%   30.836      1 Template:Complex_systems","  9.52%   26.937      1 Template:See_also","  9.21%   26.061      1 Template:Sidebar_with_collapsible_lists","  4.45%   12.574      1 Template:Complex_systems_topics","  3.27%    9.240      1 Template:Navbox","  2.79%    7.902      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.129","limit":"10.000"},"limitreport-memusage":{"value":4018963,"limit":52428800}},"cachereport":{"origin":"mw1318","timestamp":"20200101235743","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -2650,7 +2650,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1269"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1333"});});
 //]]>
     </script>
   </body>

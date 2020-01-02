@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgjs2wpAADsAAIn8ztQAAAAO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chess","wgTitle":"Chess","wgCurRevisionId":932249996,"wgRevisionId":932249996,"wgArticleId":5134,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Webarchive template wayback links","Wikipedia pages semi-protected against vandalism","Articles with short description",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgvblgpAIEIAALnJmTQAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chess","wgTitle":"Chess","wgCurRevisionId":933437201,"wgRevisionId":933437201,"wgArticleId":5134,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Webarchive template wayback links","Wikipedia pages semi-protected against vandalism","Articles with short description",
 "Use dmy dates from May 2016","Articles containing Sanskrit-language text","Articles containing Chinese-language text","Hidden templates using styles","Articles containing potentially dated statements from 2018","All articles containing potentially dated statements","CS1 French-language sources (fr)","CS1: long volume value","Spoken articles","Articles with hAudio microformats","Articles with Curlie links","Featured articles","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Abstract strategy games","Chess","Individual sports","Indian inventions","Traditional board games","Partially solved games","Games related to chaturanga"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Chess","wgRelevantArticleId":5134,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
 "wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q718","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
 "jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
@@ -19009,49 +19009,49 @@ Psychologie des schachspiels.
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1323
-Cached time: 20191229180945
+Parsed by mw1221
+Cached time: 20191231233339
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.428 seconds
-Real time usage: 2.911 seconds
+CPU time usage: 2.704 seconds
+Real time usage: 3.397 seconds
 Preprocessor visited node count: 13401/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 587978/2097152 bytes
 Template argument size: 11925/2097152 bytes
 Highest expansion depth: 15/40
-Expensive parser function count: 17/500
+Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 381287/5000000 bytes
 Number of Wikibase entities loaded: 7/400
-Lua time usage: 1.216/10.000 seconds
+Lua time usage: 1.299/10.000 seconds
 Lua memory usage: 24.72 MB/50 MB
 Lua Profile:
-    ?                                                                200 ms       15.6%
-    recursiveClone <mwInit.lua:41>                                   160 ms       12.5%
-    Scribunto_LuaSandboxCallback::getEntity                          140 ms       10.9%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                100 ms        7.8%
-    Scribunto_LuaSandboxCallback::callParserFunction                  80 ms        6.2%
-    init <Module:Citation/CS1/Identifiers>                            60 ms        4.7%
-    insert                                                            60 ms        4.7%
-    Scribunto_LuaSandboxCallback::getEntityModuleName                 40 ms        3.1%
-    <mw.lua:699>                                                      40 ms        3.1%
-    is_alias_used <Module:Citation/CS1/Utilities:162>                 40 ms        3.1%
-    [others]                                                         360 ms       28.1%
+    ?                                                                260 ms       19.4%
+    recursiveClone <mwInit.lua:41>                                   200 ms       14.9%
+    Scribunto_LuaSandboxCallback::getEntity                          180 ms       13.4%
+    Scribunto_LuaSandboxCallback::find                               100 ms        7.5%
+    Scribunto_LuaSandboxCallback::callParserFunction                  80 ms        6.0%
+    Scribunto_LuaSandboxCallback::match                               60 ms        4.5%
+    date                                                              60 ms        4.5%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                 40 ms        3.0%
+    Scribunto_LuaSandboxCallback::incrementStatsKey                   40 ms        3.0%
+    Scribunto_LuaSandboxCallback::plain                               40 ms        3.0%
+    [others]                                                         280 ms       20.9%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2152.017      1 -total
- 29.89%  643.179      2 Template:Reflist
- 22.89%  492.643     63 Template:Cite_book
- 12.26%  263.735     49 Template:Cite_web
-  8.35%  179.695      1 Template:Lang-sa
-  8.18%  175.992      8 Template:Cite_journal
-  5.05%  108.602      1 Template:Authority_control
-  3.81%   82.009      9 Template:Refn
-  3.39%   72.881     11 Template:Navbox
-  2.81%   60.391     12 Template:Chess_diagram_small
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5134-0!canonical and timestamp 20191229180942 and revision id 932249996
+100.00% 2516.055      1 -total
+ 30.54%  768.285      2 Template:Reflist
+ 19.63%  493.815     63 Template:Cite_book
+ 13.85%  348.397     49 Template:Cite_web
+ 11.69%  294.058      1 Template:Authority_control
+  7.63%  192.009      8 Template:Cite_journal
+  6.25%  157.251      1 Template:Lang-sa
+  3.39%   85.355      9 Template:Refn
+  2.95%   74.130     11 Template:Navbox
+  2.61%   65.735     12 Template:Chess_diagram_small
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5134-0!canonical and timestamp 20191231233342 and revision id 933437201
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -19059,8 +19059,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chess&amp;oldid=932249996">
-            https://en.wikipedia.org/w/index.php?title=Chess&amp;oldid=932249996
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chess&amp;oldid=933437201">
+            https://en.wikipedia.org/w/index.php?title=Chess&amp;oldid=933437201
           </a>
           "
         </div>
@@ -19452,7 +19452,7 @@ You can view its source [e]" accesskey="e">
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Chess&amp;oldid=932249996" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Chess&amp;oldid=933437201" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -19467,7 +19467,7 @@ You can view its source [e]" accesskey="e">
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chess&amp;id=932249996" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chess&amp;id=933437201" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -20373,7 +20373,7 @@ You can view its source [e]" accesskey="e">
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 24 December 2019, at 13:32
+           This page was last edited on 31 December 2019, at 23:33
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -20461,17 +20461,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.428","walltime":"2.911","ppvisitednodes":{"value":13401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":587978,"limit":2097152},"templateargumentsize":{"value":11925,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":381287,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 2152.017      1 -total"," 29.89%  643.179      2 Template:Reflist"," 22.89%  492.643     63 Template:Cite_book"," 12.26%  263.735     49 Template:Cite_web","  8.35%  179.695      1 Template:Lang-sa","  8.18%  175.992      8 Template:Cite_journal","  5.05%  108.602      1 Template:Authority_control","  3.81%   82.009      9 Template:Refn","  3.39%   72.881     11 Template:Navbox","  2.81%   60.391     12 Template:Chess_diagram_small"]},"scribunto":{"limitreport-timeusage":{"value":"1.216","limit":"10.000"},"limitreport-memusage":{"value":25916704,"limit":52428800},"limitreport-profile":[["?","200","15.6"],["recursiveClone \u003CmwInit.lua:41\u003E","160","12.5"],["Scribunto_LuaSandboxCallback::getEntity","140","10.9"],["Scribunto_LuaSandboxCallback::getExpandedArgument","100","7.8"],["Scribunto_LuaSandboxCallback::callParserFunction","80","6.2"],["init \u003CModule:Citation/CS1/Identifiers\u003E","60","4.7"],["insert","60","4.7"],["Scribunto_LuaSandboxCallback::getEntityModuleName","40","3.1"],["\u003Cmw.lua:699\u003E","40","3.1"],["is_alias_used \u003CModule:Citation/CS1/Utilities:162\u003E","40","3.1"],["[others]","360","28.1"]]},"cachereport":{"origin":"mw1323","timestamp":"20191229180945","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.704","walltime":"3.397","ppvisitednodes":{"value":13401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":587978,"limit":2097152},"templateargumentsize":{"value":11925,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":381287,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 2516.055      1 -total"," 30.54%  768.285      2 Template:Reflist"," 19.63%  493.815     63 Template:Cite_book"," 13.85%  348.397     49 Template:Cite_web"," 11.69%  294.058      1 Template:Authority_control","  7.63%  192.009      8 Template:Cite_journal","  6.25%  157.251      1 Template:Lang-sa","  3.39%   85.355      9 Template:Refn","  2.95%   74.130     11 Template:Navbox","  2.61%   65.735     12 Template:Chess_diagram_small"]},"scribunto":{"limitreport-timeusage":{"value":"1.299","limit":"10.000"},"limitreport-memusage":{"value":25916704,"limit":52428800},"limitreport-profile":[["?","260","19.4"],["recursiveClone \u003CmwInit.lua:41\u003E","200","14.9"],["Scribunto_LuaSandboxCallback::getEntity","180","13.4"],["Scribunto_LuaSandboxCallback::find","100","7.5"],["Scribunto_LuaSandboxCallback::callParserFunction","80","6.0"],["Scribunto_LuaSandboxCallback::match","60","4.5"],["date","60","4.5"],["Scribunto_LuaSandboxCallback::getExpandedArgument","40","3.0"],["Scribunto_LuaSandboxCallback::incrementStatsKey","40","3.0"],["Scribunto_LuaSandboxCallback::plain","40","3.0"],["[others]","280","20.9"]]},"cachereport":{"origin":"mw1221","timestamp":"20191231233339","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Chess","url":"https:\/\/en.wikipedia.org\/wiki\/Chess","sameAs":"http:\/\/www.wikidata.org\/entity\/Q718","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q718","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-05T06:05:53Z","dateModified":"2019-12-24T13:32:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/ChessSet.jpg","headline":"two-player board game"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Chess","url":"https:\/\/en.wikipedia.org\/wiki\/Chess","sameAs":"http:\/\/www.wikidata.org\/entity\/Q718","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q718","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-05T06:05:53Z","dateModified":"2019-12-31T23:33:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/ChessSet.jpg","headline":"two-player board game"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140,"wgHostname":"mw1264"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146,"wgHostname":"mw1329"});});
 //]]>
     </script>
   </body>

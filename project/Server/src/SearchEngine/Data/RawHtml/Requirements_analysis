@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfk6pApAMFMAALXaxzMAAABX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Requirements_analysis","wgTitle":"Requirements analysis","wgCurRevisionId":930632444,"wgRevisionId":930632444,"wgArticleId":522449,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: uses editors parameter","CS1 maint: multiple names: authors list","Use American English from March 2019",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg0NAgpAIDEAABXXqPUAAADK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Requirements_analysis","wgTitle":"Requirements analysis","wgCurRevisionId":930632444,"wgRevisionId":930632444,"wgArticleId":522449,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: uses editors parameter","CS1 maint: multiple names: authors list","Use American English from March 2019",
 "All Wikipedia articles written in American English","Articles with short description","Articles needing additional references from December 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2012","Articles needing additional references from October 2009","Articles with unsourced statements from July 2019","Articles with unsourced statements from December 2011","Articles to be expanded from February 2018","All articles to be expanded","Articles using small message boxes","Articles needing cleanup from February 2011","All pages needing cleanup","Cleanup tagged articles without a reason field from February 2011","Wikipedia pages needing cleanup from February 2011","Commons category link is on Wikidata","Systems engineering","Software requirements","Business analysis"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Requirements_analysis","wgRelevantArticleId":
 522449,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q187147","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":
 "ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
@@ -25,7 +25,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
     </script>
     <meta name="ResourceLoaderDynamicStyles" content=""/>
     <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-    <meta name="generator" content="MediaWiki 1.35.0-wmf.10"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.11"/>
     <meta name="referrer" content="origin"/>
     <meta name="referrer" content="origin-when-crossorigin"/>
     <meta name="referrer" content="origin-when-cross-origin"/>
@@ -3105,6 +3105,11 @@ A major new emphasis in the 1990s was a focus on the identification of
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -4763,37 +4768,37 @@ A major new emphasis in the 1990s was a focus on the identification of
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1270
-Cached time: 20191217182102
+Parsed by mw1334
+Cached time: 20200101211251
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.732 seconds
-Real time usage: 1.235 seconds
+CPU time usage: 0.612 seconds
+Real time usage: 0.833 seconds
 Preprocessor visited node count: 2589/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 146061/2097152 bytes
+Post‐expand include size: 146142/2097152 bytes
 Template argument size: 4959/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 13/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 25261/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.338/10.000 seconds
-Lua memory usage: 7.6 MB/50 MB
+Lua time usage: 0.296/10.000 seconds
+Lua memory usage: 7.61 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1031.902      1 -total
- 14.31%  147.648      1 Template:Reflist
- 13.90%  143.416      8 Template:Cite_book
- 12.04%  124.292      1 Template:Cite_conference
- 10.53%  108.709      4 Template:Ambox
-  9.90%  102.151      4 Template:Citation_needed
-  9.83%  101.466      1 Template:More_citations_needed
-  9.74%  100.530      1 Template:Commons_category
-  8.77%   90.507      5 Template:Fix
-  6.68%   68.978      1 Template:Short_description
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:522449-0!canonical and timestamp 20191217182101 and revision id 930632444
+100.00%  689.423      1 -total
+ 19.98%  137.736      1 Template:Reflist
+ 19.33%  133.278      8 Template:Cite_book
+ 10.31%   71.098      4 Template:Ambox
+ 10.18%   70.207      1 Template:Cite_conference
+  8.73%   60.159      1 Template:More_citations_needed
+  8.24%   56.774      4 Template:Citation_needed
+  8.03%   55.381      4 Template:Navbox
+  7.24%   49.930      5 Template:Fix
+  7.06%   48.694      1 Template:Commons_category
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:522449-0!canonical and timestamp 20200101211251 and revision id 930632444
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -5085,7 +5090,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="n-featuredcontent">
-                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
                   Featured content
                 </a>
               </li>
@@ -5467,7 +5472,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.732","walltime":"1.235","ppvisitednodes":{"value":2589,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":146061,"limit":2097152},"templateargumentsize":{"value":4959,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25261,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1031.902      1 -total"," 14.31%  147.648      1 Template:Reflist"," 13.90%  143.416      8 Template:Cite_book"," 12.04%  124.292      1 Template:Cite_conference"," 10.53%  108.709      4 Template:Ambox","  9.90%  102.151      4 Template:Citation_needed","  9.83%  101.466      1 Template:More_citations_needed","  9.74%  100.530      1 Template:Commons_category","  8.77%   90.507      5 Template:Fix","  6.68%   68.978      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.338","limit":"10.000"},"limitreport-memusage":{"value":7966727,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20191217182102","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.612","walltime":"0.833","ppvisitednodes":{"value":2589,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":146142,"limit":2097152},"templateargumentsize":{"value":4959,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25261,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  689.423      1 -total"," 19.98%  137.736      1 Template:Reflist"," 19.33%  133.278      8 Template:Cite_book"," 10.31%   71.098      4 Template:Ambox"," 10.18%   70.207      1 Template:Cite_conference","  8.73%   60.159      1 Template:More_citations_needed","  8.24%   56.774      4 Template:Citation_needed","  8.03%   55.381      4 Template:Navbox","  7.24%   49.930      5 Template:Fix","  7.06%   48.694      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.296","limit":"10.000"},"limitreport-memusage":{"value":7983912,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20200101211251","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -5477,7 +5482,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1248"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1328"});});
 //]]>
     </script>
   </body>

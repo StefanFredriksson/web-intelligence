@@ -7,10 +7,10 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgoD7gpAADoAAA2GbcIAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Charles_Babbage","wgTitle":"Charles Babbage","wgCurRevisionId":931759006,"wgRevisionId":931759006,"wgArticleId":5698,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the ODNB","CS1 French-language sources (fr)","CS1: Julian–Gregorian uncertainty","Pages containing links to subscription-only content",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg0TnQpAAEMAACscmOwAAACD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Charles_Babbage","wgTitle":"Charles Babbage","wgCurRevisionId":933577828,"wgRevisionId":933577828,"wgArticleId":5698,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the ODNB","CS1 French-language sources (fr)","CS1: Julian–Gregorian uncertainty","Pages containing links to subscription-only content",
 "Articles with short description","Wikipedia pending changes protected pages","Wikipedia indefinitely move-protected pages","EngvarB from November 2019","Use dmy dates from November 2019","Biography with signature","Articles with hCards","Pages using infobox scientist with unknown parameters","All articles with unsourced statements","Articles with unsourced statements from December 2017","All articles with failed verification","Articles with failed verification from March 2019","Commons category link from Wikidata","Wikipedia articles incorporating a citation from EB9","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Articles with Project Gutenberg links","Articles with Internet Archive links","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CANTIC identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with GND identifiers",
 "Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Charles Babbage","1791 births","1871 deaths","19th-century English mathematicians","19th-century English people","Alumni of Peterhouse, Cambridge","Alumni of Trinity College, Cambridge","British business theorists","Burials at Kensal Green Cemetery","Corresponding Members of the St Petersburg Academy of Sciences","English Christians","English computer scientists","English engineers",
-"Fellows of the American Academy of Arts and Sciences","Fellows of the Royal Astronomical Society","Fellows of the Royal Society of Edinburgh","Fellows of the Royal Society","Lucasian Professors of Mathematics","People educated at Totnes Grammar School","People of the Industrial Revolution","Recipients of the Gold Medal of the Royal Astronomical Society","Mathematicians from London","Knights of the Royal Guelphic Order"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Charles_Babbage","wgRelevantArticleId":5698,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgStableRevisionId":931759006,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":
+"Fellows of the American Academy of Arts and Sciences","Fellows of the Royal Astronomical Society","Fellows of the Royal Society of Edinburgh","Fellows of the Royal Society","Lucasian Professors of Mathematics","People educated at Totnes Grammar School","People of the Industrial Revolution","Recipients of the Gold Medal of the Royal Astronomical Society","Mathematicians from London","Knights of the Royal Guelphic Order"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Charles_Babbage","wgRelevantArticleId":5698,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgStableRevisionId":933577828,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":
 !0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q46633","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":
 "ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
 //]]>
@@ -87,7 +87,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 </a>
                  on 
                 <i>
-                  21 December 2019
+                  1 January 2020
                 </i>
                 .
               </div>
@@ -4474,14 +4474,17 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
               <li>
                 <cite class="citation book">
                   Babbage, Charles (1826). 
-                  <a rel="nofollow" class="external text" href="https://books.google.com/?id=teGjS4XfpbMC&amp;printsec=frontcover&amp;dq=charles+babbage">
+                  <a rel="nofollow" class="external text" href="https://archive.org/details/acomparativevie00babbgoog">
                     <i>
                       A Comparative View of the Various Institutions for the Assurance of Lives
                     </i>
                   </a>
-                  . London: J. Mawman.
+                  . London: J. Mawman. 
+                  <q>
+                    charles babbage.
+                  </q>
                 </cite>
-                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Comparative+View+of+the+Various+Institutions+for+the+Assurance+of+Lives&amp;rft.place=London&amp;rft.pub=J.+Mawman&amp;rft.date=1826&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DteGjS4XfpbMC%26printsec%3Dfrontcover%26dq%3Dcharles%2Bbabbage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Comparative+View+of+the+Various+Institutions+for+the+Assurance+of+Lives&amp;rft.place=London&amp;rft.pub=J.+Mawman&amp;rft.date=1826&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Facomparativevie00babbgoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                 </span>
                 <style data-mw-deduplicate="TemplateStyles:r886058088">
                   .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
@@ -4490,14 +4493,17 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
               <li>
                 <cite class="citation book">
                   Babbage, Charles (1830). 
-                  <a rel="nofollow" class="external text" href="https://books.google.com/?id=3bgPAAAAMAAJ&amp;printsec=frontcover&amp;dq=charles+babbage">
+                  <a rel="nofollow" class="external text" href="https://archive.org/details/reflectionsonde01babbgoog">
                     <i>
                       Reflections on the Decline of Science in England, and on Some of Its Causes
                     </i>
                   </a>
-                  . London: B. Fellowes.
+                  . London: B. Fellowes. 
+                  <q>
+                    charles babbage.
+                  </q>
                 </cite>
-                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Reflections+on+the+Decline+of+Science+in+England%2C+and+on+Some+of+Its+Causes&amp;rft.place=London&amp;rft.pub=B.+Fellowes&amp;rft.date=1830&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D3bgPAAAAMAAJ%26printsec%3Dfrontcover%26dq%3Dcharles%2Bbabbage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Reflections+on+the+Decline+of+Science+in+England%2C+and+on+Some+of+Its+Causes&amp;rft.place=London&amp;rft.pub=B.+Fellowes&amp;rft.date=1830&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Freflectionsonde01babbgoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                 </span>
                 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
               </li>
@@ -4518,14 +4524,17 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
               <li>
                 <cite class="citation book">
                   Babbage, Charles (1837). 
-                  <a rel="nofollow" class="external text" href="https://books.google.com/?id=RlgEAAAAQAAJ&amp;printsec=frontcover&amp;dq=charles+babbage">
+                  <a rel="nofollow" class="external text" href="https://archive.org/details/bub_gb_95dn9JDkB7YC">
                     <i>
                       The Ninth Bridgewater Treatise, a Fragment
                     </i>
                   </a>
-                  . London: John Murray.
+                  . London: John Murray. 
+                  <q>
+                    charles babbage.
+                  </q>
                 </cite>
-                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ninth+Bridgewater+Treatise%2C+a+Fragment&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft.date=1837&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DRlgEAAAAQAAJ%26printsec%3Dfrontcover%26dq%3Dcharles%2Bbabbage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ninth+Bridgewater+Treatise%2C+a+Fragment&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft.date=1837&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fbub_gb_95dn9JDkB7YC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                 </span>
                 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                  (Reissued by 
@@ -4546,14 +4555,17 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
               <li>
                 <cite class="citation book">
                   Babbage, Charles (1841). 
-                  <a rel="nofollow" class="external text" href="https://books.google.com/?id=teMGAAAAYAAJ&amp;printsec=frontcover&amp;dq=charles+babbage">
+                  <a rel="nofollow" class="external text" href="https://archive.org/details/tablelogarithms01babbgoog">
                     <i>
                       Table of the Logarithms of the Natural Numbers from 1 to 108000
                     </i>
                   </a>
-                  . London: William Clowes and Sons.
+                  . London: William Clowes and Sons. 
+                  <q>
+                    charles babbage.
+                  </q>
                 </cite>
-                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Table+of+the+Logarithms+of+the+Natural+Numbers+from+1+to+108000&amp;rft.place=London&amp;rft.pub=William+Clowes+and+Sons&amp;rft.date=1841&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DteMGAAAAYAAJ%26printsec%3Dfrontcover%26dq%3Dcharles%2Bbabbage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Table+of+the+Logarithms+of+the+Natural+Numbers+from+1+to+108000&amp;rft.place=London&amp;rft.pub=William+Clowes+and+Sons&amp;rft.date=1841&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Ftablelogarithms01babbgoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                 </span>
                 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                  (The LOCOMAT site contains a reconstruction of this table.)
@@ -4561,14 +4573,17 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
               <li>
                 <cite class="citation book">
                   Babbage, Charles (1851). 
-                  <a rel="nofollow" class="external text" href="https://books.google.com/?id=NZcBAAAAQAAJ&amp;printsec=frontcover&amp;dq=charles+babbage">
+                  <a rel="nofollow" class="external text" href="https://archive.org/details/b21495336">
                     <i>
                       The Exposition of 1851
                     </i>
                   </a>
-                  . London: John Murray.
+                  . London: John Murray. 
+                  <q>
+                    charles babbage.
+                  </q>
                 </cite>
-                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Exposition+of+1851&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft.date=1851&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DNZcBAAAAQAAJ%26printsec%3Dfrontcover%26dq%3Dcharles%2Bbabbage&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Exposition+of+1851&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft.date=1851&amp;rft.aulast=Babbage&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fb21495336&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                 </span>
                 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
               </li>
@@ -4711,12 +4726,18 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   <span class="reference-text">
                     <cite class="citation book">
                       Terence Whalen (1999). 
-                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=slR0DNOxT00C&amp;pg=PA254">
-                        <i>
-                          Edgar Allan Poe and the masses: the political economy of literature in antebellum America
-                        </i>
+                      <span class="cs1-lock-registration" title="Free registration required">
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/edgarallanpoemas0000whal">
+                          <i>
+                            Edgar Allan Poe and the masses: the political economy of literature in antebellum America
+                          </i>
+                        </a>
+                      </span>
+                      . Princeton University Press. p. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/edgarallanpoemas0000whal/page/254">
+                        254
                       </a>
-                      . Princeton University Press. p. 254. 
+                      . 
                       <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
                         ISBN
                       </a>
@@ -4735,7 +4756,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Edgar+Allan+Poe+and+the+masses%3A+the+political+economy+of+literature+in+antebellum+America&amp;rft.pages=254&amp;rft.pub=Princeton+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-691-00199-9&amp;rft.au=Terence+Whalen&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DslR0DNOxT00C%26pg%3DPA254&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Edgar+Allan+Poe+and+the+masses%3A+the+political+economy+of+literature+in+antebellum+America&amp;rft.pages=254&amp;rft.pub=Princeton+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-691-00199-9&amp;rft.au=Terence+Whalen&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fedgarallanpoemas0000whal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -6591,12 +6612,16 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   <span class="reference-text">
                     <cite class="citation book">
                       Charles Babbage (1864). 
-                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=2T0AAAAAQAAJ&amp;pg=PA190">
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/bub_gb_2T0AAAAAQAAJ">
                         <i>
                           Passages from the life of a philosopher
                         </i>
                       </a>
-                      . Longman, Green, Longman, Roberts, &amp; Green. pp. 190–191
+                      . Longman, Green, Longman, Roberts, &amp; Green. pp. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/bub_gb_2T0AAAAAQAAJ/page/n199">
+                        190
+                      </a>
+                      –191
                       <span class="reference-accessdate">
                         . Retrieved 
                         <span class="nowrap">
@@ -6606,7 +6631,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Passages+from+the+life+of+a+philosopher&amp;rft.pages=190-191&amp;rft.pub=Longman%2C+Green%2C+Longman%2C+Roberts%2C+%26+Green&amp;rft.date=1864&amp;rft.au=Charles+Babbage&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D2T0AAAAAQAAJ%26pg%3DPA190&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Passages+from+the+life+of+a+philosopher&amp;rft.pages=190-191&amp;rft.pub=Longman%2C+Green%2C+Longman%2C+Roberts%2C+%26+Green&amp;rft.date=1864&amp;rft.au=Charles+Babbage&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fbub_gb_2T0AAAAAQAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -6862,12 +6887,16 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   </span>
                   <span class="reference-text">
                     <cite class="citation book">
-                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7tQ3AAAAYAAJ&amp;pg=PA373">
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/mechanicsmagazi24unkngoog">
                         <i>
                           The Mechanics' Magazine, Museum, Register, Journal, and Gazette
                         </i>
                       </a>
-                      . M. Salmon. 1831. pp. 373–374
+                      . M. Salmon. 1831. pp. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/mechanicsmagazi24unkngoog/page/n385">
+                        373
+                      </a>
+                      –374
                       <span class="reference-accessdate">
                         . Retrieved 
                         <span class="nowrap">
@@ -6877,7 +6906,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Mechanics%27+Magazine%2C+Museum%2C+Register%2C+Journal%2C+and+Gazette&amp;rft.pages=373-374&amp;rft.pub=M.+Salmon&amp;rft.date=1831&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7tQ3AAAAYAAJ%26pg%3DPA373&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Mechanics%27+Magazine%2C+Museum%2C+Register%2C+Journal%2C+and+Gazette&amp;rft.pages=373-374&amp;rft.pub=M.+Salmon&amp;rft.date=1831&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmechanicsmagazi24unkngoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -7458,12 +7487,18 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   <span class="reference-text">
                     <cite class="citation book">
                       Giddens, Anthony; Held, David (1982). 
-                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4cT7xzRMCLUC&amp;pg=PA155">
-                        <i>
-                          Classes, Power and Conflict: Classical and Contemporary Debates
-                        </i>
+                      <span class="cs1-lock-registration" title="Free registration required">
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/classespowerconf00ials">
+                          <i>
+                            Classes, Power and Conflict: Classical and Contemporary Debates
+                          </i>
+                        </a>
+                      </span>
+                      . University of California Press. p. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/classespowerconf00ials/page/155">
+                        155
                       </a>
-                      . University of California Press. p. 155. 
+                      . 
                       <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
                         ISBN
                       </a>
@@ -7482,7 +7517,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classes%2C+Power+and+Conflict%3A+Classical+and+Contemporary+Debates&amp;rft.pages=155&amp;rft.pub=University+of+California+Press&amp;rft.date=1982&amp;rft.isbn=978-0-520-04627-6&amp;rft.au=Giddens%2C+Anthony&amp;rft.au=Held%2C+David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4cT7xzRMCLUC%26pg%3DPA155&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classes%2C+Power+and+Conflict%3A+Classical+and+Contemporary+Debates&amp;rft.pages=155&amp;rft.pub=University+of+California+Press&amp;rft.date=1982&amp;rft.isbn=978-0-520-04627-6&amp;rft.au=Giddens%2C+Anthony&amp;rft.au=Held%2C+David&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fclassespowerconf00ials&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -8870,12 +8905,18 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   <span class="reference-text">
                     <cite class="citation book">
                       Ian Hacking (31 August 1990). 
-                      <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ud7EzIBwQBwC&amp;pg=PA55">
-                        <i>
-                          The Taming of Chance
-                        </i>
+                      <span class="cs1-lock-registration" title="Free registration required">
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9780521388849">
+                          <i>
+                            The Taming of Chance
+                          </i>
+                        </a>
+                      </span>
+                      . Cambridge University Press. pp. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9780521388849/page/55">
+                        55
                       </a>
-                      . Cambridge University Press. pp. 55–60. 
+                      –60. 
                       <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
                         ISBN
                       </a>
@@ -8894,7 +8935,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Taming+of+Chance&amp;rft.pages=55-60&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1990-08-31&amp;rft.isbn=978-0-521-38884-9&amp;rft.au=Ian+Hacking&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dud7EzIBwQBwC%26pg%3DPA55&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Taming+of+Chance&amp;rft.pages=55-60&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1990-08-31&amp;rft.isbn=978-0-521-38884-9&amp;rft.au=Ian+Hacking&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fisbn_9780521388849&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -9435,7 +9476,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                           Passages from the Life of a Philosopher
                         </i>
                          (London, England:  Longman, 1864), 
-                        <a rel="nofollow" class="external text" href="https://books.google.com/books?id=2T0AAAAAQAAJ&amp;pg=PA496#v=onepage&amp;q&amp;f=false">
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/bub_gb_2T0AAAAAQAAJ/page/n509">
                           page 496.
                         </a>
                       </li>
@@ -9562,10 +9603,14 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                   <span class="reference-text">
                     <cite class="citation book">
                       Walford, Cornelius (1878). 
-                      <a rel="nofollow" class="external text" href="https://books.google.com/?id=cScKAAAAIAAJ&amp;pg=PA417">
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/b21915404_0001">
                         <i>
                           The Insurance cyclopaedia
                         </i>
+                      </a>
+                      . C. and E. Layton. p. 
+                      <a rel="nofollow" class="external text" href="https://archive.org/details/b21915404_0001/page/417">
+                        417
                       </a>
                       <span class="reference-accessdate">
                         . Retrieved 
@@ -9576,7 +9621,7 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
                       </span>
                       .
                     </cite>
-                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Insurance+cyclopaedia&amp;rft.date=1878&amp;rft.aulast=Walford&amp;rft.aufirst=Cornelius&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DcScKAAAAIAAJ%26pg%3DPA417&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
+                    <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Insurance+cyclopaedia&amp;rft.pages=417&amp;rft.pub=C.+and+E.+Layton&amp;rft.date=1878&amp;rft.aulast=Walford&amp;rft.aufirst=Cornelius&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fb21915404_0001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+Babbage" class="Z3988">
                     </span>
                     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
                   </span>
@@ -12586,50 +12631,50 @@ At Cambridge, Babbage saw the fallibility of this process, and the opportunity o
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1337
-Cached time: 20191230134648
+Parsed by mw1299
+Cached time: 20200101212550
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.456 seconds
-Real time usage: 3.172 seconds
-Preprocessor visited node count: 17317/1000000
+CPU time usage: 2.448 seconds
+Real time usage: 5.836 seconds
+Preprocessor visited node count: 17340/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 393266/2097152 bytes
+Post‐expand include size: 393884/2097152 bytes
 Template argument size: 12963/2097152 bytes
 Highest expansion depth: 32/40
 Expensive parser function count: 32/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 550920/5000000 bytes
+Unstrip post‐expand size: 551731/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 1.432/10.000 seconds
-Lua memory usage: 16.55 MB/50 MB
+Lua time usage: 1.414/10.000 seconds
+Lua memory usage: 16.67 MB/50 MB
 Lua Profile:
-    recursiveClone <mwInit.lua:41>                                   220 ms       13.6%
-    ?                                                                220 ms       13.6%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                140 ms        8.6%
-    Scribunto_LuaSandboxCallback::gsub                               120 ms        7.4%
-    dataWrapper <mw.lua:661>                                         120 ms        7.4%
-    type                                                             100 ms        6.2%
-    <mw.lua:683>                                                      80 ms        4.9%
-    Scribunto_LuaSandboxCallback::getEntity                           80 ms        4.9%
-    Scribunto_LuaSandboxCallback::callParserFunction                  60 ms        3.7%
-    Scribunto_LuaSandboxCallback::test                                60 ms        3.7%
-    [others]                                                         420 ms       25.9%
+    recursiveClone <mwInit.lua:41>                                   180 ms       11.5%
+    Scribunto_LuaSandboxCallback::match                              160 ms       10.3%
+    ?                                                                120 ms        7.7%
+    Scribunto_LuaSandboxCallback::gsub                               100 ms        6.4%
+    Scribunto_LuaSandboxCallback::getEntity                          100 ms        6.4%
+    type                                                              80 ms        5.1%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                 80 ms        5.1%
+    Scribunto_LuaSandboxCallback::getAllExpandedArguments             80 ms        5.1%
+    Scribunto_LuaSandboxCallback::callParserFunction                  80 ms        5.1%
+    dataWrapper <mw.lua:661>                                          80 ms        5.1%
+    [others]                                                         500 ms       32.1%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2864.191      1 -total
- 49.19% 1408.778      1 Template:Reflist
- 25.37%  726.712    119 Template:Cite_book
- 12.05%  345.031      1 Template:Infobox_scientist
- 11.78%  337.290      1 Template:Infobox_person
- 11.71%  335.447      2 Template:Infobox
-  9.17%  262.772      5 Template:Br_separated_entries
-  6.97%  199.756      1 Template:Birth_date
-  6.35%  181.986     16 Template:Cite_journal
-  4.94%  141.583      2 Template:ThoemmesBritish19C
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5698-0!canonical and timestamp 20191230134648 and revision id 931759006
- -->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:5698-0!canonical and timestamp 20191230135051 and revision id 931759006
+100.00% 5442.522      1 -total
+ 26.64% 1449.672      1 Template:Reflist
+ 18.87% 1027.233      1 Template:Infobox_scientist
+ 18.69% 1017.197      1 Template:Infobox_person
+ 18.44% 1003.836      2 Template:Infobox
+ 15.08%  820.879      5 Template:Br_separated_entries
+ 13.52%  735.767    119 Template:Cite_book
+ 10.44%  567.956      1 Template:Wikisource-author
+  8.87%  482.962      1 Template:Birth_date
+  7.10%  386.457      3 Template:Quote
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5698-0!canonical and timestamp 20200101212550 and revision id 933577828
+ -->            <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:5698-0!canonical and timestamp 20200101212554 and revision id 933577828
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -12637,8 +12682,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Charles_Babbage&amp;oldid=931759006">
-            https://en.wikipedia.org/w/index.php?title=Charles_Babbage&amp;oldid=931759006
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Charles_Babbage&amp;oldid=933577828">
+            https://en.wikipedia.org/w/index.php?title=Charles_Babbage&amp;oldid=933577828
           </a>
           "
         </div>
@@ -13199,7 +13244,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Charles_Babbage&amp;oldid=931759006" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Charles_Babbage&amp;oldid=933577828" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -13214,7 +13259,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Charles_Babbage&amp;id=931759006" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Charles_Babbage&amp;id=933577828" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -13725,7 +13770,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 21 December 2019, at 00:50
+           This page was last edited on 1 January 2020, at 21:25
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -13813,7 +13858,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.456","walltime":"3.172","ppvisitednodes":{"value":17317,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":393266,"limit":2097152},"templateargumentsize":{"value":12963,"limit":2097152},"expansiondepth":{"value":32,"limit":40},"expensivefunctioncount":{"value":32,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":550920,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2864.191      1 -total"," 49.19% 1408.778      1 Template:Reflist"," 25.37%  726.712    119 Template:Cite_book"," 12.05%  345.031      1 Template:Infobox_scientist"," 11.78%  337.290      1 Template:Infobox_person"," 11.71%  335.447      2 Template:Infobox","  9.17%  262.772      5 Template:Br_separated_entries","  6.97%  199.756      1 Template:Birth_date","  6.35%  181.986     16 Template:Cite_journal","  4.94%  141.583      2 Template:ThoemmesBritish19C"]},"scribunto":{"limitreport-timeusage":{"value":"1.432","limit":"10.000"},"limitreport-memusage":{"value":17357966,"limit":52428800},"limitreport-profile":[["recursiveClone \u003CmwInit.lua:41\u003E","220","13.6"],["?","220","13.6"],["Scribunto_LuaSandboxCallback::getExpandedArgument","140","8.6"],["Scribunto_LuaSandboxCallback::gsub","120","7.4"],["dataWrapper \u003Cmw.lua:661\u003E","120","7.4"],["type","100","6.2"],["\u003Cmw.lua:683\u003E","80","4.9"],["Scribunto_LuaSandboxCallback::getEntity","80","4.9"],["Scribunto_LuaSandboxCallback::callParserFunction","60","3.7"],["Scribunto_LuaSandboxCallback::test","60","3.7"],["[others]","420","25.9"]]},"cachereport":{"origin":"mw1337","timestamp":"20191230134648","ttl":86400,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.448","walltime":"5.836","ppvisitednodes":{"value":17340,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":393884,"limit":2097152},"templateargumentsize":{"value":12963,"limit":2097152},"expansiondepth":{"value":32,"limit":40},"expensivefunctioncount":{"value":32,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":551731,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 5442.522      1 -total"," 26.64% 1449.672      1 Template:Reflist"," 18.87% 1027.233      1 Template:Infobox_scientist"," 18.69% 1017.197      1 Template:Infobox_person"," 18.44% 1003.836      2 Template:Infobox"," 15.08%  820.879      5 Template:Br_separated_entries"," 13.52%  735.767    119 Template:Cite_book"," 10.44%  567.956      1 Template:Wikisource-author","  8.87%  482.962      1 Template:Birth_date","  7.10%  386.457      3 Template:Quote"]},"scribunto":{"limitreport-timeusage":{"value":"1.414","limit":"10.000"},"limitreport-memusage":{"value":17479216,"limit":52428800},"limitreport-profile":[["recursiveClone \u003CmwInit.lua:41\u003E","180","11.5"],["Scribunto_LuaSandboxCallback::match","160","10.3"],["?","120","7.7"],["Scribunto_LuaSandboxCallback::gsub","100","6.4"],["Scribunto_LuaSandboxCallback::getEntity","100","6.4"],["type","80","5.1"],["Scribunto_LuaSandboxCallback::getExpandedArgument","80","5.1"],["Scribunto_LuaSandboxCallback::getAllExpandedArguments","80","5.1"],["Scribunto_LuaSandboxCallback::callParserFunction","80","5.1"],["dataWrapper \u003Cmw.lua:661\u003E","80","5.1"],["[others]","500","32.1"]]},"cachereport":{"origin":"mw1299","timestamp":"20200101212550","ttl":86400,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -13823,7 +13868,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1263"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1272"});});
 //]]>
     </script>
   </body>

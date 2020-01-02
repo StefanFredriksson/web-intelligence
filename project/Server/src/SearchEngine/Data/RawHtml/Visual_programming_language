@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgGjWwpAAEYAAJmoMRAAAAAN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Visual_programming_language","wgTitle":"Visual programming language","wgCurRevisionId":932181075,"wgRevisionId":932181075,"wgArticleId":499268,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2010","Dynamic lists","Articles with Curlie links","Programming language classification",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgz0FApAIC0AAE0cl-QAAACW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Visual_programming_language","wgTitle":"Visual programming language","wgCurRevisionId":933543300,"wgRevisionId":933543300,"wgArticleId":499268,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2010","Dynamic lists","Articles with Curlie links","Programming language classification",
 "Visual programming languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Visual_programming_language","wgRelevantArticleId":499268,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q683111","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
 "user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
 "ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -1043,7 +1043,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <a href="/wiki/MIT_License" title="MIT License">
                   MIT Licensed
                 </a>
-                 game development software made by OKAM Studio.
+                 game development software.
               </li>
               <li>
                 <a href="/wiki/Human_Resource_Machine" title="Human Resource Machine">
@@ -2464,13 +2464,13 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1345
-Cached time: 20191224003041
+Parsed by mw1228
+Cached time: 20200101171444
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.284 seconds
-Real time usage: 0.420 seconds
+CPU time usage: 0.264 seconds
+Real time usage: 0.372 seconds
 Preprocessor visited node count: 762/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 19270/2097152 bytes
@@ -2480,21 +2480,21 @@ Expensive parser function count: 2/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 9742/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.124/10.000 seconds
+Lua time usage: 0.104/10.000 seconds
 Lua memory usage: 2.92 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  324.399      1 -total
- 47.70%  154.751      1 Template:Reflist
- 37.42%  121.399      1 Template:Cite_journal
- 22.50%   73.003      1 Template:Citation_needed
- 19.96%   64.739      1 Template:Fix
- 14.61%   47.388      1 Template:Confuse
- 13.54%   43.939      2 Template:Category_handler
-  6.17%   20.010      1 Template:Programming_language
-  4.85%   15.745      1 Template:Delink
-  4.47%   14.512      1 Template:Navbox
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:499268-0!canonical and timestamp 20191224003059 and revision id 932181075
+100.00%  268.390      1 -total
+ 50.29%  134.975      1 Template:Reflist
+ 39.66%  106.437      1 Template:Cite_journal
+ 20.30%   54.487      1 Template:Citation_needed
+ 17.90%   48.038      1 Template:Fix
+ 13.55%   36.376      1 Template:Confuse
+ 12.13%   32.563      2 Template:Category_handler
+  7.72%   20.725      1 Template:Programming_language
+  5.85%   15.689      1 Template:Navbox
+  4.56%   12.239      1 Template:Delink
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:499268-0!canonical and timestamp 20200101171444 and revision id 933543300
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -2502,8 +2502,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Visual_programming_language&amp;oldid=932181075">
-            https://en.wikipedia.org/w/index.php?title=Visual_programming_language&amp;oldid=932181075
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Visual_programming_language&amp;oldid=933543300">
+            https://en.wikipedia.org/w/index.php?title=Visual_programming_language&amp;oldid=933543300
           </a>
           "
         </div>
@@ -2784,7 +2784,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Visual_programming_language&amp;oldid=932181075" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Visual_programming_language&amp;oldid=933543300" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -2799,7 +2799,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Visual_programming_language&amp;id=932181075" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Visual_programming_language&amp;id=933543300" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -2970,7 +2970,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 24 December 2019, at 00:30
+           This page was last edited on 1 January 2020, at 17:14
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -3058,17 +3058,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.420","ppvisitednodes":{"value":762,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19270,"limit":2097152},"templateargumentsize":{"value":677,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9742,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  324.399      1 -total"," 47.70%  154.751      1 Template:Reflist"," 37.42%  121.399      1 Template:Cite_journal"," 22.50%   73.003      1 Template:Citation_needed"," 19.96%   64.739      1 Template:Fix"," 14.61%   47.388      1 Template:Confuse"," 13.54%   43.939      2 Template:Category_handler","  6.17%   20.010      1 Template:Programming_language","  4.85%   15.745      1 Template:Delink","  4.47%   14.512      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":3060449,"limit":52428800}},"cachereport":{"origin":"mw1345","timestamp":"20191224003041","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.372","ppvisitednodes":{"value":762,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19270,"limit":2097152},"templateargumentsize":{"value":677,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9742,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  268.390      1 -total"," 50.29%  134.975      1 Template:Reflist"," 39.66%  106.437      1 Template:Cite_journal"," 20.30%   54.487      1 Template:Citation_needed"," 17.90%   48.038      1 Template:Fix"," 13.55%   36.376      1 Template:Confuse"," 12.13%   32.563      2 Template:Category_handler","  7.72%   20.725      1 Template:Programming_language","  5.85%   15.689      1 Template:Navbox","  4.56%   12.239      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.104","limit":"10.000"},"limitreport-memusage":{"value":3060429,"limit":52428800}},"cachereport":{"origin":"mw1228","timestamp":"20200101171444","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Visual programming language","url":"https:\/\/en.wikipedia.org\/wiki\/Visual_programming_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q683111","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q683111","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-02T16:00:06Z","dateModified":"2019-12-24T00:30:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/Scratch_2.0_Screen_Hello_World.png","headline":"computer programming language to create programs by manipulating program elements graphically"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Visual programming language","url":"https:\/\/en.wikipedia.org\/wiki\/Visual_programming_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q683111","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q683111","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-02T16:00:06Z","dateModified":"2020-01-01T17:14:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/Scratch_2.0_Screen_Hello_World.png","headline":"computer programming language to create programs by manipulating program elements graphically"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1275"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1324"});});
 //]]>
     </script>
   </body>

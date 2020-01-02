@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgn1cwpAMFoAAKIOQkwAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Reliability_engineering","wgTitle":"Reliability engineering","wgCurRevisionId":933180881,"wgRevisionId":933180881,"wgArticleId":1724836,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use dmy dates from September 2010","All articles with unsourced statements","Articles with unsourced statements from October 2011",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg2haQpAAD0AAEuZ@WoAAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Reliability_engineering","wgTitle":"Reliability engineering","wgCurRevisionId":933645078,"wgRevisionId":933645078,"wgArticleId":1724836,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use dmy dates from September 2010","All articles with unsourced statements","Articles with unsourced statements from October 2011",
 "CS1 maint: multiple names: authors list","Commons category link from Wikidata","Reliability engineering","Systems engineering","Design for X","Engineering failures","Software quality","Engineering statistics","Survival analysis","Materials science","Reliability analysis","Engineering disciplines"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Reliability_engineering","wgRelevantArticleId":1724836,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
 "wgWikibaseItemId":"Q2193887","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
 "ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -1040,7 +1040,7 @@ decade and what had been done in three years was being done in 18 months. This m
                 The capacity of a designed, produced, or maintained item to perform as required over time
               </li>
               <li>
-                The capacity of a population of designed, produced or maintained items to perform as required over specified time
+                The capacity of a population of designed, produced or maintained items to perform as required over time
               </li>
               <li>
                 The resistance to failure of an item over time
@@ -2487,7 +2487,7 @@ However, software does not fail in the same sense that hardware fails. Instead, 
 
             </p>
             <p>
-              A common reliability metric is the number of software faults, usually expressed as faults per thousand lines of code. This metric, along with software execution time, is key to most software reliability models and estimates. The theory is that the software reliability increases as the number of faults (or fault density) decreases or goes down. Establishing a direct connection between fault density and mean-time-between-failure is difficult, however, because of the way software faults are distributed in the code, their severity, and the probability of the combination of inputs necessary to encounter the fault. Nevertheless, fault density serves as a useful indicator for the reliability engineer. Other software metrics, such as complexity, are also used.  This metric remains controversial, since changes in software development and verification practices can have dramatic impact on overall defect rates.
+              A common reliability metric is the number of software faults, usually expressed as faults per thousand lines of code. This metric, along with software execution time, is key to most software reliability models and estimates. The theory is that the software reliability increases as the number of faults (or fault density) decreases. Establishing a direct connection between fault density and mean-time-between-failure is difficult, however, because of the way software faults are distributed in the code, their severity, and the probability of the combination of inputs necessary to encounter the fault. Nevertheless, fault density serves as a useful indicator for the reliability engineer. Other software metrics, such as complexity, are also used.  This metric remains controversial, since changes in software development and verification practices can have dramatic impact on overall defect rates.
 
             </p>
             <p>
@@ -10992,12 +10992,12 @@ However, software does not fail in the same sense that hardware fails. Instead, 
             <!-- 
 NewPP limit report
 Parsed by mw1276
-Cached time: 20191230121506
+Cached time: 20200102064544
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.860 seconds
-Real time usage: 1.191 seconds
+CPU time usage: 0.852 seconds
+Real time usage: 1.092 seconds
 Preprocessor visited node count: 4645/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 330867/2097152 bytes
@@ -11007,21 +11007,21 @@ Expensive parser function count: 6/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 67498/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.270/10.000 seconds
+Lua time usage: 0.269/10.000 seconds
 Lua memory usage: 6.32 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  751.078      1 -total
- 34.53%  259.375      1 Template:Reflist
- 17.73%  133.168     19 Template:Navbox
- 15.93%  119.629      9 Template:ISBN
- 13.61%  102.186      2 Template:Navbox_with_collapsible_groups
-  9.18%   68.933      1 Template:Statistics
-  9.08%   68.170      9 Template:Catalog_lookup_link
-  8.49%   63.778      1 Template:Citation_needed
-  7.90%   59.319      1 Template:Fix
-  6.74%   50.594      1 Template:Commonscat-inline
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:1724836-0!canonical!math=5 and timestamp 20191230121506 and revision id 933180881
+100.00%  718.695      1 -total
+ 33.48%  240.647      1 Template:Reflist
+ 19.73%  141.817     19 Template:Navbox
+ 14.51%  104.303      9 Template:ISBN
+ 12.26%   88.118      2 Template:Navbox_with_collapsible_groups
+  8.62%   61.949      1 Template:Statistics
+  8.29%   59.558      9 Template:Catalog_lookup_link
+  7.64%   54.912      1 Template:Citation_needed
+  7.16%   51.459      1 Template:Fix
+  6.89%   49.500      1 Template:Use_dmy_dates
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:1724836-0!canonical!math=5 and timestamp 20200102064600 and revision id 933645078
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -11029,8 +11029,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reliability_engineering&amp;oldid=933180881">
-            https://en.wikipedia.org/w/index.php?title=Reliability_engineering&amp;oldid=933180881
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reliability_engineering&amp;oldid=933645078">
+            https://en.wikipedia.org/w/index.php?title=Reliability_engineering&amp;oldid=933645078
           </a>
           "
         </div>
@@ -11361,7 +11361,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Reliability_engineering&amp;oldid=933180881" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Reliability_engineering&amp;oldid=933645078" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -11376,7 +11376,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reliability_engineering&amp;id=933180881" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reliability_engineering&amp;id=933645078" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -11512,7 +11512,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 30 December 2019, at 12:15
+           This page was last edited on 2 January 2020, at 06:46
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -11600,17 +11600,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.860","walltime":"1.191","ppvisitednodes":{"value":4645,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":330867,"limit":2097152},"templateargumentsize":{"value":5756,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":67498,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  751.078      1 -total"," 34.53%  259.375      1 Template:Reflist"," 17.73%  133.168     19 Template:Navbox"," 15.93%  119.629      9 Template:ISBN"," 13.61%  102.186      2 Template:Navbox_with_collapsible_groups","  9.18%   68.933      1 Template:Statistics","  9.08%   68.170      9 Template:Catalog_lookup_link","  8.49%   63.778      1 Template:Citation_needed","  7.90%   59.319      1 Template:Fix","  6.74%   50.594      1 Template:Commonscat-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":6624526,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1276","timestamp":"20191230121506","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.852","walltime":"1.092","ppvisitednodes":{"value":4645,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":330867,"limit":2097152},"templateargumentsize":{"value":5756,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":67498,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  718.695      1 -total"," 33.48%  240.647      1 Template:Reflist"," 19.73%  141.817     19 Template:Navbox"," 14.51%  104.303      9 Template:ISBN"," 12.26%   88.118      2 Template:Navbox_with_collapsible_groups","  8.62%   61.949      1 Template:Statistics","  8.29%   59.558      9 Template:Catalog_lookup_link","  7.64%   54.912      1 Template:Citation_needed","  7.16%   51.459      1 Template:Fix","  6.89%   49.500      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.269","limit":"10.000"},"limitreport-memusage":{"value":6624486,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1276","timestamp":"20200102064544","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Reliability engineering","url":"https:\/\/en.wikipedia.org\/wiki\/Reliability_engineering","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2193887","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2193887","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-11T20:15:02Z","dateModified":"2019-12-30T12:15:06Z"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Reliability engineering","url":"https:\/\/en.wikipedia.org\/wiki\/Reliability_engineering","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2193887","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2193887","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-11T20:15:02Z","dateModified":"2020-01-02T06:46:00Z"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1255"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1266"});});
 //]]>
     </script>
   </body>

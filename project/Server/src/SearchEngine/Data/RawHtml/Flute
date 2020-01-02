@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgsoMgpAAEQAACQdeKAAAABG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Flute","wgTitle":"Flute","wgCurRevisionId":931279114,"wgRevisionId":931279114,"wgArticleId":10553,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","CS1 French-language sources (fr)","Wikipedia semi-protected pages","Articles with short description","All articles with failed verification",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgs-jgpAMFAAAGyoEkgAAAAC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Flute","wgTitle":"Flute","wgCurRevisionId":931279114,"wgRevisionId":931279114,"wgArticleId":10553,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","CS1 French-language sources (fr)","Wikipedia semi-protected pages","Articles with short description","All articles with failed verification",
 "Articles with failed verification from September 2015","Articles with failed verification from January 2013","Commons category link is on Wikidata","Articles with Curlie links","Wikipedia articles with GND identifiers","Wikipedia articles with MusicBrainz instrument identifiers","Wikipedia articles with NDL identifiers","Flutes","Woodwind instruments","Jazz instruments","Western Classical music instruments","Orchestral instruments"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Flute","wgRelevantArticleId":10553,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":
 !0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q11405","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
 "mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -6699,13 +6699,13 @@ Flutes are also mentioned in a recently translated tablet of the
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1323
-Cached time: 20191231101420
+Parsed by mw1240
+Cached time: 20191231121913
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.992 seconds
-Real time usage: 1.267 seconds
+CPU time usage: 1.912 seconds
+Real time usage: 2.485 seconds
 Preprocessor visited node count: 5538/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 157257/2097152 bytes
@@ -6715,21 +6715,33 @@ Expensive parser function count: 11/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 141575/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.525/10.000 seconds
-Lua memory usage: 18.74 MB/50 MB
+Lua time usage: 1.040/10.000 seconds
+Lua memory usage: 18.75 MB/50 MB
+Lua Profile:
+    ?                                                                140 ms       13.2%
+    Scribunto_LuaSandboxCallback::callParserFunction                 100 ms        9.4%
+    <mw.lua:683>                                                      80 ms        7.5%
+    Scribunto_LuaSandboxCallback::gsub                                60 ms        5.7%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                 60 ms        5.7%
+    validateData <mw.lua:717>                                         60 ms        5.7%
+    Scribunto_LuaSandboxCallback::getEntity                           60 ms        5.7%
+    Scribunto_LuaSandboxCallback::lc                                  40 ms        3.8%
+    Scribunto_LuaSandboxCallback::match                               40 ms        3.8%
+    dataWrapper <mw.lua:661>                                          40 ms        3.8%
+    [others]                                                         380 ms       35.8%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1040.920      1 -total
- 41.21%  428.945      1 Template:Reflist
- 13.28%  138.231     16 Template:Cite_web
- 12.68%  131.939     14 Template:ISBN
- 12.48%  129.931      1 Template:Nihongo
- 11.84%  123.279      7 Template:Cite_journal
-  5.57%   57.993      1 Template:Authority_control
-  4.89%   50.936     14 Template:Catalog_lookup_link
-  4.72%   49.124      2 Template:Failed_verification
-  4.60%   47.913      1 Template:Pp
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:10553-0!canonical and timestamp 20191231101419 and revision id 931279114
+100.00% 2041.285      1 -total
+ 42.12%  859.717      1 Template:Reflist
+ 14.59%  297.780     16 Template:Cite_web
+ 13.14%  268.164      1 Template:Nihongo
+ 10.95%  223.506     14 Template:ISBN
+ 10.91%  222.784      7 Template:Cite_journal
+  5.55%  113.363      1 Template:Authority_control
+  5.33%  108.729      8 Template:Cite_book
+  4.81%   98.255      1 Template:Commons_category
+  4.53%   92.386     14 Template:Catalog_lookup_link
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:10553-0!canonical and timestamp 20191231121911 and revision id 931279114
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -7824,7 +7836,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.992","walltime":"1.267","ppvisitednodes":{"value":5538,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":157257,"limit":2097152},"templateargumentsize":{"value":8152,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":141575,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1040.920      1 -total"," 41.21%  428.945      1 Template:Reflist"," 13.28%  138.231     16 Template:Cite_web"," 12.68%  131.939     14 Template:ISBN"," 12.48%  129.931      1 Template:Nihongo"," 11.84%  123.279      7 Template:Cite_journal","  5.57%   57.993      1 Template:Authority_control","  4.89%   50.936     14 Template:Catalog_lookup_link","  4.72%   49.124      2 Template:Failed_verification","  4.60%   47.913      1 Template:Pp"]},"scribunto":{"limitreport-timeusage":{"value":"0.525","limit":"10.000"},"limitreport-memusage":{"value":19650438,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20191231101420","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.912","walltime":"2.485","ppvisitednodes":{"value":5538,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":157257,"limit":2097152},"templateargumentsize":{"value":8152,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":141575,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2041.285      1 -total"," 42.12%  859.717      1 Template:Reflist"," 14.59%  297.780     16 Template:Cite_web"," 13.14%  268.164      1 Template:Nihongo"," 10.95%  223.506     14 Template:ISBN"," 10.91%  222.784      7 Template:Cite_journal","  5.55%  113.363      1 Template:Authority_control","  5.33%  108.729      8 Template:Cite_book","  4.81%   98.255      1 Template:Commons_category","  4.53%   92.386     14 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"1.040","limit":"10.000"},"limitreport-memusage":{"value":19663318,"limit":52428800},"limitreport-profile":[["?","140","13.2"],["Scribunto_LuaSandboxCallback::callParserFunction","100","9.4"],["\u003Cmw.lua:683\u003E","80","7.5"],["Scribunto_LuaSandboxCallback::gsub","60","5.7"],["Scribunto_LuaSandboxCallback::getExpandedArgument","60","5.7"],["validateData \u003Cmw.lua:717\u003E","60","5.7"],["Scribunto_LuaSandboxCallback::getEntity","60","5.7"],["Scribunto_LuaSandboxCallback::lc","40","3.8"],["Scribunto_LuaSandboxCallback::match","40","3.8"],["dataWrapper \u003Cmw.lua:661\u003E","40","3.8"],["[others]","380","35.8"]]},"cachereport":{"origin":"mw1240","timestamp":"20191231121913","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -7834,7 +7846,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1273"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":187,"wgHostname":"mw1245"});});
 //]]>
     </script>
   </body>

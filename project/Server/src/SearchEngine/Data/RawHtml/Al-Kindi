@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgsoMwpAAEYAAHUp8ggAAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Al-Kindi","wgTitle":"Al-Kindi","wgCurRevisionId":932659459,"wgRevisionId":932659459,"wgArticleId":272065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Articles with incomplete citations from December 2018","Articles with short description","Use dmy dates from October 2019","Articles with hCards",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg258QpAIDAAAA8P8cgAAACT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Al-Kindi","wgTitle":"Al-Kindi","wgCurRevisionId":932659459,"wgRevisionId":932659459,"wgArticleId":272065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Articles with incomplete citations from December 2018","Articles with short description","Use dmy dates from October 2019","Articles with hCards",
 "Pages using infobox philosopher with unknown parameters","Articles containing Arabic-language text","Articles containing Latin-language text","Wikipedia articles incorporating a citation from the New International Encyclopedia","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CANTIC identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers",
 "Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","801 births","873 deaths","9th-century mathematicians","9th-century philosophers","9th-century physicians","9th-century astrologers","9th-century Arabs","Arabic commentators on Aristotle","Aristotelian philosophers","Astrologers of medieval Islam","Astronomers of medieval Islam","Mathematicians of medieval Islam","Musical theorists of medieval Islam","Physicians of medieval Islam","Alchemists of medieval Islam","Medieval Arab astrologers","Medieval Arab astronomers","Medieval Arab mathematicians","Medieval Arab physicians","Medieval Arab philosophers","Medieval Iraqi physicians","Medieval Iraqi astronomers","Medieval Iraqi mathematicians","Islamic philosophers","Pre-19th-century cryptographers","People from Kufa","9th-century people of the Abbasid Caliphate","Muslim inventors","Kinda"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Al-Kindi",
 "wgRelevantArticleId":272065,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q179759","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","mediawiki.legacy.shared":"ready",
@@ -6169,7 +6169,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="/wiki/Shams_al-D%C4%ABn_Ab%C5%AB_Abd_All%C4%81h_al-Khal%C4%ABl%C4%AB" title="Shams al-Dīn Abū Abd Allāh al-Khalīlī">
+                                    <a href="/wiki/Shams_al-Din_Abu_Abd_Allah_al-Khalili" title="Shams al-Din Abu Abd Allah al-Khalili">
                                       Al-Khalili
                                     </a>
                                   </li>
@@ -7133,8 +7133,8 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                             </b>
                                           </li>
                                           <li>
-                                            <a href="/wiki/Shams_al-D%C4%ABn_Ab%C5%AB_Abd_All%C4%81h_al-Khal%C4%ABl%C4%AB" title="Shams al-Dīn Abū Abd Allāh al-Khalīlī">
-                                              al-Khalīlī
+                                            <a href="/wiki/Shams_al-Din_Abu_Abd_Allah_al-Khalili" title="Shams al-Din Abu Abd Allah al-Khalili">
+                                              Al-Khalili
                                             </a>
                                           </li>
                                           <li>
@@ -9850,7 +9850,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                                     </a>
                                                   </li>
                                                   <li>
-                                                    <a href="/wiki/%27Illish" title="'Illish">
+                                                    <a href="/wiki/%27Illish" class="mw-redirect" title="'Illish">
                                                       'Illish
                                                     </a>
                                                   </li>
@@ -10976,6 +10976,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                               <a href="/wiki/Imamate_in_Twelver_doctrine" title="Imamate in Twelver doctrine">
                                                 Imami
                                               </a>
+                                              <br/>
                                               <a href="/wiki/Twelver" title="Twelver">
                                                 Twelver
                                               </a>
@@ -11086,6 +11087,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                               <a href="/wiki/Imamate_in_Ismaili_doctrine" title="Imamate in Ismaili doctrine">
                                                 Imami
                                               </a>
+                                              <br/>
                                               <a href="/wiki/Isma%27ilism" title="Isma'ilism">
                                                 Isma'ilism
                                               </a>
@@ -11236,7 +11238,9 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                           <tr>
                                             <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
                                               <a href="/wiki/Kaysanites_Shia" class="mw-redirect" title="Kaysanites Shia">
-                                                Kaysanites Shia
+                                                Kaysanites
+                                                <br/>
+                                                Shia
                                               </a>
                                             </th>
                                             <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
@@ -11563,55 +11567,6 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                   </tr>
                                   <tr>
                                     <th scope="row" class="navbox-group" style="width:1%">
-                                      <a href="/wiki/Ta%27tili" title="Ta'tili">
-                                        Mu'attila
-                                      </a>
-                                    </th>
-                                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-                                      <div style="padding:0em 0.25em">
-                                      </div>
-                                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
-                                        <tbody>
-                                          <tr>
-                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
-                                              Ja'dīyya
-                                            </th>
-                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
-                                              <div style="padding:0em 0.25em">
-                                                <ul>
-                                                  <li>
-                                                    Al-Ja'd ibn Dirham
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
-                                              <a href="/wiki/Jahmi" title="Jahmi">
-                                                Jabrīyya
-                                              </a>
-                                            </th>
-                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
-                                              <div style="padding:0em 0.25em">
-                                                <ul>
-                                                  <li>
-                                                    <a href="/wiki/Jahm_bin_Safwan" title="Jahm bin Safwan">
-                                                      Jahm bin Safwan
-                                                    </a>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                      <div>
-                                      </div>
-                                    </td>
-                                  </tr>
-                                  <tr>
-                                    <th scope="row" class="navbox-group" style="width:1%">
                                       <a href="/wiki/Murji%27ah" title="Murji'ah">
                                         Murji'ah
                                       </a>
@@ -11620,11 +11575,13 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                       <a href="/wiki/Hasan_ibn_Muhammad_ibn_al-Hanafiyyah" title="Hasan ibn Muhammad ibn al-Hanafiyyah">
                                         Hasan ibn
                                         <br/>
-                                        Muḥāmmad b.
+                                        Muḥāmmad
                                       </a>
                                       <br/>
                                       <a href="/wiki/Muhammad_ibn_al-Hanafiyyah" title="Muhammad ibn al-Hanafiyyah">
-                                        al-Hanafiyyah
+                                        ibn al-
+                                        <br/>
+                                        Hanafiyyah
                                       </a>
                                       )
                                     </th>
@@ -11738,7 +11695,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
 
                                                     <ul>
                                                       <li>
-                                                        Ubayd al-Müktaib
+                                                        Ubayd al-Mūktaib
                                                       </li>
                                                     </ul>
                                                   </li>
@@ -11817,6 +11774,55 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                   </tr>
                                   <tr>
                                     <th scope="row" class="navbox-group" style="width:1%">
+                                      <a href="/wiki/Ta%27tili" title="Ta'tili">
+                                        Mu'attila
+                                      </a>
+                                    </th>
+                                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                                      <div style="padding:0em 0.25em">
+                                      </div>
+                                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                                        <tbody>
+                                          <tr>
+                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
+                                              Ja'dīyya
+                                            </th>
+                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                              <div style="padding:0em 0.25em">
+                                                <ul>
+                                                  <li>
+                                                    Al-Ja'd ibn Dirham
+                                                  </li>
+                                                </ul>
+                                              </div>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
+                                              <a href="/wiki/Jahmi" title="Jahmi">
+                                                Jabrīyya
+                                              </a>
+                                            </th>
+                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                              <div style="padding:0em 0.25em">
+                                                <ul>
+                                                  <li>
+                                                    <a href="/wiki/Jahm_bin_Safwan" title="Jahm bin Safwan">
+                                                      Jahm bin Safwan
+                                                    </a>
+                                                  </li>
+                                                </ul>
+                                              </div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row" class="navbox-group" style="width:1%">
                                       <a href="/wiki/Qadariyah" title="Qadariyah">
                                         Qadariyah
                                       </a>
@@ -11827,6 +11833,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                         <br/>
                                         al-Juhani
                                       </a>
+                                      )
                                     </th>
                                     <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
                                       <div style="padding:0em 0.25em">
@@ -12059,6 +12066,191 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                   </tr>
                                   <tr>
                                     <th scope="row" class="navbox-group" style="width:1%">
+                                      <a href="/wiki/Tashbih" title="Tashbih">
+                                        Tashbih
+                                      </a>
+                                      <br/>
+                                      (
+                                      <a href="/wiki/Ghulat" title="Ghulat">
+                                        Ghulat
+                                      </a>
+                                      <br/>
+                                      <a href="/wiki/Sects_in_Islam" class="mw-redirect" title="Sects in Islam">
+                                        sects
+                                      </a>
+                                      )
+                                    </th>
+                                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                                      <div style="padding:0em 0.25em">
+                                      </div>
+                                      <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                                        <tbody>
+                                          <tr>
+                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
+                                              <a href="/wiki/Schools_of_Islamic_theology#Anthropopathy_in_the_history_of_Ghulāt_Shia" title="Schools of Islamic theology">
+                                                Mu'shabbiha
+                                              </a>
+                                              <br/>
+                                              (
+                                              <a href="/wiki/Anthropopathy" class="mw-redirect" title="Anthropopathy">
+                                                Anthropopathy
+                                              </a>
+                                              )
+                                            </th>
+                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                              <div style="padding:0em 0.25em">
+                                                <ul>
+                                                  <li>
+                                                    Hāshwīyya
+                                                  </li>
+                                                  <li>
+                                                    <a href="/wiki/Harabati_baba_tekke" class="mw-redirect" title="Harabati baba tekke">
+                                                      Hārābātīs
+                                                    </a>
+                                                    <ul>
+                                                      <li>
+                                                        <a href="/wiki/Baba_Rexheb" title="Baba Rexheb">
+                                                          Baba Rexheb
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>
+                                                    Hulmānīyya
+
+                                                    <ul>
+                                                      <li>
+                                                        <a href="https://tr.wikipedia.org/wiki/Barak_Baba" class="extiw" title="tr:Barak Baba">
+                                                          Bārāq Bābā
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>
+                                                    Jawālikīyya
+
+                                                    <ul>
+                                                      <li>
+                                                        Abū Muḥāmmad (Abū’l-Hākem) Heshām ibn Sālem al-Jawālikī al-
+                                                        <a href="/wiki/Juzjan" class="mw-redirect" title="Juzjan">
+                                                          Juzjan
+                                                        </a>
+                                                        ī al-
+                                                        <a href="/wiki/Kufa" title="Kufa">
+                                                          Kūf
+                                                        </a>
+                                                        ī
+                                                      </li>
+                                                      <li>
+                                                        <a href="/wiki/R%C3%BBm" title="Rûm">
+                                                          Rûm
+                                                        </a>
+                                                        <a href="/wiki/Abdal" title="Abdal">
+                                                          Abdals
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                </ul>
+                                              </div>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
+                                              <a href="/wiki/Incarnation#Islam" title="Incarnation">
+                                                Mu'jassimā
+                                                <br/>
+                                                (Embodiment)
+                                              </a>
+                                            </th>
+                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                              <div style="padding:0em 0.25em">
+                                                <ul>
+                                                  <li>
+                                                    <a href="/wiki/Alians" title="Alians">
+                                                      Alians
+                                                    </a>
+                                                    <ul>
+                                                      <li>
+                                                        <a href="/wiki/Demir_Baba_Teke" title="Demir Baba Teke">
+                                                          Demir Bābā
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>
+                                                    Bayānīyya
+                                                  </li>
+                                                  <li>
+                                                    <a href="https://de.wikipedia.org/wiki/Ab%C5%AB_l-Chatt%C4%81b" class="extiw" title="de:Abū l-Chattāb">
+                                                      Khāttabīyya
+                                                    </a>
+                                                    <ul>
+                                                      <li>
+                                                        <a href="/wiki/Bazighiyya_Shia" title="Bazighiyya Shia">
+                                                          Bāzīghīyya
+                                                        </a>
+                                                      </li>
+                                                      <li>
+                                                        Muʿāmmarīyya
+                                                      </li>
+                                                      <li>
+                                                        ʿIjlīyya
+                                                      </li>
+                                                      <li>
+                                                        Mufāddālīyya
+                                                      </li>
+                                                      <li>
+                                                        <a href="/wiki/Ghurabiya" title="Ghurabiya">
+                                                          Ghurābīyya
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>
+                                                    Mānsûrīyya
+                                                  </li>
+                                                  <li>
+                                                    <a href="/wiki/List_of_extinct_Shia_sects#Ghulat_sects" title="List of extinct Shia sects">
+                                                      Mughīrīyya
+                                                    </a>
+                                                  </li>
+                                                  <li>
+                                                    Mufāddālīyya
+                                                  </li>
+                                                  <li>
+                                                    Mukhāmmīsa
+
+                                                    <ul>
+                                                      <li>
+                                                        <a href="/wiki/Namiriya" class="mw-redirect" title="Namiriya">
+                                                          Namiriya
+                                                        </a>
+                                                      </li>
+                                                      <li>
+                                                        <a href="/wiki/Dhammiyya_Shia" class="mw-redirect" title="Dhammiyya Shia">
+                                                          ‘Ulyanīyya/'Alyaīyya
+                                                        </a>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>
+                                                    <a href="/wiki/Abdullah_ibn_Saba%27" title="Abdullah ibn Saba'">
+                                                      Saba'īyya
+                                                    </a>
+                                                  </li>
+                                                </ul>
+                                              </div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row" class="navbox-group" style="width:1%">
                                       Independent
                                       <br/>
                                       <a href="/wiki/Muslim_beliefs" class="mw-redirect" title="Muslim beliefs">
@@ -12074,145 +12266,11 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                         <tbody>
                                           <tr>
                                             <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
-                                              <a href="/wiki/Schools_of_Islamic_theology#Anthropopathy_in_the_history_of_Ghulāt_Shia" title="Schools of Islamic theology">
-                                                Anthropopathy
-                                              </a>
-                                            </th>
-                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
-                                              <div style="padding:0em 0.25em">
-                                                <ul>
-                                                  <li>
-                                                    <a href="/wiki/Incarnation#Islam" title="Incarnation">
-                                                      Embodiment
-                                                    </a>
-                                                    <ul>
-                                                      <li>
-                                                        <a href="/wiki/Alians" title="Alians">
-                                                          Alians
-                                                        </a>
-                                                        <ul>
-                                                          <li>
-                                                            <a href="/wiki/Demir_Baba_Teke" title="Demir Baba Teke">
-                                                              Demir Bābā
-                                                            </a>
-                                                          </li>
-                                                        </ul>
-                                                      </li>
-                                                      <li>
-                                                        Bayānīyya
-                                                      </li>
-                                                      <li>
-                                                        <a href="/wiki/Harabati_baba_tekke" class="mw-redirect" title="Harabati baba tekke">
-                                                          Harabatis
-                                                        </a>
-                                                        <ul>
-                                                          <li>
-                                                            <a href="/wiki/Baba_Rexheb" title="Baba Rexheb">
-                                                              Baba Rexheb
-                                                            </a>
-                                                          </li>
-                                                        </ul>
-                                                      </li>
-                                                      <li>
-                                                        Javālikīyya
-
-                                                        <ul>
-                                                          <li>
-                                                            <a href="/wiki/R%C3%BBm" title="Rûm">
-                                                              Rûm
-                                                            </a>
-                                                            <a href="/wiki/Abdal" title="Abdal">
-                                                              Abdals
-                                                            </a>
-                                                          </li>
-                                                        </ul>
-                                                      </li>
-                                                      <li>
-                                                        <a href="https://de.wikipedia.org/wiki/Ab%C5%AB_l-Chatt%C4%81b" class="extiw" title="de:Abū l-Chattāb">
-                                                          Khāttabīyya
-                                                        </a>
-                                                        <ul>
-                                                          <li>
-                                                            <a href="/wiki/Bazighiyya_Shia" title="Bazighiyya Shia">
-                                                              Bāzīghīyya
-                                                            </a>
-                                                          </li>
-                                                          <li>
-                                                            Muʿāmmarīyya
-                                                          </li>
-                                                          <li>
-                                                            ʿIjlīyya
-                                                          </li>
-                                                          <li>
-                                                            Mufāddālīyya
-                                                          </li>
-                                                          <li>
-                                                            <a href="/wiki/Ghurabiya" title="Ghurabiya">
-                                                              Ghurābīyya
-                                                            </a>
-                                                          </li>
-                                                        </ul>
-                                                      </li>
-                                                      <li>
-                                                        Mānsûrīyya
-                                                      </li>
-                                                      <li>
-                                                        <a href="/wiki/List_of_extinct_Shia_sects#Ghulat_sects" title="List of extinct Shia sects">
-                                                          Mughīrīyya
-                                                        </a>
-                                                      </li>
-                                                      <li>
-                                                        Mufāddālīyya
-                                                      </li>
-                                                      <li>
-                                                        Mukhāmmīsa
-
-                                                        <ul>
-                                                          <li>
-                                                            <a href="/wiki/Namiriya" class="mw-redirect" title="Namiriya">
-                                                              Namiriya
-                                                            </a>
-                                                          </li>
-                                                          <li>
-                                                            <a href="/wiki/Dhammiyya_Shia" class="mw-redirect" title="Dhammiyya Shia">
-                                                              ‘Ulyanīyya/'Alyaīyya
-                                                            </a>
-                                                          </li>
-                                                        </ul>
-                                                      </li>
-                                                      <li>
-                                                        <a href="/wiki/Abdullah_ibn_Saba%27" title="Abdullah ibn Saba'">
-                                                          Saba'īyya
-                                                        </a>
-                                                      </li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>
-                                                    Hāshvīyya
-                                                  </li>
-                                                  <li>
-                                                    <a href="/wiki/Tashbih" title="Tashbih">
-                                                      Hulmānīyya
-                                                    </a>
-                                                    <ul>
-                                                      <li>
-                                                        <a href="https://tr.wikipedia.org/wiki/Barak_Baba" class="extiw" title="tr:Barak Baba">
-                                                          Bārāq Bābā
-                                                        </a>
-                                                      </li>
-                                                    </ul>
-                                                  </li>
-                                                </ul>
-                                              </div>
-                                            </td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row" class="navbox-group" style="width:7.65em;font-weight:normal;">
                                               <a href="/wiki/Messianists#Islam" class="mw-redirect" title="Messianists">
                                                 Messianism
                                               </a>
                                             </th>
-                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
                                               <div style="padding:0em 0.25em">
                                                 <ul>
                                                   <li>
@@ -12308,7 +12366,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                                 Modernism
                                               </a>
                                             </th>
-                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
                                               <div style="padding:0em 0.25em">
                                                 <ul>
                                                   <li>
@@ -12366,7 +12424,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                                 Taṣawwuf
                                               </a>
                                             </th>
-                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
                                               <div style="padding:0em 0.25em">
                                                 <ul>
                                                   <li>
@@ -12414,7 +12472,7 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
                                                 Other beliefs
                                               </a>
                                             </th>
-                                            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                                            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
                                               <div style="padding:0em 0.25em">
                                                 <ul>
                                                   <li>
@@ -13634,37 +13692,37 @@ Al-Kindi is credited with developing a method whereby variations in the frequenc
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1325
-Cached time: 20191231081711
+Parsed by mw1296
+Cached time: 20200102040048
 Cache expiry: 21600
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
 CPU time usage: 1.504 seconds
-Real time usage: 1.941 seconds
-Preprocessor visited node count: 6932/1000000
+Real time usage: 1.978 seconds
+Preprocessor visited node count: 6963/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 580995/2097152 bytes
+Post‐expand include size: 586014/2097152 bytes
 Template argument size: 14869/2097152 bytes
 Highest expansion depth: 17/40
 Expensive parser function count: 19/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 156183/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.783/10.000 seconds
+Lua time usage: 0.771/10.000 seconds
 Lua memory usage: 21.76 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1506.049      1 -total
- 28.29%  426.133      1 Template:Reflist
- 17.02%  256.354     32 Template:Cite_book
- 14.35%  216.166     31 Template:Navbox
- 10.88%  163.923      1 Template:Lang-ar
-  9.49%  142.960      1 Template:Infobox_philosopher
-  8.94%  134.694      1 Template:Infobox_person
-  8.91%  134.263      1 Template:Authority_control
-  8.58%  129.165      2 Template:Infobox
-  8.20%  123.456      3 Template:Navbox_with_collapsible_groups
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:272065-0!canonical and timestamp 20191231081709 and revision id 932659459
+100.00% 1549.561      1 -total
+ 28.77%  445.774      1 Template:Reflist
+ 17.20%  266.451     32 Template:Cite_book
+ 13.90%  215.381     32 Template:Navbox
+ 11.59%  179.637      1 Template:Lang-ar
+  9.95%  154.247      1 Template:Infobox_philosopher
+  9.53%  147.740      2 Template:Infobox
+  9.44%  146.206      1 Template:Infobox_person
+  8.77%  135.882      1 Template:Authority_control
+  7.91%  122.578      3 Template:Navbox_with_collapsible_groups
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:272065-0!canonical and timestamp 20200102040048 and revision id 932659459
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -14668,7 +14726,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.504","walltime":"1.941","ppvisitednodes":{"value":6932,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":580995,"limit":2097152},"templateargumentsize":{"value":14869,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":156183,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1506.049      1 -total"," 28.29%  426.133      1 Template:Reflist"," 17.02%  256.354     32 Template:Cite_book"," 14.35%  216.166     31 Template:Navbox"," 10.88%  163.923      1 Template:Lang-ar","  9.49%  142.960      1 Template:Infobox_philosopher","  8.94%  134.694      1 Template:Infobox_person","  8.91%  134.263      1 Template:Authority_control","  8.58%  129.165      2 Template:Infobox","  8.20%  123.456      3 Template:Navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.783","limit":"10.000"},"limitreport-memusage":{"value":22813994,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1325","timestamp":"20191231081711","ttl":21600,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.504","walltime":"1.978","ppvisitednodes":{"value":6963,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":586014,"limit":2097152},"templateargumentsize":{"value":14869,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":156183,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1549.561      1 -total"," 28.77%  445.774      1 Template:Reflist"," 17.20%  266.451     32 Template:Cite_book"," 13.90%  215.381     32 Template:Navbox"," 11.59%  179.637      1 Template:Lang-ar","  9.95%  154.247      1 Template:Infobox_philosopher","  9.53%  147.740      2 Template:Infobox","  9.44%  146.206      1 Template:Infobox_person","  8.77%  135.882      1 Template:Authority_control","  7.91%  122.578      3 Template:Navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.771","limit":"10.000"},"limitreport-memusage":{"value":22817774,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1296","timestamp":"20200102040048","ttl":21600,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -14678,7 +14736,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1275"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1327"});});
 //]]>
     </script>
   </body>

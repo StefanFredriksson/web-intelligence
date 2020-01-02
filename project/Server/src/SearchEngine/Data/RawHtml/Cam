@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgqKuApAMEsAAHq@VUAAAABA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cam","wgTitle":"Cam","wgCurRevisionId":930637473,"wgRevisionId":930637473,"wgArticleId":40284,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Wikipedia articles with NDL identifiers","Mechanical engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cam","wgRelevantArticleId":40284,
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgxldwpAADoAACHquUsAAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cam","wgTitle":"Cam","wgCurRevisionId":930637473,"wgRevisionId":930637473,"wgArticleId":40284,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Wikipedia articles with NDL identifiers","Mechanical engineering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cam","wgRelevantArticleId":40284,
 "wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q495933","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
 "jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
 "ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -2444,7 +2444,7 @@ which is cut out of a piece of flat metal or plate.
                             </a>
                           </li>
                           <li>
-                            <a href="/wiki/Overhead_camshaft" class="mw-redirect" title="Overhead camshaft">
+                            <a href="/wiki/Overhead_camshaft_engine" title="Overhead camshaft engine">
                               Overhead camshaft layout
                             </a>
                           </li>
@@ -2964,37 +2964,37 @@ which is cut out of a piece of flat metal or plate.
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1240
-Cached time: 20191230233937
+Parsed by mw1305
+Cached time: 20200101031809
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.724 seconds
-Real time usage: 0.959 seconds
+CPU time usage: 0.384 seconds
+Real time usage: 0.530 seconds
 Preprocessor visited node count: 1220/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 73505/2097152 bytes
+Post‐expand include size: 73526/2097152 bytes
 Template argument size: 319/2097152 bytes
 Highest expansion depth: 13/40
 Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 45700/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.386/10.000 seconds
+Lua time usage: 0.181/10.000 seconds
 Lua memory usage: 4.41 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  713.852      1 -total
- 66.66%  475.824      1 Template:Reflist
- 24.24%  173.040      1 Template:Cite_dictionary
- 16.62%  118.661      2 Template:Cite_journal
- 11.86%   84.641      9 Template:Cite_book
- 11.31%   80.762      1 Template:Authority_control
- 10.14%   72.357      1 Template:About
-  6.67%   47.606      4 Template:Navbox
-  4.31%   30.772      1 Template:Piston_engine_configurations
-  4.14%   29.530      3 Template:Cite_web
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:40284-0!canonical!math=5 and timestamp 20191230233936 and revision id 930637473
+100.00%  389.546      1 -total
+ 60.53%  235.777      1 Template:Reflist
+ 19.20%   74.786      1 Template:Cite_dictionary
+ 15.66%   61.003      2 Template:Cite_journal
+ 14.18%   55.223      1 Template:About
+ 11.32%   44.109      9 Template:Cite_book
+ 11.27%   43.901      1 Template:Authority_control
+  6.82%   26.557      4 Template:Navbox
+  5.02%   19.539      1 Template:Piston_engine_configurations
+  3.49%   13.582      1 Template:YouTube
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:40284-0!canonical!math=5 and timestamp 20200101031809 and revision id 930637473
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -3588,7 +3588,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.959","ppvisitednodes":{"value":1220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73505,"limit":2097152},"templateargumentsize":{"value":319,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45700,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  713.852      1 -total"," 66.66%  475.824      1 Template:Reflist"," 24.24%  173.040      1 Template:Cite_dictionary"," 16.62%  118.661      2 Template:Cite_journal"," 11.86%   84.641      9 Template:Cite_book"," 11.31%   80.762      1 Template:Authority_control"," 10.14%   72.357      1 Template:About","  6.67%   47.606      4 Template:Navbox","  4.31%   30.772      1 Template:Piston_engine_configurations","  4.14%   29.530      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.386","limit":"10.000"},"limitreport-memusage":{"value":4626188,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191230233937","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.530","ppvisitednodes":{"value":1220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73526,"limit":2097152},"templateargumentsize":{"value":319,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45700,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  389.546      1 -total"," 60.53%  235.777      1 Template:Reflist"," 19.20%   74.786      1 Template:Cite_dictionary"," 15.66%   61.003      2 Template:Cite_journal"," 14.18%   55.223      1 Template:About"," 11.32%   44.109      9 Template:Cite_book"," 11.27%   43.901      1 Template:Authority_control","  6.82%   26.557      4 Template:Navbox","  5.02%   19.539      1 Template:Piston_engine_configurations","  3.49%   13.582      1 Template:YouTube"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":4626368,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20200101031809","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -3598,7 +3598,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1148,"wgHostname":"mw1240"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1263"});});
 //]]>
     </script>
   </body>

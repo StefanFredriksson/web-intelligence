@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgssAApAMEkAABgHg4YAAAAM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"GNU_Debugger","wgTitle":"GNU Debugger","wgCurRevisionId":922083189,"wgRevisionId":922083189,"wgArticleId":13052,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2011","Debuggers","GNU Project software","Unix programming tools","Video game development software for Linux",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3eYApAMFMAADswYDoAAADC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"GNU_Debugger","wgTitle":"GNU Debugger","wgCurRevisionId":922083189,"wgRevisionId":922083189,"wgArticleId":13052,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2011","Debuggers","GNU Project software","Unix programming tools","Video game development software for Linux",
 "Software that was rewritten in C++"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"GNU_Debugger","wgRelevantArticleId":13052,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"GDB","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/GNU_Debugger","wgWikibaseItemId":"Q464113","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":
 "ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
 "ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -124,7 +124,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   <td>
                     1986
                     <span class="noprint">
-                      ; 33 years ago
+                      ; 34 years ago
                     </span>
                     <span style="display:none">
                        (
@@ -2766,13 +2766,13 @@ size of a = 21
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1239
-Cached time: 20191231032038
+Parsed by mw1294
+Cached time: 20200101151854
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.520 seconds
-Real time usage: 0.733 seconds
+CPU time usage: 0.444 seconds
+Real time usage: 0.670 seconds
 Preprocessor visited node count: 2018/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 51802/2097152 bytes
@@ -2782,21 +2782,21 @@ Expensive parser function count: 6/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 42463/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.248/10.000 seconds
+Lua time usage: 0.211/10.000 seconds
 Lua memory usage: 6.64 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  638.212      1 -total
- 48.75%  311.140      2 Template:Infobox
- 42.50%  271.263      1 Template:Infobox_software
- 27.16%  173.318      1 Template:Reflist
- 23.48%  149.838     12 Template:Cite_web
- 14.02%   89.492      2 Template:Wikidata
- 10.07%   64.247      1 Template:Citation_needed
-  9.73%   62.106      1 Template:Infobox_software/simple
-  9.01%   57.525      1 Template:Fix
-  7.52%   48.007      2 Template:Start_date_and_age
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:13052-0!canonical and timestamp 20191231032038 and revision id 922083189
+100.00%  580.723      1 -total
+ 47.77%  277.399      2 Template:Infobox
+ 42.74%  248.213      1 Template:Infobox_software
+ 24.87%  144.423      1 Template:Reflist
+ 21.55%  125.138     12 Template:Cite_web
+ 16.68%   96.879      2 Template:Wikidata
+  9.37%   54.396      1 Template:Citation_needed
+  8.57%   49.768      1 Template:Infobox_software/simple
+  8.08%   46.947      1 Template:Fix
+  7.03%   40.841      1 Template:Redirect
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:13052-0!canonical and timestamp 20200101151854 and revision id 922083189
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -3288,7 +3288,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li class="interlanguage-link interwiki-th">
-                <a href="https://th.wikipedia.org/wiki/GNU_Debugger" title="GNU Debugger – Thai" lang="th" hreflang="th" class="interlanguage-link-target">
+                <a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%99%E0%B8%B9" title="โปรแกรมตรวจแก้จุดบกพร่องกนู – Thai" lang="th" hreflang="th" class="interlanguage-link-target">
                   ไทย
                 </a>
               </li>
@@ -3415,7 +3415,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.733","ppvisitednodes":{"value":2018,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51802,"limit":2097152},"templateargumentsize":{"value":3420,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42463,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  638.212      1 -total"," 48.75%  311.140      2 Template:Infobox"," 42.50%  271.263      1 Template:Infobox_software"," 27.16%  173.318      1 Template:Reflist"," 23.48%  149.838     12 Template:Cite_web"," 14.02%   89.492      2 Template:Wikidata"," 10.07%   64.247      1 Template:Citation_needed","  9.73%   62.106      1 Template:Infobox_software/simple","  9.01%   57.525      1 Template:Fix","  7.52%   48.007      2 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.248","limit":"10.000"},"limitreport-memusage":{"value":6959730,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20191231032038","ttl":86400,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.670","ppvisitednodes":{"value":2018,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51802,"limit":2097152},"templateargumentsize":{"value":3420,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42463,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  580.723      1 -total"," 47.77%  277.399      2 Template:Infobox"," 42.74%  248.213      1 Template:Infobox_software"," 24.87%  144.423      1 Template:Reflist"," 21.55%  125.138     12 Template:Cite_web"," 16.68%   96.879      2 Template:Wikidata","  9.37%   54.396      1 Template:Citation_needed","  8.57%   49.768      1 Template:Infobox_software/simple","  8.08%   46.947      1 Template:Fix","  7.03%   40.841      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.211","limit":"10.000"},"limitreport-memusage":{"value":6959796,"limit":52428800}},"cachereport":{"origin":"mw1294","timestamp":"20200101151854","ttl":86400,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -3425,7 +3425,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1238"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1248"});});
 //]]>
     </script>
   </body>

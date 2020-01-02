@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgnfBApAMFIAAB3eMi8AAADO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stanford_University","wgTitle":"Stanford University","wgCurRevisionId":932743233,"wgRevisionId":932743233,"wgArticleId":26977,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with broken reference names","Webarchive template wayback links","Pages with URL errors","Articles with short description","Use mdy dates from September 2018",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg2vWQpAME8AAI4xb5kAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stanford_University","wgTitle":"Stanford University","wgCurRevisionId":933655767,"wgRevisionId":933655767,"wgArticleId":26977,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with broken reference names","Webarchive template wayback links","Pages with URL errors","Articles with short description","Use mdy dates from September 2018",
 "Articles containing German-language text","Coordinates on Wikidata","Instances of Infobox university using image size","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from June 2016","Commons category link is on Wikidata","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference","Wikipedia articles incorporating a citation from Collier's Encyclopedia","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers",
 "Wikipedia articles with MusicBrainz place identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NSK identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TePapa identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Tourist attractions in Silicon Valley","Stanford University","1891 establishments in California","Educational institutions established in 1891","Private universities and colleges in California","Romanesque Revival architecture in California","Schools accredited by the Western Association of Schools and Colleges","Universities and colleges in Santa Clara County, California"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Stanford_University","wgRelevantArticleId":
 26977,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":37.4282293,"lon":-122.1688576},"wgWikibaseItemId":"Q41506","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready",
@@ -2753,13 +2753,13 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               </a>
               . Stanford is also host to 
               <a href="/wiki/List_of_Stanford_University_a_cappella_groups" title="List of Stanford University a cappella groups">
-                nine a cappella groups
+                ten a cappella groups
               </a>
               , including the 
               <a href="/wiki/Stanford_Mendicants" title="Stanford Mendicants">
                 Mendicants
               </a>
-              ,
+               (Stanford's first),
               <sup id="cite_ref-109" class="reference">
                 <a href="#cite_note-109">
                   [106]
@@ -2768,7 +2768,11 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               <a href="/w/index.php?title=Stanford_Counterpoint&amp;action=edit&amp;redlink=1" class="new" title="Stanford Counterpoint (page does not exist)">
                 Counterpoint
               </a>
-              ,
+               (the first all-female group on the 
+              <a href="/wiki/West_Coast_of_the_United_States" title="West Coast of the United States">
+                West Coast
+              </a>
+              ),
               <sup id="cite_ref-110" class="reference">
                 <a href="#cite_note-110">
                   [107]
@@ -3857,6 +3861,24 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                     [140]
                   </a>
                 </sup>
+              </li>
+              <li>
+                <a href="/wiki/Internet" title="Internet">
+                  Internet
+                </a>
+                 -- Stanford University was the site where the original design of the Internet was undertaken. 
+                <a href="/wiki/Vint_Cerf" title="Vint Cerf">
+                  Vint Cerf
+                </a>
+                 led a research group to elaborate the design of the Transmission Control Protocol (
+                <a href="/wiki/TCP/IP" class="mw-redirect" title="TCP/IP">
+                  TCP/IP
+                </a>
+                ) that he originally co-created with Robert E. Kahn (
+                <a href="/wiki/Bob_Kahn" title="Bob Kahn">
+                  Bob Kahn
+                </a>
+                ) in 1973 and which formed the basis for the architecture of the Internet.
               </li>
               <li>
                 <a href="/wiki/Frequency_modulation_synthesis" title="Frequency modulation synthesis">
@@ -20773,14 +20795,14 @@ Non-alumni former and current faculty, staff, and researchers who received the T
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1263
-Cached time: 20191230111658
+Parsed by mw1235
+Cached time: 20200102084902
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 3.856 seconds
-Real time usage: 4.441 seconds
-Preprocessor visited node count: 14333/1000000
+CPU time usage: 3.312 seconds
+Real time usage: 3.890 seconds
+Preprocessor visited node count: 14338/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 725973/2097152 bytes
 Template argument size: 151136/2097152 bytes
@@ -20789,33 +20811,33 @@ Expensive parser function count: 27/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 712257/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 2.233/10.000 seconds
-Lua memory usage: 29.29 MB/50 MB
+Lua time usage: 1.716/10.000 seconds
+Lua memory usage: 29.31 MB/50 MB
 Lua Profile:
-    ?                                                                300 ms       12.7%
-    recursiveClone <mwInit.lua:41>                                   240 ms       10.2%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                200 ms        8.5%
-    Scribunto_LuaSandboxCallback::callParserFunction                 180 ms        7.6%
-    Scribunto_LuaSandboxCallback::gsub                               180 ms        7.6%
-    type                                                             140 ms        5.9%
-    <mw.lua:683>                                                     100 ms        4.2%
-    Scribunto_LuaSandboxCallback::getEntity                          100 ms        4.2%
-    Scribunto_LuaSandboxCallback::match                               80 ms        3.4%
-    (for generator)                                                   80 ms        3.4%
-    [others]                                                         760 ms       32.2%
+    ?                                                                300 ms       16.1%
+    Scribunto_LuaSandboxCallback::gsub                               180 ms        9.7%
+    Scribunto_LuaSandboxCallback::callParserFunction                 160 ms        8.6%
+    Scribunto_LuaSandboxCallback::find                               140 ms        7.5%
+    recursiveClone <mwInit.lua:41>                                   120 ms        6.5%
+    Scribunto_LuaSandboxCallback::getEntity                           80 ms        4.3%
+    Scribunto_LuaSandboxCallback::match                               60 ms        3.2%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                 60 ms        3.2%
+    init <Module:Citation/CS1/Date_validation>                        60 ms        3.2%
+    <mwInit.lua:41>                                                   40 ms        2.2%
+    [others]                                                         660 ms       35.5%
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 3737.810      1 -total
- 57.72% 2157.490      3 Template:Reflist
- 31.68% 1183.982    173 Template:Cite_web
- 13.87%  518.322      1 Template:Infobox_university
- 13.43%  502.108      1 Template:Infobox
-  8.10%  302.665     42 Template:Cite_news
-  5.43%  202.806      1 Template:Navboxes
-  5.25%  196.413      1 Template:Both
-  5.20%  194.471     19 Template:Navbox
-  5.09%  190.198      1 Template:Lang-de
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:26977-0!canonical and timestamp 20191230111653 and revision id 932743233
+100.00% 3170.069      1 -total
+ 52.94% 1678.221      3 Template:Reflist
+ 25.60%  811.440    173 Template:Cite_web
+ 15.74%  498.957      1 Template:Infobox_university
+ 15.24%  483.256      1 Template:Infobox
+  7.82%  248.027     42 Template:Cite_news
+  6.25%  198.032      1 Template:Navboxes
+  6.04%  191.527      2 Template:Br_separated_entries
+  5.67%  179.880     19 Template:Navbox
+  5.62%  178.249      3 Template:If_empty
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:26977-0!canonical and timestamp 20200102085028 and revision id 933655767
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -20823,8 +20845,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stanford_University&amp;oldid=932743233">
-            https://en.wikipedia.org/w/index.php?title=Stanford_University&amp;oldid=932743233
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stanford_University&amp;oldid=933655767">
+            https://en.wikipedia.org/w/index.php?title=Stanford_University&amp;oldid=933655767
           </a>
           "
         </div>
@@ -21290,7 +21312,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Stanford_University&amp;oldid=932743233" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Stanford_University&amp;oldid=933655767" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -21305,7 +21327,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stanford_University&amp;id=932743233" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stanford_University&amp;id=933655767" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -21846,7 +21868,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 27 December 2019, at 23:36
+           This page was last edited on 2 January 2020, at 08:50
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -21934,17 +21956,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.856","walltime":"4.441","ppvisitednodes":{"value":14333,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":725973,"limit":2097152},"templateargumentsize":{"value":151136,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":27,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":712257,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 3737.810      1 -total"," 57.72% 2157.490      3 Template:Reflist"," 31.68% 1183.982    173 Template:Cite_web"," 13.87%  518.322      1 Template:Infobox_university"," 13.43%  502.108      1 Template:Infobox","  8.10%  302.665     42 Template:Cite_news","  5.43%  202.806      1 Template:Navboxes","  5.25%  196.413      1 Template:Both","  5.20%  194.471     19 Template:Navbox","  5.09%  190.198      1 Template:Lang-de"]},"scribunto":{"limitreport-timeusage":{"value":"2.233","limit":"10.000"},"limitreport-memusage":{"value":30715237,"limit":52428800},"limitreport-profile":[["?","300","12.7"],["recursiveClone \u003CmwInit.lua:41\u003E","240","10.2"],["Scribunto_LuaSandboxCallback::getExpandedArgument","200","8.5"],["Scribunto_LuaSandboxCallback::callParserFunction","180","7.6"],["Scribunto_LuaSandboxCallback::gsub","180","7.6"],["type","140","5.9"],["\u003Cmw.lua:683\u003E","100","4.2"],["Scribunto_LuaSandboxCallback::getEntity","100","4.2"],["Scribunto_LuaSandboxCallback::match","80","3.4"],["(for generator)","80","3.4"],["[others]","760","32.2"]]},"cachereport":{"origin":"mw1263","timestamp":"20191230111658","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.312","walltime":"3.890","ppvisitednodes":{"value":14338,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":725973,"limit":2097152},"templateargumentsize":{"value":151136,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":27,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":712257,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 3170.069      1 -total"," 52.94% 1678.221      3 Template:Reflist"," 25.60%  811.440    173 Template:Cite_web"," 15.74%  498.957      1 Template:Infobox_university"," 15.24%  483.256      1 Template:Infobox","  7.82%  248.027     42 Template:Cite_news","  6.25%  198.032      1 Template:Navboxes","  6.04%  191.527      2 Template:Br_separated_entries","  5.67%  179.880     19 Template:Navbox","  5.62%  178.249      3 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"1.716","limit":"10.000"},"limitreport-memusage":{"value":30733491,"limit":52428800},"limitreport-profile":[["?","300","16.1"],["Scribunto_LuaSandboxCallback::gsub","180","9.7"],["Scribunto_LuaSandboxCallback::callParserFunction","160","8.6"],["Scribunto_LuaSandboxCallback::find","140","7.5"],["recursiveClone \u003CmwInit.lua:41\u003E","120","6.5"],["Scribunto_LuaSandboxCallback::getEntity","80","4.3"],["Scribunto_LuaSandboxCallback::match","60","3.2"],["Scribunto_LuaSandboxCallback::getExpandedArgument","60","3.2"],["init \u003CModule:Citation/CS1/Date_validation\u003E","60","3.2"],["\u003CmwInit.lua:41\u003E","40","2.2"],["[others]","660","35.5"]]},"cachereport":{"origin":"mw1235","timestamp":"20200102084902","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Stanford University","url":"https:\/\/en.wikipedia.org\/wiki\/Stanford_University","sameAs":"http:\/\/www.wikidata.org\/entity\/Q41506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q41506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-03T23:13:11Z","dateModified":"2019-12-27T23:36:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/b7\/Stanford_University_seal_2003.svg","headline":"private research university located in Stanford, California, United States"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Stanford University","url":"https:\/\/en.wikipedia.org\/wiki\/Stanford_University","sameAs":"http:\/\/www.wikidata.org\/entity\/Q41506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q41506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-03T23:13:11Z","dateModified":"2020-01-02T08:50:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/b7\/Stanford_University_seal_2003.svg","headline":"private research university located in Stanford, California, United States"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1247"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":145,"wgHostname":"mw1244"});});
 //]]>
     </script>
   </body>

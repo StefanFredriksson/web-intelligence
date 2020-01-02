@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgjzzgpAICkAAGlUJaUAAAEI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Wide_Web","wgTitle":"World Wide Web","wgCurRevisionId":933013507,"wgRevisionId":933013507,"wgArticleId":33139,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from September 2016","CS1 maint: archived copy as title","Webarchive template wayback links","CS1 errors: missing periodical",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3dPgpAIC4AAG1ETcYAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Wide_Web","wgTitle":"World Wide Web","wgCurRevisionId":933668088,"wgRevisionId":933668088,"wgArticleId":33139,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from September 2016","CS1 maint: archived copy as title","Webarchive template wayback links","CS1 errors: missing periodical",
 "CS1 maint: multiple names: authors list","Articles with short description","EngvarB from August 2018","Use dmy dates from October 2012","All articles with unsourced statements","Articles with unsourced statements from March 2019","Articles containing potentially dated statements from 1997","All articles containing potentially dated statements","All accuracy disputes","Articles with disputed statements from July 2019","All articles lacking reliable references","Articles lacking reliable references from November 2016","Articles containing Chinese-language text","Articles lacking reliable references from April 2018","Pages using web citations with no URL","Commons category link is on Wikidata","Articles with Curlie links","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NARA identifiers","World Wide Web","Computer-related introductions in 1989",
 "English inventions","British inventions","Human–computer interaction","Information Age","CERN","Tim Berners-Lee","Web technology","20th-century inventions"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"World_Wide_Web","wgRelevantArticleId":33139,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q466","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
 "site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
@@ -178,7 +178,11 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   [1]
                 </a>
               </sup>
-               The resources of the WWW may be accessed by users by a 
+               The resources of the WWW are transfered via the 
+              <a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">
+                Hypertext Transfer Protocol
+              </a>
+               (HTTP) and may be accessed by users by a 
               <a href="/wiki/Software_application" class="mw-redirect" title="Software application">
                 software application
               </a>
@@ -186,6 +190,12 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               <i>
                 <a href="/wiki/Web_browser" title="Web browser">
                   web browser
+                </a>
+              </i>
+               and are published by a software application called a 
+              <i>
+                <a href="/wiki/Web_server" title="Web server">
+                  web server
                 </a>
                 .
               </i>
@@ -1081,23 +1091,22 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               </div>
             </div>
             <p>
-              Historians generally agree that a turning point for the Web began with the introduction
+              Historians generally agree that a turning point for the Web began with the 1993 introduction of 
+              <a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">
+                Mosaic
+              </a>
+              ,
               <sup id="cite_ref-28" class="reference">
                 <a href="#cite_note-28">
                   [28]
                 </a>
               </sup>
-               of the 
-              <a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">
-                Mosaic
-              </a>
-               web browser
               <sup id="cite_ref-29" class="reference">
                 <a href="#cite_note-29">
                   [29]
                 </a>
               </sup>
-               in 1993, a graphical browser developed by a team at the 
+               a graphical web browser developed at the 
               <a href="/wiki/National_Center_for_Supercomputing_Applications" title="National Center for Supercomputing Applications">
                 National Center for Supercomputing Applications
               </a>
@@ -1105,11 +1114,11 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               <a href="/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign" title="University of Illinois at Urbana–Champaign">
                 University of Illinois at Urbana–Champaign
               </a>
-               (NCSA-UIUC), led by 
+               (NCSA-UIUC).  The development was led by 
               <a href="/wiki/Marc_Andreessen" title="Marc Andreessen">
                 Marc Andreessen
               </a>
-              . Funding for Mosaic came from the US High-Performance Computing and Communications Initiative and the 
+              , while funding came from the US High-Performance Computing and Communications Initiative and the 
               <a href="/wiki/High_Performance_Computing_Act_of_1991" title="High Performance Computing Act of 1991">
                 High Performance Computing Act of 1991
               </a>
@@ -1123,7 +1132,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                   [30]
                 </a>
               </sup>
-               Prior to the release of Mosaic, graphics were not commonly mixed with text in web pages and the web's popularity was less than that of older protocols in use over the Internet, such as 
+               Prior to the release of Mosaic, graphics were not commonly mixed with text in web pages, and the Web was less popular than older protocols such as 
               <a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">
                 Gopher
               </a>
@@ -1131,7 +1140,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               <a href="/wiki/Wide_Area_Information_Servers" class="mw-redirect" title="Wide Area Information Servers">
                 Wide Area Information Servers
               </a>
-               (WAIS). Mosaic's graphical user interface allowed the Web to become, by far, the most popular Internet protocol. The 
+               (WAIS). Mosaic's graphical user interface allowed the Web to become by far the most popular protocol on the Internet. The 
               <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">
                 World Wide Web Consortium
               </a>
@@ -10316,14 +10325,14 @@ Internet content that is not capable of being searched by a web search engine is
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1327
-Cached time: 20191229180924
+Parsed by mw1261
+Cached time: 20200102104519
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.576 seconds
-Real time usage: 1.989 seconds
-Preprocessor visited node count: 6747/1000000
+CPU time usage: 1.628 seconds
+Real time usage: 2.043 seconds
+Preprocessor visited node count: 6748/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 275287/2097152 bytes
 Template argument size: 4813/2097152 bytes
@@ -10332,21 +10341,21 @@ Expensive parser function count: 19/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 303786/5000000 bytes
 Number of Wikibase entities loaded: 4/400
-Lua time usage: 0.934/10.000 seconds
+Lua time usage: 0.942/10.000 seconds
 Lua memory usage: 22.25 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1698.544      1 -total
- 48.84%  829.484      1 Template:Reflist
- 22.92%  389.248     66 Template:Cite_web
- 12.19%  207.103      1 Template:Lang
-  7.16%  121.559     10 Template:Cite_journal
-  6.42%  109.108      6 Template:Cite_book
-  5.29%   89.852      5 Template:Fix
-  4.73%   80.370     16 Template:Cite_news
-  4.51%   76.608      8 Template:Navbox
-  4.40%   74.742      1 Template:Authority_control
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:33139-0!canonical and timestamp 20191229180922 and revision id 933013507
+100.00% 1729.335      1 -total
+ 48.91%  845.849      1 Template:Reflist
+ 22.47%  388.556     66 Template:Cite_web
+  9.75%  168.538      1 Template:Lang
+  7.67%  132.725     10 Template:Cite_journal
+  7.01%  121.246      6 Template:Cite_book
+  5.56%   96.152     16 Template:Cite_news
+  4.60%   79.586      1 Template:Authority_control
+  4.44%   76.844      5 Template:Fix
+  4.20%   72.681      8 Template:Navbox
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:33139-0!canonical and timestamp 20200102104517 and revision id 933668088
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -10354,8 +10363,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Wide_Web&amp;oldid=933013507">
-            https://en.wikipedia.org/w/index.php?title=World_Wide_Web&amp;oldid=933013507
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Wide_Web&amp;oldid=933668088">
+            https://en.wikipedia.org/w/index.php?title=World_Wide_Web&amp;oldid=933668088
           </a>
           "
         </div>
@@ -10786,7 +10795,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=World_Wide_Web&amp;oldid=933013507" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=World_Wide_Web&amp;oldid=933668088" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -10801,7 +10810,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Wide_Web&amp;id=933013507" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Wide_Web&amp;id=933668088" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -11537,7 +11546,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 29 December 2019, at 13:55
+           This page was last edited on 2 January 2020, at 10:45
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -11625,17 +11634,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.576","walltime":"1.989","ppvisitednodes":{"value":6747,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":275287,"limit":2097152},"templateargumentsize":{"value":4813,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":303786,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1698.544      1 -total"," 48.84%  829.484      1 Template:Reflist"," 22.92%  389.248     66 Template:Cite_web"," 12.19%  207.103      1 Template:Lang","  7.16%  121.559     10 Template:Cite_journal","  6.42%  109.108      6 Template:Cite_book","  5.29%   89.852      5 Template:Fix","  4.73%   80.370     16 Template:Cite_news","  4.51%   76.608      8 Template:Navbox","  4.40%   74.742      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.934","limit":"10.000"},"limitreport-memusage":{"value":23334243,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20191229180924","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.628","walltime":"2.043","ppvisitednodes":{"value":6748,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":275287,"limit":2097152},"templateargumentsize":{"value":4813,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":303786,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1729.335      1 -total"," 48.91%  845.849      1 Template:Reflist"," 22.47%  388.556     66 Template:Cite_web","  9.75%  168.538      1 Template:Lang","  7.67%  132.725     10 Template:Cite_journal","  7.01%  121.246      6 Template:Cite_book","  5.56%   96.152     16 Template:Cite_news","  4.60%   79.586      1 Template:Authority_control","  4.44%   76.844      5 Template:Fix","  4.20%   72.681      8 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.942","limit":"10.000"},"limitreport-memusage":{"value":23334312,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20200102104519","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"World Wide Web","url":"https:\/\/en.wikipedia.org\/wiki\/World_Wide_Web","sameAs":"http:\/\/www.wikidata.org\/entity\/Q466","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q466","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-01T14:10:12Z","dateModified":"2019-12-29T13:55:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/Web_Page.png","headline":"system of interlinked hypertext documents accessed via the Internet"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"World Wide Web","url":"https:\/\/en.wikipedia.org\/wiki\/World_Wide_Web","sameAs":"http:\/\/www.wikidata.org\/entity\/Q466","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q466","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-01T14:10:12Z","dateModified":"2020-01-02T10:45:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/Web_Page.png","headline":"system of interlinked hypertext documents accessed via the Internet"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":160,"wgHostname":"mw1320"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1325"});});
 //]]>
     </script>
   </body>

@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgsoPwpAIEIAALV5E8MAAACQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Entity–relationship_model","wgTitle":"Entity–relationship model","wgCurRevisionId":932675728,"wgRevisionId":932675728,"wgArticleId":752991,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from November 2016","All articles needing additional references",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3eXgpAAEQAAGAUv7QAAAER","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Entity–relationship_model","wgTitle":"Entity–relationship model","wgCurRevisionId":932675728,"wgRevisionId":932675728,"wgArticleId":752991,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from November 2016","All articles needing additional references",
 "Wikipedia articles needing clarification from April 2012","Articles to be expanded from February 2018","All articles to be expanded","Articles using small message boxes","All articles with unsourced statements","Articles with unsourced statements from July 2016","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from June 2012","Commons category link is on Wikidata","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Data modeling diagrams","Entity–relationship model","Data modeling languages","Modeling languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Entity–relationship_model","wgRelevantArticleId":752991,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":
 "Entity-Relationship_Model","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Entity%E2%80%93relationship_model","wgWikibaseItemId":"Q624546","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready",
 "mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
@@ -3327,6 +3327,11 @@ In other words, a relationship set corresponds to a
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Database_schema" title="Database schema">
+                              Schema
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Database_refactoring" title="Database refactoring">
                               Refactoring
                             </a>
@@ -4216,37 +4221,37 @@ In other words, a relationship set corresponds to a
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1346
-Cached time: 20191227150135
+Parsed by mw1269
+Cached time: 20191231173700
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.540 seconds
-Real time usage: 0.734 seconds
+CPU time usage: 0.508 seconds
+Real time usage: 0.742 seconds
 Preprocessor visited node count: 2009/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 100625/2097152 bytes
+Post‐expand include size: 100712/2097152 bytes
 Template argument size: 2604/2097152 bytes
 Highest expansion depth: 15/40
 Expensive parser function count: 11/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 35016/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.238/10.000 seconds
+Lua time usage: 0.243/10.000 seconds
 Lua memory usage: 6.8 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  579.395      1 -total
- 37.42%  216.825      1 Template:Reflist
- 22.06%  127.830      2 Template:Cite_journal
- 18.74%  108.576      1 Template:Refimprove
- 12.56%   72.762      2 Template:Ambox
-  8.69%   50.327      1 Template:Authority_control
-  8.47%   49.096      8 Template:Cite_book
-  7.14%   41.361      5 Template:Navbox
-  6.41%   37.158      1 Template:ISBN
-  6.10%   35.349      1 Template:Commons_category
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:752991-0!canonical and timestamp 20191227150134 and revision id 932675728
+100.00%  611.370      1 -total
+ 37.77%  230.928      1 Template:Reflist
+ 21.32%  130.336      2 Template:Cite_journal
+ 16.86%  103.101      1 Template:Refimprove
+ 12.82%   78.380      2 Template:Ambox
+  8.24%   50.353      1 Template:Commons_category
+  8.22%   50.233      1 Template:Authority_control
+  7.58%   46.370      5 Template:Navbox
+  7.23%   44.201      1 Template:ISBN
+  6.95%   42.461      8 Template:Cite_book
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:752991-0!canonical and timestamp 20191231173659 and revision id 932675728
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -4940,7 +4945,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.734","ppvisitednodes":{"value":2009,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100625,"limit":2097152},"templateargumentsize":{"value":2604,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35016,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  579.395      1 -total"," 37.42%  216.825      1 Template:Reflist"," 22.06%  127.830      2 Template:Cite_journal"," 18.74%  108.576      1 Template:Refimprove"," 12.56%   72.762      2 Template:Ambox","  8.69%   50.327      1 Template:Authority_control","  8.47%   49.096      8 Template:Cite_book","  7.14%   41.361      5 Template:Navbox","  6.41%   37.158      1 Template:ISBN","  6.10%   35.349      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.238","limit":"10.000"},"limitreport-memusage":{"value":7134226,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20191227150135","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.742","ppvisitednodes":{"value":2009,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100712,"limit":2097152},"templateargumentsize":{"value":2604,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35016,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  611.370      1 -total"," 37.77%  230.928      1 Template:Reflist"," 21.32%  130.336      2 Template:Cite_journal"," 16.86%  103.101      1 Template:Refimprove"," 12.82%   78.380      2 Template:Ambox","  8.24%   50.353      1 Template:Commons_category","  8.22%   50.233      1 Template:Authority_control","  7.58%   46.370      5 Template:Navbox","  7.23%   44.201      1 Template:ISBN","  6.95%   42.461      8 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":7134302,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20191231173700","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -4950,7 +4955,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1329"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1273"});});
 //]]>
     </script>
   </body>

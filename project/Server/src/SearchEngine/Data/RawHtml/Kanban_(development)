@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgoSegpAADkAAHPrjlIAAAAG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kanban_(development)","wgTitle":"Kanban (development)","wgCurRevisionId":916019561,"wgRevisionId":916019561,"wgArticleId":28936955,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Nihongo template errors","Wikipedia articles with GND identifiers","Use dmy dates from July 2017","Agile software development","Japanese business terms","Software development philosophies"],
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgtYbgpAMFIAAIm35uQAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kanban_(development)","wgTitle":"Kanban (development)","wgCurRevisionId":916019561,"wgRevisionId":916019561,"wgArticleId":28936955,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Nihongo template errors","Wikipedia articles with GND identifiers","Use dmy dates from July 2017","Agile software development","Japanese business terms","Software development philosophies"],
 "wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kanban_(development)","wgRelevantArticleId":28936955,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q180591","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
 "ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
 "ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -1848,13 +1848,13 @@ Glossaries
             </p>
             <!-- 
 NewPP limit report
-Parsed by mw1265
-Cached time: 20191230143725
+Parsed by mw1263
+Cached time: 20191231122314
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.520 seconds
-Real time usage: 0.713 seconds
+CPU time usage: 0.616 seconds
+Real time usage: 0.868 seconds
 Preprocessor visited node count: 2208/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 42438/2097152 bytes
@@ -1864,21 +1864,21 @@ Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 55681/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.332/10.000 seconds
+Lua time usage: 0.416/10.000 seconds
 Lua memory usage: 14.19 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  655.628      1 -total
- 40.50%  265.535      1 Template:Reflist
- 32.87%  215.501     10 Template:Cite_book
- 20.29%  133.016      1 Template:Nihongo
- 12.01%   78.740      7 Template:ISBN
-  7.70%   50.507      1 Template:Authority_control
-  6.83%   44.809      1 Template:About
-  4.75%   31.140      7 Template:Catalog_lookup_link
-  3.93%   25.761      1 Template:Use_dmy_dates
-  3.06%   20.066      4 Template:Cite_web
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:28936955-0!canonical and timestamp 20191230143725 and revision id 916019561
+100.00%  812.759      1 -total
+ 37.49%  304.739      1 Template:Reflist
+ 29.68%  241.207     10 Template:Cite_book
+ 25.24%  205.122      1 Template:Nihongo
+ 11.73%   95.355      7 Template:ISBN
+  9.06%   73.641      1 Template:About
+  6.07%   49.369      1 Template:Authority_control
+  4.52%   36.713      7 Template:Catalog_lookup_link
+  3.73%   30.340      4 Template:Cite_web
+  3.44%   27.924      1 Template:Use_dmy_dates
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:28936955-0!canonical and timestamp 20191231122313 and revision id 916019561
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -2397,7 +2397,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.713","ppvisitednodes":{"value":2208,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42438,"limit":2097152},"templateargumentsize":{"value":3408,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55681,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  655.628      1 -total"," 40.50%  265.535      1 Template:Reflist"," 32.87%  215.501     10 Template:Cite_book"," 20.29%  133.016      1 Template:Nihongo"," 12.01%   78.740      7 Template:ISBN","  7.70%   50.507      1 Template:Authority_control","  6.83%   44.809      1 Template:About","  4.75%   31.140      7 Template:Catalog_lookup_link","  3.93%   25.761      1 Template:Use_dmy_dates","  3.06%   20.066      4 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.332","limit":"10.000"},"limitreport-memusage":{"value":14883033,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20191230143725","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.868","ppvisitednodes":{"value":2208,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42438,"limit":2097152},"templateargumentsize":{"value":3408,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55681,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  812.759      1 -total"," 37.49%  304.739      1 Template:Reflist"," 29.68%  241.207     10 Template:Cite_book"," 25.24%  205.122      1 Template:Nihongo"," 11.73%   95.355      7 Template:ISBN","  9.06%   73.641      1 Template:About","  6.07%   49.369      1 Template:Authority_control","  4.52%   36.713      7 Template:Catalog_lookup_link","  3.73%   30.340      4 Template:Cite_web","  3.44%   27.924      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.416","limit":"10.000"},"limitreport-memusage":{"value":14883185,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191231122314","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -2407,7 +2407,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1262"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1247"});});
 //]]>
     </script>
   </body>

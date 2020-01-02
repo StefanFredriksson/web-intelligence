@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgsoMQpAICEAAFWpSYkAAADH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Luigi_Federico_Menabrea","wgTitle":"Luigi Federico Menabrea","wgCurRevisionId":907573017,"wgRevisionId":907573017,"wgArticleId":795501,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg3eUgpAMEkAAEFNhgUAAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Luigi_Federico_Menabrea","wgTitle":"Luigi Federico Menabrea","wgCurRevisionId":907573017,"wgRevisionId":907573017,"wgArticleId":795501,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference",
 "Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1809 births","1896 deaths","People from Chambéry","People from the Kingdom of Sardinia","19th-century Italian mathematicians","Prime Ministers of Italy","Foreign ministers of Italy","Members of the Senate of the Kingdom of Italy","Knights Commander of the Order of Saint Joseph","University of Turin alumni","Members of the Chamber of Deputies (Kingdom of Sardinia)","Deputies of Legislature I of the Kingdom of Sardinia","Deputies of Legislature III of the Kingdom of Sardinia",
 "Deputies of Legislature IV of the Kingdom of Sardinia","Deputies of Legislature V of the Kingdom of Sardinia","Deputies of Legislature VI of the Kingdom of Sardinia","Members of the Senate of the Kingdom of Sardinia","Ambassadors of Italy to the United Kingdom","Italian mathematicians"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Luigi_Federico_Menabrea","wgRelevantArticleId":795501,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Luigi_Menabrea","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English",
 "wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Luigi_Federico_Menabrea","wgWikibaseItemId":"Q548672","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
@@ -1961,13 +1961,13 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1330
-Cached time: 20191231032039
+Parsed by mw1348
+Cached time: 20200102072600
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.652 seconds
-Real time usage: 0.908 seconds
+CPU time usage: 0.624 seconds
+Real time usage: 0.888 seconds
 Preprocessor visited node count: 9545/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 59879/2097152 bytes
@@ -1977,21 +1977,21 @@ Expensive parser function count: 8/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 3744/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.226/10.000 seconds
+Lua time usage: 0.221/10.000 seconds
 Lua memory usage: 5.03 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  817.381      1 -total
- 61.87%  505.673      1 Template:Infobox_Prime_Minister
- 51.47%  420.705      3 Template:Infobox
- 21.25%  173.695      1 Template:Birth_date
- 15.83%  129.399     17 Template:Infobox_officeholder/office
-  9.50%   77.659      1 Template:MacTutor_Biography
-  8.64%   70.629      1 Template:Citation
-  7.59%   62.012      3 Template:Succession_box
-  6.82%   55.708      1 Template:Authority_control
-  6.28%   51.307      1 Template:Commons_category
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:795501-0!canonical and timestamp 20191231032038 and revision id 907573017
+100.00%  798.536      1 -total
+ 59.08%  471.801      1 Template:Infobox_Prime_Minister
+ 51.26%  409.360      3 Template:Infobox
+ 19.02%  151.847      1 Template:Birth_date
+ 14.70%  117.414     17 Template:Infobox_officeholder/office
+ 11.29%   90.169      1 Template:MacTutor_Biography
+ 10.50%   83.858      1 Template:Citation
+  7.85%   62.684      1 Template:Commons_category
+  7.63%   60.939      3 Template:Succession_box
+  6.81%   54.417      1 Template:Authority_control
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:795501-0!canonical and timestamp 20200102072559 and revision id 907573017
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -2715,7 +2715,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.652","walltime":"0.908","ppvisitednodes":{"value":9545,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59879,"limit":2097152},"templateargumentsize":{"value":3058,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3744,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  817.381      1 -total"," 61.87%  505.673      1 Template:Infobox_Prime_Minister"," 51.47%  420.705      3 Template:Infobox"," 21.25%  173.695      1 Template:Birth_date"," 15.83%  129.399     17 Template:Infobox_officeholder/office","  9.50%   77.659      1 Template:MacTutor_Biography","  8.64%   70.629      1 Template:Citation","  7.59%   62.012      3 Template:Succession_box","  6.82%   55.708      1 Template:Authority_control","  6.28%   51.307      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.226","limit":"10.000"},"limitreport-memusage":{"value":5275127,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191231032039","ttl":86400,"transientcontent":true}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.888","ppvisitednodes":{"value":9545,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59879,"limit":2097152},"templateargumentsize":{"value":3058,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3744,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  798.536      1 -total"," 59.08%  471.801      1 Template:Infobox_Prime_Minister"," 51.26%  409.360      3 Template:Infobox"," 19.02%  151.847      1 Template:Birth_date"," 14.70%  117.414     17 Template:Infobox_officeholder/office"," 11.29%   90.169      1 Template:MacTutor_Biography"," 10.50%   83.858      1 Template:Citation","  7.85%   62.684      1 Template:Commons_category","  7.63%   60.939      3 Template:Succession_box","  6.81%   54.417      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":5275127,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20200102072600","ttl":86400,"transientcontent":true}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -2725,7 +2725,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1331"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":170,"wgHostname":"mw1238"});});
 //]]>
     </script>
   </body>

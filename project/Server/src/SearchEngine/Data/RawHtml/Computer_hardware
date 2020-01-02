@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgboUApAMFAAAEd53I8AAACA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Computer_hardware","wgTitle":"Computer hardware","wgCurRevisionId":932776626,"wgRevisionId":932776626,"wgArticleId":21808348,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use dmy dates from March 2017","Articles to be expanded from October 2018","All articles to be expanded","Articles using small message boxes",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg1t3gpAMEwAAF8i0zoAAACF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Computer_hardware","wgTitle":"Computer hardware","wgCurRevisionId":933624843,"wgRevisionId":933624843,"wgArticleId":21808348,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Use dmy dates from March 2017","Articles to be expanded from October 2018","All articles to be expanded","Articles using small message boxes",
 "Wikipedia articles in need of updating from September 2018","All Wikipedia articles in need of updating","Commons category link from Wikidata","Wikipedia articles with GND identifiers","Computer hardware","Digital electronics"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Computer_hardware","wgRelevantArticleId":21808348,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3966","wgCentralAuthMobileDomain":!1,
 "wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
 "ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -713,7 +713,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               </a>
             </div>
             <p>
-              The computer case encloses and holds most of the components of the system. It provides mechanical support and protection for internal elements such as the motherboard, disk drives, and power supplies, and controls and directs the flow of cooling air over internal components. The case is also part of the system to control electromagnetic interference radiated by the computer, and protects internal parts from electrostatic discharge. Large tower cases provide extra internal space for multiple disk drives or other peripherals and usually stand on the floor, while desktop cases provide less expansion room. All-in-one style designs include a video display built into the same case. Portable and laptop computers require cases that provide impact protection for the unit. A current development in laptop computers is a detachable keyboard, which allows the system to be configured as a touch-screen tablet. Hobbyists may decorate the cases with colored lights, paint, or other features, in an activity called 
+              The computer case encloses and holds most of the components of the system. It provides mechanical support and protection for internal elements such as the motherboard, disk drives, and power supplies, and controls and directs the flow of cooling air over internal components. The case is also part of the system to control electromagnetic interference radiated by the computer and protects internal parts from electrostatic discharge. Large tower cases provide extra internal space for multiple disk drives or other peripherals and usually stand on the floor, while desktop cases provide less expansion room. All-in-one style designs include a video display built into the same case. Portable and laptop computers require cases that provide impact protection for the unit. A current development in laptop computers is a detachable keyboard, which allows the system to be configured as a touch-screen tablet. Hobbyists may decorate the cases with colored lights, paint, or other features, in an activity called 
               <a href="/wiki/Case_modding" title="Case modding">
                 case modding
               </a>
@@ -870,7 +870,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <a href="/wiki/CPU_cooling" class="mw-redirect" title="CPU cooling">
                   cooled
                 </a>
-                 by a heat sink and fan, or water-cooling system. Most newer CPU include an on-die 
+                 by a heat sink and fan, or water-cooling system. Most newer CPU includes an on-die 
                 <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">
                   graphics processing unit
                 </a>
@@ -878,7 +878,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
                 <a href="/wiki/Clock_speed" class="mw-redirect" title="Clock speed">
                   clock speed
                 </a>
-                 of CPU governs how fast it executes instructions, and is measured in GHz; typical values lie between 1 GHz and 5 GHz. Many modern computers have the option to overclock the CPU which enhances performance at the expense of greater thermal output and thus a need for improved cooling.
+                 of CPU governs how fast it executes instructions and is measured in GHz; typical values lie between 1 GHz and 5 GHz. Many modern computers have the option to overclock the CPU which enhances performance at the expense of greater thermal output and thus a need for improved cooling.
               </li>
               <li>
                 The 
@@ -1136,7 +1136,7 @@ document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSep
               <a href="/wiki/Digital_media" title="Digital media">
                 digital media
               </a>
-               that is used for storing, porting and extracting data files and objects. It can hold and store information both temporarily and permanently, and can be internal or external to a computer, server or any similar computing device. Data storage is a core function and fundamental component of computers.
+               that is used for storing, porting and extracting data files and objects. It can hold and store information both temporarily and permanently and can be internal or external to a computer, server or any similar computing device. Data storage is a core function and fundamental component of computers.
 
             </p>
             <h5>
@@ -1486,7 +1486,7 @@ A
               <a href="/wiki/Supercomputer" title="Supercomputer">
                 supercomputer
               </a>
-               is superficially similar to a mainframe, but is instead intended for extremely demanding computational tasks. As of June 2018, the fastest supercomputer on the 
+               is superficially similar to a mainframe but is instead intended for extremely demanding computational tasks. As of June 2018, the fastest supercomputer on the 
               <a href="/wiki/TOP500" title="TOP500">
                 TOP500
               </a>
@@ -1506,7 +1506,7 @@ A
 
             </p>
             <p>
-              The term supercomputer does not refer to a specific technology. Rather it indicates the fastest computations available at any given time. In mid 2011, the fastest supercomputers boasted speeds exceeding one petaflop, or 1 quadrillion (10^15 or 1,000 trillion) floating point operations per second.
+              The term supercomputer does not refer to a specific technology. Rather it indicates the fastest computations available at any given time. In mid-2011, the fastest supercomputers boasted speeds exceeding one petaflop, or 1 quadrillion (10^15 or 1,000 trillion) floating-point operations per second.
 Supercomputers are fast but extremely costly, so they are generally used by large organizations to execute computationally demanding tasks involving large data sets. Supercomputers typically run military and scientific applications. Although costly, they are also being used for commercial applications where huge amounts of data must be analyzed. For example, large banks employ supercomputers to calculate the risks and returns of various investment strategies, and healthcare organizations use them to analyze giant databases of patient data to determine optimal treatments for various diseases and problems incurring to the country.
 
             </p>
@@ -1595,14 +1595,14 @@ Supercomputers are fast but extremely costly, so they are generally used by larg
               <a href="/wiki/SSD" class="mw-redirect" title="SSD">
                 SSD
               </a>
-               to get a boost in performance or increase the amount of files that may be stored. Also, the user could increase the RAM so the computer may run more smoothly. The user could add a 
+               to get a boost in performance or increase the number of files that may be stored. Also, the user could increase the RAM so the computer may run more smoothly. The user could add a 
               <a href="/wiki/USB_3.0" title="USB 3.0">
                 USB 3.0
               </a>
               <a href="/wiki/Expansion_card" title="Expansion card">
                 expansion card
               </a>
-               in order to fully use USB 3.0 devices, or could upgrade the 
+               to fully use USB 3.0 devices, or could upgrade the 
               <a href="/wiki/GPU" class="mw-redirect" title="GPU">
                 GPU
               </a>
@@ -1815,13 +1815,13 @@ Supercomputers are fast but extremely costly, so they are generally used by larg
               <a href="/wiki/E-waste" class="mw-redirect" title="E-waste">
                 e-waste
               </a>
-               actually is recycled. When e-waste byproducts leach into ground water, are burned, or get mishandled during recycling, it causes harm. Health problems associated with such toxins include impaired mental development, cancer, and damage to the lungs, liver, and kidneys.
+               actually is recycled. When e-waste byproducts leach into groundwater, are burned, or get mishandled during recycling, it causes harm. Health problems associated with such toxins include impaired mental development, cancer, and damage to the lungs, liver, and kidneys.
               <sup id="cite_ref-13" class="reference">
                 <a href="#cite_note-13">
                   [13]
                 </a>
               </sup>
-               That's why even wires have to be recycled. Different companies have different techniques to recycle a wire. The most popular one is the grinder that separates the copper wires from the plastic/rubber casing. When the processes is done there are two different piles left; one containing the copper powder, and the other containing plastic/rubber pieces.
+               That's why even wires have to be recycled. Different companies have different techniques to recycle a wire. The most popular one is the grinder that separates the copper wires from the plastic/rubber casing. When the processes are done there are two different piles left; one containing the copper powder, and the other containing plastic/rubber pieces.
               <sup id="cite_ref-14" class="reference">
                 <a href="#cite_note-14">
                   [14]
@@ -1835,7 +1835,7 @@ Supercomputers are fast but extremely costly, so they are generally used by larg
               <a href="/wiki/Computer_keyboard" title="Computer keyboard">
                 keyboards
               </a>
-               all have a similar way of being recycled. For example, first each of the parts are taken apart then all of the inner parts get separated and placed into its own bin.
+               all have a similar way of being recycled. For example, first, each of the parts are taken apart then all of the inner parts get separated and placed into its own bin.
               <sup id="cite_ref-15" class="reference">
                 <a href="#cite_note-15">
                   [15]
@@ -3421,6 +3421,11 @@ Supercomputers are fast but extremely costly, so they are generally used by larg
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -4078,37 +4083,37 @@ Supercomputers are fast but extremely costly, so they are generally used by larg
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1224
-Cached time: 20191228040014
+Parsed by mw1347
+Cached time: 20200102034229
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.500 seconds
-Real time usage: 0.727 seconds
+CPU time usage: 0.488 seconds
+Real time usage: 0.713 seconds
 Preprocessor visited node count: 1899/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 91295/2097152 bytes
+Post‐expand include size: 91376/2097152 bytes
 Template argument size: 1544/2097152 bytes
 Highest expansion depth: 14/40
 Expensive parser function count: 5/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 50217/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.237/10.000 seconds
+Lua time usage: 0.221/10.000 seconds
 Lua memory usage: 4.64 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  570.986      1 -total
- 40.34%  230.332      1 Template:Reflist
- 21.23%  121.228     10 Template:Cite_web
- 13.03%   74.426      5 Template:Cite_news
-  9.87%   56.333      1 Template:Use_dmy_dates
-  9.63%   54.967      1 Template:Authority_control
-  9.44%   53.922      1 Template:Commons_category-inline
-  8.57%   48.941      2 Template:Ambox
-  7.56%   43.152      2 Template:Sister-inline
-  7.42%   42.390      1 Template:Expand_section
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:21808348-0!canonical and timestamp 20191228040014 and revision id 932776626
+100.00%  547.741      1 -total
+ 39.29%  215.226      1 Template:Reflist
+ 22.32%  122.234     10 Template:Cite_web
+ 10.67%   58.448      5 Template:Cite_news
+ 10.26%   56.198      1 Template:Use_dmy_dates
+  9.61%   52.611      1 Template:Authority_control
+  9.04%   49.492      1 Template:Commons_category-inline
+  8.63%   47.290      1 Template:Expand_section
+  8.22%   45.026      2 Template:Ambox
+  7.25%   39.708      2 Template:Sister-inline
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:21808348-0!canonical and timestamp 20200102034229 and revision id 933624843
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -4116,8 +4121,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=932776626">
-            https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=932776626
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=933624843">
+            https://en.wikipedia.org/w/index.php?title=Computer_hardware&amp;oldid=933624843
           </a>
           "
         </div>
@@ -4423,7 +4428,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Computer_hardware&amp;oldid=932776626" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Computer_hardware&amp;oldid=933624843" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -4438,7 +4443,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_hardware&amp;id=932776626" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_hardware&amp;id=933624843" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -5014,7 +5019,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 28 December 2019, at 04:00
+           This page was last edited on 2 January 2020, at 03:42
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -5102,17 +5107,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"0.727","ppvisitednodes":{"value":1899,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91295,"limit":2097152},"templateargumentsize":{"value":1544,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50217,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  570.986      1 -total"," 40.34%  230.332      1 Template:Reflist"," 21.23%  121.228     10 Template:Cite_web"," 13.03%   74.426      5 Template:Cite_news","  9.87%   56.333      1 Template:Use_dmy_dates","  9.63%   54.967      1 Template:Authority_control","  9.44%   53.922      1 Template:Commons_category-inline","  8.57%   48.941      2 Template:Ambox","  7.56%   43.152      2 Template:Sister-inline","  7.42%   42.390      1 Template:Expand_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":4862589,"limit":52428800}},"cachereport":{"origin":"mw1224","timestamp":"20191228040014","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.713","ppvisitednodes":{"value":1899,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91376,"limit":2097152},"templateargumentsize":{"value":1544,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50217,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  547.741      1 -total"," 39.29%  215.226      1 Template:Reflist"," 22.32%  122.234     10 Template:Cite_web"," 10.67%   58.448      5 Template:Cite_news"," 10.26%   56.198      1 Template:Use_dmy_dates","  9.61%   52.611      1 Template:Authority_control","  9.04%   49.492      1 Template:Commons_category-inline","  8.63%   47.290      1 Template:Expand_section","  8.22%   45.026      2 Template:Ambox","  7.25%   39.708      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":4862624,"limit":52428800}},"cachereport":{"origin":"mw1347","timestamp":"20200102034229","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Computer hardware","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_hardware","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3966","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3966","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-03-04T18:53:03Z","dateModified":"2019-12-28T04:00:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/88\/PDP-11-M7270.jpg","headline":"physical components of a computer"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Computer hardware","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_hardware","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3966","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3966","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-03-04T18:53:03Z","dateModified":"2020-01-02T03:42:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/88\/PDP-11-M7270.jpg","headline":"physical components of a computer"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1245"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1241"});});
 //]]>
     </script>
   </body>

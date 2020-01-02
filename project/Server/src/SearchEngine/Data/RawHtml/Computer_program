@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgnYjApAME8AALFe0hkAAADK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Computer_program","wgTitle":"Computer program","wgCurRevisionId":932489955,"wgRevisionId":932489955,"wgArticleId":5783,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Wikipedia articles with BNE identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NARA identifiers",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgwQnwpAMEsAACYAMpoAAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Computer_program","wgTitle":"Computer program","wgCurRevisionId":933462484,"wgRevisionId":933462484,"wgArticleId":5783,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Wikipedia articles with BNE identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NARA identifiers",
 "Computer programming","Software","Mathematical and quantitative methods (economics)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Computer_program","wgRelevantArticleId":5783,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q40056","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
 "ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
 "ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -3496,13 +3496,13 @@ More often than not the program did not work.The programmer then looked at the c
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1244
-Cached time: 20191230105925
+Parsed by mw1339
+Cached time: 20200101031951
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.848 seconds
-Real time usage: 1.112 seconds
+CPU time usage: 0.516 seconds
+Real time usage: 0.688 seconds
 Preprocessor visited node count: 1755/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 54096/2097152 bytes
@@ -3512,21 +3512,21 @@ Expensive parser function count: 6/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 92356/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.482/10.000 seconds
+Lua time usage: 0.306/10.000 seconds
 Lua memory usage: 7.95 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  890.784      1 -total
- 61.99%  552.232      1 Template:Reflist
- 31.93%  284.424     22 Template:Cite_book
- 15.68%  139.682      1 Template:Authority_control
- 14.45%  128.721      2 Template:Cite_journal
-  9.02%   80.327      4 Template:Citation
-  7.22%   64.298      1 Template:Short_description
-  5.25%   46.793      1 Template:Pagetype
-  4.97%   44.256      1 Template:Convert
-  2.55%   22.744      3 Template:Cite_web
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5783-0!canonical and timestamp 20191230105924 and revision id 932489955
+100.00%  574.995      1 -total
+ 57.45%  330.344      1 Template:Reflist
+ 33.72%  193.899     22 Template:Cite_book
+ 15.19%   87.327      1 Template:Authority_control
+  9.34%   53.696      4 Template:Citation
+  8.80%   50.625      1 Template:Short_description
+  7.62%   43.834      2 Template:Cite_journal
+  6.35%   36.508      1 Template:Pagetype
+  5.44%   31.266      1 Template:Convert
+  3.03%   17.442      3 Template:Cite_web
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5783-0!canonical and timestamp 20200101031951 and revision id 933462484
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -3534,8 +3534,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_program&amp;oldid=932489955">
-            https://en.wikipedia.org/w/index.php?title=Computer_program&amp;oldid=932489955
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_program&amp;oldid=933462484">
+            https://en.wikipedia.org/w/index.php?title=Computer_program&amp;oldid=933462484
           </a>
           "
         </div>
@@ -3826,7 +3826,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Computer_program&amp;oldid=932489955" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Computer_program&amp;oldid=933462484" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -3841,7 +3841,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_program&amp;id=932489955" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_program&amp;id=933462484" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -4382,7 +4382,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 26 December 2019, at 08:40
+           This page was last edited on 1 January 2020, at 03:19
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -4470,17 +4470,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.848","walltime":"1.112","ppvisitednodes":{"value":1755,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54096,"limit":2097152},"templateargumentsize":{"value":366,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":92356,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  890.784      1 -total"," 61.99%  552.232      1 Template:Reflist"," 31.93%  284.424     22 Template:Cite_book"," 15.68%  139.682      1 Template:Authority_control"," 14.45%  128.721      2 Template:Cite_journal","  9.02%   80.327      4 Template:Citation","  7.22%   64.298      1 Template:Short_description","  5.25%   46.793      1 Template:Pagetype","  4.97%   44.256      1 Template:Convert","  2.55%   22.744      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.482","limit":"10.000"},"limitreport-memusage":{"value":8336573,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20191230105925","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.516","walltime":"0.688","ppvisitednodes":{"value":1755,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54096,"limit":2097152},"templateargumentsize":{"value":366,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":92356,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  574.995      1 -total"," 57.45%  330.344      1 Template:Reflist"," 33.72%  193.899     22 Template:Cite_book"," 15.19%   87.327      1 Template:Authority_control","  9.34%   53.696      4 Template:Citation","  8.80%   50.625      1 Template:Short_description","  7.62%   43.834      2 Template:Cite_journal","  6.35%   36.508      1 Template:Pagetype","  5.44%   31.266      1 Template:Convert","  3.03%   17.442      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.306","limit":"10.000"},"limitreport-memusage":{"value":8336809,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20200101031951","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Computer program","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_program","sameAs":"http:\/\/www.wikidata.org\/entity\/Q40056","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q40056","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-06-27T18:39:23Z","dateModified":"2019-12-26T08:40:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/Hello_World_Brian_Kernighan_1978.jpg","headline":"sequence of instructions written in programming language to perform a specified task with a computer"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Computer program","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_program","sameAs":"http:\/\/www.wikidata.org\/entity\/Q40056","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q40056","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-06-27T18:39:23Z","dateModified":"2020-01-01T03:19:51Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/Hello_World_Brian_Kernighan_1978.jpg","headline":"sequence of instructions written in programming language to perform a specified task with a computer"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1337,"wgHostname":"mw1244"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1240"});});
 //]]>
     </script>
   </body>

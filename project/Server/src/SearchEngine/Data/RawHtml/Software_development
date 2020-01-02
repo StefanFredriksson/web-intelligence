@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xf34LQpAAEUAAEj94@oAAADP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Software_development","wgTitle":"Software development","wgCurRevisionId":930881032,"wgRevisionId":930881032,"wgArticleId":248932,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from August 2010","All articles needing additional references","All articles with unsourced statements",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xg0N6QpAICMAAEqMCicAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Software_development","wgTitle":"Software development","wgCurRevisionId":930881032,"wgRevisionId":930881032,"wgArticleId":248932,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from August 2010","All articles needing additional references","All articles with unsourced statements",
 "Articles with unsourced statements from December 2011","Articles with unsourced statements from June 2018","Articles with unsourced statements from January 2008","Wikipedia articles needing rewrite from May 2016","All articles needing rewrite","Commons category link from Wikidata","Wikipedia articles with BNE identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Software development","Software project management","Computer occupations","Product development"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Software_development","wgRelevantArticleId":248932,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
 "wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q638608","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready",
 "jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -4236,6 +4236,11 @@ Linda V. Knight (DePaul University, USA), Theresa A. Steinbach (DePaul Universit
                             </a>
                           </li>
                           <li>
+                            <a href="/wiki/Computability_theory" title="Computability theory">
+                              Computability theory
+                            </a>
+                          </li>
+                          <li>
                             <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">
                               Computational complexity theory
                             </a>
@@ -4919,37 +4924,37 @@ Linda V. Knight (DePaul University, USA), Theresa A. Steinbach (DePaul Universit
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1266
-Cached time: 20191221035109
+Parsed by mw1304
+Cached time: 20200101211250
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.536 seconds
-Real time usage: 0.701 seconds
+CPU time usage: 0.564 seconds
+Real time usage: 0.734 seconds
 Preprocessor visited node count: 2081/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 115602/2097152 bytes
+Post‐expand include size: 115683/2097152 bytes
 Template argument size: 2443/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 8/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 34604/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.247/10.000 seconds
+Lua time usage: 0.244/10.000 seconds
 Lua memory usage: 7.04 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  526.665      1 -total
- 22.41%  118.002      1 Template:Reflist
- 15.44%   81.325      3 Template:Cite_web
- 13.58%   71.526      1 Template:Unreferenced_section
- 12.58%   66.249      4 Template:Citation_needed
- 12.11%   63.773      1 Template:Unreferenced
- 11.79%   62.078      2 Template:Ambox
- 11.02%   58.061      4 Template:Fix
-  9.83%   51.747      1 Template:Commons_category
-  9.76%   51.400      1 Template:Authority_control
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:248932-0!canonical and timestamp 20191221035108 and revision id 930881032
+100.00%  536.460      1 -total
+ 24.90%  133.567      1 Template:Reflist
+ 16.25%   87.160      3 Template:Cite_web
+ 13.43%   72.024      1 Template:Unreferenced_section
+ 12.34%   66.184      1 Template:Unreferenced
+ 12.32%   66.076      2 Template:Ambox
+ 10.32%   55.374      1 Template:Commons_category
+ 10.26%   55.060      4 Template:Citation_needed
+  9.74%   52.240     10 Template:Cite_book
+  8.93%   47.901      4 Template:Fix
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:248932-0!canonical and timestamp 20200101211250 and revision id 930881032
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -5206,7 +5211,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="n-featuredcontent">
-                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
                   Featured content
                 </a>
               </li>
@@ -5658,7 +5663,7 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.701","ppvisitednodes":{"value":2081,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115602,"limit":2097152},"templateargumentsize":{"value":2443,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34604,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  526.665      1 -total"," 22.41%  118.002      1 Template:Reflist"," 15.44%   81.325      3 Template:Cite_web"," 13.58%   71.526      1 Template:Unreferenced_section"," 12.58%   66.249      4 Template:Citation_needed"," 12.11%   63.773      1 Template:Unreferenced"," 11.79%   62.078      2 Template:Ambox"," 11.02%   58.061      4 Template:Fix","  9.83%   51.747      1 Template:Commons_category","  9.76%   51.400      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.247","limit":"10.000"},"limitreport-memusage":{"value":7381057,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20191221035109","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.564","walltime":"0.734","ppvisitednodes":{"value":2081,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115683,"limit":2097152},"templateargumentsize":{"value":2443,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34604,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  536.460      1 -total"," 24.90%  133.567      1 Template:Reflist"," 16.25%   87.160      3 Template:Cite_web"," 13.43%   72.024      1 Template:Unreferenced_section"," 12.34%   66.184      1 Template:Unreferenced"," 12.32%   66.076      2 Template:Ambox"," 10.32%   55.374      1 Template:Commons_category"," 10.26%   55.060      4 Template:Citation_needed","  9.74%   52.240     10 Template:Cite_book","  8.93%   47.901      4 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":7382540,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20200101211250","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
@@ -5668,7 +5673,7 @@ additional terms may apply.  By using this site, you agree to the
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1274"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1333"});});
 //]]>
     </script>
   </body>

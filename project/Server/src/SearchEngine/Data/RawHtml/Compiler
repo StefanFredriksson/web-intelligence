@@ -7,7 +7,7 @@
     </title>
     <script>
 //<![CDATA[
-document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XgobwQpAADwAABVAPJ0AAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Compiler","wgTitle":"Compiler","wgCurRevisionId":930253498,"wgRevisionId":930253498,"wgArticleId":5739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with self-published sources","Articles with self-published sources from March 2017","All pages needing factual verification","Wikipedia articles needing factual verification from March 2017",
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xgt2WApAAEQAADWwPOEAAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Compiler","wgTitle":"Compiler","wgCurRevisionId":933383810,"wgRevisionId":933383810,"wgArticleId":5739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with self-published sources","Articles with self-published sources from March 2017","All pages needing factual verification","Wikipedia articles needing factual verification from March 2017",
 "Use dmy dates from July 2012","Articles lacking in-text citations from December 2019","All articles lacking in-text citations","Articles needing additional references from October 2018","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from March 2017","Wikipedia articles needing clarification from February 2017","Commons category link is on Wikidata","Articles with Curlie links","Webarchive template wayback links","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","American inventions","Compilers","Compiler construction","Computer libraries","Programming language implementation","Utility software types"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Compiler","wgRelevantArticleId":5739,"wgIsProbablyEditable":!0,
 "wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q47506","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
 "ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
@@ -1339,7 +1339,7 @@ Notable compilers &amp; toolchains
                 </span>
               </span>
             </h2>
-            <table class="box-No_footnotes plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+            <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
               <tbody>
                 <tr>
                   <td class="mbox-image">
@@ -1353,13 +1353,13 @@ Notable compilers &amp; toolchains
                       <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
                         list of references
                       </a>
-                      , related reading or 
-                      <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">
-                        external links
-                      </a>
-                      , 
+                      , but 
                       <b>
-                        but its sources remain unclear because it lacks 
+                        its sources remain unclear
+                      </b>
+                       because it has 
+                      <b>
+                        insufficient 
                         <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
                           inline citations
                         </a>
@@ -4808,37 +4808,37 @@ National Chi-Nan University
             </div>
             <!-- 
 NewPP limit report
-Parsed by mw1261
-Cached time: 20191230153643
+Parsed by mw1316
+Cached time: 20191231162353
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.924 seconds
-Real time usage: 1.246 seconds
-Preprocessor visited node count: 5546/1000000
+CPU time usage: 0.880 seconds
+Real time usage: 1.192 seconds
+Preprocessor visited node count: 5544/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 126413/2097152 bytes
-Template argument size: 11619/2097152 bytes
+Post‐expand include size: 126254/2097152 bytes
+Template argument size: 11621/2097152 bytes
 Highest expansion depth: 15/40
 Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 97851/5000000 bytes
 Number of Wikibase entities loaded: 3/400
-Lua time usage: 0.500/10.000 seconds
-Lua memory usage: 10.04 MB/50 MB
+Lua time usage: 0.458/10.000 seconds
+Lua memory usage: 9.95 MB/50 MB
 -->            <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1110.134      1 -total
- 37.83%  419.923      1 Template:Reflist
- 13.62%  151.166     19 Template:Cite_book
- 11.20%  124.289     15 Template:Fix
- 10.36%  114.956      7 Template:Cite_web
-  7.95%   88.261      2 Template:Ambox
-  7.78%   86.346      6 Template:Cite_journal
-  7.02%   77.976      9 Template:Primary_source_inline
-  6.67%   74.070     16 Template:Delink
-  5.84%   64.866      1 Template:Authority_control
--->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5739-0!canonical and timestamp 20191230153642 and revision id 930253498
+100.00% 1044.014      1 -total
+ 36.27%  378.663      1 Template:Reflist
+ 13.98%  145.921     19 Template:Cite_book
+ 10.36%  108.184     15 Template:Fix
+  9.70%  101.296      7 Template:Cite_web
+  7.90%   82.472      2 Template:Ambox
+  7.13%   74.439      6 Template:Cite_journal
+  6.46%   67.464      1 Template:Authority_control
+  6.46%   67.419      9 Template:Primary_source_inline
+  6.45%   67.308     16 Template:Delink
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:5739-0!canonical and timestamp 20191231162352 and revision id 933383810
  -->          </div>
           <noscript>
             <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
@@ -4846,8 +4846,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </div>
         <div class="printfooter">
           Retrieved from "
-          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Compiler&amp;oldid=930253498">
-            https://en.wikipedia.org/w/index.php?title=Compiler&amp;oldid=930253498
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Compiler&amp;oldid=933383810">
+            https://en.wikipedia.org/w/index.php?title=Compiler&amp;oldid=933383810
           </a>
           "
         </div>
@@ -5228,7 +5228,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-permalink">
-                <a href="/w/index.php?title=Compiler&amp;oldid=930253498" title="Permanent link to this revision of the page">
+                <a href="/w/index.php?title=Compiler&amp;oldid=933383810" title="Permanent link to this revision of the page">
                   Permanent link
                 </a>
               </li>
@@ -5243,7 +5243,7 @@ Transclusion expansion time report (%,ms,calls,template)
                 </a>
               </li>
               <li id="t-cite">
-                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Compiler&amp;id=930253498" title="Information on how to cite this page">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Compiler&amp;id=933383810" title="Information on how to cite this page">
                   Cite this page
                 </a>
               </li>
@@ -5744,7 +5744,7 @@ Transclusion expansion time report (%,ms,calls,template)
     <div id="footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-           This page was last edited on 11 December 2019, at 06:54
+           This page was last edited on 31 December 2019, at 16:23
           <span class="anonymous-show">
              (UTC)
           </span>
@@ -5832,17 +5832,17 @@ additional terms may apply.  By using this site, you agree to the
     </div>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.924","walltime":"1.246","ppvisitednodes":{"value":5546,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":126413,"limit":2097152},"templateargumentsize":{"value":11619,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":97851,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1110.134      1 -total"," 37.83%  419.923      1 Template:Reflist"," 13.62%  151.166     19 Template:Cite_book"," 11.20%  124.289     15 Template:Fix"," 10.36%  114.956      7 Template:Cite_web","  7.95%   88.261      2 Template:Ambox","  7.78%   86.346      6 Template:Cite_journal","  7.02%   77.976      9 Template:Primary_source_inline","  6.67%   74.070     16 Template:Delink","  5.84%   64.866      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.500","limit":"10.000"},"limitreport-memusage":{"value":10525182,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20191230153643","ttl":2592000,"transientcontent":false}}});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.880","walltime":"1.192","ppvisitednodes":{"value":5544,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":126254,"limit":2097152},"templateargumentsize":{"value":11621,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":97851,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1044.014      1 -total"," 36.27%  378.663      1 Template:Reflist"," 13.98%  145.921     19 Template:Cite_book"," 10.36%  108.184     15 Template:Fix","  9.70%  101.296      7 Template:Cite_web","  7.90%   82.472      2 Template:Ambox","  7.13%   74.439      6 Template:Cite_journal","  6.46%   67.464      1 Template:Authority_control","  6.46%   67.419      9 Template:Primary_source_inline","  6.45%   67.308     16 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.458","limit":"10.000"},"limitreport-memusage":{"value":10428632,"limit":52428800}},"cachereport":{"origin":"mw1316","timestamp":"20191231162353","ttl":2592000,"transientcontent":false}}});});
 //]]>
     </script>
     <script type="application/ld+json">
 //<![CDATA[
-{"@context":"https:\/\/schema.org","@type":"Article","name":"Compiler","url":"https:\/\/en.wikipedia.org\/wiki\/Compiler","sameAs":"http:\/\/www.wikidata.org\/entity\/Q47506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q47506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-26T06:08:03Z","dateModified":"2019-12-11T06:54:23Z","headline":"computer program that transforms source code into object code"}
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Compiler","url":"https:\/\/en.wikipedia.org\/wiki\/Compiler","sameAs":"http:\/\/www.wikidata.org\/entity\/Q47506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q47506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-26T06:08:03Z","dateModified":"2019-12-31T16:23:46Z","headline":"computer program that transforms source code into object code"}
 //]]>
     </script>
     <script>
 //<![CDATA[
-(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1265"});});
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1273"});});
 //]]>
     </script>
   </body>

@@ -1,6 +1,6 @@
 package SearchEngine;
 
-import java.io.File;
+import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -30,7 +30,7 @@ public class DataLogic {
 	 * @param path Path to the folder.
 	 * @return The files in the folder.
 	 */
-	private static List<String> GetFiles (String path) {
+	public static List<String> GetFiles (String path) {
 		File folder = new File(path);
 		List<String> files = new ArrayList<String>();
 		
@@ -152,22 +152,36 @@ public class DataLogic {
 	 * @param path Path to the file.
 	 * @return Data contained inside the file.
 	 */
-	private static String ReadFile (String path) {
-		File file = new File(path);
-		Scanner reader = null;
+	public static String ReadFile (String path) {
+		BufferedReader reader = null;
+		String data = "";
+
 		try {		
-			reader = new Scanner(file);
+			reader = new BufferedReader(new FileReader(path));
+
+			String line = reader.readLine();
+			
+			while (true) {
+				data += line;
+				
+				if ((line = reader.readLine()) == null) {
+					break;
+				}
+				
+				data += "\n";
+			}
 		} catch (Exception e) {
 			System.out.println(e);
 		}
-		String data = "";
 		
-		while (reader.hasNextLine()) {
-			data += reader.nextLine();
-			if (reader.hasNextLine()) {
-				data += "\n";
+		try {
+			if (reader != null) {
+				reader.close();
 			}
+		} catch (Exception e) {
+			System.out.println(e);
 		}
+
 		return data;
 	}
 	
