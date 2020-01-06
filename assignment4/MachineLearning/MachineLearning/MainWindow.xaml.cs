@@ -39,7 +39,7 @@ namespace MachineLearning
             item.IsSelected = true;
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
+        private void Regular(object sender, RoutedEventArgs e)
         {
             foldTable.ItemsSource = null;
             ComboBoxItem item = (ComboBoxItem)fileSelection.SelectedItem;
@@ -62,7 +62,7 @@ namespace MachineLearning
             PrintTable(matrix);
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
+        private void CrossValidation(object sender, RoutedEventArgs e)
         {
             ComboBoxItem item = (ComboBoxItem)fileSelection.SelectedItem;
             string file = (string)item.Content + ".csv";

@@ -8,6 +8,9 @@ namespace MachineLearning
 {
     public static class Logic
     {
+        /**
+         * Sorts values into their respective type and category. Also sets the mean and std value for each category.
+         */
         public static List<Type> GetCategories(float[][] values, int[] labels)
         {
             List<Type> types = new List<Type>();
@@ -78,8 +81,7 @@ namespace MachineLearning
 
         public static float GetPDF(float value, float mean, float std)
         {
-            float pdf = (1 / ((float)Math.Sqrt(2 * Math.PI) * std)) * (float)Math.Exp(-((float)Math.Pow(value - mean, 2)) / (2 * (float)Math.Pow(std, 2)));
-            return pdf;
+            return (1 / ((float)Math.Sqrt(2 * Math.PI) * std)) * (float)Math.Exp(-((float)Math.Pow(value - mean, 2)) / (2 * (float)Math.Pow(std, 2)));
         }
 
         public static void Normalize(List<Type> types)
