@@ -8,11 +8,11 @@ import com.sun.net.httpserver.*;
 public class SearchEngine {
 
 	public static void main(String[] args) {
+		Scraper.Scrape("https://en.wikipedia.org/wiki/Clancier");
+		Parser.ParseData();
 		InitServer();
 		DataLogic.SetData();
 		QueryLogic.CalculatePageRank();
-		Scraper.Scrape("https://en.wikipedia.org/wiki/Computer_programming");
-		Parser.ParseData();
 	}
 	
 	private static void InitServer() {

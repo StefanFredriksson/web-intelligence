@@ -43,6 +43,17 @@ public class Scraper {
 				String path = rootDir + ExtractFileName(newUrl);
 				SaveFile(path, content);
 			}
+			
+			if (!Finished()) {
+				for (String link : links) {
+					if (Finished()) {
+						break;
+					}
+					
+					String newUrl = "https://en.wikipedia.org" + link;
+					Scrape(client, newUrl);
+				}
+			}
 		} catch (Exception e) {
 			System.out.println(e);
 		}

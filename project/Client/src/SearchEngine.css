@@ -1,5 +1,5 @@
 table {
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 table tr th {
@@ -17,7 +17,7 @@ table tr td {
   min-width: 50px;
 }
 
-input[type=text] {
+input[type='text'] {
   padding: 5px;
   border-radius: 10px;
   font-style: italic;
@@ -35,5 +35,9 @@ button {
 
 button:hover {
   background: linear-gradient(to bottom, white, grey);
+  cursor: pointer;
+}
+
+#checkbox:hover {
   cursor: pointer;
 }
