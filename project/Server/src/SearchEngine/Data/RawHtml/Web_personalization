@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Personalization - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xh203wpAAEQAAIdfp8sAAABW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Personalization","wgTitle":"Personalization","wgCurRevisionId":925804698,"wgRevisionId":925804698,"wgArticleId":1656760,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2015","All articles needing additional references","Wikipedia articles with style issues from September 2015","All articles with style issues",
+"Articles with multiple maintenance issues","Articles to be expanded from September 2015","All articles to be expanded","Articles using small message boxes","Wikipedia articles with style issues from January 2011","Human–computer interaction","World Wide Web","User interface techniques","Usability","Types of marketing","Information retrieval techniques"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Personalization","wgRelevantArticleId":1656760,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Web_personalization","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Personalization","wgWikibaseItemId":"Q1000371","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.14"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Personalization"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Personalization&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Personalization&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Personalization"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Personalization rootpage-Personalization skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Personalization
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+          <span class="mw-redirectedfrom">
+              (Redirected from 
+            <a href="/w/index.php?title=Web_personalization&amp;redirect=no" class="mw-redirect" title="Web personalization">
+              Web personalization
+            </a>
+            )
+          </span>
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40"/>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+                        <b>
+                          This article has multiple issues.
+                        </b>
+                         Please help 
+                        <b>
+                          <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Personalization&amp;action=edit">
+                            improve it
+                          </a>
+                        </b>
+                         or discuss these issues on the 
+                        <b>
+                          <a href="/wiki/Talk:Personalization" title="Talk:Personalization">
+                            talk page
+                          </a>
+                        </b>
+                        . 
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                              Learn how and when to remove these template messages
+                            </a>
+                            )
+                          </i>
+                        </small>
+                        <div class="mw-collapsible-content" style="margin-top: 0.3em;">
+                          <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+                            <tbody>
+                              <tr>
+                                <td class="mbox-image">
+                                  <div style="width:52px">
+                                    <a href="/wiki/File:Question_book-new.svg" class="image">
+                                      <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"/>
+                                    </a>
+                                  </div>
+                                </td>
+                                <td class="mbox-text">
+                                  <div class="mbox-text-span">
+                                    This article 
+                                    <b>
+                                      needs additional citations for 
+                                      <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+                                        verification
+                                      </a>
+                                    </b>
+                                    .
+                                    <span class="hide-when-compact">
+                                       Please help 
+                                      <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Personalization&amp;action=edit">
+                                        improve this article
+                                      </a>
+                                       by 
+                                      <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+                                        adding citations to reliable sources
+                                      </a>
+                                      . Unsourced material may be challenged and removed.
+                                      <br/>
+                                      <small>
+                                        <span class="plainlinks">
+                                          <i>
+                                            Find sources:
+                                          </i>
+                                           
+                                          <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Personalization%22">
+                                            "Personalization"
+                                          </a>
+                                           – 
+                                          <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Personalization%22+-wikipedia">
+                                            news
+                                          </a>
+                                           
+                                          <b>
+                                            ·
+                                          </b>
+                                          <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Personalization%22+site:news.google.com/newspapers&amp;source=newspapers">
+                                            newspapers
+                                          </a>
+                                           
+                                          <b>
+                                            ·
+                                          </b>
+                                          <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Personalization%22+-wikipedia">
+                                            books
+                                          </a>
+                                           
+                                          <b>
+                                            ·
+                                          </b>
+                                          <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Personalization%22">
+                                            scholar
+                                          </a>
+                                           
+                                          <b>
+                                            ·
+                                          </b>
+                                          <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Personalization%22&amp;acc=on&amp;wc=on">
+                                            JSTOR
+                                          </a>
+                                        </span>
+                                      </small>
+                                    </span>
+                                    <small class="date-container">
+                                      <i>
+                                        (
+                                        <span class="date">
+                                          September 2015
+                                        </span>
+                                        )
+                                      </i>
+                                    </small>
+                                    <small class="hide-when-compact">
+                                      <i>
+                                         (
+                                        <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                                          Learn how and when to remove this template message
+                                        </a>
+                                        )
+                                      </i>
+                                    </small>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <table class="box-Tone plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+                            <tbody>
+                              <tr>
+                                <td class="mbox-image">
+                                  <div style="width:52px">
+                                    <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48"/>
+                                  </div>
+                                </td>
+                                <td class="mbox-text">
+                                  <div class="mbox-text-span">
+                                    This article's 
+                                    <b>
+                                      tone or style may not reflect the 
+                                      <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">
+                                        encyclopedic tone
+                                      </a>
+                                       used on Wikipedia
+                                    </b>
+                                    .
+                                    <span class="hide-when-compact">
+                                       See Wikipedia's 
+                                      <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">
+                                        guide to writing better articles
+                                      </a>
+                                       for suggestions.
+                                    </span>
+                                    <small class="date-container">
+                                      <i>
+                                        (
+                                        <span class="date">
+                                          September 2015
+                                        </span>
+                                        )
+                                      </i>
+                                    </small>
+                                    <small class="hide-when-compact">
+                                      <i>
+                                         (
+                                        <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                                          Learn how and when to remove this template message
+                                        </a>
+                                        )
+                                      </i>
+                                    </small>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div role="note" class="hatnote navigation-not-searchable">
+              "Customizable" redirects here. For other uses, see 
+              <a href="/wiki/Customization_(disambiguation)" class="mw-redirect mw-disambig" title="Customization (disambiguation)">
+                Customization
+              </a>
+              .
+            </div>
+            <p>
+              <b>
+                Personalization
+              </b>
+               (broadly known as 
+              <b>
+                customization
+              </b>
+              ) consists of tailoring a service or a product to accommodate specific individuals, sometimes tied to groups or segments of individuals.  A wide variety of organizations use personalization to improve 
+              <a href="/wiki/Customer_satisfaction" title="Customer satisfaction">
+                customer satisfaction
+              </a>
+              , digital sales conversion, marketing results, branding, and improved website metrics as well as for 
+              <a href="/wiki/Advertising" title="Advertising">
+                advertising
+              </a>
+              . Personalization is a key element in 
+              <a href="/wiki/Social_media" title="Social media">
+                social media
+              </a>
+               and 
+              <a href="/wiki/Recommender_system" title="Recommender system">
+                recommender systems
+              </a>
+              .
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Digital_media_and_internet">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Digital media and internet
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-2">
+                      <a href="#Web_pages">
+                        <span class="tocnumber">
+                          1.1
+                        </span>
+                        <span class="toctext">
+                          Web pages
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-3">
+                      <a href="#Map_personalization">
+                        <span class="tocnumber">
+                          1.2
+                        </span>
+                        <span class="toctext">
+                          Map personalization
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Mobile_phones">
+                        <span class="tocnumber">
+                          1.3
+                        </span>
+                        <span class="toctext">
+                          Mobile phones
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#Print_media_and_merchandise">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Print media and merchandise
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-6">
+                      <a href="#Promotional_merchandise">
+                        <span class="tocnumber">
+                          2.1
+                        </span>
+                        <span class="toctext">
+                          Promotional merchandise
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-7">
+                      <a href="#3D_printing">
+                        <span class="tocnumber">
+                          2.2
+                        </span>
+                        <span class="toctext">
+                          3D printing
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-8">
+                  <a href="#Role_of_customers">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Role of customers
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-9">
+                      <a href="#Mass_personalization">
+                        <span class="tocnumber">
+                          3.1
+                        </span>
+                        <span class="toctext">
+                          Mass personalization
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-10">
+                      <a href="#Predictive_personalization">
+                        <span class="tocnumber">
+                          3.2
+                        </span>
+                        <span class="toctext">
+                          Predictive personalization
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-12">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-13">
+                  <a href="#External_links">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      External links
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Digital_media_and_internet">
+                Digital media and internet
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=1" title="Edit section: Digital media and internet">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Another aspect of personalization is the increasing prevalence of 
+              <a href="/wiki/Open_data" title="Open data">
+                open data
+              </a>
+               on the Web. Many companies make their data available on the Web via 
+              <a href="/wiki/API" class="mw-redirect" title="API">
+                APIs
+              </a>
+              , web services, and 
+              <a href="/wiki/Open_data" title="Open data">
+                open data
+              </a>
+               standards. One such example is Ordnance Survey Open Data.
+              <sup id="cite_ref-1" class="reference">
+                <a href="#cite_note-1">
+                  [1]
+                </a>
+              </sup>
+               Data made available in this way is structured to allow it to be inter-connected and re-used by third parties.
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+            </p>
+            <p>
+              Data available from a user's personal 
+              <a href="/wiki/Social_graph" title="Social graph">
+                social graph
+              </a>
+               can be accessed by third-party 
+              <a href="/wiki/Application_software" title="Application software">
+                application software
+              </a>
+               to be suited to fit the personalized 
+              <a href="/wiki/Web_page" title="Web page">
+                web page
+              </a>
+               or 
+              <a href="/wiki/Information_appliance" title="Information appliance">
+                information appliance
+              </a>
+              .
+
+            </p>
+            <p>
+              Current 
+              <a href="/wiki/Open_data" title="Open data">
+                open data
+              </a>
+               standards on the Web include:
+
+            </p>
+            <ol>
+              <li>
+                Attention Profiling Mark-up Language (APML)
+              </li>
+              <li>
+                DataPortability
+              </li>
+              <li>
+                <a href="/wiki/OpenID" title="OpenID">
+                  OpenID
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/OpenSocial" title="OpenSocial">
+                  OpenSocial
+                </a>
+              </li>
+            </ol>
+            <h3>
+              <span class="mw-headline" id="Web_pages">
+                Web pages
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=2" title="Edit section: Web pages">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              <a href="/wiki/Web_page" title="Web page">
+                Web pages
+              </a>
+               can be personalized based on the characteristics (interests, social category, context, etc.), actions (click on button, open a link, etc.), intent (make a purchase, check status of an entity), or any other parameter that can be identified and associated with an individual, therefore providing them with a tailored user experience.  Note that the experience is rarely simply accommodation of the user but a relationship between the user and the desires of the site designers in driving specific actions to achieve objectives (e.g. Increase sales conversion on a page).  The term 
+              <i>
+                customization
+              </i>
+               is often used when the site only uses explicit data such as product ratings or user preferences.
+
+            </p>
+            <p>
+              Technically, web personalization can be achieved by associating a visitor segment with a predefined action. Customizing the user experience based on behavioural, contextual and technical data is proven to have a positive impact on conversion rate optimization efforts. Associated actions can range from changing the content of a webpage, presenting a modal display, presenting interstitials, triggering a personalized email or even automating a phone call to the user.
+
+            </p>
+            <p>
+              According to a 2014 study from research firm Econsultancy, less than 30% of 
+              <a href="/wiki/E-commerce" title="E-commerce">
+                e-commerce
+              </a>
+               websites have invested in the field of web personalization. However, many 
+              <a href="/w/index.php?title=Crayon_Data&amp;action=edit&amp;redlink=1" class="new" title="Crayon Data (page does not exist)">
+                companies now offer services for web personalization
+              </a>
+               as well as web and email recommendation systems that are based on personalization or anonymously-collected user behaviours.
+              <sup id="cite_ref-behaviours_3-0" class="reference">
+                <a href="#cite_note-behaviours-3">
+                  [3]
+                </a>
+              </sup>
+            </p>
+            <p>
+              There are many categories of web personalization including
+
+            </p>
+            <ol>
+              <li>
+                Behavioral
+              </li>
+              <li>
+                Contextual
+              </li>
+              <li>
+                Technical
+              </li>
+              <li>
+                Historic data
+              </li>
+              <li>
+                Collaboratively filtered
+              </li>
+            </ol>
+            <p>
+              There are several camps in defining and executing web personalization.  A few broad methods for web personalization may include:
+
+            </p>
+            <ol>
+              <li>
+                Implicit
+              </li>
+              <li>
+                Explicit
+              </li>
+              <li>
+                Hybrid
+              </li>
+            </ol>
+            <p>
+              With implicit personalization, the web personalization is performed based on the different categories mentioned above. It can also be learned from direct interactions with the user based on implicit data, such as items purchased or pages viewed.
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+               With explicit personalization, the web page (or information system) is changed by the user using the features provided by the system. Hybrid personalization combines the above two approaches to leverage the 
+              <i>
+                best of both worlds
+              </i>
+              .
+
+            </p>
+            <p>
+              Web personalization is can be linked to the notion of 
+              <a href="/wiki/Adaptive_hypermedia" title="Adaptive hypermedia">
+                Adaptive hypermedia
+              </a>
+               (AH). The main difference is that the former would usually work on what is considered an "open corpus hypermedia," whilst the latter would traditionally work on "closed corpus hypermedia." However, recent research directions in the AH domain take both closed and open corpus into account. Thus, the two fields are closely inter-related.
+
+            </p>
+            <p>
+              Personalization is also being considered for use in less overtly commercial applications to improve the user experience online.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+               Internet activist 
+              <a href="/wiki/Eli_Pariser" title="Eli Pariser">
+                Eli Pariser
+              </a>
+               has documented that search engines like 
+              <a href="/wiki/Google" title="Google">
+                Google
+              </a>
+               and 
+              <a href="/wiki/Yahoo!_News" title="Yahoo! News">
+                Yahoo! News
+              </a>
+               give different results to different people (even when logged out). He also points out social media site 
+              <a href="/wiki/Facebook" title="Facebook">
+                Facebook
+              </a>
+               changes user's friend feeds based on what it thinks they want to see. Pariser warns that these algorithms can create a "
+              <a href="/wiki/Filter_bubble" title="Filter bubble">
+                filter bubble
+              </a>
+              " that prevents people from encountering a diversity of viewpoints beyond their own, or which only presents facts which confirm their existing views.
+
+            </p>
+            <p>
+              On an 
+              <a href="/wiki/Intranet" title="Intranet">
+                intranet
+              </a>
+               or 
+              <a href="/wiki/B2E" class="mw-redirect" title="B2E">
+                B2E
+              </a>
+              <a href="/wiki/Web_portal#Enterprise_Web_portals" title="Web portal">
+                Enterprise Web portals
+              </a>
+              , personalization is often based on user attributes such as department, functional area, or role. The term "customization" in this context refers to the ability of users to modify the page layout or specify what content should be displayed.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Map_personalization">
+                Map personalization
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=3" title="Edit section: Map personalization">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image">
+                      <img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"/>
+                    </a>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This section 
+                      <b>
+                        needs expansion
+                      </b>
+                      . 
+                      <small>
+                        You can help by 
+                        <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Personalization&amp;action=edit&amp;section=">
+                          adding to it
+                        </a>
+                        .
+                      </small>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            September 2015
+                          </span>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              Digital 
+              <a href="/wiki/Web_mapping" title="Web mapping">
+                web maps
+              </a>
+               are also being personalized. 
+              <a href="/wiki/Google_Maps" title="Google Maps">
+                Google Maps
+              </a>
+               change the content of the map based on previous searches and other profile information.
+              <sup id="cite_ref-6" class="reference">
+                <a href="#cite_note-6">
+                  [6]
+                </a>
+              </sup>
+               Technology writer 
+              <a href="/wiki/Evgeny_Morozov" title="Evgeny Morozov">
+                Evgeny Morozov
+              </a>
+               has criticized map personalization as a threat to 
+              <a href="/wiki/Public_space" title="Public space">
+                public space
+              </a>
+              .
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Mobile_phones">
+                Mobile phones
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=4" title="Edit section: Mobile phones">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Over time mobile phones have seen an increased emphasis placed on user personalization. Far from the black and white screens and monophonic ringtones of the past, phones now offer interactive wallpapers and MP3 
+              <a href="/wiki/Truetone" title="Truetone">
+                truetones
+              </a>
+              . In the UK and Asia, 
+              <a href="/wiki/WeeMee" title="WeeMee">
+                WeeMees
+              </a>
+               have become popular. WeeMees are three-dimensional characters that are used as wallpaper and respond to the tendencies of the user. 
+              <a href="/wiki/Video_Graphics_Array" title="Video Graphics Array">
+                Video Graphics Array
+              </a>
+               (VGA) picture quality allows people to change their background with ease without sacrificing quality. All of these services are downloaded through the provider with the goal to make the user feel 
+              <a href="/wiki/Mobile_phone_overuse" class="mw-redirect" title="Mobile phone overuse">
+                connected
+              </a>
+               to the phone.
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+            </p>
+            <h2>
+              <span class="mw-headline" id="Print_media_and_merchandise">
+                Print media and merchandise
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=5" title="Edit section: Print media and merchandise">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div role="note" class="hatnote navigation-not-searchable">
+              Main article: 
+              <a href="/wiki/Mail_merge" title="Mail merge">
+                Mail merge
+              </a>
+            </div>
+            <p>
+              In print media, ranging from 
+              <a href="/wiki/Magazine" title="Magazine">
+                magazines
+              </a>
+               to 
+              <a href="/wiki/Admail" class="mw-redirect" title="Admail">
+                promotional publications
+              </a>
+              , personalization uses databases of individual recipients' information. Not only does the written document address itself by name to the reader, but the advertising is targeted to the recipient's demographics or interests using fields within the database, such as "first name", "last name", "company", etc.
+
+            </p>
+            <p>
+              The term "personalization" should not be confused with variable data, which is a much more granular method of marketing that leverages both images and text with the medium, not just fields within a database. Although personalized children's books are created by companies who are using and leveraging all the strengths of 
+              <a href="/wiki/Variable_data_printing" title="Variable data printing">
+                variable data printing (VDP)
+              </a>
+              . This allows for full image and text variability within a printed book.
+With the advent of online 3D printing services such as Shapeways and Ponoko we are seeing personalization enter into the realms of product design.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Promotional_merchandise">
+                Promotional merchandise
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=6" title="Edit section: Promotional merchandise">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Promotional items (
+              <a href="/wiki/Mug" title="Mug">
+                mugs
+              </a>
+              , 
+              <a href="/wiki/T-shirt" title="T-shirt">
+                T-shirts
+              </a>
+              , 
+              <a href="/wiki/Keychain" title="Keychain">
+                keychains
+              </a>
+              , 
+              <a href="/wiki/Ball" title="Ball">
+                balls
+              </a>
+               etc.) are regularly personalized. Personalized children's storybooks—wherein the child becomes the 
+              <a href="/wiki/Protagonist" title="Protagonist">
+                protagonist
+              </a>
+              , with the name and image of the child personalized—are also popular. Personalized CDs for children also exist. With the advent of 
+              <a href="/wiki/Digital_printing" title="Digital printing">
+                digital printing
+              </a>
+              , personalized calendars that start in any month, birthday cards, cards, e-cards, posters and photo books can also be obtained.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="3D_printing">
+                3D printing
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=7" title="Edit section: 3D printing">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              <a href="/wiki/3D_printing" title="3D printing">
+                3D printing
+              </a>
+               is a production method that allows to create unique and personalized items on a global scale. Personalized apparel and accessories, such as jewellery, are increasing in popularity.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+               This kind of customization is also relevant in other areas like 
+              <a href="/wiki/Consumer_electronics" title="Consumer electronics">
+                consumer electronics
+              </a>
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+               and 
+              <a href="/wiki/Retail" title="Retail">
+                retail
+              </a>
+              .
+              <sup id="cite_ref-11" class="reference">
+                <a href="#cite_note-11">
+                  [11]
+                </a>
+              </sup>
+               By combining 3D printing with complex software a product can easily be customized by an end-user.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Role_of_customers">
+                Role of customers
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=8" title="Edit section: Role of customers">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <h3>
+              <span class="mw-headline" id="Mass_personalization">
+                Mass personalization
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=9" title="Edit section: Mass personalization">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <table class="box-Tone plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48"/>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This section's 
+                      <b>
+                        tone or style may not reflect the 
+                        <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">
+                          encyclopedic tone
+                        </a>
+                         used on Wikipedia
+                      </b>
+                      .
+                      <span class="hide-when-compact">
+                         See Wikipedia's 
+                        <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">
+                          guide to writing better articles
+                        </a>
+                         for suggestions.
+                      </span>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            January 2011
+                          </span>
+                          )
+                        </i>
+                      </small>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              Mass personalization is defined as custom tailoring by a company in accordance with its end users tastes and preferences.
+              <sup id="cite_ref-12" class="reference">
+                <a href="#cite_note-12">
+                  [12]
+                </a>
+              </sup>
+               From collaborative engineering perspective, mass customization can be viewed as collaborative efforts between customers and manufacturers, who have different sets of priorities and need to jointly search for solutions that best match customers' individual specific needs with manufacturers' customization capabilities.
+              <sup id="cite_ref-13" class="reference">
+                <a href="#cite_note-13">
+                  [13]
+                </a>
+              </sup>
+              <sup id="cite_ref-14" class="reference">
+                <a href="#cite_note-14">
+                  [14]
+                </a>
+              </sup>
+               The main difference between mass customization and mass personalization is that customization is the ability for a company to give its customers an opportunity to create and choose product to certain specifications, but does have limits.
+              <sup id="cite_ref-15" class="reference">
+                <a href="#cite_note-15">
+                  [15]
+                </a>
+              </sup>
+            </p>
+            <p>
+              One example of mass personalization: 
+A website knowing a user's location and buying habits will offer suggestions tailored to that user's demographics. Each user is classified by some relevant trait (location, age, and so forth) and then given personalization aimed at that group. This means that the personalization is not individual to that singular user, it only pinpoints a specific trait that matches them up with a larger group of people. 
+              <sup id="cite_ref-16" class="reference">
+                <a href="#cite_note-16">
+                  [16]
+                </a>
+              </sup>
+            </p>
+            <p>
+              <a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">
+                Behavioral targeting
+              </a>
+               represents a concept that is similar to mass personalization.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Predictive_personalization">
+                Predictive personalization
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=10" title="Edit section: Predictive personalization">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Predictive personalization is defined as the ability to predict customer behavior, needs or wants - and tailor offers and communications very precisely.
+              <sup id="cite_ref-17" class="reference">
+                <a href="#cite_note-17">
+                  [17]
+                </a>
+              </sup>
+                Social data is one source of providing this predictive analysis, particularly social data that is structured.  Predictive personalization is a much more recent means of personalization and can be used well to augment current personalization offerings.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=11" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+              <ul>
+                <li>
+                  <a href="/wiki/Adaptation_(computer_science)" title="Adaptation (computer science)">
+                    Adaptation (computer science)
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Mass_customization" title="Mass customization">
+                    Mass customization
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Adaptive_hypermedia" title="Adaptive hypermedia">
+                    Adaptive hypermedia
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">
+                    Behavioral targeting
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Bespoke" title="Bespoke">
+                    Bespoke
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Collaborative_filtering" title="Collaborative filtering">
+                    Collaborative filtering
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Configurator" title="Configurator">
+                    Configurator
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Personalized_learning" title="Personalized learning">
+                    Personalized learning
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Preorder_economy" title="Preorder economy">
+                    Preorder economy
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Real-time_marketing" title="Real-time marketing">
+                    Real-time marketing
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Recommendation_system" class="mw-redirect" title="Recommendation system">
+                    Recommendation system
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/User_modeling" title="User modeling">
+                    User modeling
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/User_profile" title="User profile">
+                    User profile
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=12" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap mw-references-columns">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Thorpe, Chris; Rogers, Simon (2 April 2010). 
+                        <a rel="nofollow" class="external text" href="https://www.theguardian.com/news/datablog/2010/apr/02/ordnance-survey-open-data">
+                          "Ordnance Survey opendata maps: what does it actually include?"
+                        </a>
+                        . 
+                        <i>
+                          The Guardian
+                        </i>
+                        . London.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Ordnance+Survey+opendata+maps%3A+what+does+it+actually+include%3F&amp;rft.date=2010-04-02&amp;rft.aulast=Thorpe&amp;rft.aufirst=Chris&amp;rft.au=Rogers%2C+Simon&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fdatablog%2F2010%2Fapr%2F02%2Fordnance-survey-open-data&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r935243608">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                    </span>
+                  </li>
+                  <li id="cite_note-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-2">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www.cio.com/article/372363/Google_Opens_Up_Data_Center_For_Third_Party_Web_Applications">
+                          "Google Opens Up Data Centre for Third Party Web Applications"
+                        </a>
+                        . Cio.com. 2008-05-28
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2013-01-16
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+Opens+Up+Data+Centre+for+Third+Party+Web+Applications&amp;rft.pub=Cio.com&amp;rft.date=2008-05-28&amp;rft_id=http%3A%2F%2Fwww.cio.com%2Farticle%2F372363%2FGoogle_Opens_Up_Data_Center_For_Third_Party_Web_Applications&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-behaviours-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-behaviours_3-0">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748703294904575385532109190198">
+                        <i>
+                          Wall Street Journal
+                        </i>
+                        , "On the Web's Cutting Edge, Anonymity in Name Only"
+                      </a>
+                      , August 4, 2010
+                    </span>
+                  </li>
+                  <li id="cite_note-4">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-4">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Flynn, Lawrence. 
+                        <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/parmyolson/2014/07/08/5-things-to-know-about-siri-and-google-nows-growing-intelligence/">
+                          "5 Things To Know About Siri And Google Now's Growing Intelligence"
+                        </a>
+                        . 
+                        <i>
+                          Forbes
+                        </i>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=5+Things+To+Know+About+Siri+And+Google+Now%27s+Growing+Intelligence&amp;rft.aulast=Flynn&amp;rft.aufirst=Lawrence&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fparmyolson%2F2014%2F07%2F08%2F5-things-to-know-about-siri-and-google-nows-growing-intelligence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <a href="/wiki/Jonathan_Bowen" title="Jonathan Bowen">
+                        Bowen, J.P.
+                      </a>
+                       and Filippini-Fantoni, S., 
+                      <a rel="nofollow" class="external text" href="http://www.archimuse.com/mw2004/papers/bowen/bowen.html">
+                        Personalization and the Web from a Museum Perspective
+                      </a>
+                      . In 
+                      <a href="/wiki/David_Bearman" class="mw-redirect" title="David Bearman">
+                        David Bearman
+                      </a>
+                       and Jennifer Trant (eds.), 
+                      <i>
+                        <a href="/wiki/Museums_and_the_Web" title="Museums and the Web">
+                          Museums and the Web
+                        </a>
+                         2004: Selected Papers from an International Conference
+                      </i>
+                      , Arlington, Virginia, USA, 31 March – 3 April 2004. Archives &amp; Museum Informatics, pages 63–78, 2004.
+                    </span>
+                  </li>
+                  <li id="cite_note-6">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-6">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Lardinois, Frederic. 
+                        <a rel="nofollow" class="external text" href="https://techcrunch.com/2013/02/01/the-next-frontier-for-google-maps-is-personalization/">
+                          "The Next Frontier For Google Maps Is Personalization"
+                        </a>
+                        . 
+                        <i>
+                          TechCrunch
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2015-09-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=The+Next+Frontier+For+Google+Maps+Is+Personalization&amp;rft.aulast=Lardinois&amp;rft.aufirst=Frederic&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2013%2F02%2F01%2Fthe-next-frontier-for-google-maps-is-personalization%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-7">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-7">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Morozov, Evgeny (2013-05-28). 
+                        <a rel="nofollow" class="external text" href="http://www.slate.com/articles/technology/future_tense/2013/05/google_maps_personalization_will_hurt_public_space_and_engagement.html">
+                          "My Map or Yours?"
+                        </a>
+                        . 
+                        <i>
+                          Slate
+                        </i>
+                        . 
+                        <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+                          ISSN
+                        </a>
+                         
+                        <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1091-2339">
+                          1091-2339
+                        </a>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2015-09-13
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Slate&amp;rft.atitle=My+Map+or+Yours%3F&amp;rft.date=2013-05-28&amp;rft.issn=1091-2339&amp;rft.aulast=Morozov&amp;rft.aufirst=Evgeny&amp;rft_id=http%3A%2F%2Fwww.slate.com%2Farticles%2Ftechnology%2Ffuture_tense%2F2013%2F05%2Fgoogle_maps_personalization_will_hurt_public_space_and_engagement.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-8">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      May, Harvey, and Greg Hearn. "The Mobile Phone as Media." International Journal of Cultural Studies 8.2 (2005): 195-211. Print.
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Weinman, Aaron (21 February 2012). 
+                        <a rel="nofollow" class="external text" href="http://www.jewellermagazine.com/Article.aspx?id=2167&amp;h=New-jewellery-website-targets-">
+                          "New jewellery website targets 'customisers
+                          <span class="cs1-kern-right">
+                            '
+                          </span>
+                          "
+                        </a>
+                        . Jeweller Magazine
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            6 January
+                          </span>
+                           2015
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+jewellery+website+targets+%27customisers%27&amp;rft.pub=Jeweller+Magazine&amp;rft.date=2012-02-21&amp;rft.aulast=Weinman&amp;rft.aufirst=Aaron&amp;rft_id=http%3A%2F%2Fwww.jewellermagazine.com%2FArticle.aspx%3Fid%3D2167%26h%3DNew-jewellery-website-targets-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www.3ders.org/articles/20160121-philips-launches-worlds-first-personalized-3d-printed-face-shaver-for-limited-edition-run.html">
+                          "Philips launches the world's first personalized, 3D printed face shaver for limited edition run"
+                        </a>
+                        . 
+                        <i>
+                          3ders.org
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-03-02
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=3ders.org&amp;rft.atitle=Philips+launches+the+world%27s+first+personalized%2C+3D+printed+face+shaver+for+limited+edition+run&amp;rft_id=http%3A%2F%2Fwww.3ders.org%2Farticles%2F20160121-philips-launches-worlds-first-personalized-3d-printed-face-shaver-for-limited-edition-run.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-11">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-11">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://twikblog.twikit.com/belgian-3d-company-twikit-brings-3d-customization-french-retail/">
+                          "Twikit brings 3D customization to French retail"
+                        </a>
+                        . 
+                        <i>
+                          Twikit Blog | 3D Customization, 3D Printing
+                        </i>
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2016-03-02
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twikit+Blog+%7C+3D+Customization%2C+3D+Printing&amp;rft.atitle=Twikit+brings+3D+customization+to+French+retail.&amp;rft_id=http%3A%2F%2Ftwikblog.twikit.com%2Fbelgian-3d-company-twikit-brings-3d-customization-french-retail%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-12">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-12">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www.answers.com/personalization&amp;r=67">
+                          "personalize: Definition, Synonyms from"
+                        </a>
+                        . Answers.com
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2013-01-16
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=personalize%3A+Definition%2C+Synonyms+from&amp;rft.pub=Answers.com&amp;rft_id=http%3A%2F%2Fwww.answers.com%2Fpersonalization%26r%3D67&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-13">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-13">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Chen, S., Y. Wang and M. M. Tseng. 2009. Mass Customization as a Collaborative Engineering Effort. International Journal of Collaborative Engineering, 1(2): 152-167
+                    </span>
+                  </li>
+                  <li id="cite_note-14">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-14">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      P. Sengottuvelan, R. Lokeshkumar, T. Gopalakrishnan, "An Improved Session Identification Approach in Web Log Mining for Web Personalization," Journal of Internet Technology, vol. 18, no. 4 , pp. 723-730, Jul. 2017.
+                    </span>
+                  </li>
+                  <li id="cite_note-15">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-15">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Haag et al., 
+                      <i>
+                        Management Information Systems for the Information Age
+                      </i>
+                      , 3rd edition, 2006, page 331.
+                    </span>
+                  </li>
+                  <li id="cite_note-16">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-16">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation news">
+                        Wallop, Harry (2013-01-18). 
+                        <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/foodanddrink/9808015/How-supermarkets-prop-up-our-class-system.html">
+                          "How supermarkets prop up our class system"
+                        </a>
+                        . 
+                        <i>
+                          The Daily Telegraph
+                        </i>
+                        . London.
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=How+supermarkets+prop+up+our+class+system&amp;rft.date=2013-01-18&amp;rft.aulast=Wallop&amp;rft.aufirst=Harry&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Ffoodanddrink%2F9808015%2FHow-supermarkets-prop-up-our-class-system.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-17">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-17">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        <a rel="nofollow" class="external text" href="http://www.slideshare.net/jwtintelligence/jwt-10-trends-for-2013-executive-summary">
+                          "10 Trends for 2013 Executive Summary: Definition, Projected Trends"
+                        </a>
+                        . JWTIntelligence.com
+                        <span class="reference-accessdate">
+                          . Retrieved 
+                          <span class="nowrap">
+                            2012-12-04
+                          </span>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=10+Trends+for+2013+Executive+Summary%3A+Definition%2C+Projected+Trends&amp;rft.pub=JWTIntelligence.com&amp;rft_id=http%3A%2F%2Fwww.slideshare.net%2Fjwtintelligence%2Fjwt-10-trends-for-2013-executive-summary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersonalization" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Personalization&amp;action=edit&amp;section=13" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.iimcp.org">
+                  International Institute on Mass Customization &amp; Personalization which organizes MCP, a biannual conference on customization and personalization
+                </a>
+              </li>
+              <li>
+                <a rel="nofollow" class="external text" href="http://www.umuai.org/">
+                  User Modeling and User-Adapted Interaction (UMUAI)
+                </a>
+                <i>
+                  The Journal of Personalization Research
+                </i>
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20200111130059
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.372 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 1071/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57151/2097152 bytes
+Template argument size: 9320/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 36851/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 5.18 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  418.216      1 -total
+ 51.87%  216.918      1 Template:Reflist
+ 43.45%  181.729      5 Template:Ambox
+ 36.98%  154.649      3 Template:Cite_news
+ 31.63%  132.296      1 Template:Multiple_issues
+ 17.09%   71.472      1 Template:Refimprove
+  9.26%   38.734      8 Template:Cite_web
+  9.25%   38.680      1 Template:Find_sources_mainspace
+  4.48%   18.756      1 Template:Columns-list
+  4.29%   17.944      1 Template:Redirect
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:1656760-0!canonical and timestamp 20200111130058 and revision id 925804698
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Personalization&amp;oldid=925804698">
+            https://en.wikipedia.org/w/index.php?title=Personalization&amp;oldid=925804698
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Human%E2%80%93computer_interaction" title="Category:Human–computer interaction">
+                  Human–computer interaction
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:World_Wide_Web" title="Category:World Wide Web">
+                  World Wide Web
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:User_interface_techniques" title="Category:User interface techniques">
+                  User interface techniques
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Usability" title="Category:Usability">
+                  Usability
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Types_of_marketing" title="Category:Types of marketing">
+                  Types of marketing
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Information_retrieval_techniques" title="Category:Information retrieval techniques">
+                  Information retrieval techniques
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Articles_needing_additional_references_from_September_2015" title="Category:Articles needing additional references from September 2015">
+                  Articles needing additional references from September 2015
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+                  All articles needing additional references
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_September_2015" title="Category:Wikipedia articles with style issues from September 2015">
+                  Wikipedia articles with style issues from September 2015
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">
+                  All articles with style issues
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">
+                  Articles with multiple maintenance issues
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_to_be_expanded_from_September_2015" title="Category:Articles to be expanded from September 2015">
+                  Articles to be expanded from September 2015
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">
+                  All articles to be expanded
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+                  Articles using small message boxes
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_January_2011" title="Category:Wikipedia articles with style issues from January 2011">
+                  Wikipedia articles with style issues from January 2011
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Personalization" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Personalization" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Personalization" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Personalization" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Personalization">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Personalization&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Personalization&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Personalization" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Personalization" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Personalization&amp;oldid=925804698" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Personalization&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1000371" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Personalization&amp;id=925804698" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Personalization">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Personalization&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Personalization&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-bn">
+                <a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3" title="ক্রেতাকেন্দ্রিকীকরণ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">
+                  বাংলা
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bg">
+                <a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Персонализация – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">
+                  Български
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="https://ca.wikipedia.org/wiki/Personalitzaci%C3%B3_de_continguts" title="Personalització de continguts – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-da">
+                <a href="https://da.wikipedia.org/wiki/Personalisering" title="Personalisering – Danish" lang="da" hreflang="da" class="interlanguage-link-target">
+                  Dansk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Personalisierung_(Informationstechnik)" title="Personalisierung (Informationstechnik) – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-el">
+                <a href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_(%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AD%CF%82)" title="Προσωποποίηση (υπολογιστές) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">
+                  Ελληνικά
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Personalizaci%C3%B3n_de_contenidos" title="Personalización de contenidos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Personnalisation" title="Personnalisation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%EA%B0%9C%EC%9D%B8%ED%99%94" title="개인화 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A1%D7%95%D7%A0%D7%9C%D7%99%D7%96%D7%A6%D7%99%D7%94" title="פרסונליזציה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">
+                  עברית
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="https://nl.wikipedia.org/wiki/Personalisatie_(informatica)" title="Personalisatie (informatica) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="パーソナライゼーション – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="https://no.wikipedia.org/wiki/Personalisering" title="Personalisering – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Кастомизация – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="https://sv.wikipedia.org/wiki/Personalisering" title="Personalisering – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F" title="Кастомізація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">
+                  Українська
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1000371#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 12 November 2019, at 12:29
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Personalization&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.505","ppvisitednodes":{"value":1071,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57151,"limit":2097152},"templateargumentsize":{"value":9320,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36851,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  418.216      1 -total"," 51.87%  216.918      1 Template:Reflist"," 43.45%  181.729      5 Template:Ambox"," 36.98%  154.649      3 Template:Cite_news"," 31.63%  132.296      1 Template:Multiple_issues"," 17.09%   71.472      1 Template:Refimprove","  9.26%   38.734      8 Template:Cite_web","  9.25%   38.680      1 Template:Find_sources_mainspace","  4.48%   18.756      1 Template:Columns-list","  4.29%   17.944      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":5435757,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20200111130059","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Personalization","url":"https:\/\/en.wikipedia.org\/wiki\/Personalization","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1000371","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1000371","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-27T20:44:23Z","dateModified":"2019-11-12T12:29:00Z","headline":"using technology to accommodate the differences between individuals"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1273"});});
+//]]>
+    </script>
+  </body>
+</html>

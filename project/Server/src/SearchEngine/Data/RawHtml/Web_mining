@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Web mining - Wikipedia
+    </title>
+    <script>
+//<![CDATA[
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XhnE5gpAME0AAAsf8xYAAAEJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Web_mining","wgTitle":"Web mining","wgCurRevisionId":933573148,"wgRevisionId":933573148,"wgArticleId":797887,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from June 2009","All pages needing cleanup","Cleanup tagged articles without a reason field from June 2009","Wikipedia pages needing cleanup from June 2009",
+"Articles to be expanded from June 2015","All articles to be expanded","Articles using small message boxes","Articles lacking in-text citations from September 2009","All articles lacking in-text citations","Web analytics","Data mining","World Wide Web"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Web_mining","wgRelevantArticleId":797887,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q785337","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+//]]>
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+    </script>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+    <meta name="generator" content="MediaWiki 1.35.0-wmf.14"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="referrer" content="origin-when-cross-origin"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Web_mining"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Web_mining&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Web_mining&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Web_mining"/>
+    <link rel="dns-prefetch" href="//login.wikimedia.org"/>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+    <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->  </head>
+  <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Web_mining rootpage-Web_mining skin-vector action-view">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="siteNotice" class="mw-body-content">
+        <!-- CentralNotice -->      </div>
+      <div class="mw-indicators mw-body-content">
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Web mining
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub" class="noprint">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav">
+        </div>
+        <a class="mw-jump-link" href="#mw-head">
+          Jump to navigation
+        </a>
+        <a class="mw-jump-link" href="#p-search">
+          Jump to search
+        </a>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="mw-parser-output">
+            <table class="box-Cleanup plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48"/>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This article may 
+                      <b>
+                        require 
+                        <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">
+                          cleanup
+                        </a>
+                      </b>
+                       to meet Wikipedia's 
+                      <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">
+                        quality standards
+                      </a>
+                      .
+                      <span class="hide-when-compact">
+                         No 
+                        <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">
+                          cleanup reason
+                        </a>
+                         has been specified. Please help 
+                        <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_mining&amp;action=edit">
+                          improve this article
+                        </a>
+                         if you can.
+                      </span>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            June 2009
+                          </span>
+                          )
+                        </i>
+                      </small>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              <b>
+                Web mining
+              </b>
+               is the application of 
+              <a href="/wiki/Data_mining" title="Data mining">
+                data mining
+              </a>
+               techniques to discover patterns from the 
+              <a href="/wiki/World_Wide_Web" title="World Wide Web">
+                World Wide Web
+              </a>
+              . As the name proposes, this is information gathered by mining the web. It makes utilization of automated apparatuses to reveal and extricate data from servers and web2 reports, and it permits organizations to get to both organized and unstructured information from browser activities, server logs, website and link structure, page content and different sources.
+
+            </p>
+            <p>
+              The goal of Web structure mining is to generate structural summary about the Web site and Web page. Technically, Web content mining mainly focuses on the structure of inner-document, while Web structure mining tries to discover the link structure of the hyperlinks at the inter-document level. Based on the topology of the hyperlinks, Web structure mining will categorize the Web pages and generate the information, such as the similarity and relationship between different Web sites.
+
+            </p>
+            <p>
+              Web structure mining can also have another direction – discovering the structure of Web document itself. This type of structure mining can be used to reveal the structure (schema) of Web pages, this would be good for navigation purpose and make it possible to compare/integrate Web page schemes. This type of structure mining will facilitate introducing database techniques for accessing information in Web pages by providing a reference schema.
+
+            </p>
+            <div id="toc" class="toc">
+              <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" value="on"/>
+              <div class="toctitle" lang="en" dir="ltr">
+                <h2>
+                  Contents
+                </h2>
+                <span class="toctogglespan">
+                  <label class="toctogglelabel" for="toctogglecheckbox"/>
+                </span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="#Web_mining_types">
+                    <span class="tocnumber">
+                      1
+                    </span>
+                    <span class="toctext">
+                      Web mining types
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="#Web_usage_mining">
+                    <span class="tocnumber">
+                      2
+                    </span>
+                    <span class="toctext">
+                      Web usage mining
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-3">
+                      <a href="#Pros">
+                        <span class="tocnumber">
+                          2.1
+                        </span>
+                        <span class="toctext">
+                          Pros
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-4">
+                      <a href="#Cons">
+                        <span class="tocnumber">
+                          2.2
+                        </span>
+                        <span class="toctext">
+                          Cons
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-5">
+                  <a href="#Web_structure_mining">
+                    <span class="tocnumber">
+                      3
+                    </span>
+                    <span class="toctext">
+                      Web structure mining
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-6">
+                  <a href="#Web_content_mining">
+                    <span class="tocnumber">
+                      4
+                    </span>
+                    <span class="toctext">
+                      Web content mining
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-7">
+                      <a href="#Web_content_mining_in_foreign_languages">
+                        <span class="tocnumber">
+                          4.1
+                        </span>
+                        <span class="toctext">
+                          Web content mining in foreign languages
+                        </span>
+                      </a>
+                      <ul>
+                        <li class="toclevel-3 tocsection-8">
+                          <a href="#Chinese">
+                            <span class="tocnumber">
+                              4.1.1
+                            </span>
+                            <span class="toctext">
+                              Chinese
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li class="toclevel-1 tocsection-9">
+                  <a href="#See_also">
+                    <span class="tocnumber">
+                      5
+                    </span>
+                    <span class="toctext">
+                      See also
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-10">
+                  <a href="#References">
+                    <span class="tocnumber">
+                      6
+                    </span>
+                    <span class="toctext">
+                      References
+                    </span>
+                  </a>
+                </li>
+                <li class="toclevel-1 tocsection-11">
+                  <a href="#Resources">
+                    <span class="tocnumber">
+                      7
+                    </span>
+                    <span class="toctext">
+                      Resources
+                    </span>
+                  </a>
+                  <ul>
+                    <li class="toclevel-2 tocsection-12">
+                      <a href="#External_links">
+                        <span class="tocnumber">
+                          7.1
+                        </span>
+                        <span class="toctext">
+                          External links
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-13">
+                      <a href="#Books">
+                        <span class="tocnumber">
+                          7.2
+                        </span>
+                        <span class="toctext">
+                          Books
+                        </span>
+                      </a>
+                    </li>
+                    <li class="toclevel-2 tocsection-14">
+                      <a href="#Bibliographic_references">
+                        <span class="tocnumber">
+                          7.3
+                        </span>
+                        <span class="toctext">
+                          Bibliographic references
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Web_mining_types">
+                Web mining types
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=1" title="Edit section: Web mining types">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Web mining can be divided into three different types – 
+              <b>
+                Web usage mining
+              </b>
+              , 
+              <b>
+                Web content mining
+              </b>
+               and 
+              <b>
+                Web structure mining
+              </b>
+              .
+
+            </p>
+            <div class="thumb tright">
+              <div class="thumbinner" style="width:222px;">
+                <a href="/wiki/File:The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining(English_version).png" class="image">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png/220px-The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png" decoding="async" width="220" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png/330px-The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png/440px-The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining%28English_version%29.png 2x" data-file-width="977" data-file-height="715"/>
+                </a>
+                <div class="thumbcaption">
+                  <div class="magnify">
+                    <a href="/wiki/File:The_general_relationship_between_the_categories_of_Web_Mining_and_objectives_of_Data_Mining(English_version).png" class="internal" title="Enlarge">
+                    </a>
+                  </div>
+                  The general relationship between the categories of Web mining and objectives of data mining
+                </div>
+              </div>
+            </div>
+            <table class="wikitable">
+              <caption>
+                <span id="Comparison">
+                  Comparison
+                </span>
+                 of Web mining types
+                <sup id="cite_ref-1" class="reference">
+                  <a href="#cite_note-1">
+                    [1]
+                  </a>
+                </sup>
+              </caption>
+              <tbody>
+                <tr>
+                  <th>
+                  </th>
+                  <th colspan="2">
+                    Web content mining
+
+                  </th>
+                  <th rowspan="2">
+                    Web structure mining
+
+                  </th>
+                  <th rowspan="2">
+                    Web usage mining
+
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                  </th>
+                  <th>
+                    IR view
+
+                  </th>
+                  <th>
+                    DB view
+
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    View of data
+
+                  </th>
+                  <td>
+                    <ul>
+                      <li>
+                        Unstructured
+                      </li>
+                      <li>
+                        Structured
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Semi-structured
+                      </li>
+                      <li>
+                        Web site as DB
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Link structure
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Interactivity
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Main data
+
+                  </th>
+                  <td>
+                    <ul>
+                      <li>
+                        Text documents
+                      </li>
+                      <li>
+                        <a href="/wiki/Hypertext" title="Hypertext">
+                          Hypertext
+                        </a>
+                         documents
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Hypertext documents
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Link structure
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Server logs
+                      </li>
+                      <li>
+                        Browser logs
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Representation
+
+                  </th>
+                  <td>
+                    <ul>
+                      <li>
+                        <a href="/wiki/Bag_of_words" class="mw-redirect" title="Bag of words">
+                          Bag of words
+                        </a>
+                        , 
+                        <a href="/wiki/N-gram" title="N-gram">
+                          n-gram
+                        </a>
+                         terms
+                      </li>
+                      <li>
+                        phrases, concepts or 
+                        <a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">
+                          ontology
+                        </a>
+                      </li>
+                      <li>
+                        Relational
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Edge labed graph
+                      </li>
+                      <li>
+                        Relational
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Graph
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Relational table
+                      </li>
+                      <li>
+                        Graph
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Method
+
+                  </th>
+                  <td>
+                    <ul>
+                      <li>
+                        <a href="/wiki/Machine_learning" title="Machine learning">
+                          Machine learning
+                        </a>
+                      </li>
+                      <li>
+                        Statistical (including 
+                        <a href="/wiki/Natural_language_processing" title="Natural language processing">
+                          NLP
+                        </a>
+                        )
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Proprietary algorithms
+                      </li>
+                      <li>
+                        <a href="/wiki/Association_rules" class="mw-redirect" title="Association rules">
+                          Association rules
+                        </a>
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Proprietary algorithms
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Machine learning
+                      </li>
+                      <li>
+                        Statistical
+                      </li>
+                      <li>
+                        Association rules
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Application categories
+
+                  </th>
+                  <td>
+                    <ul>
+                      <li>
+                        <a href="/wiki/Categorization" title="Categorization">
+                          Categorization
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wiki/Data_clustering" class="mw-redirect" title="Data clustering">
+                          Clustering
+                        </a>
+                      </li>
+                      <li>
+                        Finding extract rules
+                      </li>
+                      <li>
+                        Finding patterns in text
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Finding frequent sub structures
+                      </li>
+                      <li>
+                        Web site schema discovery
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Categorization
+                      </li>
+                      <li>
+                        Clustering
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        Site construction
+                      </li>
+                      <li>
+                        Adaptation and management
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h2>
+              <span class="mw-headline" id="Web_usage_mining">
+                Web usage mining
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=2" title="Edit section: Web usage mining">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Web usage mining is the application of 
+              <a href="/wiki/Data_mining" title="Data mining">
+                data mining
+              </a>
+               techniques to discover interesting usage patterns from Web data in order to understand and better serve the needs of 
+              <a href="/wiki/Web-based_application" class="mw-redirect" title="Web-based application">
+                Web-based applications
+              </a>
+              .
+Usage data captures the identity or origin of Web users along with their browsing behavior at a Web site.
+
+            </p>
+            <p>
+              Web usage mining itself can be classified further depending on the kind of usage data considered:
+
+            </p>
+            <ul>
+              <li>
+                <b>
+                  Web server data
+                </b>
+                : The user logs are collected by the 
+                <a href="/wiki/Web_server" title="Web server">
+                  Web server
+                </a>
+                . Typical data includes IP address, page reference and access time.
+              </li>
+              <li>
+                <b>
+                  Application server data
+                </b>
+                : Commercial application servers have significant features to enable 
+                <a href="/wiki/E-commerce" title="E-commerce">
+                  e-commerce
+                </a>
+                 applications to be built on top of them with little effort. A key feature is the ability to track various kinds of business events and log them in application server logs.
+              </li>
+              <li>
+                <b>
+                  Application level data
+                </b>
+                : New kinds of events can be defined in an application, and logging can be turned on for them thus generating histories of these specially defined events. Many end applications require a combination of one or more of the techniques applied in the categories above.
+              </li>
+            </ul>
+            <p>
+              Studies related to work
+              <sup id="cite_ref-2" class="reference">
+                <a href="#cite_note-2">
+                  [2]
+                </a>
+              </sup>
+               are concerned with two areas: constraint-based data mining algorithms applied in Web usage mining and developed software tools (systems). Costa and Seco demonstrated that web log mining can be used to extract 
+              <a href="/wiki/Semantic" class="mw-redirect" title="Semantic">
+                semantic
+              </a>
+               information (
+              <a href="/wiki/Hyponymy" class="mw-redirect" title="Hyponymy">
+                hyponymy
+              </a>
+               relationships in particular) about the user and a given community.
+
+            </p>
+            <h3>
+              <span class="mw-headline" id="Pros">
+                Pros
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=3" title="Edit section: Pros">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Web usage mining essentially has many advantages which makes this technology attractive to corporations including government agencies. This technology has enabled 
+              <a href="/wiki/E-commerce" title="E-commerce">
+                e-commerce
+              </a>
+               to do 
+              <a href="/wiki/Personalized_marketing" title="Personalized marketing">
+                personalized marketing
+              </a>
+              , which eventually results in higher trade volumes. Government agencies are using this technology to classify threats and 
+              <a href="/wiki/Fight_against_terrorism" class="mw-redirect" title="Fight against terrorism">
+                fight against terrorism
+              </a>
+              . The predicting capability of mining applications can benefit society by identifying criminal activities. Companies can establish better 
+              <a href="/wiki/Customer_relationship" class="mw-redirect" title="Customer relationship">
+                customer relationship
+              </a>
+               by understanding the needs of the customer better and reacting to customer needs faster. Companies can find, attract and retain customers; they can save on production costs by utilizing the acquired insight of customer requirements. They can increase 
+              <a href="/wiki/Profitability" class="mw-redirect" title="Profitability">
+                profitability
+              </a>
+               by 
+              <a href="/wiki/Target_pricing" class="mw-redirect" title="Target pricing">
+                target pricing
+              </a>
+               based on the 
+              <a href="/wiki/User_profiling" class="mw-redirect" title="User profiling">
+                profiles
+              </a>
+               created. They can even find customers who might default to a competitor the company will try to retain the customer by providing promotional offers to the specific customer, thus reducing the risk of losing a customer or customers.
+
+            </p>
+            <p>
+              More benefits of web usage mining, particularly in the area of 
+              <a href="/wiki/Personalization" title="Personalization">
+                personalization
+              </a>
+              , are outlined in specific frameworks such as the 
+              <a href="/wiki/Probabilistic_latent_semantic_analysis" title="Probabilistic latent semantic analysis">
+                probabilistic latent semantic analysis
+              </a>
+               model, which offer additional features to the 
+              <a href="/wiki/User_behavior_analytics" title="User behavior analytics">
+                user behavior
+              </a>
+               and access pattern.
+              <sup id="cite_ref-3" class="reference">
+                <a href="#cite_note-3">
+                  [3]
+                </a>
+              </sup>
+               This is because the process provides the user with more relevant content through collaborative recommendation. These models also demonstrate a capability in web usage mining technology to address problems associated with traditional techniques such as biases and questions regarding validity since the data and patterns obtained are not subjective and do not degrade over time.
+              <sup id="cite_ref-4" class="reference">
+                <a href="#cite_note-4">
+                  [4]
+                </a>
+              </sup>
+               There are also elements unique to web usage mining that can show the technology's benefits and these include the way semantic knowledge is applied when interpreting, analyzing, and reasoning about usage patterns during the mining phase.
+              <sup id="cite_ref-5" class="reference">
+                <a href="#cite_note-5">
+                  [5]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Cons">
+                Cons
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=4" title="Edit section: Cons">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <p>
+              Web usage mining by itself does not create issues, but this technology when used on 
+              <a href="/wiki/Personal_data" title="Personal data">
+                data of personal nature
+              </a>
+               might cause concerns. The most criticized ethical issue involving web usage mining is the invasion of 
+              <a href="/wiki/Internet_privacy" title="Internet privacy">
+                privacy
+              </a>
+              . Privacy is considered lost when information concerning an individual is obtained, used, or disseminated, especially if this occurs without their knowledge or consent.
+              <sup id="cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-0" class="reference">
+                <a href="#cite_note-Lita_van_Wel_and_Lambèr_Royakkers_2004-6">
+                  [6]
+                </a>
+              </sup>
+               The obtained data will be analyzed, and 
+              <a href="/wiki/Data_clustering" class="mw-redirect" title="Data clustering">
+                clustered
+              </a>
+               to form profiles; the data will be made 
+              <a href="/wiki/Anonymization" class="mw-redirect" title="Anonymization">
+                anonymous
+              </a>
+               before clustering so that there are no personal profiles.
+              <sup id="cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-1" class="reference">
+                <a href="#cite_note-Lita_van_Wel_and_Lambèr_Royakkers_2004-6">
+                  [6]
+                </a>
+              </sup>
+               Thus these applications de-
+              <a href="/wiki/Personalization" title="Personalization">
+                individualize
+              </a>
+               the users by judging them by their mouse clicks. De-individualization, can be defined as a tendency of judging and treating people on the basis of group characteristics instead of on their own individual characteristics and merits.
+              <sup id="cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-2" class="reference">
+                <a href="#cite_note-Lita_van_Wel_and_Lambèr_Royakkers_2004-6">
+                  [6]
+                </a>
+              </sup>
+            </p>
+            <p>
+              Another important concern is that the companies collecting the data for a specific purpose might use the data for totally different purposes, and this essentially violates the user's interests.
+
+            </p>
+            <p>
+              The growing trend of selling personal data as a commodity encourages website owners to trade personal data obtained from their site. This trend has increased the amount of data being captured and traded increasing the likeliness of one's privacy being invaded. The companies which buy the data are obliged make it anonymous and these companies are considered authors of any specific release of mining patterns. They are legally responsible for the contents of the release; any inaccuracies in the release will result in serious lawsuits, but there is no law preventing them from trading the data.
+
+            </p>
+            <p>
+              Some mining algorithms might use controversial attributes like sex, race, religion, or sexual orientation to categorize individuals. These practices might be against the anti-discrimination legislation.
+              <sup id="cite_ref-7" class="reference">
+                <a href="#cite_note-7">
+                  [7]
+                </a>
+              </sup>
+               The applications make it hard to identify the use of such controversial attributes, and there is no strong rule against the usage of such algorithms with such attributes. This process could result in denial of service or a privilege to an individual based on his race, religion or sexual orientation. This situation can be avoided by the high ethical standards maintained by the data mining company. The collected data is being made anonymous so that, the obtained data and the obtained patterns cannot be traced back to an individual. It might look as if this poses no threat to one's privacy, however additional information can be inferred by the application by combining two separate unscrupulous data from the user.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="Web_structure_mining">
+                Web structure mining
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=5" title="Edit section: Web structure mining">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image">
+                      <img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"/>
+                    </a>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This section 
+                      <b>
+                        needs expansion
+                      </b>
+                      . 
+                      <small>
+                        You can help by 
+                        <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_mining&amp;action=edit&amp;section=">
+                          adding to it
+                        </a>
+                        .
+                      </small>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            June 2015
+                          </span>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>
+              Web structure mining uses 
+              <a href="/wiki/Graph_theory" title="Graph theory">
+                graph theory
+              </a>
+               to analyze the node and connection structure of a web site. According to the type of web structural data, web structure mining can be divided into two kinds:
+
+            </p>
+            <ol>
+              <li>
+                Extracting patterns from hyperlinks in the web: a 
+                <a href="/wiki/Hyperlink" title="Hyperlink">
+                  hyperlink
+                </a>
+                 is a structural component that connects the web page to a different location.
+              </li>
+              <li>
+                Mining the 
+                <a href="/wiki/Web_document" class="mw-redirect" title="Web document">
+                  document
+                </a>
+                 structure: analysis of the tree-like structure of page structures to describe 
+                <a href="/wiki/HTML" title="HTML">
+                  HTML
+                </a>
+                 or 
+                <a href="/wiki/XML" title="XML">
+                  XML
+                </a>
+                 tag usage.
+              </li>
+            </ol>
+            <p>
+              Web structure mining terminology:
+
+            </p>
+            <ul>
+              <li>
+                web graph: 
+                <a href="/wiki/Directed_graph" title="Directed graph">
+                  directed graph
+                </a>
+                 representing web.
+              </li>
+              <li>
+                node: web page in graph.
+              </li>
+              <li>
+                edge: hyperlinks.
+              </li>
+              <li>
+                in degree: number of links pointing to particular node.
+              </li>
+              <li>
+                out degree: number of links generated  from particular node.
+              </li>
+            </ul>
+            <p>
+              Techniques of web structure mining:
+
+            </p>
+            <ul>
+              <li>
+                <a href="/wiki/PageRank" title="PageRank">
+                  PageRank
+                </a>
+                : this algorithm is used by 
+                <a href="/wiki/Google" title="Google">
+                  Google
+                </a>
+                 to rank search results. The name of this algorithm is given by Google-founder 
+                <a href="/wiki/Larry_Page" title="Larry Page">
+                  Larry Page
+                </a>
+                . The rank of a page is decided by the number of links pointing to the target node.
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="Web_content_mining">
+                Web content mining
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=6" title="Edit section: Web content mining">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <p>
+              Web content mining is the mining, extraction and integration of useful data, information and knowledge from Web page content. The heterogeneity and the 
+              <a href="/wiki/Unstructured_data" title="Unstructured data">
+                lack of structure
+              </a>
+               that permits much of the ever-expanding 
+              <a href="/wiki/Information_source" title="Information source">
+                information sources
+              </a>
+               on the World Wide Web, such as 
+              <a href="/wiki/Hypertext" title="Hypertext">
+                hypertext
+              </a>
+               documents, makes automated discovery, organization, and search and indexing tools of the Internet and the World Wide Web such as 
+              <a href="/wiki/Lycos" title="Lycos">
+                Lycos
+              </a>
+              , 
+              <a href="/wiki/Alta_Vista" class="mw-redirect" title="Alta Vista">
+                Alta Vista
+              </a>
+              , 
+              <a href="/wiki/WebCrawler" title="WebCrawler">
+                WebCrawler
+              </a>
+              , 
+              <a href="/wiki/Aliweb" title="Aliweb">
+                Aliweb
+              </a>
+              , 
+              <a href="/wiki/MetaCrawler" title="MetaCrawler">
+                MetaCrawler
+              </a>
+              , and others provide some comfort to users, but they do not generally provide structural information nor categorize, filter, or interpret documents. These factors have prompted researchers to develop more intelligent tools for 
+              <a href="/wiki/Information_retrieval" title="Information retrieval">
+                information retrieval
+              </a>
+              , such as intelligent 
+              <a href="/wiki/Web_agent" class="mw-redirect" title="Web agent">
+                web agents
+              </a>
+              , as well as to extend database and data mining techniques to provide a higher level of organization for 
+              <a href="/wiki/Semi-structured_data" title="Semi-structured data">
+                semi-structured data
+              </a>
+               available on the web. The agent-based approach to web mining involves the development of sophisticated 
+              <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">
+                AI systems
+              </a>
+               that can act 
+              <a href="/wiki/Autonomous_agent" title="Autonomous agent">
+                autonomously
+              </a>
+               or semi-autonomously on behalf of a particular user, to discover and organize web-based information.
+
+            </p>
+            <p>
+              Web content mining is differentiated from two different points of view:
+              <sup id="cite_ref-8" class="reference">
+                <a href="#cite_note-8">
+                  [8]
+                </a>
+              </sup>
+               Information Retrieval View and Database View.
+              <sup id="cite_ref-9" class="reference">
+                <a href="#cite_note-9">
+                  [9]
+                </a>
+              </sup>
+               summarized the research works done for unstructured data and semi-structured data from information retrieval view. It shows that most of the researches use bag of words, which is based on the statistics about single words in isolation, to represent unstructured text and take single word found in the training corpus as features. For the semi-structured data, all the works utilize the HTML structures inside the documents and some utilized the hyperlink structure between the documents for document representation. As for the database view, in order to have the better 
+              <a href="/wiki/Information_management" title="Information management">
+                information management
+              </a>
+               and querying on the web, the mining always tries to infer the structure of the web site to transform a web site to become a database.
+
+            </p>
+            <p>
+              There are several ways to represent documents; 
+              <a href="/wiki/Vector_space_model" title="Vector space model">
+                vector space model
+              </a>
+               is typically used. The documents constitute the whole vector space.  This representation does not realize the importance of words in a document. To resolve this, 
+              <a href="/wiki/Tf-idf" class="mw-redirect" title="Tf-idf">
+                tf-idf
+              </a>
+               (Term Frequency Times Inverse Document Frequency) is introduced.
+
+            </p>
+            <p>
+              By multi-scanning the document, we can implement feature selection. Under the condition that the category result is rarely affected, the extraction of feature subset is needed. The general algorithm is to construct an evaluating function to evaluate the features. As feature set, 
+              <a href="/wiki/Information_gain" class="mw-redirect" title="Information gain">
+                information gain
+              </a>
+              , 
+              <a href="/wiki/Cross_entropy" title="Cross entropy">
+                cross entropy
+              </a>
+              , 
+              <a href="/wiki/Mutual_information" title="Mutual information">
+                mutual information
+              </a>
+              , and 
+              <a href="/wiki/Odds_ratio" title="Odds ratio">
+                odds ratio
+              </a>
+               are usually used.
+The classifier and 
+              <a href="/wiki/Pattern_analysis" class="mw-redirect" title="Pattern analysis">
+                pattern analysis
+              </a>
+               methods of text data mining are very similar to traditional data mining techniques. The usual evaluative merits are 
+              <a href="/w/index.php?title=Classification_accuracy&amp;action=edit&amp;redlink=1" class="new" title="Classification accuracy (page does not exist)">
+                classification accuracy
+              </a>
+              , 
+              <a href="/wiki/Precision_and_recall" title="Precision and recall">
+                precision and recall
+              </a>
+               and 
+              <a href="/w/index.php?title=Information_score&amp;action=edit&amp;redlink=1" class="new" title="Information score (page does not exist)">
+                information score
+              </a>
+              .
+
+            </p>
+            <p>
+              Web mining is an important component of content pipeline for 
+              <a href="/wiki/Web_portal" title="Web portal">
+                web portals
+              </a>
+              . It is used in data confirmation and validity verification, data integrity and building 
+              <a href="/wiki/Taxonomy_for_search_engines" title="Taxonomy for search engines">
+                taxonomies
+              </a>
+              , 
+              <a href="/wiki/Content_management" title="Content management">
+                content management
+              </a>
+              , content generation and 
+              <a href="/wiki/Opinion_mining" class="mw-redirect" title="Opinion mining">
+                opinion mining
+              </a>
+              .
+              <sup id="cite_ref-10" class="reference">
+                <a href="#cite_note-10">
+                  [10]
+                </a>
+              </sup>
+            </p>
+            <h3>
+              <span class="mw-headline" id="Web_content_mining_in_foreign_languages">
+                Web content mining in foreign languages
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=7" title="Edit section: Web content mining in foreign languages">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <h4>
+              <span class="mw-headline" id="Chinese">
+                Chinese
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=8" title="Edit section: Chinese">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h4>
+            <p>
+              The 
+              <a href="/wiki/Language_code" title="Language code">
+                language code
+              </a>
+               of 
+              <a href="/wiki/Chinese_writing" class="mw-redirect" title="Chinese writing">
+                Chinese
+              </a>
+               words is very complicated compared to that of English. The 
+              <a href="/wiki/GB_18030" title="GB 18030">
+                GB
+              </a>
+              , 
+              <a href="/wiki/Big5" title="Big5">
+                Big5
+              </a>
+               and 
+              <a href="/wiki/HZ_(character_encoding)" title="HZ (character encoding)">
+                HZ code
+              </a>
+               are common Chinese word codes in web documents. Before text mining, one needs to identify the code standard of the HTML documents and transform it into inner code, then use other data mining techniques to find useful knowledge and useful patterns.
+
+            </p>
+            <h2>
+              <span class="mw-headline" id="See_also">
+                See also
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=9" title="Edit section: See also">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <ul>
+              <li>
+                <a href="/wiki/Web_intelligence" title="Web intelligence">
+                  Web intelligence
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Web_analytics" title="Web analytics">
+                  Web analytics
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Web_scraping" title="Web scraping">
+                  Web scraping
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Wikipedia:Data_mining_Wikipedia" title="Wikipedia:Data mining Wikipedia">
+                  Wikipedia:Data mining Wikipedia
+                </a>
+              </li>
+            </ul>
+            <h2>
+              <span class="mw-headline" id="References">
+                References
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=10" title="Edit section: References">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <div class="reflist" style="list-style-type: decimal;">
+              <div class="mw-references-wrap">
+                <ol class="references">
+                  <li id="cite_note-1">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-1">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <span class="citation">
+                        Galitsky B., Dobrocsi G., de la Rosa J. L., Kuznetsov S. O..  
+                        <a rel="nofollow" class="external text" href="http://www.hse.ru/data/2013/03/12/1292267437/2011%20Using%20Generalization%20of%20Syntactic%20P..for%20Taxonomy%20Capture%20on%20the%20Web.pdhttps://en.wikipedia.org/w/index.php?title=Web_mining&amp;action=submit#f">
+                          Using generalization of syntactic parse trees for taxonomy capture on the web
+                        </a>
+                        . 
+                        <i>
+                          ICCS
+                        </i>
+                        . 2011;8323.
+                      </span>
+                    </span>
+                  </li>
+                  <li id="cite_note-2">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-2">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      Weichbroth et al.
+                    </span>
+                  </li>
+                  <li id="cite_note-3">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-3">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Ngu, Anne; Kitsuregawa, Masaru; Chung, Jen-Yao; Neuhold, Erich; Sheng, Quan (2005). 
+                        <i>
+                          Web Information Systems Engineering – WISE 2005
+                        </i>
+                        . Berlin: Springer. p. 15. 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/9783540300175" title="Special:BookSources/9783540300175">
+                          <bdi>
+                            9783540300175
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Web+Information+Systems+Engineering+%E2%80%93+WISE+2005&amp;rft.place=Berlin&amp;rft.pages=15&amp;rft.pub=Springer&amp;rft.date=2005&amp;rft.isbn=9783540300175&amp;rft.aulast=Ngu&amp;rft.aufirst=Anne&amp;rft.au=Kitsuregawa%2C+Masaru&amp;rft.au=Chung%2C+Jen-Yao&amp;rft.au=Neuhold%2C+Erich&amp;rft.au=Sheng%2C+Quan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <style data-mw-deduplicate="TemplateStyles:r935243608">
+                        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+                      </style>
+                    </span>
+                  </li>
+                  <li id="cite_note-4">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-4">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Bauknecht, Kurt; Madria, Sanjay; Pernul, Gunther (2000). 
+                        <i>
+                          Electronic Commerce and Web Technologies: First International Conference, EC-Web 2000 London, UK, September 4-6, 2000 Proceedings
+                        </i>
+                        . Berlin: Springer. p. 165. 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/978-3540679813" title="Special:BookSources/978-3540679813">
+                          <bdi>
+                            978-3540679813
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electronic+Commerce+and+Web+Technologies%3A+First+International+Conference%2C+EC-Web+2000+London%2C+UK%2C+September+4-6%2C+2000+Proceedings&amp;rft.place=Berlin&amp;rft.pages=165&amp;rft.pub=Springer&amp;rft.date=2000&amp;rft.isbn=978-3540679813&amp;rft.aulast=Bauknecht&amp;rft.aufirst=Kurt&amp;rft.au=Madria%2C+Sanjay&amp;rft.au=Pernul%2C+Gunther&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-5">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-5">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation book">
+                        Scime, Anthony (2005). 
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/webminingapplica0000scim/page/282">
+                          <i>
+                            Web Mining: Applications and Techniques
+                          </i>
+                        </a>
+                        . Hershey, PA: Idea Group Publishing. pp. 
+                        <a rel="nofollow" class="external text" href="https://archive.org/details/webminingapplica0000scim/page/282">
+                          282
+                        </a>
+                        . 
+                        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                          ISBN
+                        </a>
+                         
+                        <a href="/wiki/Special:BookSources/978-1591404149" title="Special:BookSources/978-1591404149">
+                          <bdi>
+                            978-1591404149
+                          </bdi>
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Web+Mining%3A+Applications+and+Techniques&amp;rft.place=Hershey%2C+PA&amp;rft.pages=282&amp;rft.pub=Idea+Group+Publishing&amp;rft.date=2005&amp;rft.isbn=978-1591404149&amp;rft.aulast=Scime&amp;rft.aufirst=Anthony&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fwebminingapplica0000scim%2Fpage%2F282&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-Lita_van_Wel_and_Lambèr_Royakkers_2004-6">
+                    <span class="mw-cite-backlink">
+                      ^ 
+                      <a href="#cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-0">
+                        <sup>
+                          <i>
+                            <b>
+                              a
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-1">
+                        <sup>
+                          <i>
+                            <b>
+                              b
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                      <a href="#cite_ref-Lita_van_Wel_and_Lambèr_Royakkers_2004_6-2">
+                        <sup>
+                          <i>
+                            <b>
+                              c
+                            </b>
+                          </i>
+                        </sup>
+                      </a>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Lita van Wel &amp; Lambèr Royakkers (2004). 
+                        <a rel="nofollow" class="external text" href="http://alexandria.tue.nl/repository/freearticles/612259.pdf">
+                          "Ethical issues in web data mining"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Ethical Issues in Web Data Mining
+                        </i>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethical+Issues+in+Web+Data+Mining&amp;rft.atitle=Ethical+issues+in+web+data+mining&amp;rft.date=2004&amp;rft.au=Lita+van+Wel&amp;rft.au=Lamb%C3%A8r+Royakkers&amp;rft_id=http%3A%2F%2Falexandria.tue.nl%2Frepository%2Ffreearticles%2F612259.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                      .
+                    </span>
+                  </li>
+                  <li id="cite_note-7">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-7">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Kirsten Maelstrom; John F. Rodrick; Vladimir Estivill-Castro; Denise de Vries (2007). 
+                        <a rel="nofollow" class="external text" href="http://www.cis.unisa.edu.au/~ciskw/WahlstromRoddickSarreEstivillCastro&amp;DeVries2007.pdf">
+                          "Legal and Technical Issues of Privacy Preservation in Data Mining"
+                        </a>
+                        <span class="cs1-format">
+                          (PDF)
+                        </span>
+                        . 
+                        <i>
+                          Legal and Technical Issues of Privacy Preservation in Data Mining
+                        </i>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Legal+and+Technical+Issues+of+Privacy+Preservation+in+Data+Mining&amp;rft.atitle=Legal+and+Technical+Issues+of+Privacy+Preservation+in+Data+Mining&amp;rft.date=2007&amp;rft.au=Kirsten+Maelstrom&amp;rft.au=John+F.+Rodrick&amp;rft.au=Vladimir+Estivill-Castro&amp;rft.au=Denise+de+Vries&amp;rft_id=http%3A%2F%2Fwww.cis.unisa.edu.au%2F~ciskw%2FWahlstromRoddickSarreEstivillCastro%26DeVries2007.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                      .
+                    </span>
+                  </li>
+                  <li id="cite_note-8">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-8">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation web">
+                        Wang, Yan. 
+                        <a rel="nofollow" class="external text" href="https://docs.google.com/open?id=1nU1vrz-gBtSJk3bkb1ls_QuGX2nUPPemECPFlCx0C75MvmQdSqPci6LZWJYf">
+                          "Web Mining and Knowledge Discovery of Usage Patterns"
+                        </a>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Mining+and+Knowledge+Discovery+of+Usage+Patterns&amp;rft.aulast=Wang&amp;rft.aufirst=Yan&amp;rft_id=https%3A%2F%2Fdocs.google.com%2Fopen%3Fid%3D1nU1vrz-gBtSJk3bkb1ls_QuGX2nUPPemECPFlCx0C75MvmQdSqPci6LZWJYf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-9">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-9">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <cite class="citation journal">
+                        Kosala, Raymond; Hendrik Blockeel (July 2000). "Web Mining Research: A Survey". 
+                        <i>
+                          SIGKDD Explorations
+                        </i>
+                        . 
+                        <b>
+                          2
+                        </b>
+                         (1). 
+                        <a href="/wiki/ArXiv" title="ArXiv">
+                          arXiv
+                        </a>
+                        :
+                        <span class="cs1-lock-free" title="Freely accessible">
+                          <a rel="nofollow" class="external text" href="//arxiv.org/abs/cs.LG/0011033">
+                            cs.LG/0011033
+                          </a>
+                        </span>
+                        .
+                      </cite>
+                      <span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIGKDD+Explorations&amp;rft.atitle=Web+Mining+Research%3A+A+Survey&amp;rft.volume=2&amp;rft.issue=1&amp;rft.date=2000-07&amp;rft_id=info%3Aarxiv%2Fcs.LG%2F0011033&amp;rft.aulast=Kosala&amp;rft.aufirst=Raymond&amp;rft.au=Hendrik+Blockeel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+mining" class="Z3988">
+                      </span>
+                      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/>
+                    </span>
+                  </li>
+                  <li id="cite_note-10">
+                    <span class="mw-cite-backlink">
+                      <b>
+                        <a href="#cite_ref-10">
+                          ^
+                        </a>
+                      </b>
+                    </span>
+                    <span class="reference-text">
+                      <span class="citation">
+                        Galitsky B, Dobrocsi G, de la Rosa JL, Kuznetsov SO.  
+                        <a rel="nofollow" class="external text" href="http://www.hse.ru/data/2013/03/12/1292267437/2011%20Using%20Generalization%20of%20Syntactic%20P..for%20Taxonomy%20Capture%20on%20the%20Web.pdf">
+                          Using generalization of syntactic parse trees for taxonomy capture on the web
+                        </a>
+                        . 
+                        <i>
+                          ICCS
+                        </i>
+                        . 2011;8323.
+                      </span>
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <h2>
+              <span class="mw-headline" id="Resources">
+                Resources
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=11" title="Edit section: Resources">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h2>
+            <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <div style="width:52px">
+                      <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48"/>
+                    </div>
+                  </td>
+                  <td class="mbox-text">
+                    <div class="mbox-text-span">
+                      This article includes a 
+                      <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+                        list of references
+                      </a>
+                      , but 
+                      <b>
+                        its sources remain unclear
+                      </b>
+                       because it has 
+                      <b>
+                        insufficient 
+                        <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+                          inline citations
+                        </a>
+                      </b>
+                      .
+                      <span class="hide-when-compact">
+                         Please help to 
+                        <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">
+                          improve
+                        </a>
+                         this article by 
+                        <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+                          introducing
+                        </a>
+                         more precise citations.
+                      </span>
+                      <small class="date-container">
+                        <i>
+                          (
+                          <span class="date">
+                            September 2009
+                          </span>
+                          )
+                        </i>
+                      </small>
+                      <small class="hide-when-compact">
+                        <i>
+                           (
+                          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                            Learn how and when to remove this template message
+                          </a>
+                          )
+                        </i>
+                      </small>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>
+              <span class="mw-headline" id="External_links">
+                External links
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=12" title="Edit section: External links">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <ul>
+              <li>
+                <a rel="nofollow" class="external text" href="https://themeit.com/web-30-web-sites-become-web-services/">
+                  The Future of Web Sites = Web Services
+                </a>
+                 – (with a section on web scraping)
+              </li>
+            </ul>
+            <h3>
+              <span class="mw-headline" id="Books">
+                Books
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=13" title="Edit section: Books">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <ul>
+              <li>
+                Zdravko Markov, Daniel T. Larose 
+                <a rel="nofollow" class="external text" href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471666556.html">
+                  "Data Mining the Web: Uncovering Patterns in Web Content, Structure, and Usage"
+                </a>
+                , Wiley, 2007
+              </li>
+              <li>
+                Jesus Mena, "Data Mining Your Website", Digital Press, 1999
+              </li>
+              <li>
+                Soumen Chakrabarti, "Mining the Web: Analysis of Hypertext and Semi Structured Data", Morgan Kaufmann, 2002
+              </li>
+              <li>
+                Bing Liu, 
+                <a rel="nofollow" class="external text" href="http://www.cs.uic.edu/~liub/WebMiningBook.html">
+                  "Web Data Mining: Exploring Hyperlinks, Contents and Usage Data"
+                </a>
+                , Springer, 2007
+              </li>
+              <li>
+                Advances in Web Mining and Web Usage Analysis 2005 - revised papers from 7 th workshop on Knowledge Discovery on the Web, Olfa Nasraoui, Osmar Zaiane, Myra Spiliopoulou, Bamshad Mobasher, Philip Yu, Brij Masand, Eds., Springer Lecture Notes in Artificial Intelligence, LNAI 4198, 2006
+              </li>
+              <li>
+                Web Mining and Web Usage Analysis 2004 - revised papers from 6 th workshop on Knowledge Discovery on the Web, Bamshad Mobasher, Olfa Nasraoui, Bing Liu, Brij Masand, Eds., Springer Lecture Notes in Artificial Intelligence, 2006
+              </li>
+              <li>
+                Mike Thelwall, 
+                <a rel="nofollow" class="external text" href="http://linkanalysis.wlv.ac.uk/">
+                  "Link Analysis: An Information Science Approach"
+                </a>
+                , 2004, Academic Press
+              </li>
+            </ul>
+            <h3>
+              <span class="mw-headline" id="Bibliographic_references">
+                Bibliographic references
+              </span>
+              <span class="mw-editsection">
+                <span class="mw-editsection-bracket">
+                  [
+                </span>
+                <a href="/w/index.php?title=Web_mining&amp;action=edit&amp;section=14" title="Edit section: Bibliographic references">
+                  edit
+                </a>
+                <span class="mw-editsection-bracket">
+                  ]
+                </span>
+              </span>
+            </h3>
+            <ul>
+              <li>
+                Baraglia, R. Silvestri, F. (2007) 
+                <a rel="nofollow" class="external text" href="http://soave.isti.cnr.it/%7Esilvestr/wp-content/uploads/2007/03/p63-baraglia.pdf">
+                  "Dynamic personalization of web sites without user intervention"
+                </a>
+                , In Communications of the ACM 50(2): 63-67
+              </li>
+              <li>
+                Cooley, R. Mobasher, B. and Srivastave, J. (1997) “Web Mining: Information and Pattern Discovery on the World Wide Web” In Proceedings of the 9th IEEE International Conference on Tool with Artificial Intelligence
+              </li>
+              <li>
+                Cooley, R., Mobasher, B. and Srivastava, J. “
+                <a rel="nofollow" class="external text" href="http://facweb.cs.depaul.edu/mobasher/classes/ect584/papers/cms-kais.pdf">
+                  Data Preparation for Mining World Wide Web Browsing Patterns
+                </a>
+                ”, Journal of Knowledge and Information System, Vol.1, Issue. 1, pp. 5–32, 1999
+              </li>
+              <li>
+                Costa, RP and Seco, N. 
+                <a rel="nofollow" class="external text" href="https://link.springer.com/chapter/10.1007/978-3-540-88309-8_34">
+                  “Hyponymy Extraction and Web Search Behavior Analysis Based On Query Reformulation”
+                </a>
+                , 11th Ibero-American Conference on Artificial Intelligence, 2008 October.
+              </li>
+              <li>
+                Kohavi, R., Mason, L. and Zheng, Z. (2004) “
+                <a rel="nofollow" class="external text" href="http://robotics.stanford.edu/~ronnyk/lessonsInDM.pdf">
+                  Lessons and Challenges from Mining Retail E-commerce Data
+                </a>
+                ” Machine Learning, Vol 57, pp. 83–113
+              </li>
+              <li>
+                Lillian Clark, I-Hsien Ting, 
+                <a href="/w/index.php?title=Chris_Kimble&amp;action=edit&amp;redlink=1" class="new" title="Chris Kimble (page does not exist)">
+                  Chris Kimble
+                </a>
+                , Peter Wright, Daniel Kudenko (2006)
+                <a rel="nofollow" class="external text" href="http://informationr.net/ir/11-2/paper249.html">
+                  "Combining ethnographic and clickstream data to identify user Web browsing strategies"
+                </a>
+                 Journal of Information Research, Vol. 11 No. 2, January 2006
+              </li>
+              <li>
+                Eirinaki, M., Vazirgiannis, M. (2003) "
+                <a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Magdalini_Eirinaki/publication/220169917_Web_mining_for_web_personalization/links/0912f51379b8daa82a000000.pdf">
+                  Web Mining for Web Personalization
+                </a>
+                ", ACM Transactions on Internet Technology, Vol.3, No.1, February 2003
+              </li>
+              <li>
+                Mobasher, B., Cooley, R. and Srivastava, J. (2000) “
+                <a rel="nofollow" class="external text" href="http://dmr.cs.umn.edu/Papers/P2000_10.pdf">
+                  Automatic Personalization based on web usage Mining
+                </a>
+                ” Communications of the ACM, Vol. 43, No.8, pp. 142–151
+              </li>
+              <li>
+                Mobasher, B., Dai, H., Luo, T. and Nakagawa, M. (2001) “
+                <a rel="nofollow" class="external text" href="http://facweb.cs.depaul.edu/mobasher/research/papers/widm01.pdf">
+                  Effective Personalization Based on Association Rule Discover from Web Usage Data
+                </a>
+                ” In Proceedings of WIDM 2001, Atlanta, GA, USA, pp. 9–15
+              </li>
+              <li>
+                Nasraoui O., Petenes C.,  
+                <a rel="nofollow" class="external text" href="http://webmining.spd.louisville.edu/wp-content/uploads/2014/05/Nasraoui_WebKDD03_web_recomm.pdf">
+                  "Combining Web Usage Mining and Fuzzy Inference for Website Personalization"
+                </a>
+                , in Proc. of WebKDD 2003 – KDD Workshop on Web mining as a Premise to Effective and Intelligent Web Applications, Washington DC, August 2003, p. 37
+              </li>
+              <li>
+                Nasraoui O., Frigui H., Joshi A., and Krishnapuram R.,  
+                <a rel="nofollow" class="external text" href="http://webmining.spd.louisville.edu/wp-content/uploads/2014/05/Nasraoui-IFSA-99-mining-web-access-logs.pdf">
+                  “Mining Web Access Logs Using Relational Competitive Fuzzy Clustering”
+                </a>
+                , Proceedings of the Eighth International Fuzzy Systems Association Congress, Hsinchu, Taiwan, August 1999
+              </li>
+              <li>
+                Nasraoui O., 
+                <a rel="nofollow" class="external text" href="http://webmining.spd.louisville.edu/wp-content/uploads/2014/05/FINAL-Nasraoui-WWW-Personalization.pdf">
+                  “World Wide Web Personalization,”
+                </a>
+                 Invited chapter in “Encyclopedia of Data Mining and Data Warehousing”, J. Wang, Ed, Idea Group, 2005
+              </li>
+              <li>
+                Pierrakos, D., Paliouras, G., Papatheodorou, C., Spyropoulos C. D. (2003) “Web usage mining as a tool for personalization: a survey”, User modelling and user adapted interaction journal, Vol.13, Issue 4, pp. 311–372
+              </li>
+              <li>
+                I-Hsien Ting, Chris Kimble, Daniel Kudenko (2005) "
+                <a rel="nofollow" class="external text" href="http://www.chris-kimble.com/Publications/Documents/Ting_2005b.pdf">
+                  A Pattern Restore Method for Restoring Missing Patterns in Server Side Clickstream Data
+                </a>
+                "
+              </li>
+              <li>
+                I-Hsien Ting, Chris Kimble, Daniel Kudenko (2006) 
+                <a rel="nofollow" class="external text" href="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/proceedings/wi/&amp;toc=comp/proceedings/wi/2005/2415/00/2415toc.xml&amp;DOI=10.1109/WI.2005.153">
+                  "UBB Mining: Finding Unexpected Browsing Behaviour in Clickstream Data to improve a Web Site’s Design"
+                </a>
+              </li>
+              <li>
+                Weichbroth, P., Owoc, M., Pleszkun, M. (2012) "
+                <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/230852676_Web_User_Navigation_Patterns_Discovery_from_WWW_Server_Log_Files/file/9fcfd5055ba8960606.pdf">
+                  Web User Navigation Patterns Discovery from WWW Server Log Files
+                </a>
+                "
+              </li>
+            </ul>
+            <!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20200111125151
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.644 seconds
+Real time usage: 1.257 seconds
+Preprocessor visited node count: 1323/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30405/2097152 bytes
+Template argument size: 3521/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24604/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.311/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
+-->            <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1105.427      1 -total
+ 55.85%  617.332      1 Template:Reflist
+ 34.88%  385.586      1 Template:Cleanup
+ 23.86%  263.757      3 Template:Cite_book
+ 18.90%  208.930      3 Template:Cite_journal
+ 16.49%  182.298      1 Template:Category_handler
+ 14.06%  155.385      3 Template:Ambox
+ 12.67%  140.043      1 Template:DMC
+ 11.12%  122.962      3 Template:Main_other
+  6.57%   72.581      2 Template:FULLROOTPAGENAME
+-->            <!-- Saved in parser cache with key enwiki:pcache:idhash:797887-0!canonical and timestamp 20200111125150 and revision id 933573148
+ -->          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          Retrieved from "
+          <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Web_mining&amp;oldid=933573148">
+            https://en.wikipedia.org/w/index.php?title=Web_mining&amp;oldid=933573148
+          </a>
+          "
+        </div>
+        <div id="catlinks" class="catlinks" data-mw="interface">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Web_analytics" title="Category:Web analytics">
+                  Web analytics
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Data_mining" title="Category:Data mining">
+                  Data mining
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:World_Wide_Web" title="Category:World Wide Web">
+                  World Wide Web
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Articles_needing_cleanup_from_June_2009" title="Category:Articles needing cleanup from June 2009">
+                  Articles needing cleanup from June 2009
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">
+                  All pages needing cleanup
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_June_2009" title="Category:Cleanup tagged articles without a reason field from June 2009">
+                  Cleanup tagged articles without a reason field from June 2009
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_June_2009" title="Category:Wikipedia pages needing cleanup from June 2009">
+                  Wikipedia pages needing cleanup from June 2009
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_to_be_expanded_from_June_2015" title="Category:Articles to be expanded from June 2015">
+                  Articles to be expanded from June 2015
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">
+                  All articles to be expanded
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+                  Articles using small message boxes
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2009" title="Category:Articles lacking in-text citations from September 2009">
+                  Articles lacking in-text citations from September 2009
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+                  All articles lacking in-text citations
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-data-after-content">
+      <div class="read-more-container">
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-anonuserpage">
+              Not logged in
+            </li>
+            <li id="pt-anontalk">
+              <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                Talk
+              </a>
+            </li>
+            <li id="pt-anoncontribs">
+              <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                Contributions
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+mining" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+mining" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <a href="/wiki/Web_mining" title="View the content page [c]" accesskey="c">
+                  Article
+                </a>
+              </li>
+              <li id="ca-talk">
+                <a href="/wiki/Talk:Web_mining" rel="discussion" title="Discussion about the content page [t]" accesskey="t">
+                  Talk
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" value="on"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="collapsible selected">
+                <a href="/wiki/Web_mining">
+                  Read
+                </a>
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <a href="/w/index.php?title=Web_mining&amp;action=edit" title="Edit this page [e]" accesskey="e">
+                  Edit
+                </a>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <a href="/w/index.php?title=Web_mining&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+                  View history
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" value="on"/>
+            <h3 id="p-cactions-label">
+              <span>
+                More
+              </span>
+            </h3>
+            <ul class="menu">
+            </ul>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+                  Wikipedia store
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Web_mining" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Web_mining" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Web_mining&amp;oldid=933573148" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Web_mining&amp;action=info" title="More information about this page">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q785337" title="Link to connected data repository item [g]" accesskey="g">
+                  Wikidata item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Web_mining&amp;id=933573148" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Web+mining">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Web+mining&amp;action=show-download-screen">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Web_mining&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%82%D9%8A%D8%A8_%D8%A7%D9%84%D9%88%D9%8A%D8%A8" title="تنقيب الويب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">
+                  العربية
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="https://de.wikipedia.org/wiki/Web_Mining" title="Web Mining – German" lang="de" hreflang="de" class="interlanguage-link-target">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="https://es.wikipedia.org/wiki/Web_mining" title="Web mining – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eu">
+                <a href="https://eu.wikipedia.org/wiki/Web-meatzaritza" title="Web-meatzaritza – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">
+                  Euskara
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A8%E2%80%8C%DA%A9%D8%A7%D9%88%DB%8C" title="وب‌کاوی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">
+                  فارسی
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="https://fr.wikipedia.org/wiki/Fouille_du_web" title="Fouille du web – French" lang="fr" hreflang="fr" class="interlanguage-link-target">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="https://ko.wikipedia.org/wiki/%EC%9B%B9_%EB%A7%88%EC%9D%B4%EB%8B%9D" title="웹 마이닝 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">
+                  한국어
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hi">
+                <a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%B2_%E0%A4%96%E0%A4%A8%E0%A4%A8" title="अंतरजाल खनन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">
+                  हिन्दी
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hr">
+                <a href="https://hr.wikipedia.org/wiki/Dubinsko_pretra%C5%BEivanje_interneta" title="Dubinsko pretraživanje interneta – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">
+                  Hrvatski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hu">
+                <a href="https://hu.wikipedia.org/wiki/Webb%C3%A1ny%C3%A1szat" title="Webbányászat – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">
+                  Magyar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" title="ウェブマイニング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">
+                  日本語
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="https://pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_da_web" title="Mineração da web – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="https://ru.wikipedia.org/wiki/Web_mining" title="Web mining – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">
+                  Русский
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sk">
+                <a href="https://sk.wikipedia.org/wiki/Web_mining" title="Web mining – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">
+                  Slovenčina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-th">
+                <a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A" title="การทำเหมืองเว็บ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">
+                  ไทย
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q785337#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last edited on 1 January 2020, at 20:51
+          <span class="anonymous-show">
+             (UTC)
+          </span>
+          .
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-statslink">
+          <a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">
+            Statistics
+          </a>
+        </li>
+        <li id="footer-places-cookiestatement">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+            Cookie statement
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Web_mining&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://wikimediafoundation.org/">
+            <img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="https://www.mediawiki.org/">
+            <img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear: both;">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"1.257","ppvisitednodes":{"value":1323,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30405,"limit":2097152},"templateargumentsize":{"value":3521,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24604,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1105.427      1 -total"," 55.85%  617.332      1 Template:Reflist"," 34.88%  385.586      1 Template:Cleanup"," 23.86%  263.757      3 Template:Cite_book"," 18.90%  208.930      3 Template:Cite_journal"," 16.49%  182.298      1 Template:Category_handler"," 14.06%  155.385      3 Template:Ambox"," 12.67%  140.043      1 Template:DMC"," 11.12%  122.962      3 Template:Main_other","  6.57%   72.581      2 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.311","limit":"10.000"},"limitreport-memusage":{"value":3921579,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20200111125151","ttl":2592000,"transientcontent":false}}});});
+//]]>
+    </script>
+    <script type="application/ld+json">
+//<![CDATA[
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Web mining","url":"https:\/\/en.wikipedia.org\/wiki\/Web_mining","sameAs":"http:\/\/www.wikidata.org\/entity\/Q785337","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q785337","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-08T21:37:06Z","dateModified":"2020-01-01T20:51:48Z"}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1614,"wgHostname":"mw1242"});});
+//]]>
+    </script>
+  </body>
+</html>

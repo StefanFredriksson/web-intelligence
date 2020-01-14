@@ -8,7 +8,9 @@ import com.sun.net.httpserver.*;
 public class SearchEngine {
 
 	public static void main(String[] args) {
-		Scraper.Scrape("https://en.wikipedia.org/wiki/Clancier");
+		String shortArticles = "Clancier";
+		String regularArticles = "Web_intelligence";
+		Scraper.Scrape("https://en.wikipedia.org/wiki/" + regularArticles);
 		Parser.ParseData();
 		InitServer();
 		DataLogic.SetData();
@@ -20,7 +22,7 @@ public class SearchEngine {
 		HttpServer server;
 		try {
 			server = HttpServer.create(new InetSocketAddress(port), 0);
-			System.out.println("server started at " + port);
+			System.out.println("server started at port " + port);
 			server.createContext("/", new Router());
 			server.start();
 		} catch (IOException e) {

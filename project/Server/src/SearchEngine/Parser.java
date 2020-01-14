@@ -65,8 +65,8 @@ public class Parser {
 	}
 	
 	private static String GetWords(String text) {
-		List<String> words = new ArrayList<String>();
 		String word = "";
+		String allWords = "";
 		
 		char[] characters = text.toCharArray();
 		
@@ -74,18 +74,8 @@ public class Parser {
 			if (Character.isLetter(c) || Character.isDigit(c)) {
 				word += c;
 			} else if (c == ' ' && word.length() > 0) {
-				words.add(word);
+				allWords += word + " ";
 				word = "";
-			}
-		}
-		
-		String allWords = "";
-		
-		for (int i = 0; i < words.size(); i++) {
-			allWords += words.get(i);
-			
-			if (i != words.size() - 1) {
-				allWords += " ";
 			}
 		}
 		
@@ -120,7 +110,7 @@ public class Parser {
 	}
 	
 	private static boolean LinkIsForAnArticle(String link) {
-		return !(link.contains(":") && !link.contains("::"));
+		return !link.contains(":");
 	}
 	
 	private static boolean FileExists(String file) {
